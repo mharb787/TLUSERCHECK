@@ -21,7 +21,7 @@ def run() -> None:
     store.load()
 
     sources = SourceClient(timeout=config.request_timeout, user_agent=config.user_agent)
-    fragment = FragmentClient(timeout=config.request_timeout, user_agent=config.user_agent)
+    fragment = FragmentClient(timeout=config.request_timeout, user_agent=config.user_agent, bot_token=config.telegram_bot_token)
     notifier = TelegramNotifier(
         bot_token=config.telegram_bot_token,
         chat_id=config.telegram_chat_id,
@@ -37,6 +37,8 @@ def run() -> None:
     status_counts: Counter[str] = Counter()
 
     for project in projects:
+        if project.raw_strength < config.min_project_strength:
+            continue
         for username in username_variations(project.name):
             key = username.lower()
             if key in checked_this_run or store.seen(username):

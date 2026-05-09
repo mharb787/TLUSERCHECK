@@ -1,4 +1,5 @@
 import logging
+import random
 import re
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
@@ -18,12 +19,17 @@ class SourceClient:
         self.session.headers.update({"User-Agent": user_agent, "Accept": "application/json"})
 
     def collect_projects(self) -> List[Project]:
+        cap = 80
+        coinpaprika = self._coinpaprika_coins()
+        random.shuffle(coinpaprika)
         source_batches = [
-            self._dexscreener_latest_profiles(),
-            self._coingecko_trending(),
-            self._coinpaprika_coins(),
-            self._dexscreener_boosts("latest"),
-            self._dexscreener_boosts("top"),
+            self._dexscreener_latest_profiles()[:cap],
+            self._coingecko_trending()[:cap],
+            coinpaprika[:cap],
+            self._hacker_news_show_hn()[:cap],
+            self._defillama_protocols()[:cap],
+            self._github_new_repositories()[:cap],
+            (self._dexscreener_boosts("latest") + self._dexscreener_boosts("top"))[:cap],
         ]
         return _dedupe_projects(_round_robin(source_batches))
 
@@ -157,12 +163,12 @@ class SourceClient:
         for item in _as_list(data):
             if not item.get("is_active", False):
                 continue
+            rank = item.get("rank") or 0
+            if not isinstance(rank, int) or rank <= 0 or rank > 200:
+                continue
             name = item.get("name") or ""
             symbol = item.get("symbol") or ""
-            rank = item.get("rank") or 0
-            strength = 0.0
-            if isinstance(rank, int) and rank > 0:
-                strength = max(0.0, 25.0 - min(rank, 500) / 20)
+            strength = max(0.0, 25.0 - rank / 10)
             projects.append(
                 Project(
                     name=name,

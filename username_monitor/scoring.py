@@ -6,6 +6,8 @@ from .models import Project
 
 CRYPTO_AI_TERMS = ("ai", "pay", "swap", "dex", "chain", "lab", "labs", "cash", "base", "data", "agent")
 VOWELS = set("aeiou")
+BRAND_SOURCES = ("Hacker News Show HN", "DeFiLlama Protocols")
+GITHUB_SOURCE_PREFIX = "GitHub New Repos"
 
 
 def score_username(username: str, project: Project) -> Tuple[int, str]:
@@ -37,6 +39,11 @@ def score_username(username: str, project: Project) -> Tuple[int, str]:
     if username == clean_project_name(project.name) or username == _normalized(project.name):
         score += 10
         reasons.append("exact project match")
+
+    if project.source in BRAND_SOURCES or project.source.startswith(GITHUB_SOURCE_PREFIX):
+        score += 15
+        reasons.append("real brand/company")
+
     strength_bonus = min(18, int(project.raw_strength))
     if strength_bonus:
         score += strength_bonus
