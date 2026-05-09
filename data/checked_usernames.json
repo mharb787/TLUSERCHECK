@@ -1,399 +1,456 @@
 {
   "checked": {
     "aimaxxing": {
-      "checked_at": "2026-05-09T07:58:01.677895+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:35.990907+00:00",
       "fragment_status": "Taken",
       "project": "AIMAXXING",
       "score": 100,
       "source": "DexScreener Boosts"
     },
     "aimaxxingai": {
-      "checked_at": "2026-05-09T07:58:02.606301+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:37.147840+00:00",
       "fragment_status": "Auction",
       "project": "AIMAXXING",
       "score": 89,
       "source": "DexScreener Boosts"
     },
     "aimaxxingapp": {
-      "checked_at": "2026-05-09T07:58:02.297256+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:36.797435+00:00",
       "fragment_status": "Auction",
       "project": "AIMAXXING",
       "score": 89,
       "source": "DexScreener Boosts"
     },
     "aimaxxingpay": {
-      "checked_at": "2026-05-09T07:58:02.916493+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:37.497404+00:00",
       "fragment_status": "Auction",
       "project": "AIMAXXING",
       "score": 89,
       "source": "DexScreener Boosts"
     },
     "aliun": {
-      "checked_at": "2026-05-09T07:58:00.257750+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:34.407298+00:00",
       "fragment_status": "Taken",
       "project": "Aliun",
       "score": 97,
       "source": "DexScreener Boosts"
     },
     "aliunai": {
-      "checked_at": "2026-05-09T07:58:01.192128+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:35.457507+00:00",
       "fragment_status": "Auction",
       "project": "Aliun",
       "score": 95,
       "source": "DexScreener Boosts"
     },
     "aliunapp": {
-      "checked_at": "2026-05-09T07:58:00.879598+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:35.109727+00:00",
       "fragment_status": "Auction",
       "project": "Aliun",
       "score": 85,
       "source": "DexScreener Boosts"
     },
     "aliunpay": {
-      "checked_at": "2026-05-09T07:58:01.509591+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:35.807065+00:00",
       "fragment_status": "Auction",
       "project": "Aliun",
       "score": 95,
       "source": "DexScreener Boosts"
     },
     "alpha": {
-      "checked_at": "2026-05-09T07:57:51.763850+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:24.588043+00:00",
       "fragment_status": "Taken",
       "project": "alpha",
       "score": 87,
       "source": "DexScreener Profiles"
     },
     "alphaai": {
-      "checked_at": "2026-05-09T07:57:52.259261+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:25.142799+00:00",
       "fragment_status": "Taken",
       "project": "alpha",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "alphaapp": {
-      "checked_at": "2026-05-09T07:57:52.093568+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:24.955293+00:00",
       "fragment_status": "Auction",
       "project": "alpha",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "alphapay": {
-      "checked_at": "2026-05-09T07:57:52.432810+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:25.329807+00:00",
       "fragment_status": "Taken",
       "project": "alpha",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "claudeseviltwin": {
-      "checked_at": "2026-05-09T07:57:57.408898+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:31.102923+00:00",
       "fragment_status": "Auction",
       "project": "Claude's Evil Twin",
       "score": 77,
       "source": "DexScreener Boosts"
     },
     "claudeseviltwinai": {
-      "checked_at": "2026-05-09T07:57:58.335160+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:32.185263+00:00",
       "fragment_status": "Auction",
       "project": "Claude's Evil Twin",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "claudeseviltwinapp": {
-      "checked_at": "2026-05-09T07:57:58.025234+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:31.805524+00:00",
       "fragment_status": "Auction",
       "project": "Claude's Evil Twin",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "claudeseviltwinpay": {
-      "checked_at": "2026-05-09T07:57:58.644805+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:32.536874+00:00",
       "fragment_status": "Auction",
       "project": "Claude's Evil Twin",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "flyingtesticles": {
-      "checked_at": "2026-05-09T07:57:52.757217+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:25.685673+00:00",
       "fragment_status": "Auction",
       "project": "flying testicles",
       "score": 67,
       "source": "DexScreener Profiles"
     },
     "flyingtesticlesai": {
-      "checked_at": "2026-05-09T07:57:53.685605+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:26.892580+00:00",
       "fragment_status": "Auction",
       "project": "flying testicles",
       "score": 71,
       "source": "DexScreener Profiles"
     },
     "flyingtesticlesapp": {
-      "checked_at": "2026-05-09T07:57:53.377458+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:26.533012+00:00",
       "fragment_status": "Auction",
       "project": "flying testicles",
       "score": 61,
       "source": "DexScreener Profiles"
     },
     "flyingtesticlespay": {
-      "checked_at": "2026-05-09T07:57:53.992229+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:27.252433+00:00",
       "fragment_status": "Auction",
       "project": "flying testicles",
       "score": 71,
       "source": "DexScreener Profiles"
     },
     "getaimaxxing": {
-      "checked_at": "2026-05-09T07:58:01.986653+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:36.339278+00:00",
       "fragment_status": "Auction",
       "project": "AIMAXXING",
       "score": 89,
       "source": "DexScreener Boosts"
     },
     "getaliun": {
-      "checked_at": "2026-05-09T07:58:00.568478+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:34.760512+00:00",
       "fragment_status": "Auction",
       "project": "Aliun",
       "score": 85,
       "source": "DexScreener Boosts"
     },
     "getalpha": {
-      "checked_at": "2026-05-09T07:57:51.927695+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:24.773691+00:00",
       "fragment_status": "Auction",
       "project": "alpha",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "getclaudeseviltwin": {
-      "checked_at": "2026-05-09T07:57:57.718500+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:31.451458+00:00",
       "fragment_status": "Auction",
       "project": "Claude's Evil Twin",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "getflyingtesticles": {
-      "checked_at": "2026-05-09T07:57:53.067402+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:26.179729+00:00",
       "fragment_status": "Auction",
       "project": "flying testicles",
       "score": 49,
       "source": "DexScreener Profiles"
     },
     "getkfcwherealienseat": {
-      "checked_at": "2026-05-09T07:57:49.097857+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:21.564994+00:00",
       "fragment_status": "Auction",
       "project": "KFC WHERE ALIENS EAT",
       "score": 49,
       "source": "DexScreener Profiles"
     },
     "getluncreload": {
-      "checked_at": "2026-05-09T07:57:54.607660+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:27.949864+00:00",
       "fragment_status": "Auction",
       "project": "LUNC reload!",
       "score": 69,
       "source": "DexScreener Profiles"
     },
     "getpwattformayor": {
-      "checked_at": "2026-05-09T07:57:56.168401+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:29.700627+00:00",
       "fragment_status": "Auction",
       "project": "PWATT FOR MAYOR",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "getrememberwhoyouare": {
-      "checked_at": "2026-05-09T07:57:59.123578+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:33.080170+00:00",
       "fragment_status": "Auction",
       "project": "Remember who you are.",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "getsolisripping": {
-      "checked_at": "2026-05-09T07:57:47.540615+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:19.792044+00:00",
       "fragment_status": "Auction",
       "project": "Sol is Ripping  ",
       "score": 61,
       "source": "DexScreener Profiles"
     },
     "getthenietzscheanwallaby": {
-      "checked_at": "2026-05-09T07:57:50.648880+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:23.348523+00:00",
       "fragment_status": "Auction",
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "getunfazed": {
-      "checked_at": "2026-05-09T07:58:03.400817+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:38.068190+00:00",
       "fragment_status": "Auction",
       "project": "UNFAZED",
       "score": 93,
       "source": "DexScreener Top Boosts"
     },
     "kfcwherealienseat": {
-      "checked_at": "2026-05-09T07:57:48.780863+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:21.212374+00:00",
       "fragment_status": "Auction",
       "project": "KFC WHERE ALIENS EAT",
       "score": 55,
       "source": "DexScreener Profiles"
     },
     "kfcwherealienseatai": {
-      "checked_at": "2026-05-09T07:57:49.715639+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:22.281989+00:00",
       "fragment_status": "Auction",
       "project": "KFC WHERE ALIENS EAT",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "kfcwherealienseatapp": {
-      "checked_at": "2026-05-09T07:57:49.406555+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:21.920556+00:00",
       "fragment_status": "Auction",
       "project": "KFC WHERE ALIENS EAT",
       "score": 49,
       "source": "DexScreener Profiles"
     },
     "kfcwherealienseatpay": {
-      "checked_at": "2026-05-09T07:57:50.028039+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:22.639021+00:00",
       "fragment_status": "Auction",
       "project": "KFC WHERE ALIENS EAT",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "luncreload": {
-      "checked_at": "2026-05-09T07:57:54.299838+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:27.601300+00:00",
       "fragment_status": "Auction",
       "project": "LUNC reload!",
       "score": 81,
       "source": "DexScreener Profiles"
     },
     "luncreloadai": {
-      "checked_at": "2026-05-09T07:57:55.247051+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:28.649816+00:00",
       "fragment_status": "Auction",
       "project": "LUNC reload!",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "luncreloadapp": {
-      "checked_at": "2026-05-09T07:57:54.932053+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:28.296921+00:00",
       "fragment_status": "Auction",
       "project": "LUNC reload!",
       "score": 69,
       "source": "DexScreener Profiles"
     },
     "luncreloadpay": {
-      "checked_at": "2026-05-09T07:57:55.553909+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:28.998198+00:00",
       "fragment_status": "Auction",
       "project": "LUNC reload!",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "pwattformayor": {
-      "checked_at": "2026-05-09T07:57:55.860740+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:29.347844+00:00",
       "fragment_status": "Auction",
       "project": "PWATT FOR MAYOR",
       "score": 85,
       "source": "DexScreener Boosts"
     },
     "pwattformayorai": {
-      "checked_at": "2026-05-09T07:57:56.793294+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:30.402426+00:00",
       "fragment_status": "Auction",
       "project": "PWATT FOR MAYOR",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "pwattformayorapp": {
-      "checked_at": "2026-05-09T07:57:56.478486+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:30.053533+00:00",
       "fragment_status": "Auction",
       "project": "PWATT FOR MAYOR",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "pwattformayorpay": {
-      "checked_at": "2026-05-09T07:57:57.102108+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:30.754993+00:00",
       "fragment_status": "Auction",
       "project": "PWATT FOR MAYOR",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "rememberwhoyouare": {
-      "checked_at": "2026-05-09T07:57:58.812431+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:32.719715+00:00",
       "fragment_status": "Taken",
       "project": "Remember who you are.",
       "score": 77,
       "source": "DexScreener Boosts"
     },
     "rememberwhoyouareai": {
-      "checked_at": "2026-05-09T07:57:59.778119+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:33.825675+00:00",
       "fragment_status": "Auction",
       "project": "Remember who you are.",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "rememberwhoyouareapp": {
-      "checked_at": "2026-05-09T07:57:59.467757+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:33.428345+00:00",
       "fragment_status": "Auction",
       "project": "Remember who you are.",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "rememberwhoyouarepay": {
-      "checked_at": "2026-05-09T07:58:00.091014+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:34.226621+00:00",
       "fragment_status": "Auction",
       "project": "Remember who you are.",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "solisripping": {
-      "checked_at": "2026-05-09T07:57:47.231385+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:19.439104+00:00",
       "fragment_status": "Auction",
       "project": "Sol is Ripping  ",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "solisrippingai": {
-      "checked_at": "2026-05-09T07:57:48.165259+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:20.502409+00:00",
       "fragment_status": "Auction",
       "project": "Sol is Ripping  ",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "solisrippingapp": {
-      "checked_at": "2026-05-09T07:57:47.856463+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:20.147946+00:00",
       "fragment_status": "Auction",
       "project": "Sol is Ripping  ",
       "score": 61,
       "source": "DexScreener Profiles"
     },
     "solisrippingpay": {
-      "checked_at": "2026-05-09T07:57:48.473787+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:20.856527+00:00",
       "fragment_status": "Auction",
       "project": "Sol is Ripping  ",
       "score": 71,
       "source": "DexScreener Profiles"
     },
     "thenietzscheanwallaby": {
-      "checked_at": "2026-05-09T07:57:50.337082+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:22.998053+00:00",
       "fragment_status": "Auction",
       "project": "The Nietzschean Wallaby",
       "score": 65,
       "source": "DexScreener Profiles"
     },
     "thenietzscheanwallabyai": {
-      "checked_at": "2026-05-09T07:57:51.278841+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:24.045229+00:00",
       "fragment_status": "Auction",
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "thenietzscheanwallabyapp": {
-      "checked_at": "2026-05-09T07:57:50.967559+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:23.697298+00:00",
       "fragment_status": "Auction",
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "thenietzscheanwallabypay": {
-      "checked_at": "2026-05-09T07:57:51.589075+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:24.394219+00:00",
       "fragment_status": "Auction",
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "unfazed": {
-      "checked_at": "2026-05-09T07:58:03.091144+00:00",
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:08:37.710846+00:00",
       "fragment_status": "Taken",
       "project": "UNFAZED",
       "score": 99,
