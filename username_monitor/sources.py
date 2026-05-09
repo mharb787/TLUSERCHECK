@@ -1,4 +1,5 @@
 import logging
+import re
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
 from urllib.parse import quote
@@ -201,6 +202,7 @@ def _extract_show_hn_name(title: str) -> str:
         return ""
     title = title.strip()
     title = title.replace("Show HN:", "").replace("Show HN", "", 1).strip(" :-")
+    title = re.split(r"\s+[\-\u2013\u2014]\s+", title, maxsplit=1)[0]
     if not title:
         return ""
     for separator in (" - ", ": ", " | "):

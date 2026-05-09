@@ -1,6 +1,7 @@
 import re
 from typing import Tuple
 
+from .cleaner import clean_project_name
 from .models import Project
 
 CRYPTO_AI_TERMS = ("ai", "pay", "swap", "dex", "chain", "lab", "labs", "cash", "base", "data", "agent")
@@ -33,7 +34,7 @@ def score_username(username: str, project: Project) -> Tuple[int, str]:
         score += 10
         reasons.append("clean spelling")
 
-    if username == _normalized(project.name):
+    if username == clean_project_name(project.name) or username == _normalized(project.name):
         score += 10
         reasons.append("exact project match")
     elif username.startswith("get") or username.endswith(("app", "ai", "pay")):
