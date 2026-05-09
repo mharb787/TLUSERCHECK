@@ -1,4 +1,5 @@
 import logging
+from collections import Counter
 from typing import List
 
 from .cleaner import username_variations
@@ -33,6 +34,7 @@ def run() -> None:
 
     opportunities: List[UsernameOpportunity] = []
     checked_this_run = set()
+    status_counts: Counter[str] = Counter()
 
     for project in projects:
         for username in username_variations(project.name):
@@ -46,6 +48,7 @@ def run() -> None:
 
             score, reason = score_username(username, project)
             fragment_result = fragment.check_username(username)
+            status_counts[fragment_result.status] += 1
             should_alert = fragment_result.status == "Unavailable"
 
             store.mark(
@@ -78,4 +81,5 @@ def run() -> None:
     opportunities.sort(key=lambda item: item.score, reverse=True)
     notifier.send_opportunities(opportunities[: config.max_alerts_per_run])
     store.save()
+    LOGGER.info("Fragment status counts: %s", dict(status_counts))
     LOGGER.info("Sent %s alerts; checked %s new usernames", len(opportunities), len(checked_this_run))

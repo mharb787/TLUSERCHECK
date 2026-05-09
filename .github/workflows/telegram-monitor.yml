@@ -48,7 +48,11 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
           git add data/checked_usernames.json
+          if git diff --cached --quiet; then
+            echo "Cache already up to date after pulling latest main."
+            exit 0
+          fi
           git commit -m "Update checked Telegram username cache"
-          git pull --rebase
           git push
