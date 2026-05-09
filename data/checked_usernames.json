@@ -129,32 +129,32 @@
       "source": "DexScreener Boosts"
     },
     "alpha": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:24.588043+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:05.188133+00:00",
       "fragment_status": "Taken",
       "project": "alpha",
       "score": 87,
       "source": "DexScreener Profiles"
     },
     "alphaai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:25.142799+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:05.749352+00:00",
       "fragment_status": "Taken",
       "project": "alpha",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "alphaapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:24.955293+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:05.554565+00:00",
       "fragment_status": "Auction",
       "project": "alpha",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "alphapay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:25.329807+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:05.932446+00:00",
       "fragment_status": "Taken",
       "project": "alpha",
       "score": 85,
@@ -217,65 +217,65 @@
       "source": "CoinGecko Trending"
     },
     "aurahouse": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:54.203697+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:58.549661+00:00",
       "fragment_status": "Auction",
       "project": "aurahouse",
       "score": 81,
       "source": "DexScreener Profiles"
     },
     "aurahouseai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:54.870544+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:59.659285+00:00",
+      "fragment_status": "Unavailable",
       "project": "aurahouse",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "aurahouseapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:54.638419+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:59.295749+00:00",
+      "fragment_status": "Unavailable",
       "project": "aurahouse",
       "score": 69,
       "source": "DexScreener Profiles"
     },
     "aurahousepay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:55.087551+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:00.025229+00:00",
+      "fragment_status": "Unavailable",
       "project": "aurahouse",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "auramaxxing": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:53.225309+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:56.871430+00:00",
       "fragment_status": "Taken",
       "project": "auramaxxing",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "auramaxxingai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:53.873423+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:57.986548+00:00",
+      "fragment_status": "Unavailable",
       "project": "auramaxxing",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "auramaxxingapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:53.658466+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:57.618070+00:00",
+      "fragment_status": "Unavailable",
       "project": "auramaxxing",
       "score": 69,
       "source": "DexScreener Profiles"
     },
     "auramaxxingpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:54.088273+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:58.353183+00:00",
+      "fragment_status": "Unavailable",
       "project": "auramaxxing",
       "score": 79,
       "source": "DexScreener Profiles"
@@ -289,32 +289,32 @@
       "source": "CoinGecko Trending"
     },
     "based": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:46.173351+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:00.238540+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 97,
       "source": "DexScreener Profiles"
     },
     "basedai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:46.957146+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:01.214535+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "basedapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:46.758137+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:00.849032+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "basedpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:47.158695+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:01.397867+00:00",
       "fragment_status": "Auction",
       "project": "Based",
       "score": 85,
@@ -449,33 +449,33 @@
       "source": "DexScreener Boosts"
     },
     "flyingtesticles": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:25.685673+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:06.282066+00:00",
+      "fragment_status": "Unavailable",
       "project": "flying testicles",
       "score": 67,
       "source": "DexScreener Profiles"
     },
     "flyingtesticlesai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:26.892580+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:07.349918+00:00",
+      "fragment_status": "Unavailable",
       "project": "flying testicles",
       "score": 71,
       "source": "DexScreener Profiles"
     },
     "flyingtesticlesapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:26.533012+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:06.998666+00:00",
+      "fragment_status": "Unavailable",
       "project": "flying testicles",
       "score": 61,
       "source": "DexScreener Profiles"
     },
     "flyingtesticlespay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:27.252433+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:07.718214+00:00",
+      "fragment_status": "Unavailable",
       "project": "flying testicles",
       "score": 71,
       "source": "DexScreener Profiles"
@@ -513,8 +513,8 @@
       "source": "DexScreener Boosts"
     },
     "getalpha": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:24.773691+00:00",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:05.372906+00:00",
       "fragment_status": "Auction",
       "project": "alpha",
       "score": 75,
@@ -537,25 +537,25 @@
       "source": "CoinGecko Trending"
     },
     "getaurahouse": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:54.422991+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:58.914477+00:00",
+      "fragment_status": "Unavailable",
       "project": "aurahouse",
       "score": 69,
       "source": "DexScreener Profiles"
     },
     "getauramaxxing": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:53.441527+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:07:57.240492+00:00",
+      "fragment_status": "Unavailable",
       "project": "auramaxxing",
       "score": 69,
       "source": "DexScreener Profiles"
     },
     "getbased": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:46.559133+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:00.621157+00:00",
+      "fragment_status": "Unavailable",
       "project": "Based",
       "score": 85,
       "source": "DexScreener Profiles"
@@ -593,9 +593,9 @@
       "source": "DexScreener Boosts"
     },
     "getflyingtesticles": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:26.179729+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:06.632482+00:00",
+      "fragment_status": "Unavailable",
       "project": "flying testicles",
       "score": 49,
       "source": "DexScreener Profiles"
@@ -617,9 +617,9 @@
       "source": "CoinGecko Trending"
     },
     "getkfcwherealienseat": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:21.564994+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:03.893610+00:00",
+      "fragment_status": "Unavailable",
       "project": "KFC WHERE ALIENS EAT",
       "score": 49,
       "source": "DexScreener Profiles"
@@ -681,9 +681,9 @@
       "source": "DexScreener Boosts"
     },
     "getsolisripping": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:19.792044+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:02.102688+00:00",
+      "fragment_status": "Unavailable",
       "project": "Sol is Ripping  ",
       "score": 61,
       "source": "DexScreener Profiles"
@@ -801,33 +801,33 @@
       "source": "CoinGecko Trending"
     },
     "kfcwherealienseat": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:21.212374+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:03.558450+00:00",
+      "fragment_status": "Unavailable",
       "project": "KFC WHERE ALIENS EAT",
       "score": 55,
       "source": "DexScreener Profiles"
     },
     "kfcwherealienseatai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:22.281989+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:04.606073+00:00",
+      "fragment_status": "Unavailable",
       "project": "KFC WHERE ALIENS EAT",
       "score": 59,
       "source": "DexScreener Profiles"
     },
     "kfcwherealienseatapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:21.920556+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:04.259945+00:00",
+      "fragment_status": "Unavailable",
       "project": "KFC WHERE ALIENS EAT",
       "score": 49,
       "source": "DexScreener Profiles"
     },
     "kfcwherealienseatpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:22.639021+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:04.986346+00:00",
+      "fragment_status": "Unavailable",
       "project": "KFC WHERE ALIENS EAT",
       "score": 59,
       "source": "DexScreener Profiles"
@@ -1057,33 +1057,33 @@
       "source": "DexScreener Boosts"
     },
     "solisripping": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:19.439104+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:01.751998+00:00",
+      "fragment_status": "Unavailable",
       "project": "Sol is Ripping  ",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "solisrippingai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:20.502409+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:02.820045+00:00",
+      "fragment_status": "Unavailable",
       "project": "Sol is Ripping  ",
       "score": 79,
       "source": "DexScreener Profiles"
     },
     "solisrippingapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:20.147946+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:02.470775+00:00",
+      "fragment_status": "Unavailable",
       "project": "Sol is Ripping  ",
       "score": 61,
       "source": "DexScreener Profiles"
     },
     "solisrippingpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:20.856527+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:08:03.192076+00:00",
+      "fragment_status": "Unavailable",
       "project": "Sol is Ripping  ",
       "score": 71,
       "source": "DexScreener Profiles"
