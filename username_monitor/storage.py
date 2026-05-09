@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from typing import Any, Dict
 
 LOGGER = logging.getLogger(__name__)
+CACHE_VERSION = 2
 
 
 class CheckedStore:
@@ -37,11 +38,13 @@ class CheckedStore:
         os.replace(tmp_path, self.path)
 
     def seen(self, username: str) -> bool:
-        return username.lower() in self.data.get("checked", {})
+        entry = self.data.get("checked", {}).get(username.lower())
+        return isinstance(entry, dict) and entry.get("cache_version") == CACHE_VERSION
 
     def mark(self, username: str, payload: Dict[str, Any]) -> None:
         checked = self.data.setdefault("checked", {})
         checked[username.lower()] = {
             **payload,
+            "cache_version": CACHE_VERSION,
             "checked_at": datetime.now(timezone.utc).isoformat(),
         }

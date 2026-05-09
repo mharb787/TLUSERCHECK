@@ -15,7 +15,7 @@ class FragmentResult:
 
     @property
     def is_available(self) -> bool:
-        return self.status == "Available"
+        return self.status in {"Available", "Unavailable"}
 
 
 class FragmentClient:
@@ -45,7 +45,9 @@ class FragmentClient:
         text = response.text.lower()
         if "on auction" in text or "place bid" in text:
             return FragmentResult(username=username, status="Auction", url=url)
-        if "sold" in text or "owner" in text or "unavailable" in text:
+        if "unavailable" in text:
+            return FragmentResult(username=username, status="Unavailable", url=url)
+        if "sold" in text or "owner" in text:
             return FragmentResult(username=username, status="Taken", url=url)
         if re.search(r"username\s+is\s+available|not\s+found", text):
             return FragmentResult(username=username, status="Available", url=url)

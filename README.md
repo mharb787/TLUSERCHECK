@@ -19,6 +19,7 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
   - `projectpay`
 - Checks public Fragment username pages only.
 - Treats missing Fragment pages as `No Fragment listing`, not as confirmed Telegram availability.
+- Treats Fragment `unavailable` labels as username opportunities, based on the observed Fragment wording.
 - Scores each username from 1 to 100.
 - Sends up to 10 new Telegram alerts per run by default.
 - Checks up to 80 new usernames per run by default.
@@ -95,5 +96,6 @@ Why: compact, pronounceable, clean spelling, exact project match
 
 - Fragment checks are based on public web pages and can change if Fragment changes its HTML.
 - A missing Fragment page does not prove that a username can be claimed inside Telegram.
+- Fragment wording can be counterintuitive: this monitor treats `unavailable` as the claimable/opportunity signal.
 - A score is a heuristic, not a guarantee of market value.
 - The cache file is committed back to the repository after each run so the next scheduled run does not repeat the same usernames.
