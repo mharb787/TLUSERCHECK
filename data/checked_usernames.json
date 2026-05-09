@@ -392,6 +392,14 @@
       "score": 99,
       "source": "DexScreener Top Boosts"
     },
+    "uniswap": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T14:53:40.226060+00:00",
+      "fragment_status": "Taken",
+      "project": "Uniswap",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "vechain": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:25:36.304440+00:00",
