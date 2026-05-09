@@ -808,6 +808,14 @@
       "score": 96,
       "source": "Hacker News Show HN"
     },
+    "edgex": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:35:17.751525+00:00",
+      "fragment_status": "Auction",
+      "project": "edgeX",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
     "eigencloud": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:26.882658+00:00",
@@ -1255,6 +1263,14 @@
       "project": "kaffirs",
       "score": 82,
       "source": "English Words"
+    },
+    "kaspa": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:35:17.572369+00:00",
+      "fragment_status": "Taken",
+      "project": "Kaspa",
+      "score": 100,
+      "source": "CoinPaprika Coins"
     },
     "killclawd": {
       "cache_version": 14,
