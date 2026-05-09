@@ -6,6 +6,7 @@ from urllib.parse import quote
 
 import requests
 
+from .english_words import ENGLISH_WORDS
 from .models import Project
 
 LOGGER = logging.getLogger(__name__)
@@ -23,6 +24,7 @@ class SourceClient:
             self._coingecko_trending(),
             self._defillama_protocols(),
             self._coinpaprika_coins(),
+            self._english_words(),
             self._hacker_news_show_hn(),
             self._github_new_repositories(),
             self._dexscreener_boosts("latest"),
@@ -217,6 +219,18 @@ class SourceClient:
                     )
                 )
         return projects
+
+    def _english_words(self) -> List[Project]:
+        return [
+            Project(
+                name=word,
+                symbol="",
+                source="English Wordlist",
+                url=None,
+                raw_strength=8.0,
+            )
+            for word in ENGLISH_WORDS
+        ]
 
 
 def _as_list(data: Any) -> List[Dict[str, Any]]:

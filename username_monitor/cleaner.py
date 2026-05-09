@@ -1,5 +1,5 @@
 import re
-from typing import Iterable, List
+from typing import Iterable, List, Optional
 
 BAD_WORDS = {
     "token",
@@ -31,24 +31,33 @@ BAD_WORDS = {
     "hn",
 }
 
-MAX_USERNAME_LENGTH = 6
-USERNAME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9_]{3,31}$")
+MIN_USERNAME_LENGTH = 5
+MAX_USERNAME_LENGTH = 7
+USERNAME_RE = re.compile(r"^[a-z]{5,7}$")
 
 
 def clean_project_name(value: str) -> str:
+    word = extract_plain_word(value)
+    return word or ""
+
+
+def extract_plain_word(value: str) -> Optional[str]:
     value = value.lower()
     value = re.sub(r"^show\s+hn\s*[:\-]\s*", " ", value)
     value = re.sub(r"\s*[-|:]\s*.*$", " ", value)
     value = re.sub(r"\([^)]*\)", " ", value)
     value = re.sub(r"[^a-z0-9 ]+", " ", value)
     parts = [part for part in value.split() if part not in BAD_WORDS]
-    return "".join(parts)
+    if len(parts) != 1:
+        return None
+    word = parts[0]
+    if not USERNAME_RE.match(word):
+        return None
+    return word
 
 
 def is_quality_base(base: str) -> bool:
-    if len(base) < 4 or len(base) > MAX_USERNAME_LENGTH:
-        return False
-    if base.isdigit():
+    if len(base) < MIN_USERNAME_LENGTH or len(base) > MAX_USERNAME_LENGTH:
         return False
     if len(set(base)) <= 2:
         return False
@@ -61,23 +70,7 @@ def username_variations(project_name: str) -> List[str]:
     base = clean_project_name(project_name)
     if not is_quality_base(base):
         return []
-
-    candidates = [
-        base,
-        f"get{base}",
-        f"{base}app",
-        f"{base}ai",
-        f"{base}pay",
-    ]
-    seen = set()
-    cleaned: List[str] = []
-    for candidate in candidates:
-        if len(candidate) > MAX_USERNAME_LENGTH:
-            continue
-        if candidate not in seen and USERNAME_RE.match(candidate):
-            seen.add(candidate)
-            cleaned.append(candidate)
-    return cleaned
+    return [base]
 
 
 def unique_usernames(project_names: Iterable[str]) -> List[str]:

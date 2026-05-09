@@ -13,19 +13,16 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
   - CoinGecko trending coins
   - DeFiLlama protocols
   - CoinPaprika active coins
+  - Short English wordlist
   - Hacker News Show HN launches
   - GitHub repositories created in the last 7 days for crypto/AI/web3 terms
-- Cleans project names and generates username variations:
-  - `projectname`
-  - `getprojectname`
-  - `projectnameapp`
-  - `projectnameai`
-  - `projectpay`
+- Cleans project names and checks only the plain original word.
+- Does not generate prefixes or suffixes such as `get`, `ai`, `app`, or `pay`.
 - Checks public Fragment username pages only.
 - Treats missing Fragment pages as `No Fragment listing`, not as confirmed Telegram availability.
 - Sends alerts only when Fragment shows the `unavailable` label, based on the observed claimable-name wording.
 - Scores each username from 1 to 100.
-- Only checks generated usernames up to 6 characters.
+- Only checks plain English-letter names from 5 to 7 characters.
 - Sends up to 10 new Telegram alerts per run by default.
 - Checks up to 600 new usernames per run by default.
 - Stores checked usernames in `data/checked_usernames.json` to avoid repeating alerts in future runs.
@@ -87,12 +84,12 @@ python main.py
 ```text
 New Username Opportunity
 
-Project: CASHOME
+Project: orbit
 Source: DexScreener
 Liquidity: $240K
 24h Volume: N/A
-Telegram Username: @cashome
-Fragment Status: Available
+Telegram Username: @orbit
+Fragment Status: Unavailable
 Score: 86/100
 Why: compact, pronounceable, clean spelling, exact project match
 ```

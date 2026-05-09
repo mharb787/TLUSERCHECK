@@ -37,10 +37,6 @@ def score_username(username: str, project: Project) -> Tuple[int, str]:
     if username == clean_project_name(project.name) or username == _normalized(project.name):
         score += 10
         reasons.append("exact project match")
-    elif username.startswith("get") or username.endswith(("app", "ai", "pay")):
-        score += 4
-        reasons.append("brand variation")
-
     strength_bonus = min(18, int(project.raw_strength))
     if strength_bonus:
         score += strength_bonus
