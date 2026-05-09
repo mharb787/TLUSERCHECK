@@ -264,6 +264,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "adillo": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:33.335856+00:00",
+      "fragment_status": "Taken",
+      "project": "Adillo",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "admixes": {
       "cache_version": 12,
       "checked_at": "2026-05-09T10:48:57.254341+00:00",
@@ -327,6 +335,14 @@
       "project": "aequor",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "aetherx": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:38.616330+00:00",
+      "fragment_status": "Taken",
+      "project": "AetherX",
+      "score": 81,
+      "source": "CoinPaprika Coins"
     },
     "aethir": {
       "cache_version": 14,
@@ -471,6 +487,14 @@
       "project": "AIMAXXING",
       "score": 89,
       "source": "DexScreener Boosts"
+    },
+    "airight": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:39.592429+00:00",
+      "fragment_status": "Auction",
+      "project": "aiRight",
+      "score": 91,
+      "source": "CoinPaprika Coins"
     },
     "airswap": {
       "cache_version": 14,
@@ -854,6 +878,14 @@
       "fragment_status": "Taken",
       "project": "Allora",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "allsafe": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:37.116724+00:00",
+      "fragment_status": "Auction",
+      "project": "AllSafe",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "almique": {
@@ -1336,6 +1368,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "aragon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:43.285515+00:00",
+      "fragment_status": "Taken",
+      "project": "Aragon",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "arcadia": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:42.369473+00:00",
@@ -1680,6 +1720,14 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "baasid": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:31.549603+00:00",
+      "fragment_status": "Taken",
+      "project": "BaaSid",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "babybft": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:29.309179+00:00",
@@ -1741,6 +1789,14 @@
       "checked_at": "2026-05-09T12:14:34.946164+00:00",
       "fragment_status": "Taken",
       "project": "Baldor",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "banana": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:41.987042+00:00",
+      "fragment_status": "Taken",
+      "project": "Banana",
       "score": 87,
       "source": "CoinPaprika Coins"
     },
@@ -1856,6 +1912,14 @@
       "score": 95,
       "source": "English Wordlist"
     },
+    "beincom": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:43.610208+00:00",
+      "fragment_status": "Auction",
+      "project": "Beincom",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "beldex": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:41.727247+00:00",
@@ -1968,12 +2032,28 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "birdflu": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:42.803895+00:00",
+      "fragment_status": "Taken",
+      "project": "BIRDFLU",
+      "score": 69,
+      "source": "CoinPaprika Coins"
+    },
     "biswap": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:27.972972+00:00",
       "fragment_status": "Taken",
       "project": "Biswap",
       "score": 97,
+      "source": "CoinPaprika Coins"
+    },
+    "bitball": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:34.605946+00:00",
+      "fragment_status": "Taken",
+      "project": "BitBall",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "bitcoin": {
@@ -2104,6 +2184,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "blastar": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:41.176196+00:00",
+      "fragment_status": "Taken",
+      "project": "Blastar",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "blend": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:10:33.503901+00:00",
@@ -2160,6 +2248,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "boblles": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:38.278120+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Boblles",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "bondex": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:39.132358+00:00",
@@ -2174,6 +2270,14 @@
       "fragment_status": "Taken",
       "project": "Bonfida",
       "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "bonsai": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:36.281851+00:00",
+      "fragment_status": "Taken",
+      "project": "Bonsai Token",
+      "score": 97,
       "source": "CoinPaprika Coins"
     },
     "bookusd": {
@@ -2360,6 +2464,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "buttpay": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:40.694393+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Buttpay",
+      "score": 91,
+      "source": "CoinPaprika Coins"
+    },
     "bybit": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:10:24.985588+00:00",
@@ -2480,6 +2592,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "cashaa": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:43.935580+00:00",
+      "fragment_status": "Taken",
+      "project": "Cashaa",
+      "score": 97,
+      "source": "CoinPaprika Coins"
+    },
     "casper": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:51.071215+00:00",
@@ -2584,6 +2704,14 @@
       "score": 91,
       "source": "CoinPaprika Coins"
     },
+    "change": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:36.777875+00:00",
+      "fragment_status": "Taken",
+      "project": "Change",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "charm": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:27.998125+00:00",
@@ -2632,6 +2760,14 @@
       "score": 95,
       "source": "English Wordlist"
     },
+    "cheese": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:32.851166+00:00",
+      "fragment_status": "Taken",
+      "project": "Cheese",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "chiliz": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:42.282650+00:00",
@@ -2653,6 +2789,14 @@
       "checked_at": "2026-05-09T11:19:55.456799+00:00",
       "fragment_status": "Unavailable",
       "project": "Chromia",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "chronos": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:35.276889+00:00",
+      "fragment_status": "Taken",
+      "project": "Chronos",
       "score": 81,
       "source": "CoinPaprika Coins"
     },
@@ -2928,6 +3072,14 @@
       "score": 91,
       "source": "CoinPaprika Coins"
     },
+    "corite": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:40.391943+00:00",
+      "fragment_status": "Taken",
+      "project": "Corite",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "cortex": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:59:18.876760+00:00",
@@ -2982,6 +3134,14 @@
       "fragment_status": "Taken",
       "project": "CPCoin",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "crabada": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:42.482395+00:00",
+      "fragment_status": "Taken",
+      "project": "Crabada",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "craft": {
@@ -3048,6 +3208,14 @@
       "score": 93,
       "source": "Hacker News Show HN"
     },
+    "crodie": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:38.455161+00:00",
+      "fragment_status": "Taken",
+      "project": "Crodie",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "cronos": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:40.469211+00:00",
@@ -3063,6 +3231,14 @@
       "project": "crown",
       "score": 95,
       "source": "English Wordlist"
+    },
+    "crowns": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:33.176087+00:00",
+      "fragment_status": "Auction",
+      "project": "Crowns",
+      "score": 87,
+      "source": "CoinPaprika Coins"
     },
     "crvusd": {
       "cache_version": 14,
@@ -3144,6 +3320,22 @@
       "score": 91,
       "source": "CoinPaprika Coins"
     },
+    "darksun": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:35.944810+00:00",
+      "fragment_status": "Taken",
+      "project": "darksun",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "dastra": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:40.857181+00:00",
+      "fragment_status": "Taken",
+      "project": "Dastra Network",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "dayhub": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:59:54.176372+00:00",
@@ -3176,6 +3368,14 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "defina": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:33.017658+00:00",
+      "fragment_status": "Taken",
+      "project": "Defina Finance",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "definer": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:15:00.790561+00:00",
@@ -3197,6 +3397,14 @@
       "checked_at": "2026-05-09T12:15:07.137799+00:00",
       "fragment_status": "Auction",
       "project": "DePlan",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "derace": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:41.343947+00:00",
+      "fragment_status": "Taken",
+      "project": "DeRace",
       "score": 87,
       "source": "CoinPaprika Coins"
     },
@@ -3464,6 +3672,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "dvision": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:32.029607+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Dvision Network",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "eager": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:33.048453+00:00",
@@ -3501,6 +3717,14 @@
       "checked_at": "2026-05-09T12:00:06.643112+00:00",
       "fragment_status": "Taken",
       "project": "Efinity",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "egretia": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:37.277626+00:00",
+      "fragment_status": "Taken",
+      "project": "Egretia",
       "score": 81,
       "source": "CoinPaprika Coins"
     },
@@ -3558,6 +3782,14 @@
       "fragment_status": "Taken",
       "project": "ELYSIA",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "elytra": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:43.769378+00:00",
+      "fragment_status": "Taken",
+      "project": "ELYTRA",
+      "score": 75,
       "source": "CoinPaprika Coins"
     },
     "ember": {
@@ -3653,6 +3885,14 @@
       "checked_at": "2026-05-09T12:14:34.305319+00:00",
       "fragment_status": "Taken",
       "project": "EstateX",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "etheism": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:32.513794+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Etheism",
       "score": 81,
       "source": "CoinPaprika Coins"
     },
@@ -3781,6 +4021,14 @@
       "checked_at": "2026-05-09T12:15:03.962301+00:00",
       "fragment_status": "Taken",
       "project": "FartDog",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "fartguy": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:31.226771+00:00",
+      "fragment_status": "Taken",
+      "project": "FartGuy",
       "score": 81,
       "source": "CoinPaprika Coins"
     },
@@ -4024,6 +4272,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "fusaka": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:33.836098+00:00",
+      "fragment_status": "Taken",
+      "project": "Fusaka",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "fwdly": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:46.374767+00:00",
@@ -4136,6 +4392,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "gemxbt": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:31.387147+00:00",
+      "fragment_status": "Taken",
+      "project": "gemxbt",
+      "score": 75,
+      "source": "CoinPaprika Coins"
+    },
     "general": {
       "cache_version": 11,
       "checked_at": "2026-05-09T10:41:12.530915+00:00",
@@ -4159,6 +4423,14 @@
       "project": "gentle",
       "score": 95,
       "source": "English Wordlist"
+    },
+    "genzai": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:41.017471+00:00",
+      "fragment_status": "Taken",
+      "project": "GENZAI",
+      "score": 97,
+      "source": "CoinPaprika Coins"
     },
     "geodnet": {
       "cache_version": 14,
@@ -4720,6 +4992,14 @@
       "score": 95,
       "source": "English Wordlist"
     },
+    "harlod": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:41.651358+00:00",
+      "fragment_status": "Unavailable",
+      "project": "HARLOD",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "harmony": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:52.613420+00:00",
@@ -4806,6 +5086,14 @@
       "fragment_status": "Auction",
       "project": "HBAR",
       "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "hbtoken": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:39.430919+00:00",
+      "fragment_status": "Auction",
+      "project": "HbToken",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "health": {
@@ -4945,12 +5233,12 @@
       "source": "CoinPaprika Coins"
     },
     "horizon": {
-      "cache_version": 10,
-      "checked_at": "2026-05-09T10:26:20.672402+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:39.916472+00:00",
       "fragment_status": "Taken",
-      "project": "horizon",
-      "score": 89,
-      "source": "English Wordlist"
+      "project": "Horizon Protocol",
+      "score": 81,
+      "source": "CoinPaprika Coins"
     },
     "hotels": {
       "cache_version": 11,
@@ -5288,6 +5576,14 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "kampay": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:37.446610+00:00",
+      "fragment_status": "Taken",
+      "project": "Kampay",
+      "score": 97,
+      "source": "CoinPaprika Coins"
+    },
     "karma": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:41.839521+00:00",
@@ -5374,6 +5670,14 @@
       "fragment_status": "Auction",
       "project": "KHYPE",
       "score": 93,
+      "source": "CoinPaprika Coins"
+    },
+    "kickpad": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:41.820397+00:00",
+      "fragment_status": "Taken",
+      "project": "KickPad",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "kikicat": {
@@ -5495,6 +5799,22 @@
       "project": "kudos",
       "score": 95,
       "source": "English Wordlist"
+    },
+    "kujira": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:37.938249+00:00",
+      "fragment_status": "Taken",
+      "project": "Kujira",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "kurrent": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:35.783160+00:00",
+      "fragment_status": "Auction",
+      "project": "Kurrent",
+      "score": 81,
+      "source": "CoinPaprika Coins"
     },
     "kusama": {
       "cache_version": 14,
@@ -5622,6 +5942,14 @@
       "fragment_status": "Taken",
       "project": "Lighter",
       "score": 97,
+      "source": "CoinPaprika Coins"
+    },
+    "lilpump": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:36.941231+00:00",
+      "fragment_status": "Taken",
+      "project": "lilpump",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "link": {
@@ -5976,6 +6304,14 @@
       "score": 95,
       "source": "English Wordlist"
     },
+    "metapro": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:39.270496+00:00",
+      "fragment_status": "Taken",
+      "project": "Metapro",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "meteora": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:47.099506+00:00",
@@ -6016,6 +6352,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "migmig": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:39.752119+00:00",
+      "fragment_status": "Taken",
+      "project": "MigMig",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "minati": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:20.809297+00:00",
@@ -6030,6 +6374,14 @@
       "fragment_status": "Taken",
       "project": "Minswap",
       "score": 91,
+      "source": "CoinPaprika Coins"
+    },
+    "mintra": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:42.643335+00:00",
+      "fragment_status": "Taken",
+      "project": "Mintra",
+      "score": 87,
       "source": "CoinPaprika Coins"
     },
     "minty": {
@@ -6077,6 +6429,14 @@
       "checked_at": "2026-05-09T11:59:22.024213+00:00",
       "fragment_status": "Taken",
       "project": "Mitosis",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "mmocoin": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:35.103446+00:00",
+      "fragment_status": "Auction",
+      "project": "MMOCoin",
       "score": 81,
       "source": "CoinPaprika Coins"
     },
@@ -6688,6 +7048,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "opulous": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:33.668621+00:00",
+      "fragment_status": "Auction",
+      "project": "Opulous",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "orbit": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:47.413865+00:00",
@@ -6767,6 +7135,22 @@
       "project": "Ovlt",
       "score": 92,
       "source": "Hacker News Show HN"
+    },
+    "oxygen": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:34.336134+00:00",
+      "fragment_status": "Taken",
+      "project": "Oxygen",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "pacmoon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:42.317231+00:00",
+      "fragment_status": "Auction",
+      "project": "PacMoon",
+      "score": 81,
+      "source": "CoinPaprika Coins"
     },
     "pactus": {
       "cache_version": 14,
@@ -6992,6 +7376,14 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "planck": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:34.170522+00:00",
+      "fragment_status": "Taken",
+      "project": "Planck",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "planet": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:43.221667+00:00",
@@ -7062,6 +7454,14 @@
       "fragment_status": "Auction",
       "project": "Pluton",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "pockemy": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:35.617400+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Pockemy",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "pocket": {
@@ -7144,6 +7544,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "primal": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:32.682401+00:00",
+      "fragment_status": "Taken",
+      "project": "PRIMAL",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "prime": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:49.106164+00:00",
@@ -7169,12 +7577,12 @@
       "source": "Hacker News Show HN"
     },
     "privacy": {
-      "cache_version": 11,
-      "checked_at": "2026-05-09T10:41:12.420909+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:34.943596+00:00",
       "fragment_status": "Taken",
-      "project": "privacy",
-      "score": 89,
-      "source": "English Dictionary"
+      "project": "Privacy coin",
+      "score": 81,
+      "source": "CoinPaprika Coins"
     },
     "product": {
       "cache_version": 11,
@@ -7648,6 +8056,14 @@
       "score": 89,
       "source": "English Dictionary"
     },
+    "revest": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:31.718640+00:00",
+      "fragment_status": "Auction",
+      "project": "Revest Finance",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "review": {
       "cache_version": 11,
       "checked_at": "2026-05-09T10:41:12.312401+00:00",
@@ -7694,6 +8110,14 @@
       "fragment_status": "Taken",
       "project": "Rhetor",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "ridotto": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:37.774731+00:00",
+      "fragment_status": "Taken",
+      "project": "Ridotto",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "riecoin": {
@@ -8040,6 +8464,14 @@
       "score": 85,
       "source": "CoinPaprika Coins"
     },
+    "sigmew": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:39.097095+00:00",
+      "fragment_status": "Unavailable",
+      "project": "sigmew",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "signal": {
       "cache_version": 10,
       "checked_at": "2026-05-09T10:26:23.128802+00:00",
@@ -8312,6 +8744,22 @@
       "score": 75,
       "source": "CoinPaprika Coins"
     },
+    "spaces": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:43.449723+00:00",
+      "fragment_status": "Auction",
+      "project": "Solana Spaces",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "spartan": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:42.155371+00:00",
+      "fragment_status": "Taken",
+      "project": "Spartan Protocol Token",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "special": {
       "cache_version": 11,
       "checked_at": "2026-05-09T10:41:15.432379+00:00",
@@ -8341,6 +8789,14 @@
       "checked_at": "2026-05-09T11:59:44.016788+00:00",
       "fragment_status": "Unavailable",
       "project": "Sperax",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "sphere": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:44.103786+00:00",
+      "fragment_status": "Taken",
+      "project": "Sphere Finance",
       "score": 87,
       "source": "CoinPaprika Coins"
     },
@@ -8552,6 +9008,22 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "suitard": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:38.787562+00:00",
+      "fragment_status": "Taken",
+      "project": "suitard",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "summer": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:34.004532+00:00",
+      "fragment_status": "Taken",
+      "project": "Solana Summer",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "summit": {
       "cache_version": 10,
       "checked_at": "2026-05-09T10:26:24.643476+00:00",
@@ -8632,6 +9104,14 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "swquery": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:40.219259+00:00",
+      "fragment_status": "Unavailable",
+      "project": "SWquery",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "symbol": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:56.118007+00:00",
@@ -8686,6 +9166,14 @@
       "fragment_status": "Taken",
       "project": "Tagger",
       "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "tairon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:43.118938+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Tairon",
+      "score": 97,
       "source": "CoinPaprika Coins"
     },
     "talken": {
@@ -8904,6 +9392,14 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "topgoal": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:36.113853+00:00",
+      "fragment_status": "Auction",
+      "project": "TopGoal Token",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
     "tosdis": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:14:52.521205+00:00",
@@ -9007,6 +9503,14 @@
       "project": "Tuxedo",
       "score": 88,
       "source": "Hacker News Show HN"
+    },
+    "twinci": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:44.410376+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Twinci",
+      "score": 87,
+      "source": "CoinPaprika Coins"
     },
     "tydro": {
       "cache_version": 9,
@@ -9142,6 +9646,14 @@
       "fragment_status": "Taken",
       "project": "Unizen",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "unsheth": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:36.604388+00:00",
+      "fragment_status": "Taken",
+      "project": "unshETH",
+      "score": 81,
       "source": "CoinPaprika Coins"
     },
     "upbots": {
@@ -9520,6 +10032,22 @@
       "score": 95,
       "source": "English Wordlist"
     },
+    "voyager": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:32.200517+00:00",
+      "fragment_status": "Taken",
+      "project": "Voyager Token",
+      "score": 81,
+      "source": "CoinPaprika Coins"
+    },
+    "wabbit": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:36.442925+00:00",
+      "fragment_status": "Auction",
+      "project": "WABBIT",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
     "walrus": {
       "cache_version": 14,
       "checked_at": "2026-05-09T11:19:46.435593+00:00",
@@ -9720,6 +10248,14 @@
       "score": 81,
       "source": "CoinPaprika Coins"
     },
+    "xianzai": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:34.765449+00:00",
+      "fragment_status": "Taken",
+      "project": "XIANZAI",
+      "score": 91,
+      "source": "CoinPaprika Coins"
+    },
     "xiaobai": {
       "cache_version": 14,
       "checked_at": "2026-05-09T12:15:03.540829+00:00",
@@ -9806,6 +10342,14 @@
       "fragment_status": "Taken",
       "project": "YouSim",
       "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "zaibot": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:33.505233+00:00",
+      "fragment_status": "Taken",
+      "project": "Zaibot",
+      "score": 97,
       "source": "CoinPaprika Coins"
     },
     "zcash": {
@@ -9949,6 +10493,14 @@
       "checked_at": "2026-05-09T12:14:35.155425+00:00",
       "fragment_status": "Taken",
       "project": "ZKWASM",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "zoomer": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T12:29:37.613510+00:00",
+      "fragment_status": "Taken",
+      "project": "Zoomer",
       "score": 87,
       "source": "CoinPaprika Coins"
     },
