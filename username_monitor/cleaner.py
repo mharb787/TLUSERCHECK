@@ -31,7 +31,7 @@ BAD_WORDS = {
     "hn",
 }
 
-MAX_USERNAME_LENGTH = 8
+MAX_USERNAME_LENGTH = 6
 USERNAME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9_]{3,31}$")
 
 

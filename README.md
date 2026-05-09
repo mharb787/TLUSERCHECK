@@ -23,7 +23,7 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 - Treats missing Fragment pages as `No Fragment listing`, not as confirmed Telegram availability.
 - Sends alerts only when Fragment shows the `unavailable` label, based on the observed claimable-name wording.
 - Scores each username from 1 to 100.
-- Only checks generated usernames up to 8 characters.
+- Only checks generated usernames up to 6 characters.
 - Sends up to 10 new Telegram alerts per run by default.
 - Checks up to 160 new usernames per run by default.
 - Stores checked usernames in `data/checked_usernames.json` to avoid repeating alerts in future runs.
