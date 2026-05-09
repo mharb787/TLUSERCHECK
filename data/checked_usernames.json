@@ -1,5 +1,13 @@
 {
   "checked": {
+    "agent": {
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:25.239732+00:00",
+      "fragment_status": "Taken",
+      "project": "Agent-fox \u2013 write a",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
     "aimaxxing": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:35.990907+00:00",
@@ -31,6 +39,22 @@
       "project": "AIMAXXING",
       "score": 89,
       "source": "DexScreener Boosts"
+    },
+    "aisoc": {
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.880740+00:00",
+      "fragment_status": "Auction",
+      "project": "AiSOC",
+      "score": 100,
+      "source": "GitHub New Repos: ai agent"
+    },
+    "akash": {
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.097507+00:00",
+      "fragment_status": "Taken",
+      "project": "Akash Network",
+      "score": 95,
+      "source": "CoinGecko Trending"
     },
     "aliencoin": {
       "cache_version": 2,
@@ -97,8 +121,8 @@
       "source": "DexScreener Top Boosts"
     },
     "aliun": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:34.407298+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.769044+00:00",
       "fragment_status": "Taken",
       "project": "Aliun",
       "score": 97,
@@ -201,16 +225,16 @@
       "source": "Hacker News Show HN"
     },
     "aura": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:18.837210+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.254633+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "auraai": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:19.536392+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.367210+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
@@ -297,8 +321,8 @@
       "source": "CoinGecko Trending"
     },
     "based": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:29.070015+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.126440+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 97,
@@ -393,8 +417,8 @@
       "source": "CoinGecko Trending"
     },
     "bully": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:50.227856+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.529303+00:00",
       "fragment_status": "Taken",
       "project": "Bully",
       "score": 100,
@@ -456,17 +480,25 @@
       "score": 81,
       "source": "DexScreener Boosts"
     },
+    "cyoda": {
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:25.101980+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Cyoda-go \u2013 application platform",
+      "score": 77,
+      "source": "Hacker News Show HN"
+    },
     "docs": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:22.322659+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.211833+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 87,
       "source": "DexScreener Profiles"
     },
     "docsai": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:23.018468+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.328720+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 91,
@@ -841,8 +873,8 @@
       "source": "DexScreener Top Boosts"
     },
     "humad": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:16.356591+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.708916+00:00",
       "fragment_status": "Taken",
       "project": "Hum \u2013 ad-free terminal",
       "score": 77,
@@ -968,9 +1000,17 @@
       "score": 79,
       "source": "DexScreener Profiles"
     },
+    "mirage": {
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.643283+00:00",
+      "fragment_status": "Taken",
+      "project": "mirage",
+      "score": 100,
+      "source": "GitHub New Repos: ai agent"
+    },
     "monad": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:23.487927+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.443875+00:00",
       "fragment_status": "Taken",
       "project": "Monad",
       "score": 100,
@@ -1001,16 +1041,16 @@
       "source": "CoinGecko Trending"
     },
     "nexa": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:30.432809+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.295673+00:00",
       "fragment_status": "Auction",
       "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
       "score": 77,
       "source": "Hacker News Show HN"
     },
     "nexaai": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:31.181954+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.407713+00:00",
       "fragment_status": "Taken",
       "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
       "score": 91,
@@ -1033,16 +1073,16 @@
       "source": "Hacker News Show HN"
     },
     "ondo": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:14.761731+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.479699+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "ondoai": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:15.674102+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.592356+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
@@ -1065,8 +1105,8 @@
       "source": "CoinGecko Trending"
     },
     "pharos": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:08.021793+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.554367+00:00",
       "fragment_status": "Auction",
       "project": "Pharos",
       "score": 100,
@@ -1193,8 +1233,8 @@
       "source": "DexScreener Boosts"
     },
     "showhn": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:26.250644+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.779586+00:00",
       "fragment_status": "Taken",
       "project": "ShowHN",
       "score": 88,
@@ -1337,8 +1377,8 @@
       "source": "DexScreener Top Boosts"
     },
     "venice": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:18.369635+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.852759+00:00",
       "fragment_status": "Taken",
       "project": "Venice Token",
       "score": 95,
@@ -1377,16 +1417,16 @@
       "source": "GitHub New Repos: telegram bot"
     },
     "web3": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:27.460847+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.891127+00:00",
       "fragment_status": "Taken",
       "project": "Web3 ",
       "score": 91,
       "source": "GitHub New Repos: web3"
     },
     "web3ai": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:28.591908+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:24.011456+00:00",
       "fragment_status": "Taken",
       "project": "Web3 ",
       "score": 95,
@@ -1409,8 +1449,8 @@
       "source": "GitHub New Repos: web3"
     },
     "wojak": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:20.009261+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:22.982519+00:00",
       "fragment_status": "Taken",
       "project": "wojak",
       "score": 100,
@@ -1441,8 +1481,8 @@
       "source": "CoinGecko Trending"
     },
     "zcash": {
-      "cache_version": 4,
-      "checked_at": "2026-05-09T09:31:24.887149+00:00",
+      "cache_version": 5,
+      "checked_at": "2026-05-09T09:37:23.668365+00:00",
       "fragment_status": "Taken",
       "project": "Zcash",
       "score": 100,
