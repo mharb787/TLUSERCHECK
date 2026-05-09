@@ -34,7 +34,7 @@ jobs:
       - name: Run monitor
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID: "12204622"
           MAX_ALERTS_PER_RUN: "10"
           MAX_USERNAMES_TO_CHECK: "80"
           MIN_SCORE: "70"
