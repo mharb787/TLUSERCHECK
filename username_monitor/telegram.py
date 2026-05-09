@@ -47,7 +47,7 @@ def format_alert(opportunity: UsernameOpportunity) -> str:
         f"Source: {project.source}",
         f"Liquidity: {liquidity}",
         f"24h Volume: {volume}",
-        f"Telegram Username: @{opportunity.username}",
+        f"Telegram Username: {opportunity.username}",
         f"Fragment Status: {opportunity.fragment_status}",
         f"Score: {opportunity.score}/100",
         f"Why: {opportunity.reason}",
