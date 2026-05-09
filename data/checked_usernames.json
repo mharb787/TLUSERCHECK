@@ -1,8 +1,16 @@
 {
   "checked": {
+    "aavev3": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:18.221121+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Aave V3",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
     "agent": {
-      "cache_version": 6,
-      "checked_at": "2026-05-09T09:43:40.877355+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.096534+00:00",
       "fragment_status": "Taken",
       "project": "Agent-fox",
       "score": 97,
@@ -49,8 +57,8 @@
       "source": "GitHub New Repos: ai agent"
     },
     "akash": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.222571+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:18.327375+00:00",
       "fragment_status": "Taken",
       "project": "Akash Network",
       "score": 100,
@@ -216,6 +224,14 @@
       "score": 89,
       "source": "DexScreener Top Boosts"
     },
+    "anear": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.733788+00:00",
+      "fragment_status": "Auction",
+      "project": "A near-zero-dependency Java UI",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
     "antafrom": {
       "cache_version": 4,
       "checked_at": "2026-05-09T09:31:27.222289+00:00",
@@ -224,17 +240,33 @@
       "score": 72,
       "source": "Hacker News Show HN"
     },
+    "arlo": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.889455+00:00",
+      "fragment_status": "Auction",
+      "project": "Arlo",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
+    "arloai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.997869+00:00",
+      "fragment_status": "Taken",
+      "project": "Arlo",
+      "score": 91,
+      "source": "Hacker News Show HN"
+    },
     "aura": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:04.434928+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:16.543917+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "auraai": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:04.547207+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:16.650514+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
@@ -320,9 +352,25 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "avax": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.398262+00:00",
+      "fragment_status": "Taken",
+      "project": "AVAX",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "avaxai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.507459+00:00",
+      "fragment_status": "Taken",
+      "project": "AVAX",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "based": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.450689+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.802867+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 97,
@@ -416,9 +464,49 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "bitget": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.149574+00:00",
+      "fragment_status": "Taken",
+      "project": "Bitget",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "bitkub": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.276442+00:00",
+      "fragment_status": "Taken",
+      "project": "Bitkub",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "bitmex": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.826921+00:00",
+      "fragment_status": "Taken",
+      "project": "Bitmex",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "btcb": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.973939+00:00",
+      "fragment_status": "Auction",
+      "project": "BTCB",
+      "score": 93,
+      "source": "CoinPaprika Coins"
+    },
+    "btcbai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.079234+00:00",
+      "fragment_status": "Auction",
+      "project": "BTCB",
+      "score": 97,
+      "source": "CoinPaprika Coins"
+    },
     "bully": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.908145+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:22.319635+00:00",
       "fragment_status": "Taken",
       "project": "Bully",
       "score": 100,
@@ -448,13 +536,37 @@
       "score": 91,
       "source": "DexScreener Top Boosts"
     },
+    "bybit": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.910353+00:00",
+      "fragment_status": "Taken",
+      "project": "Bybit",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
     "cadara": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.797742+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:22.206966+00:00",
       "fragment_status": "Taken",
       "project": "CADara",
       "score": 92,
       "source": "Hacker News Show HN"
+    },
+    "canton": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.519285+00:00",
+      "fragment_status": "Taken",
+      "project": "Canton Network",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "cbbtc": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.296926+00:00",
+      "fragment_status": "Taken",
+      "project": "CBBTC",
+      "score": 93,
+      "source": "CoinPaprika Coins"
     },
     "claudeseviltwin": {
       "cache_version": 3,
@@ -488,33 +600,73 @@
       "score": 81,
       "source": "DexScreener Boosts"
     },
+    "clipd": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.779109+00:00",
+      "fragment_status": "Auction",
+      "project": "Clipd",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
+    "coord": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.174183+00:00",
+      "fragment_status": "Taken",
+      "project": "Coord",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
+    "crit": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.321258+00:00",
+      "fragment_status": "Auction",
+      "project": "Crit",
+      "score": 89,
+      "source": "Hacker News Show HN"
+    },
+    "critai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.429599+00:00",
+      "fragment_status": "Taken",
+      "project": "Crit",
+      "score": 93,
+      "source": "Hacker News Show HN"
+    },
+    "crypto": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.674305+00:00",
+      "fragment_status": "Taken",
+      "project": "Crypto-com",
+      "score": 93,
+      "source": "DeFiLlama Protocols"
+    },
     "cyoda": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:07.457012+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.883484+00:00",
       "fragment_status": "Unavailable",
       "project": "Cyoda-go",
       "score": 87,
       "source": "Hacker News Show HN"
     },
     "digits": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:04.997654+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.733545+00:00",
       "fragment_status": "Taken",
       "project": "Digits",
       "score": 87,
       "source": "Hacker News Show HN"
     },
     "docs": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.771233+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.822310+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 87,
       "source": "DexScreener Profiles"
     },
     "docsai": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.882412+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.927661+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 91,
@@ -535,6 +687,38 @@
       "project": "Docs",
       "score": 85,
       "source": "DexScreener Profiles"
+    },
+    "doge": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.337675+00:00",
+      "fragment_status": "Taken",
+      "project": "DOGE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "dogeai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.447783+00:00",
+      "fragment_status": "Taken",
+      "project": "DOGE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "falcon": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.192825+00:00",
+      "fragment_status": "Taken",
+      "project": "Falcon Finance",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "fides": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.281610+00:00",
+      "fragment_status": "Taken",
+      "project": "fides protocol",
+      "score": 100,
+      "source": "GitHub New Repos: solana"
     },
     "flyingtesticles": {
       "cache_version": 3,
@@ -567,6 +751,30 @@
       "project": "flying testicles",
       "score": 71,
       "source": "DexScreener Profiles"
+    },
+    "gate": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.121662+00:00",
+      "fragment_status": "Taken",
+      "project": "Gate",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "gateai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.227686+00:00",
+      "fragment_status": "Auction",
+      "project": "Gate",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "gemini": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.581530+00:00",
+      "fragment_status": "Taken",
+      "project": "Gemini",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
     },
     "getaimaxxing": {
       "cache_version": 2,
@@ -856,6 +1064,38 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "gocoon": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.625065+00:00",
+      "fragment_status": "Taken",
+      "project": "gocoon",
+      "score": 100,
+      "source": "GitHub New Repos: ton"
+    },
+    "grove": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.349552+00:00",
+      "fragment_status": "Taken",
+      "project": "Grove Finance",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "hbar": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.085288+00:00",
+      "fragment_status": "Auction",
+      "project": "HBAR",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "hbarai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.190356+00:00",
+      "fragment_status": "Auction",
+      "project": "HBAR",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "hiadelfhitlur": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:24:54.010565+00:00",
@@ -887,6 +1127,14 @@
       "project": "Hi, Adelf Hitlur",
       "score": 89,
       "source": "DexScreener Top Boosts"
+    },
+    "hpkeng": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.010406+00:00",
+      "fragment_status": "Unavailable",
+      "project": "hpke ng",
+      "score": 100,
+      "source": "GitHub New Repos: crypto"
     },
     "humad": {
       "cache_version": 5,
@@ -920,6 +1168,22 @@
       "score": 85,
       "source": "Hacker News Show HN"
     },
+    "hype": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.778055+00:00",
+      "fragment_status": "Taken",
+      "project": "HYPE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "hypeai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.885549+00:00",
+      "fragment_status": "Taken",
+      "project": "HYPE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "internetcomputer": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:25:04.138524+00:00",
@@ -951,6 +1215,22 @@
       "project": "Internet Computer",
       "score": 89,
       "source": "CoinGecko Trending"
+    },
+    "kelp": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.730777+00:00",
+      "fragment_status": "Auction",
+      "project": "Kelp",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "kelpai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.840086+00:00",
+      "fragment_status": "Taken",
+      "project": "Kelp",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
     },
     "kfcwherealienseat": {
       "cache_version": 3,
@@ -984,6 +1264,46 @@
       "score": 59,
       "source": "DexScreener Profiles"
     },
+    "kucoin": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:22.665344+00:00",
+      "fragment_status": "Unavailable",
+      "project": "KuCoin",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "lido": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.080987+00:00",
+      "fragment_status": "Auction",
+      "project": "Lido",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "lidoai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.282368+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Lido",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "link": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.750022+00:00",
+      "fragment_status": "Taken",
+      "project": "LINK",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "linkai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.864369+00:00",
+      "fragment_status": "Taken",
+      "project": "LINK",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "luncreload": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:27.601300+00:00",
@@ -1016,6 +1336,38 @@
       "score": 79,
       "source": "DexScreener Profiles"
     },
+    "mantle": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.451760+00:00",
+      "fragment_status": "Taken",
+      "project": "Mantle",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "maple": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.989880+00:00",
+      "fragment_status": "Taken",
+      "project": "Maple",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "mexc": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.554140+00:00",
+      "fragment_status": "Taken",
+      "project": "MEXC",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "mexcai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.670076+00:00",
+      "fragment_status": "Auction",
+      "project": "MEXC",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
     "mirage": {
       "cache_version": 7,
       "checked_at": "2026-05-09T09:52:07.022304+00:00",
@@ -1023,6 +1375,14 @@
       "project": "mirage",
       "score": 100,
       "source": "GitHub New Repos: ai agent"
+    },
+    "mobile": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.167886+00:00",
+      "fragment_status": "Taken",
+      "project": "Mobile-ink, an open-source mobile",
+      "score": 87,
+      "source": "Hacker News Show HN"
     },
     "monad": {
       "cache_version": 5,
@@ -1056,17 +1416,25 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "monero": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.397826+00:00",
+      "fragment_status": "Taken",
+      "project": "Monero",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
     "nexa": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.560949+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.906983+00:00",
       "fragment_status": "Auction",
       "project": "Nexa-gauge",
       "score": 87,
       "source": "Hacker News Show HN"
     },
     "nexaai": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.682641+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.013694+00:00",
       "fragment_status": "Taken",
       "project": "Nexa-gauge",
       "score": 91,
@@ -1088,17 +1456,49 @@
       "score": 85,
       "source": "Hacker News Show HN"
     },
+    "notion": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.711633+00:00",
+      "fragment_status": "Taken",
+      "project": "Notion-to-site",
+      "score": 88,
+      "source": "Hacker News Show HN"
+    },
+    "obol": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.960292+00:00",
+      "fragment_status": "Auction",
+      "project": "Obol",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "obolai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.070764+00:00",
+      "fragment_status": "Auction",
+      "project": "Obol",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "ocelot": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.613276+00:00",
+      "fragment_status": "Auction",
+      "project": "Ocelot",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
     "ondo": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:04.659276+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:16.869851+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "ondoai": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:04.771906+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:16.974748+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
@@ -1120,21 +1520,53 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "oslhk": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.538622+00:00",
+      "fragment_status": "Taken",
+      "project": "OSL HK",
+      "score": 93,
+      "source": "DeFiLlama Protocols"
+    },
     "ovlt": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.443999+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.504834+00:00",
       "fragment_status": "Auction",
       "project": "Ovlt",
       "score": 88,
       "source": "Hacker News Show HN"
     },
     "ovltai": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.656530+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.715283+00:00",
       "fragment_status": "Unavailable",
       "project": "Ovlt",
       "score": 92,
       "source": "Hacker News Show HN"
+    },
+    "paxg": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.560132+00:00",
+      "fragment_status": "Taken",
+      "project": "PAXG",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "paxgai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.667833+00:00",
+      "fragment_status": "Taken",
+      "project": "PAXG",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "pendle": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.300943+00:00",
+      "fragment_status": "Taken",
+      "project": "Pendle",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
     },
     "pharos": {
       "cache_version": 7,
@@ -1167,6 +1599,22 @@
       "project": "Pharos",
       "score": 99,
       "source": "CoinGecko Trending"
+    },
+    "portal": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.203058+00:00",
+      "fragment_status": "Taken",
+      "project": "Portal",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "prism": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.410005+00:00",
+      "fragment_status": "Taken",
+      "project": "Prism",
+      "score": 87,
+      "source": "Hacker News Show HN"
     },
     "pudgypenguins": {
       "cache_version": 2,
@@ -1232,6 +1680,22 @@
       "score": 81,
       "source": "DexScreener Boosts"
     },
+    "rain": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.949498+00:00",
+      "fragment_status": "Taken",
+      "project": "RAIN",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "rainai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:29.065797+00:00",
+      "fragment_status": "Taken",
+      "project": "RAIN",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "rememberwhoyouare": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:32.719715+00:00",
@@ -1264,9 +1728,33 @@
       "score": 81,
       "source": "DexScreener Boosts"
     },
+    "rfpai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.849704+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Rfp.ai",
+      "score": 97,
+      "source": "Hacker News Show HN"
+    },
+    "shib": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.405042+00:00",
+      "fragment_status": "Taken",
+      "project": "SHIB",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "shibai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.518361+00:00",
+      "fragment_status": "Taken",
+      "project": "SHIB",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "showhn": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.105813+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.254834+00:00",
       "fragment_status": "Taken",
       "project": "ShowHN",
       "score": 88,
@@ -1278,6 +1766,14 @@
       "fragment_status": "Unavailable",
       "project": "ShowHN",
       "score": 86,
+      "source": "Hacker News Show HN"
+    },
+    "slate": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.840456+00:00",
+      "fragment_status": "Taken",
+      "project": "Slate",
+      "score": 87,
       "source": "Hacker News Show HN"
     },
     "solisripping": {
@@ -1312,6 +1808,54 @@
       "score": 71,
       "source": "DexScreener Profiles"
     },
+    "spiko": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.291457+00:00",
+      "fragment_status": "Auction",
+      "project": "Spiko",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "steth": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.692390+00:00",
+      "fragment_status": "Taken",
+      "project": "STETH",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "susde": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.598268+00:00",
+      "fragment_status": "Taken",
+      "project": "SUSDE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "susds": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:28.626174+00:00",
+      "fragment_status": "Taken",
+      "project": "sUSDS",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "swaps": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.644948+00:00",
+      "fragment_status": "Taken",
+      "project": "swaps",
+      "score": 100,
+      "source": "GitHub New Repos: solana"
+    },
+    "tether": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:18.020473+00:00",
+      "fragment_status": "Taken",
+      "project": "Tether",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "thenietzscheanwallaby": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:22.998053+00:00",
@@ -1343,6 +1887,30 @@
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
+    },
+    "tltv": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.324167+00:00",
+      "fragment_status": "Auction",
+      "project": "tltv",
+      "score": 76,
+      "source": "Hacker News Show HN"
+    },
+    "tltvai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.529462+00:00",
+      "fragment_status": "Unavailable",
+      "project": "tltv",
+      "score": 80,
+      "source": "Hacker News Show HN"
+    },
+    "tonal": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.181450+00:00",
+      "fragment_status": "Auction",
+      "project": "tonal",
+      "score": 89,
+      "source": "GitHub New Repos: ton"
     },
     "toncoin": {
       "cache_version": 4,
@@ -1376,9 +1944,25 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "tron": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.366083+00:00",
+      "fragment_status": "Taken",
+      "project": "TRON",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "tronai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.473785+00:00",
+      "fragment_status": "Taken",
+      "project": "TRON",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "tuxedo": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:07.134209+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.021408+00:00",
       "fragment_status": "Taken",
       "project": "Tuxedo",
       "score": 88,
@@ -1416,9 +2000,129 @@
       "score": 100,
       "source": "DexScreener Top Boosts"
     },
+    "usd1": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.108210+00:00",
+      "fragment_status": "Taken",
+      "project": "USD1",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usd1ai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:30.215001+00:00",
+      "fragment_status": "Taken",
+      "project": "USD1",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdc": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.175991+00:00",
+      "fragment_status": "Taken",
+      "project": "USDC",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdcai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:19.283847+00:00",
+      "fragment_status": "Auction",
+      "project": "USDC",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdd": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.384072+00:00",
+      "fragment_status": "Taken",
+      "project": "USDD",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "usddai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.493429+00:00",
+      "fragment_status": "Taken",
+      "project": "USDD",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "usde": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:25.949716+00:00",
+      "fragment_status": "Taken",
+      "project": "USDE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdeai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:26.059411+00:00",
+      "fragment_status": "Auction",
+      "project": "USDE",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usds": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:21.991029+00:00",
+      "fragment_status": "Auction",
+      "project": "USDS",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdsai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:22.099337+00:00",
+      "fragment_status": "Auction",
+      "project": "USDS",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdt": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.498621+00:00",
+      "fragment_status": "Taken",
+      "project": "USDT",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "usdt0": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:22.430618+00:00",
+      "fragment_status": "Taken",
+      "project": "USDT0",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "usdtai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.609182+00:00",
+      "fragment_status": "Taken",
+      "project": "USDT",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "veda": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.774475+00:00",
+      "fragment_status": "Auction",
+      "project": "Veda",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
+    "vedaai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:27.976769+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Veda",
+      "score": 100,
+      "source": "DeFiLlama Protocols"
+    },
     "venice": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:04.883650+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:16.758134+00:00",
       "fragment_status": "Taken",
       "project": "Venice Token",
       "score": 100,
@@ -1456,17 +2160,33 @@
       "score": 99,
       "source": "GitHub New Repos: telegram bot"
     },
+    "wbtc": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:18.452063+00:00",
+      "fragment_status": "Auction",
+      "project": "WBTC",
+      "score": 93,
+      "source": "DeFiLlama Protocols"
+    },
+    "wbtcai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:18.658438+00:00",
+      "fragment_status": "Unavailable",
+      "project": "WBTC",
+      "score": 97,
+      "source": "DeFiLlama Protocols"
+    },
     "web3": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.221771+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.129114+00:00",
       "fragment_status": "Taken",
       "project": "Web3 ",
       "score": 91,
       "source": "GitHub New Repos: web3"
     },
     "web3ai": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:06.333571+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.234945+00:00",
       "fragment_status": "Taken",
       "project": "Web3 ",
       "score": 95,
@@ -1488,9 +2208,33 @@
       "score": 89,
       "source": "GitHub New Repos: web3"
     },
+    "weeth": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:24.643831+00:00",
+      "fragment_status": "Auction",
+      "project": "WEETH",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "weth": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.457806+00:00",
+      "fragment_status": "Auction",
+      "project": "WETH",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "wethai": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:23.567931+00:00",
+      "fragment_status": "Auction",
+      "project": "WETH",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "wojak": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.111647+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:17.389340+00:00",
       "fragment_status": "Taken",
       "project": "wojak",
       "score": 100,
@@ -1520,9 +2264,17 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "wsteth": {
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:22.910525+00:00",
+      "fragment_status": "Unavailable",
+      "project": "WSTETH",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
     "zcash": {
-      "cache_version": 7,
-      "checked_at": "2026-05-09T09:52:05.334952+00:00",
+      "cache_version": 8,
+      "checked_at": "2026-05-09T10:00:20.036867+00:00",
       "fragment_status": "Taken",
       "project": "Zcash",
       "score": 100,
