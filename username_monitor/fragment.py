@@ -38,7 +38,7 @@ class FragmentClient:
             return FragmentResult(username=username, status="Unknown", url=url)
 
         if response.status_code == 404:
-            return FragmentResult(username=username, status="Available", url=url)
+            return FragmentResult(username=username, status="No Fragment listing", url=url)
         if response.status_code >= 400:
             return FragmentResult(username=username, status=f"HTTP {response.status_code}", url=url)
 
