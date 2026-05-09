@@ -320,6 +320,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "stellar": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:32:27.196284+00:00",
+      "fragment_status": "Taken",
+      "project": "Stellar",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
     "telcoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:23:16.628343+00:00",
