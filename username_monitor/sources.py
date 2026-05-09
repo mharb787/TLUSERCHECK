@@ -6,10 +6,12 @@ from urllib.parse import quote
 
 import requests
 
+from .cleaner import extract_plain_word
 from .english_words import ENGLISH_WORDS
 from .models import Project
 
 LOGGER = logging.getLogger(__name__)
+ENGLISH_WORDS_URL = "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt"
 
 
 class SourceClient:
@@ -28,6 +30,11 @@ class SourceClient:
         response = self.session.get(url, timeout=self.timeout)
         response.raise_for_status()
         return response.json()
+
+    def _get_text(self, url: str) -> str:
+        response = self.session.get(url, timeout=self.timeout)
+        response.raise_for_status()
+        return response.text
 
     def _dexscreener_latest_profiles(self) -> List[Project]:
         url = "https://api.dexscreener.com/token-profiles/latest/v1"
@@ -213,16 +220,40 @@ class SourceClient:
         return projects
 
     def _english_words(self) -> List[Project]:
+        words = self._load_english_words()
         return [
             Project(
                 name=word,
                 symbol="",
-                source="English Wordlist",
+                source="English Dictionary",
                 url=None,
                 raw_strength=8.0,
             )
-            for word in ENGLISH_WORDS
+            for word in words
         ]
+
+    def _load_english_words(self) -> List[str]:
+        words: List[str] = []
+        seen = set()
+
+        try:
+            text = self._get_text(ENGLISH_WORDS_URL)
+            for line in text.splitlines():
+                word = extract_plain_word(line.strip())
+                if word and word not in seen:
+                    seen.add(word)
+                    words.append(word)
+        except requests.RequestException as exc:
+            LOGGER.warning("English dictionary download failed: %s", exc)
+
+        for fallback_word in ENGLISH_WORDS:
+            word = extract_plain_word(fallback_word)
+            if word and word not in seen:
+                seen.add(word)
+                words.append(word)
+
+        LOGGER.info("Loaded %s English dictionary words", len(words))
+        return words
 
 
 def _as_list(data: Any) -> List[Dict[str, Any]]:

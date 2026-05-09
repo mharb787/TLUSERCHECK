@@ -7,7 +7,7 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 ## What It Does
 
 - Runs every 5 minutes with GitHub Actions.
-- Collects candidates only from a short English wordlist.
+- Collects candidates from a large online English dictionary, with a local fallback wordlist.
 - Cleans project names and checks only the plain original word.
 - Does not generate prefixes or suffixes such as `get`, `ai`, `app`, or `pay`.
 - Checks public Fragment username pages only.
@@ -16,7 +16,7 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 - Scores each username from 1 to 100.
 - Only checks plain English-letter words from 6 to 7 characters.
 - Sends up to 10 new Telegram alerts per run by default.
-- Checks up to 600 new usernames per run by default.
+- Checks up to 500 new usernames per run by default.
 - Stores checked usernames in `data/checked_usernames.json` to avoid repeating alerts in future runs.
 
 ## Setup
@@ -51,7 +51,7 @@ Each run sends up to 10 suggestions, or fewer if fewer `unavailable` opportuniti
 | `TELEGRAM_BOT_TOKEN` | empty | Telegram bot token |
 | `TELEGRAM_CHAT_ID` | `12204622` | Telegram chat ID used by the workflow |
 | `MAX_ALERTS_PER_RUN` | `10` | Maximum alerts per workflow run |
-| `MAX_USERNAMES_TO_CHECK` | `600` | Maximum new usernames to check per workflow run |
+| `MAX_USERNAMES_TO_CHECK` | `500` | Maximum new usernames to check per workflow run |
 | `MIN_SCORE` | `81` | Minimum score required for alerts |
 | `REQUEST_TIMEOUT` | `20` | HTTP timeout in seconds |
 | `CACHE_PATH` | `data/checked_usernames.json` | Local username cache path |

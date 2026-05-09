@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from typing import Any, Dict
 
 LOGGER = logging.getLogger(__name__)
-CACHE_VERSION = 10
+CACHE_VERSION = 11
 
 
 class CheckedStore:
