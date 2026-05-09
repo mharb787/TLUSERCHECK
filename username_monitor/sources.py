@@ -22,6 +22,8 @@ class SourceClient:
         cap = 80
         coinpaprika = self._coinpaprika_coins()
         random.shuffle(coinpaprika)
+        english_words = self._english_words()
+        random.shuffle(english_words)
         source_batches = [
             self._dexscreener_latest_profiles()[:cap],
             self._coingecko_trending()[:cap],
@@ -30,6 +32,7 @@ class SourceClient:
             self._defillama_protocols()[:cap],
             self._github_new_repositories()[:cap],
             (self._dexscreener_boosts("latest") + self._dexscreener_boosts("top"))[:cap],
+            english_words[:cap],
         ]
         return _dedupe_projects(_round_robin(source_batches))
 
@@ -223,6 +226,19 @@ class SourceClient:
                     )
                 )
         return projects
+
+    def _english_words(self) -> List[Project]:
+        url = "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("English words failed: %s", exc)
+            return []
+        words = [w.strip() for w in text.splitlines() if 5 <= len(w.strip()) <= 10 and w.strip().isalpha()]
+        return [
+            Project(name=word, symbol="", source="English Words", raw_strength=1.0)
+            for word in words
+        ]
 
 def _as_list(data: Any) -> List[Dict[str, Any]]:
     if isinstance(data, list):
