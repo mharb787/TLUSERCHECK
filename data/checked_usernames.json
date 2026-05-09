@@ -192,6 +192,102 @@
       "score": 89,
       "source": "DexScreener Top Boosts"
     },
+    "aura": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.207230+00:00",
+      "fragment_status": "Taken",
+      "project": "aura",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "auraai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.556665+00:00",
+      "fragment_status": "Taken",
+      "project": "aura",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "auraapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.445143+00:00",
+      "fragment_status": "Auction",
+      "project": "aura",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "aurahouse": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:54.203697+00:00",
+      "fragment_status": "Auction",
+      "project": "aurahouse",
+      "score": 81,
+      "source": "DexScreener Profiles"
+    },
+    "aurahouseai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:54.870544+00:00",
+      "fragment_status": "Auction",
+      "project": "aurahouse",
+      "score": 79,
+      "source": "DexScreener Profiles"
+    },
+    "aurahouseapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:54.638419+00:00",
+      "fragment_status": "Auction",
+      "project": "aurahouse",
+      "score": 69,
+      "source": "DexScreener Profiles"
+    },
+    "aurahousepay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.087551+00:00",
+      "fragment_status": "Auction",
+      "project": "aurahouse",
+      "score": 79,
+      "source": "DexScreener Profiles"
+    },
+    "auramaxxing": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:53.225309+00:00",
+      "fragment_status": "Taken",
+      "project": "auramaxxing",
+      "score": 75,
+      "source": "DexScreener Profiles"
+    },
+    "auramaxxingai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:53.873423+00:00",
+      "fragment_status": "Auction",
+      "project": "auramaxxing",
+      "score": 79,
+      "source": "DexScreener Profiles"
+    },
+    "auramaxxingapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:53.658466+00:00",
+      "fragment_status": "Auction",
+      "project": "auramaxxing",
+      "score": 69,
+      "source": "DexScreener Profiles"
+    },
+    "auramaxxingpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:54.088273+00:00",
+      "fragment_status": "Auction",
+      "project": "auramaxxing",
+      "score": 79,
+      "source": "DexScreener Profiles"
+    },
+    "aurapay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.673875+00:00",
+      "fragment_status": "Taken",
+      "project": "aura",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
     "based": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:24:46.173351+00:00",
@@ -262,6 +358,30 @@
       "fragment_status": "Taken",
       "project": "Bitcoin",
       "score": 99,
+      "source": "CoinGecko Trending"
+    },
+    "bitcoinai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.901149+00:00",
+      "fragment_status": "Taken",
+      "project": "Bitcoin",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "bitcoinapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.786764+00:00",
+      "fragment_status": "Taken",
+      "project": "Bitcoin",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "bitcoinpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:56.015699+00:00",
+      "fragment_status": "Auction",
+      "project": "Bitcoin",
+      "score": 100,
       "source": "CoinGecko Trending"
     },
     "bully": {
@@ -408,6 +528,30 @@
       "score": 89,
       "source": "DexScreener Top Boosts"
     },
+    "getaura": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:55.328117+00:00",
+      "fragment_status": "Taken",
+      "project": "aura",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "getaurahouse": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:54.422991+00:00",
+      "fragment_status": "Auction",
+      "project": "aurahouse",
+      "score": 69,
+      "source": "DexScreener Profiles"
+    },
+    "getauramaxxing": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:53.441527+00:00",
+      "fragment_status": "Auction",
+      "project": "auramaxxing",
+      "score": 69,
+      "source": "DexScreener Profiles"
+    },
     "getbased": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:24:46.559133+00:00",
@@ -551,6 +695,14 @@
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
+    },
+    "gettoncoin": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:56.240699+00:00",
+      "fragment_status": "Auction",
+      "project": "Toncoin",
+      "score": 93,
+      "source": "CoinGecko Trending"
     },
     "getunfazed": {
       "cache_version": 2,
@@ -967,6 +1119,38 @@
       "project": "The Nietzschean Wallaby",
       "score": 59,
       "source": "DexScreener Profiles"
+    },
+    "toncoin": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:56.129211+00:00",
+      "fragment_status": "Taken",
+      "project": "Toncoin",
+      "score": 99,
+      "source": "CoinGecko Trending"
+    },
+    "toncoinai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:56.463977+00:00",
+      "fragment_status": "Taken",
+      "project": "Toncoin",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "toncoinapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:56.352369+00:00",
+      "fragment_status": "Taken",
+      "project": "Toncoin",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "toncoinpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T09:03:56.581122+00:00",
+      "fragment_status": "Auction",
+      "project": "Toncoin",
+      "score": 100,
+      "source": "CoinGecko Trending"
     },
     "unfazed": {
       "cache_version": 2,
