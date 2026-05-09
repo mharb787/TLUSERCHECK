@@ -17,14 +17,15 @@ class SourceClient:
         self.session.headers.update({"User-Agent": user_agent, "Accept": "application/json"})
 
     def collect_projects(self) -> List[Project]:
-        projects: List[Project] = []
-        projects.extend(self._dexscreener_latest_profiles())
-        projects.extend(self._dexscreener_boosts("latest"))
-        projects.extend(self._dexscreener_boosts("top"))
-        projects.extend(self._coingecko_trending())
-        projects.extend(self._hacker_news_show_hn())
-        projects.extend(self._github_new_repositories())
-        return _dedupe_projects(projects)
+        source_batches = [
+            self._dexscreener_latest_profiles(),
+            self._coingecko_trending(),
+            self._hacker_news_show_hn(),
+            self._github_new_repositories(),
+            self._dexscreener_boosts("latest"),
+            self._dexscreener_boosts("top"),
+        ]
+        return _dedupe_projects(_round_robin(source_batches))
 
     def _get_json(self, url: str) -> Any:
         response = self.session.get(url, timeout=self.timeout)
@@ -221,4 +222,14 @@ def _dedupe_projects(projects: Iterable[Project]) -> List[Project]:
             continue
         seen.add(key)
         result.append(project)
+    return result
+
+
+def _round_robin(batches: List[List[Project]]) -> List[Project]:
+    result: List[Project] = []
+    max_len = max((len(batch) for batch in batches), default=0)
+    for index in range(max_len):
+        for batch in batches:
+            if index < len(batch):
+                result.append(batch[index])
     return result

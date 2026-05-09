@@ -31,6 +31,7 @@ BAD_WORDS = {
     "hn",
 }
 
+MAX_USERNAME_LENGTH = 8
 USERNAME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9_]{3,31}$")
 
 
@@ -45,7 +46,7 @@ def clean_project_name(value: str) -> str:
 
 
 def is_quality_base(base: str) -> bool:
-    if len(base) < 4 or len(base) > 24:
+    if len(base) < 4 or len(base) > MAX_USERNAME_LENGTH:
         return False
     if base.isdigit():
         return False
@@ -71,7 +72,8 @@ def username_variations(project_name: str) -> List[str]:
     seen = set()
     cleaned: List[str] = []
     for candidate in candidates:
-        candidate = candidate[:32]
+        if len(candidate) > MAX_USERNAME_LENGTH:
+            continue
         if candidate not in seen and USERNAME_RE.match(candidate):
             seen.add(candidate)
             cleaned.append(candidate)
