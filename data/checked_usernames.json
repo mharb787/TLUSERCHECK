@@ -417,25 +417,25 @@
       "source": "DexScreener Top Boosts"
     },
     "claudeseviltwin": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:31.102923+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:44.982484+00:00",
+      "fragment_status": "Unavailable",
       "project": "Claude's Evil Twin",
       "score": 77,
       "source": "DexScreener Boosts"
     },
     "claudeseviltwinai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:32.185263+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:45.920141+00:00",
+      "fragment_status": "Unavailable",
       "project": "Claude's Evil Twin",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "claudeseviltwinapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:31.805524+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:45.610515+00:00",
+      "fragment_status": "Unavailable",
       "project": "Claude's Evil Twin",
       "score": 71,
       "source": "DexScreener Boosts"
@@ -447,6 +447,38 @@
       "project": "Claude's Evil Twin",
       "score": 81,
       "source": "DexScreener Boosts"
+    },
+    "docs": {
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:42.285344+00:00",
+      "fragment_status": "Taken",
+      "project": "Docs",
+      "score": 87,
+      "source": "DexScreener Profiles"
+    },
+    "docsai": {
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:42.789263+00:00",
+      "fragment_status": "Taken",
+      "project": "Docs",
+      "score": 91,
+      "source": "DexScreener Profiles"
+    },
+    "docsapp": {
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:42.612570+00:00",
+      "fragment_status": "Auction",
+      "project": "Docs",
+      "score": 75,
+      "source": "DexScreener Profiles"
+    },
+    "docspay": {
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:43.101463+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Docs",
+      "score": 85,
+      "source": "DexScreener Profiles"
     },
     "flyingtesticles": {
       "cache_version": 3,
@@ -585,12 +617,20 @@
       "source": "DexScreener Top Boosts"
     },
     "getclaudeseviltwin": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:31.451458+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:45.292964+00:00",
+      "fragment_status": "Unavailable",
       "project": "Claude's Evil Twin",
       "score": 71,
       "source": "DexScreener Boosts"
+    },
+    "getdocs": {
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:42.448719+00:00",
+      "fragment_status": "Auction",
+      "project": "Docs",
+      "score": 75,
+      "source": "DexScreener Profiles"
     },
     "getflyingtesticles": {
       "cache_version": 3,
@@ -665,9 +705,9 @@
       "source": "CoinGecko Trending"
     },
     "getpwattformayor": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:29.700627+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:43.728999+00:00",
+      "fragment_status": "Unavailable",
       "project": "PWATT FOR MAYOR",
       "score": 71,
       "source": "DexScreener Boosts"
@@ -993,33 +1033,33 @@
       "source": "CoinGecko Trending"
     },
     "pwattformayor": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:29.347844+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:43.415213+00:00",
+      "fragment_status": "Unavailable",
       "project": "PWATT FOR MAYOR",
       "score": 85,
       "source": "DexScreener Boosts"
     },
     "pwattformayorai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:30.402426+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:44.359254+00:00",
+      "fragment_status": "Unavailable",
       "project": "PWATT FOR MAYOR",
       "score": 81,
       "source": "DexScreener Boosts"
     },
     "pwattformayorapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:30.053533+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:44.039936+00:00",
+      "fragment_status": "Unavailable",
       "project": "PWATT FOR MAYOR",
       "score": 71,
       "source": "DexScreener Boosts"
     },
     "pwattformayorpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:30.754993+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 3,
+      "checked_at": "2026-05-09T09:15:44.668895+00:00",
+      "fragment_status": "Unavailable",
       "project": "PWATT FOR MAYOR",
       "score": 81,
       "source": "DexScreener Boosts"
