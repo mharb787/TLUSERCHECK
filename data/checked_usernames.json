@@ -32,6 +32,70 @@
       "score": 89,
       "source": "DexScreener Boosts"
     },
+    "aliencoin": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:55.717735+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliencoin",
+      "score": 99,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliencoinai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:56.853938+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliencoin",
+      "score": 97,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliencoinapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:56.475466+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliencoin",
+      "score": 87,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliencoinpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:57.234985+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliencoin",
+      "score": 97,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliensarereal": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:48.506679+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliens are real",
+      "score": 93,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliensarerealai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:49.649590+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliens are real",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliensarerealapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:49.272574+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliens are real",
+      "score": 79,
+      "source": "DexScreener Top Boosts"
+    },
+    "aliensarerealpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:50.028571+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliens are real",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
     "aliun": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:34.407298+00:00",
@@ -95,6 +159,142 @@
       "project": "alpha",
       "score": 85,
       "source": "DexScreener Profiles"
+    },
+    "americaisback": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:52.120876+00:00",
+      "fragment_status": "Auction",
+      "project": "America Is Back",
+      "score": 100,
+      "source": "DexScreener Top Boosts"
+    },
+    "americaisbackai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:53.253498+00:00",
+      "fragment_status": "Auction",
+      "project": "America Is Back",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "americaisbackapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:52.875631+00:00",
+      "fragment_status": "Auction",
+      "project": "America Is Back",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "americaisbackpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:53.633865+00:00",
+      "fragment_status": "Auction",
+      "project": "America Is Back",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "based": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:46.173351+00:00",
+      "fragment_status": "Taken",
+      "project": "Based",
+      "score": 97,
+      "source": "DexScreener Profiles"
+    },
+    "basedai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:46.957146+00:00",
+      "fragment_status": "Taken",
+      "project": "Based",
+      "score": 85,
+      "source": "DexScreener Profiles"
+    },
+    "basedapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:46.758137+00:00",
+      "fragment_status": "Taken",
+      "project": "Based",
+      "score": 85,
+      "source": "DexScreener Profiles"
+    },
+    "basedpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:47.158695+00:00",
+      "fragment_status": "Auction",
+      "project": "Based",
+      "score": 85,
+      "source": "DexScreener Profiles"
+    },
+    "billions": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:06.848069+00:00",
+      "fragment_status": "Taken",
+      "project": "Billions Network",
+      "score": 89,
+      "source": "CoinGecko Trending"
+    },
+    "billionsai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:07.628479+00:00",
+      "fragment_status": "Taken",
+      "project": "Billions Network",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "billionsapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:07.430857+00:00",
+      "fragment_status": "Auction",
+      "project": "Billions Network",
+      "score": 87,
+      "source": "CoinGecko Trending"
+    },
+    "billionspay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:07.823669+00:00",
+      "fragment_status": "Taken",
+      "project": "Billions Network",
+      "score": 97,
+      "source": "CoinGecko Trending"
+    },
+    "bitcoin": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:09.378153+00:00",
+      "fragment_status": "Taken",
+      "project": "Bitcoin",
+      "score": 99,
+      "source": "CoinGecko Trending"
+    },
+    "bully": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:50.227856+00:00",
+      "fragment_status": "Taken",
+      "project": "Bully",
+      "score": 100,
+      "source": "DexScreener Top Boosts"
+    },
+    "bullyai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:51.363386+00:00",
+      "fragment_status": "Auction",
+      "project": "Bully",
+      "score": 100,
+      "source": "DexScreener Top Boosts"
+    },
+    "bullyapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:50.983863+00:00",
+      "fragment_status": "Auction",
+      "project": "Bully",
+      "score": 93,
+      "source": "DexScreener Top Boosts"
+    },
+    "bullypay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:51.741063+00:00",
+      "fragment_status": "Auction",
+      "project": "Bully",
+      "score": 91,
+      "source": "DexScreener Top Boosts"
     },
     "claudeseviltwin": {
       "cache_version": 2,
@@ -168,6 +368,22 @@
       "score": 89,
       "source": "DexScreener Boosts"
     },
+    "getaliencoin": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:56.097028+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliencoin",
+      "score": 87,
+      "source": "DexScreener Top Boosts"
+    },
+    "getaliensarereal": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:48.894144+00:00",
+      "fragment_status": "Auction",
+      "project": "Aliens are real",
+      "score": 79,
+      "source": "DexScreener Top Boosts"
+    },
     "getaliun": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:34.760512+00:00",
@@ -183,6 +399,46 @@
       "project": "alpha",
       "score": 75,
       "source": "DexScreener Profiles"
+    },
+    "getamericaisback": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:52.497874+00:00",
+      "fragment_status": "Auction",
+      "project": "America Is Back",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "getbased": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:46.559133+00:00",
+      "fragment_status": "Auction",
+      "project": "Based",
+      "score": 85,
+      "source": "DexScreener Profiles"
+    },
+    "getbillions": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:07.046133+00:00",
+      "fragment_status": "Taken",
+      "project": "Billions Network",
+      "score": 87,
+      "source": "CoinGecko Trending"
+    },
+    "getbitcoin": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:09.574146+00:00",
+      "fragment_status": "Auction",
+      "project": "Bitcoin",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "getbully": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:50.606648+00:00",
+      "fragment_status": "Auction",
+      "project": "Bully",
+      "score": 93,
+      "source": "DexScreener Top Boosts"
     },
     "getclaudeseviltwin": {
       "cache_version": 2,
@@ -200,6 +456,22 @@
       "score": 49,
       "source": "DexScreener Profiles"
     },
+    "gethiadelfhitlur": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:54.385539+00:00",
+      "fragment_status": "Auction",
+      "project": "Hi, Adelf Hitlur",
+      "score": 79,
+      "source": "DexScreener Top Boosts"
+    },
+    "getinternetcomputer": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:04.515557+00:00",
+      "fragment_status": "Auction",
+      "project": "Internet Computer",
+      "score": 79,
+      "source": "CoinGecko Trending"
+    },
     "getkfcwherealienseat": {
       "cache_version": 2,
       "checked_at": "2026-05-09T08:08:21.564994+00:00",
@@ -215,6 +487,38 @@
       "project": "LUNC reload!",
       "score": 69,
       "source": "DexScreener Profiles"
+    },
+    "getmonad": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:06.056120+00:00",
+      "fragment_status": "Taken",
+      "project": "Monad",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "getondo": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:57.815263+00:00",
+      "fragment_status": "Auction",
+      "project": "Ondo",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "getpharos": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:08.403236+00:00",
+      "fragment_status": "Auction",
+      "project": "Pharos",
+      "score": 89,
+      "source": "CoinGecko Trending"
+    },
+    "getpudgypenguins": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:01.704798+00:00",
+      "fragment_status": "Auction",
+      "project": "Pudgy Penguins",
+      "score": 67,
+      "source": "CoinGecko Trending"
     },
     "getpwattformayor": {
       "cache_version": 2,
@@ -255,6 +559,94 @@
       "project": "UNFAZED",
       "score": 93,
       "source": "DexScreener Top Boosts"
+    },
+    "getvenice": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:00.533704+00:00",
+      "fragment_status": "Auction",
+      "project": "Venice Token",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "getwojak": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:59.176572+00:00",
+      "fragment_status": "Auction",
+      "project": "wojak",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "getzcash": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:03.336226+00:00",
+      "fragment_status": "Auction",
+      "project": "Zcash",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "hiadelfhitlur": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:54.010565+00:00",
+      "fragment_status": "Auction",
+      "project": "Hi, Adelf Hitlur",
+      "score": 93,
+      "source": "DexScreener Top Boosts"
+    },
+    "hiadelfhitlurai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:55.143198+00:00",
+      "fragment_status": "Auction",
+      "project": "Hi, Adelf Hitlur",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "hiadelfhitlurapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:54.764590+00:00",
+      "fragment_status": "Auction",
+      "project": "Hi, Adelf Hitlur",
+      "score": 79,
+      "source": "DexScreener Top Boosts"
+    },
+    "hiadelfhitlurpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:55.521131+00:00",
+      "fragment_status": "Auction",
+      "project": "Hi, Adelf Hitlur",
+      "score": 89,
+      "source": "DexScreener Top Boosts"
+    },
+    "internetcomputer": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:04.138524+00:00",
+      "fragment_status": "Auction",
+      "project": "Internet Computer",
+      "score": 85,
+      "source": "CoinGecko Trending"
+    },
+    "internetcomputerai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:05.268895+00:00",
+      "fragment_status": "Auction",
+      "project": "Internet Computer",
+      "score": 89,
+      "source": "CoinGecko Trending"
+    },
+    "internetcomputerapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:04.892344+00:00",
+      "fragment_status": "Auction",
+      "project": "Internet Computer",
+      "score": 79,
+      "source": "CoinGecko Trending"
+    },
+    "internetcomputerpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:05.659935+00:00",
+      "fragment_status": "Auction",
+      "project": "Internet Computer",
+      "score": 89,
+      "source": "CoinGecko Trending"
     },
     "kfcwherealienseat": {
       "cache_version": 2,
@@ -319,6 +711,134 @@
       "project": "LUNC reload!",
       "score": 79,
       "source": "DexScreener Profiles"
+    },
+    "monad": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:05.860193+00:00",
+      "fragment_status": "Taken",
+      "project": "Monad",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "monadai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:06.451882+00:00",
+      "fragment_status": "Taken",
+      "project": "Monad",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "monadapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:06.254516+00:00",
+      "fragment_status": "Taken",
+      "project": "Monad",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "monadpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:06.649749+00:00",
+      "fragment_status": "Taken",
+      "project": "Monad",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "ondo": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:57.437290+00:00",
+      "fragment_status": "Taken",
+      "project": "Ondo",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "ondoai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:58.216832+00:00",
+      "fragment_status": "Taken",
+      "project": "Ondo",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "ondoapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:58.022084+00:00",
+      "fragment_status": "Auction",
+      "project": "Ondo",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "ondopay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:58.597743+00:00",
+      "fragment_status": "Auction",
+      "project": "Ondo",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "pharos": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:08.021793+00:00",
+      "fragment_status": "Auction",
+      "project": "Pharos",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "pharosai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:08.797666+00:00",
+      "fragment_status": "Taken",
+      "project": "Pharos",
+      "score": 99,
+      "source": "CoinGecko Trending"
+    },
+    "pharosapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:08.601065+00:00",
+      "fragment_status": "Taken",
+      "project": "Pharos",
+      "score": 89,
+      "source": "CoinGecko Trending"
+    },
+    "pharospay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:09.176291+00:00",
+      "fragment_status": "Auction",
+      "project": "Pharos",
+      "score": 99,
+      "source": "CoinGecko Trending"
+    },
+    "pudgypenguins": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:01.322394+00:00",
+      "fragment_status": "Taken",
+      "project": "Pudgy Penguins",
+      "score": 81,
+      "source": "CoinGecko Trending"
+    },
+    "pudgypenguinsai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:02.373740+00:00",
+      "fragment_status": "Auction",
+      "project": "Pudgy Penguins",
+      "score": 77,
+      "source": "CoinGecko Trending"
+    },
+    "pudgypenguinsapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:01.899607+00:00",
+      "fragment_status": "Taken",
+      "project": "Pudgy Penguins",
+      "score": 67,
+      "source": "CoinGecko Trending"
+    },
+    "pudgypenguinspay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:02.754775+00:00",
+      "fragment_status": "Auction",
+      "project": "Pudgy Penguins",
+      "score": 77,
+      "source": "CoinGecko Trending"
     },
     "pwattformayor": {
       "cache_version": 2,
@@ -455,6 +975,126 @@
       "project": "UNFAZED",
       "score": 99,
       "source": "DexScreener Top Boosts"
+    },
+    "unfazedai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:47.920624+00:00",
+      "fragment_status": "Auction",
+      "project": "UNFAZED",
+      "score": 100,
+      "source": "DexScreener Top Boosts"
+    },
+    "unfazedapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:47.539581+00:00",
+      "fragment_status": "Auction",
+      "project": "UNFAZED",
+      "score": 93,
+      "source": "DexScreener Top Boosts"
+    },
+    "unfazedpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:48.306841+00:00",
+      "fragment_status": "Auction",
+      "project": "UNFAZED",
+      "score": 100,
+      "source": "DexScreener Top Boosts"
+    },
+    "venice": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:00.157950+00:00",
+      "fragment_status": "Taken",
+      "project": "Venice Token",
+      "score": 95,
+      "source": "CoinGecko Trending"
+    },
+    "veniceai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:00.924404+00:00",
+      "fragment_status": "Taken",
+      "project": "Venice Token",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "veniceapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:00.728677+00:00",
+      "fragment_status": "Auction",
+      "project": "Venice Token",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "venicepay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:01.123216+00:00",
+      "fragment_status": "Taken",
+      "project": "Venice Token",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "wojak": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:58.797402+00:00",
+      "fragment_status": "Taken",
+      "project": "wojak",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "wojakai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:59.567537+00:00",
+      "fragment_status": "Taken",
+      "project": "wojak",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "wojakapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:59.369947+00:00",
+      "fragment_status": "Auction",
+      "project": "wojak",
+      "score": 93,
+      "source": "CoinGecko Trending"
+    },
+    "wojakpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:24:59.956712+00:00",
+      "fragment_status": "Auction",
+      "project": "wojak",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "zcash": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:02.958838+00:00",
+      "fragment_status": "Taken",
+      "project": "Zcash",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "zcashai": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:03.738053+00:00",
+      "fragment_status": "Auction",
+      "project": "Zcash",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "zcashapp": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:03.541982+00:00",
+      "fragment_status": "Auction",
+      "project": "Zcash",
+      "score": 100,
+      "source": "CoinGecko Trending"
+    },
+    "zcashpay": {
+      "cache_version": 2,
+      "checked_at": "2026-05-09T08:25:03.937116+00:00",
+      "fragment_status": "Auction",
+      "project": "Zcash",
+      "score": 100,
+      "source": "CoinGecko Trending"
     }
   }
 }
