@@ -192,25 +192,33 @@
       "score": 89,
       "source": "DexScreener Top Boosts"
     },
+    "antafrom": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:27.222289+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Ant \u2013 A from-scratch",
+      "score": 72,
+      "source": "Hacker News Show HN"
+    },
     "aura": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:55.207230+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:18.837210+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "auraai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:55.556665+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:19.536392+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "auraapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:55.445143+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:19.306304+00:00",
       "fragment_status": "Auction",
       "project": "aura",
       "score": 93,
@@ -281,48 +289,48 @@
       "source": "DexScreener Profiles"
     },
     "aurapay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:55.673875+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:19.773745+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "based": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:08:00.238540+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:29.070015+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 97,
       "source": "DexScreener Profiles"
     },
     "basedai": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:08:01.214535+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:29.973997+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "basedapp": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:08:00.849032+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:29.744100+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "basedpay": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:08:01.397867+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:30.203388+00:00",
       "fragment_status": "Auction",
       "project": "Based",
       "score": 85,
       "source": "DexScreener Profiles"
     },
     "billions": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:06.848069+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:21.832616+00:00",
       "fragment_status": "Taken",
       "project": "Billions Network",
       "score": 89,
@@ -353,8 +361,8 @@
       "source": "CoinGecko Trending"
     },
     "bitcoin": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:09.378153+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:21.594960+00:00",
       "fragment_status": "Taken",
       "project": "Bitcoin",
       "score": 99,
@@ -449,33 +457,33 @@
       "source": "DexScreener Boosts"
     },
     "docs": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:15:42.285344+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:22.322659+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 87,
       "source": "DexScreener Profiles"
     },
     "docsai": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:15:42.789263+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:23.018468+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 91,
       "source": "DexScreener Profiles"
     },
     "docsapp": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:15:42.612570+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:22.787851+00:00",
       "fragment_status": "Auction",
       "project": "Docs",
       "score": 75,
       "source": "DexScreener Profiles"
     },
     "docspay": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:15:43.101463+00:00",
-      "fragment_status": "Unavailable",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:23.248638+00:00",
+      "fragment_status": "Taken",
       "project": "Docs",
       "score": 85,
       "source": "DexScreener Profiles"
@@ -561,8 +569,8 @@
       "source": "DexScreener Top Boosts"
     },
     "getaura": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:55.328117+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:19.076544+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 93,
@@ -585,8 +593,8 @@
       "source": "DexScreener Profiles"
     },
     "getbased": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:08:00.621157+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:29.514979+00:00",
       "fragment_status": "Unavailable",
       "project": "Based",
       "score": 85,
@@ -625,8 +633,8 @@
       "source": "DexScreener Boosts"
     },
     "getdocs": {
-      "cache_version": 3,
-      "checked_at": "2026-05-09T09:15:42.448719+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:22.551852+00:00",
       "fragment_status": "Auction",
       "project": "Docs",
       "score": 75,
@@ -647,6 +655,14 @@
       "project": "Hi, Adelf Hitlur",
       "score": 79,
       "source": "DexScreener Top Boosts"
+    },
+    "gethumad": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:16.799759+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Hum \u2013 ad-free terminal",
+      "score": 75,
+      "source": "Hacker News Show HN"
     },
     "getinternetcomputer": {
       "cache_version": 2,
@@ -673,17 +689,25 @@
       "source": "DexScreener Profiles"
     },
     "getmonad": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:06.056120+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:23.718920+00:00",
       "fragment_status": "Taken",
       "project": "Monad",
       "score": 93,
       "source": "CoinGecko Trending"
     },
+    "getnexa": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:30.677321+00:00",
+      "fragment_status": "Taken",
+      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
+      "score": 75,
+      "source": "Hacker News Show HN"
+    },
     "getondo": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:57.815263+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:15.210336+00:00",
+      "fragment_status": "Unavailable",
       "project": "Ondo",
       "score": 93,
       "source": "CoinGecko Trending"
@@ -760,18 +784,26 @@
       "score": 93,
       "source": "CoinGecko Trending"
     },
+    "getweb3": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:28.108114+00:00",
+      "fragment_status": "Taken",
+      "project": "Web3 ",
+      "score": 79,
+      "source": "GitHub New Repos: web3"
+    },
     "getwojak": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:59.176572+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:20.454722+00:00",
+      "fragment_status": "Unavailable",
       "project": "wojak",
       "score": 93,
       "source": "CoinGecko Trending"
     },
     "getzcash": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:03.336226+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:25.327797+00:00",
+      "fragment_status": "Unavailable",
       "project": "Zcash",
       "score": 100,
       "source": "CoinGecko Trending"
@@ -807,6 +839,38 @@
       "project": "Hi, Adelf Hitlur",
       "score": 89,
       "source": "DexScreener Top Boosts"
+    },
+    "humad": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:16.356591+00:00",
+      "fragment_status": "Taken",
+      "project": "Hum \u2013 ad-free terminal",
+      "score": 77,
+      "source": "Hacker News Show HN"
+    },
+    "humadai": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:17.688269+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Hum \u2013 ad-free terminal",
+      "score": 85,
+      "source": "Hacker News Show HN"
+    },
+    "humadapp": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:17.245483+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Hum \u2013 ad-free terminal",
+      "score": 75,
+      "source": "Hacker News Show HN"
+    },
+    "humadpay": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:18.133417+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Hum \u2013 ad-free terminal",
+      "score": 85,
+      "source": "Hacker News Show HN"
     },
     "internetcomputer": {
       "cache_version": 2,
@@ -905,65 +969,97 @@
       "source": "DexScreener Profiles"
     },
     "monad": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:05.860193+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:23.487927+00:00",
       "fragment_status": "Taken",
       "project": "Monad",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "monadai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:06.451882+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:24.178957+00:00",
       "fragment_status": "Taken",
       "project": "Monad",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "monadapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:06.254516+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:23.948719+00:00",
       "fragment_status": "Taken",
       "project": "Monad",
       "score": 93,
       "source": "CoinGecko Trending"
     },
     "monadpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:06.649749+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:24.410398+00:00",
       "fragment_status": "Taken",
       "project": "Monad",
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "nexa": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:30.432809+00:00",
+      "fragment_status": "Auction",
+      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
+      "score": 77,
+      "source": "Hacker News Show HN"
+    },
+    "nexaai": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:31.181954+00:00",
+      "fragment_status": "Taken",
+      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
+      "score": 91,
+      "source": "Hacker News Show HN"
+    },
+    "nexaapp": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:30.947447+00:00",
+      "fragment_status": "Auction",
+      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
+      "score": 75,
+      "source": "Hacker News Show HN"
+    },
+    "nexapay": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:31.414308+00:00",
+      "fragment_status": "Auction",
+      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
+      "score": 85,
+      "source": "Hacker News Show HN"
+    },
     "ondo": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:57.437290+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:14.761731+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "ondoai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:58.216832+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:15.674102+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "ondoapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:58.022084+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:15.443019+00:00",
       "fragment_status": "Auction",
       "project": "Ondo",
       "score": 93,
       "source": "CoinGecko Trending"
     },
     "ondopay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:58.597743+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:16.115894+00:00",
+      "fragment_status": "Unavailable",
       "project": "Ondo",
       "score": 100,
       "source": "CoinGecko Trending"
@@ -1096,6 +1192,22 @@
       "score": 81,
       "source": "DexScreener Boosts"
     },
+    "showhn": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:26.250644+00:00",
+      "fragment_status": "Taken",
+      "project": "ShowHN",
+      "score": 88,
+      "source": "Hacker News Show HN"
+    },
+    "showhnai": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:26.775955+00:00",
+      "fragment_status": "Unavailable",
+      "project": "ShowHN",
+      "score": 86,
+      "source": "Hacker News Show HN"
+    },
     "solisripping": {
       "cache_version": 3,
       "checked_at": "2026-05-09T09:08:01.751998+00:00",
@@ -1161,8 +1273,8 @@
       "source": "DexScreener Profiles"
     },
     "toncoin": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T09:03:56.129211+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:24.641551+00:00",
       "fragment_status": "Taken",
       "project": "Toncoin",
       "score": 99,
@@ -1193,8 +1305,8 @@
       "source": "CoinGecko Trending"
     },
     "unfazed": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:08:37.710846+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:22.070905+00:00",
       "fragment_status": "Taken",
       "project": "UNFAZED",
       "score": 99,
@@ -1225,16 +1337,16 @@
       "source": "DexScreener Top Boosts"
     },
     "venice": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:00.157950+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:18.369635+00:00",
       "fragment_status": "Taken",
       "project": "Venice Token",
       "score": 95,
       "source": "CoinGecko Trending"
     },
     "veniceai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:00.924404+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:18.600198+00:00",
       "fragment_status": "Taken",
       "project": "Venice Token",
       "score": 100,
@@ -1256,65 +1368,105 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "walrushf": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:31.858815+00:00",
+      "fragment_status": "Unavailable",
+      "project": "WalrusHF",
+      "score": 99,
+      "source": "GitHub New Repos: telegram bot"
+    },
+    "web3": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:27.460847+00:00",
+      "fragment_status": "Taken",
+      "project": "Web3 ",
+      "score": 91,
+      "source": "GitHub New Repos: web3"
+    },
+    "web3ai": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:28.591908+00:00",
+      "fragment_status": "Taken",
+      "project": "Web3 ",
+      "score": 95,
+      "source": "GitHub New Repos: web3"
+    },
+    "web3app": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:28.346718+00:00",
+      "fragment_status": "Taken",
+      "project": "Web3 ",
+      "score": 79,
+      "source": "GitHub New Repos: web3"
+    },
+    "web3pay": {
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:28.830541+00:00",
+      "fragment_status": "Taken",
+      "project": "Web3 ",
+      "score": 89,
+      "source": "GitHub New Repos: web3"
+    },
     "wojak": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:58.797402+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:20.009261+00:00",
       "fragment_status": "Taken",
       "project": "wojak",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "wojakai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:59.567537+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:20.917468+00:00",
       "fragment_status": "Taken",
       "project": "wojak",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "wojakapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:59.369947+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:20.683551+00:00",
       "fragment_status": "Auction",
       "project": "wojak",
       "score": 93,
       "source": "CoinGecko Trending"
     },
     "wojakpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:24:59.956712+00:00",
-      "fragment_status": "Auction",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:21.358220+00:00",
+      "fragment_status": "Unavailable",
       "project": "wojak",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "zcash": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:02.958838+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:24.887149+00:00",
       "fragment_status": "Taken",
       "project": "Zcash",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "zcashai": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:03.738053+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:25.785828+00:00",
       "fragment_status": "Auction",
       "project": "Zcash",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "zcashapp": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:03.541982+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:25.554977+00:00",
       "fragment_status": "Auction",
       "project": "Zcash",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "zcashpay": {
-      "cache_version": 2,
-      "checked_at": "2026-05-09T08:25:03.937116+00:00",
+      "cache_version": 4,
+      "checked_at": "2026-05-09T09:31:26.014367+00:00",
       "fragment_status": "Auction",
       "project": "Zcash",
       "score": 100,
