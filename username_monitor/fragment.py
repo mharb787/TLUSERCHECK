@@ -46,18 +46,16 @@ class FragmentClient:
 
         text = response.text.lower()
 
+        if "unavailable" in text:
+            if self._is_registered_on_telegram(username):
+                return FragmentResult(username=username, status="Taken in Telegram", url=url)
+            return FragmentResult(username=username, status="Unavailable", url=url)
         if "on auction" in text or "place bid" in text:
             return FragmentResult(username=username, status="Auction", url=url)
         if "sold" in text or "owner" in text:
             return FragmentResult(username=username, status="Taken", url=url)
         if re.search(r"username\s+is\s+available|not\s+found", text):
             return FragmentResult(username=username, status="Available", url=url)
-
-        if "unavailable" in text:
-            if self._is_registered_on_telegram(username):
-                return FragmentResult(username=username, status="Taken in Telegram", url=url)
-            return FragmentResult(username=username, status="Unavailable", url=url)
-
         return FragmentResult(username=username, status="Unknown", url=url)
 
     def _is_registered_on_telegram(self, username: str) -> bool:
