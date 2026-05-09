@@ -1,4 +1,5 @@
 import logging
+import random
 import re
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
@@ -18,16 +19,17 @@ class SourceClient:
         self.session.headers.update({"User-Agent": user_agent, "Accept": "application/json"})
 
     def collect_projects(self) -> List[Project]:
-        dex_profiles = self._dexscreener_latest_profiles()
-        dex_boosts = self._dexscreener_boosts("latest") + self._dexscreener_boosts("top")
+        cap = 80
+        coinpaprika = self._coinpaprika_coins()
+        random.shuffle(coinpaprika)
         source_batches = [
-            dex_profiles,
-            self._coingecko_trending(),
-            self._coinpaprika_coins(),
-            self._hacker_news_show_hn(),
-            self._defillama_protocols(),
-            self._github_new_repositories(),
-            dex_boosts,
+            self._dexscreener_latest_profiles()[:cap],
+            self._coingecko_trending()[:cap],
+            coinpaprika[:cap],
+            self._hacker_news_show_hn()[:cap],
+            self._defillama_protocols()[:cap],
+            self._github_new_repositories()[:cap],
+            (self._dexscreener_boosts("latest") + self._dexscreener_boosts("top"))[:cap],
         ]
         return _dedupe_projects(_round_robin(source_batches))
 
