@@ -37,6 +37,8 @@ def run() -> None:
     status_counts: Counter[str] = Counter()
 
     for project in projects:
+        if project.raw_strength < config.min_project_strength:
+            continue
         for username in username_variations(project.name):
             key = username.lower()
             if key in checked_this_run or store.seen(username):

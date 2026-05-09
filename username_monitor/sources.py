@@ -163,12 +163,12 @@ class SourceClient:
         for item in _as_list(data):
             if not item.get("is_active", False):
                 continue
+            rank = item.get("rank") or 0
+            if not isinstance(rank, int) or rank <= 0 or rank > 200:
+                continue
             name = item.get("name") or ""
             symbol = item.get("symbol") or ""
-            rank = item.get("rank") or 0
-            strength = 0.0
-            if isinstance(rank, int) and rank > 0:
-                strength = max(0.0, 25.0 - min(rank, 500) / 20)
+            strength = max(0.0, 25.0 - rank / 10)
             projects.append(
                 Project(
                     name=name,
