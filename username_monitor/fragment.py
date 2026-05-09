@@ -43,10 +43,16 @@ class FragmentClient:
             return FragmentResult(username=username, status=f"HTTP {response.status_code}", url=url)
 
         text = response.text.lower()
-        if "unavailable" in text:
-            return FragmentResult(username=username, status="Unavailable", url=url)
+        LOGGER.debug("Fragment HTML snippet for @%s: %s", username, text[:800])
+        has_price = bool(re.search(r"\d+(\.\d+)?\s*ton", text))
+        has_buy = any(p in text for p in ("btn-buy", "buy now", "buy username", "buy for", "add to cart"))
+
         if "on auction" in text or "place bid" in text:
             return FragmentResult(username=username, status="Auction", url=url)
+        if "unavailable" in text and (has_price or has_buy):
+            return FragmentResult(username=username, status="Unavailable", url=url)
+        if "unavailable" in text:
+            return FragmentResult(username=username, status="Taken in Telegram", url=url)
         if "sold" in text or "owner" in text:
             return FragmentResult(username=username, status="Taken", url=url)
         if re.search(r"username\s+is\s+available|not\s+found", text):
