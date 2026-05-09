@@ -43,10 +43,10 @@ class FragmentClient:
             return FragmentResult(username=username, status=f"HTTP {response.status_code}", url=url)
 
         text = response.text.lower()
-        if "on auction" in text or "place bid" in text:
-            return FragmentResult(username=username, status="Auction", url=url)
         if "unavailable" in text:
             return FragmentResult(username=username, status="Unavailable", url=url)
+        if "on auction" in text or "place bid" in text:
+            return FragmentResult(username=username, status="Auction", url=url)
         if "sold" in text or "owner" in text:
             return FragmentResult(username=username, status="Taken", url=url)
         if re.search(r"username\s+is\s+available|not\s+found", text):
