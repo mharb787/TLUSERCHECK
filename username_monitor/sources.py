@@ -20,15 +20,7 @@ class SourceClient:
 
     def collect_projects(self) -> List[Project]:
         source_batches = [
-            self._dexscreener_latest_profiles(),
-            self._coingecko_trending(),
-            self._defillama_protocols(),
-            self._coinpaprika_coins(),
             self._english_words(),
-            self._hacker_news_show_hn(),
-            self._github_new_repositories(),
-            self._dexscreener_boosts("latest"),
-            self._dexscreener_boosts("top"),
         ]
         return _dedupe_projects(_round_robin(source_batches))
 
