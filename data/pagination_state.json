@@ -1,15 +1,15 @@
 {
   "hn_show_hn": {
-    "page": 1
+    "page": 2
   },
   "hn_top": {
-    "page": 1
+    "page": 2
   },
   "github_trending": {
-    "period_index": 1
+    "period_index": 2
   },
   "github_new_repos": {
-    "days_offset": 14
+    "days_offset": 28
   },
   "reddit_startups": {
     "after": null
@@ -30,6 +30,6 @@
     "after": null
   },
   "wikipedia_trending": {
-    "days_offset": 2
+    "days_offset": 3
   }
 }
