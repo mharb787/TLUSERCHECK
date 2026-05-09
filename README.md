@@ -11,6 +11,8 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
   - DexScreener latest token profiles
   - DexScreener latest/top boosts
   - CoinGecko trending coins
+  - DeFiLlama protocols
+  - CoinPaprika active coins
   - Hacker News Show HN launches
   - GitHub repositories created in the last 7 days for crypto/AI/web3 terms
 - Cleans project names and generates username variations:

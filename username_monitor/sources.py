@@ -21,6 +21,8 @@ class SourceClient:
         source_batches = [
             self._dexscreener_latest_profiles(),
             self._coingecko_trending(),
+            self._defillama_protocols(),
+            self._coinpaprika_coins(),
             self._hacker_news_show_hn(),
             self._github_new_repositories(),
             self._dexscreener_boosts("latest"),
@@ -86,7 +88,7 @@ class SourceClient:
         return projects
 
     def _hacker_news_show_hn(self) -> List[Project]:
-        url = "https://hn.algolia.com/api/v1/search_by_date?tags=story&query=Show%20HN&hitsPerPage=40"
+        url = "https://hn.algolia.com/api/v1/search_by_date?tags=story&query=Show%20HN&hitsPerPage=100"
         try:
             data = self._get_json(url)
         except requests.RequestException as exc:
@@ -114,20 +116,84 @@ class SourceClient:
             )
         return projects
 
+    def _defillama_protocols(self) -> List[Project]:
+        url = "https://api.llama.fi/protocols"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("DeFiLlama protocols failed: %s", exc)
+            return []
+
+        projects: List[Project] = []
+        for item in _as_list(data):
+            name = item.get("name") or ""
+            if not name:
+                continue
+            tvl = item.get("tvl") or 0
+            change = item.get("change_1d") or 0
+            strength = min(30.0, max(0.0, float(change)) + min(20.0, float(tvl) / 10_000_000))
+            projects.append(
+                Project(
+                    name=name,
+                    symbol=item.get("symbol", ""),
+                    source="DeFiLlama Protocols",
+                    url=item.get("url"),
+                    raw_strength=strength,
+                )
+            )
+        return projects
+
+    def _coinpaprika_coins(self) -> List[Project]:
+        url = "https://api.coinpaprika.com/v1/coins"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CoinPaprika coins failed: %s", exc)
+            return []
+
+        projects: List[Project] = []
+        for item in _as_list(data):
+            if not item.get("is_active", False):
+                continue
+            name = item.get("name") or ""
+            symbol = item.get("symbol") or ""
+            rank = item.get("rank") or 0
+            strength = 0.0
+            if isinstance(rank, int) and rank > 0:
+                strength = max(0.0, 25.0 - min(rank, 500) / 20)
+            for candidate_name in (symbol, name):
+                if candidate_name:
+                    projects.append(
+                        Project(
+                            name=candidate_name,
+                            symbol=symbol,
+                            source="CoinPaprika Coins",
+                            url=f"https://coinpaprika.com/coin/{item.get('id')}/" if item.get("id") else None,
+                            raw_strength=strength,
+                        )
+                    )
+        return projects
+
     def _github_new_repositories(self) -> List[Project]:
         created_after = (datetime.now(timezone.utc) - timedelta(days=7)).date().isoformat()
         terms = [
             "crypto",
             "web3",
+            "ton",
+            "solana",
+            "base",
             "telegram bot",
             "ai agent",
+            "agent",
             "defi",
+            "swap",
             "wallet",
+            "chain",
         ]
         projects: List[Project] = []
         for term in terms:
             query = quote(f"{term} created:>={created_after}")
-            url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=8"
+            url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=25"
             try:
                 data = self._get_json(url)
             except requests.RequestException as exc:
