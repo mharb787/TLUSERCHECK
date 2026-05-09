@@ -1,15 +1,15 @@
 {
   "hn_show_hn": {
-    "page": 2
+    "page": 3
   },
   "hn_top": {
-    "page": 2
+    "page": 3
   },
   "github_trending": {
-    "period_index": 2
+    "period_index": 0
   },
   "github_new_repos": {
-    "days_offset": 28
+    "days_offset": 42
   },
   "reddit_startups": {
     "after": null
@@ -30,6 +30,165 @@
     "after": null
   },
   "wikipedia_trending": {
-    "days_offset": 3
+    "days_offset": 4
+  },
+  "hn_ask": {
+    "page": 1
+  },
+  "hn_new": {
+    "page": 1
+  },
+  "github_topic_ai": {
+    "days_offset": 14
+  },
+  "github_topic_ml": {
+    "days_offset": 14
+  },
+  "github_topic_llm": {
+    "days_offset": 14
+  },
+  "github_topic_saas": {
+    "days_offset": 14
+  },
+  "github_topic_api": {
+    "days_offset": 14
+  },
+  "github_topic_cli": {
+    "days_offset": 14
+  },
+  "github_topic_devtools": {
+    "days_offset": 14
+  },
+  "github_topic_automation": {
+    "days_offset": 14
+  },
+  "github_topic_productivity": {
+    "days_offset": 14
+  },
+  "github_topic_mobile": {
+    "days_offset": 14
+  },
+  "github_topic_web": {
+    "days_offset": 14
+  },
+  "github_topic_security": {
+    "days_offset": 14
+  },
+  "github_topic_blockchain": {
+    "days_offset": 14
+  },
+  "github_topic_fintech": {
+    "days_offset": 14
+  },
+  "github_topic_healthtech": {
+    "days_offset": 14
+  },
+  "github_topic_education": {
+    "days_offset": 14
+  },
+  "github_topic_gaming": {
+    "days_offset": 14
+  },
+  "github_topic_database": {
+    "days_offset": 14
+  },
+  "github_topic_analytics": {
+    "days_offset": 14
+  },
+  "github_topic_monitoring": {
+    "days_offset": 14
+  },
+  "reddit_programming": {
+    "after": null
+  },
+  "reddit_webdev": {
+    "after": null
+  },
+  "reddit_javascript": {
+    "after": null
+  },
+  "reddit_python": {
+    "after": null
+  },
+  "reddit_golang": {
+    "after": null
+  },
+  "reddit_rust": {
+    "after": null
+  },
+  "reddit_datascience": {
+    "after": null
+  },
+  "reddit_deeplearning": {
+    "after": null
+  },
+  "reddit_singularity": {
+    "after": null
+  },
+  "reddit_Futurology": {
+    "after": null
+  },
+  "reddit_gamedev": {
+    "after": null
+  },
+  "reddit_indiegaming": {
+    "after": null
+  },
+  "reddit_androiddev": {
+    "after": null
+  },
+  "reddit_iphone": {
+    "after": null
+  },
+  "reddit_saas": {
+    "after": null
+  },
+  "reddit_fintech": {
+    "after": null
+  },
+  "reddit_biotech": {
+    "after": null
+  },
+  "reddit_healthtech": {
+    "after": null
+  },
+  "reddit_edtech": {
+    "after": null
+  },
+  "reddit_productivity": {
+    "after": null
+  },
+  "reddit_apps": {
+    "after": null
+  },
+  "reddit_software": {
+    "after": null
+  },
+  "reddit_coding": {
+    "after": null
+  },
+  "reddit_techstartups": {
+    "after": null
+  },
+  "reddit_microsaas": {
+    "after": null
+  },
+  "reddit_InternetIsBeautiful": {
+    "after": null
+  },
+  "reddit_webapps": {
+    "after": null
+  },
+  "reddit_opensource": {
+    "after": null
+  },
+  "reddit_selfhosted": {
+    "after": null
+  },
+  "npm_packages": {
+    "offset": 100
+  },
+  "pypi_packages": {
+    "pypi_offset": 100
   }
 }
