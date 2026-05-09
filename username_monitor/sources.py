@@ -19,9 +19,11 @@ class SourceClient:
         self.session.headers.update({"User-Agent": user_agent, "Accept": "application/json"})
 
     def collect_projects(self) -> List[Project]:
-        cap = 80
+        cap = 120
         coinpaprika = self._coinpaprika_coins()
         random.shuffle(coinpaprika)
+        coingecko_all = self._coingecko_all_coins()
+        random.shuffle(coingecko_all)
         source_batches = [
             self._dexscreener_latest_profiles()[:cap],
             self._coingecko_trending()[:cap],
@@ -30,6 +32,11 @@ class SourceClient:
             self._defillama_protocols()[:cap],
             self._github_new_repositories()[:cap],
             (self._dexscreener_boosts("latest") + self._dexscreener_boosts("top"))[:cap],
+            coingecko_all[:cap],
+            self._github_trending()[:cap],
+            self._producthunt_posts()[:cap],
+            self._reddit_startups()[:cap],
+            self._cryptocompare_coins()[:cap],
         ]
         return _dedupe_projects(_round_robin(source_batches))
 
@@ -222,6 +229,91 @@ class SourceClient:
                         raw_strength=strength,
                     )
                 )
+        return projects
+
+    def _coingecko_all_coins(self) -> List[Project]:
+        url = "https://api.coingecko.com/api/v3/coins/list"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CoinGecko all coins failed: %s", exc)
+            return []
+        projects = []
+        for item in _as_list(data):
+            name = item.get("name") or ""
+            if not name:
+                continue
+            projects.append(Project(name=name, symbol=item.get("symbol", ""), source="CoinGecko All", raw_strength=1.0))
+        return projects
+
+    def _github_trending(self) -> List[Project]:
+        url = "https://api.github.com/search/repositories?q=stars:>100&sort=stars&order=desc&per_page=100"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("GitHub trending failed: %s", exc)
+            return []
+        projects = []
+        for item in data.get("items", []):
+            name = item.get("name") or ""
+            if not name:
+                continue
+            stars = item.get("stargazers_count") or 0
+            strength = min(30.0, float(stars) / 1000)
+            projects.append(Project(
+                name=name.replace("-", " ").replace("_", " "),
+                symbol="", source="GitHub Trending", url=item.get("html_url"), raw_strength=strength,
+            ))
+        return projects
+
+    def _producthunt_posts(self) -> List[Project]:
+        url = "https://www.producthunt.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Product Hunt RSS failed: %s", exc)
+            return []
+        names = re.findall(r"<title><!\[CDATA\[([^\]]+)\]\]></title>", text)
+        if not names:
+            names = re.findall(r"<title>([^<]{3,40})</title>", text)
+        projects = []
+        for name in names[1:]:
+            name = re.sub(r"\s*[-–|:]\s*.*$", "", name).strip()
+            if name:
+                projects.append(Project(name=name, symbol="", source="Product Hunt", raw_strength=5.0))
+        return projects
+
+    def _reddit_startups(self) -> List[Project]:
+        projects = []
+        for sub in ("startups", "SideProject", "entrepreneur"):
+            url = f"https://www.reddit.com/r/{sub}/new.json?limit=50"
+            try:
+                data = self._get_json(url)
+            except requests.RequestException as exc:
+                LOGGER.warning("Reddit %s failed: %s", sub, exc)
+                continue
+            for post in data.get("data", {}).get("children", []):
+                title = post.get("data", {}).get("title") or ""
+                name = re.split(r"\s*[-–|:]\s*", title)[0].strip()
+                score = post.get("data", {}).get("score") or 0
+                strength = min(20.0, float(score) / 10)
+                if name:
+                    projects.append(Project(name=name, symbol="", source=f"Reddit r/{sub}", raw_strength=strength))
+        return projects
+
+    def _cryptocompare_coins(self) -> List[Project]:
+        url = "https://min-api.cryptocompare.com/data/all/coinlist?summary=true"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CryptoCompare coins failed: %s", exc)
+            return []
+        projects = []
+        for symbol, item in (data.get("Data") or {}).items():
+            name = item.get("FullName") or item.get("CoinName") or ""
+            if not name:
+                continue
+            projects.append(Project(name=name, symbol=symbol, source="CryptoCompare", raw_strength=1.0))
         return projects
 
 
