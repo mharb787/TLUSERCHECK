@@ -64,6 +64,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "buildon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:25:36.468884+00:00",
+      "fragment_status": "Auction",
+      "project": "BUILDon",
+      "score": 92,
+      "source": "CoinPaprika Coins"
+    },
     "cadara": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:09.595916+00:00",
@@ -77,6 +85,22 @@
       "checked_at": "2026-05-09T13:20:07.360748+00:00",
       "fragment_status": "Taken",
       "project": "Canton Network",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "cardano": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:25:36.132710+00:00",
+      "fragment_status": "Taken",
+      "project": "Cardano",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
+    "chiliz": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:25:36.644345+00:00",
+      "fragment_status": "Taken",
+      "project": "Chiliz",
       "score": 100,
       "source": "CoinPaprika Coins"
     },
@@ -303,6 +327,14 @@
       "project": "UNFAZED",
       "score": 99,
       "source": "DexScreener Top Boosts"
+    },
+    "vechain": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:25:36.304440+00:00",
+      "fragment_status": "Taken",
+      "project": "VeChain",
+      "score": 100,
+      "source": "CoinPaprika Coins"
     },
     "venice": {
       "cache_version": 14,
