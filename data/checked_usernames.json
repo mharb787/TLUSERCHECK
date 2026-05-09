@@ -216,6 +216,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "manadia": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T14:32:06.283310+00:00",
+      "fragment_status": "Taken",
+      "project": "Manadia",
+      "score": 90,
+      "source": "CoinPaprika Coins"
+    },
     "mantle": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:05.157923+00:00",
@@ -255,6 +263,22 @@
       "project": "Pharos",
       "score": 98,
       "source": "CoinGecko Trending"
+    },
+    "plasma": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T14:32:06.397878+00:00",
+      "fragment_status": "Taken",
+      "project": "Plasma",
+      "score": 92,
+      "source": "CoinPaprika Coins"
+    },
+    "pneuma": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T14:32:06.170815+00:00",
+      "fragment_status": "Taken",
+      "project": "pneuma protocol",
+      "score": 100,
+      "source": "GitHub New Repos: web3"
     },
     "polygon": {
       "cache_version": 14,
