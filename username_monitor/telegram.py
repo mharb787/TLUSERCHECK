@@ -30,6 +30,7 @@ class TelegramNotifier:
         payload = {
             "chat_id": self.chat_id,
             "text": text,
+            "parse_mode": "HTML",
             "disable_web_page_preview": True,
         }
         response = requests.post(url, json=payload, timeout=self.timeout)
@@ -47,7 +48,7 @@ def format_alert(opportunity: UsernameOpportunity) -> str:
         f"Source: {project.source}",
         f"Liquidity: {liquidity}",
         f"24h Volume: {volume}",
-        f"Telegram Username: {opportunity.username}",
+        f"Telegram Username: <code>@{opportunity.username}</code>",
         f"Fragment Status: {opportunity.fragment_status}",
         f"Score: {opportunity.score}/100",
         f"Why: {opportunity.reason}",
