@@ -21,7 +21,7 @@ def run() -> None:
     store.load()
 
     sources = SourceClient(timeout=config.request_timeout, user_agent=config.user_agent)
-    fragment = FragmentClient(timeout=config.request_timeout, user_agent=config.user_agent)
+    fragment = FragmentClient(timeout=config.request_timeout, user_agent=config.user_agent, bot_token=config.telegram_bot_token)
     notifier = TelegramNotifier(
         bot_token=config.telegram_bot_token,
         chat_id=config.telegram_chat_id,
