@@ -1,5 +1,7 @@
 import logging
+from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
+from urllib.parse import quote
 
 import requests
 
@@ -20,6 +22,8 @@ class SourceClient:
         projects.extend(self._dexscreener_boosts("latest"))
         projects.extend(self._dexscreener_boosts("top"))
         projects.extend(self._coingecko_trending())
+        projects.extend(self._hacker_news_show_hn())
+        projects.extend(self._github_new_repositories())
         return _dedupe_projects(projects)
 
     def _get_json(self, url: str) -> Any:
@@ -79,6 +83,73 @@ class SourceClient:
             )
         return projects
 
+    def _hacker_news_show_hn(self) -> List[Project]:
+        url = "https://hn.algolia.com/api/v1/search_by_date?tags=story&query=Show%20HN&hitsPerPage=40"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Hacker News Show HN failed: %s", exc)
+            return []
+
+        projects: List[Project] = []
+        for item in data.get("hits", []):
+            title = item.get("title") or item.get("story_title") or ""
+            name = _extract_show_hn_name(title)
+            if not name:
+                continue
+            points = item.get("points") or 0
+            comments = item.get("num_comments") or 0
+            strength = min(30.0, float(points) / 5 + float(comments) / 10)
+            object_id = item.get("objectID")
+            projects.append(
+                Project(
+                    name=name,
+                    symbol="",
+                    source="Hacker News Show HN",
+                    url=f"https://news.ycombinator.com/item?id={object_id}" if object_id else item.get("url"),
+                    raw_strength=strength,
+                )
+            )
+        return projects
+
+    def _github_new_repositories(self) -> List[Project]:
+        created_after = (datetime.now(timezone.utc) - timedelta(days=7)).date().isoformat()
+        terms = [
+            "crypto",
+            "web3",
+            "telegram bot",
+            "ai agent",
+            "defi",
+            "wallet",
+        ]
+        projects: List[Project] = []
+        for term in terms:
+            query = quote(f"{term} created:>={created_after}")
+            url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=8"
+            try:
+                data = self._get_json(url)
+            except requests.RequestException as exc:
+                LOGGER.warning("GitHub repository search failed for %s: %s", term, exc)
+                continue
+
+            for item in data.get("items", []):
+                name = item.get("name") or ""
+                if not name:
+                    continue
+                stars = item.get("stargazers_count") or 0
+                forks = item.get("forks_count") or 0
+                strength = min(25.0, float(stars) * 2 + float(forks))
+                projects.append(
+                    Project(
+                        name=name.replace("-", " ").replace("_", " "),
+                        symbol="",
+                        source=f"GitHub New Repos: {term}",
+                        url=item.get("html_url"),
+                        raw_strength=strength,
+                    )
+                )
+        return projects
+
 
 def _as_list(data: Any) -> List[Dict[str, Any]]:
     if isinstance(data, list):
@@ -122,6 +193,23 @@ def _extract_name_from_dex_item(item: Dict[str, Any]) -> str:
     if url:
         return url.rstrip("/").split("/")[-1].replace("-", " ")
     return ""
+
+
+def _extract_show_hn_name(title: str) -> str:
+    if not title:
+        return ""
+    title = title.strip()
+    title = title.replace("Show HN:", "").replace("Show HN", "", 1).strip(" :-")
+    if not title:
+        return ""
+    for separator in (" - ", ": ", " | "):
+        if separator in title:
+            title = title.split(separator, 1)[0]
+            break
+    words = title.split()
+    if len(words) > 4:
+        title = " ".join(words[:4])
+    return title.strip()
 
 
 def _dedupe_projects(projects: Iterable[Project]) -> List[Project]:

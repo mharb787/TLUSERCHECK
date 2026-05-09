@@ -10,6 +10,25 @@ BAD_WORDS = {
     "network",
     "solana",
     "ethereum",
+    "inc",
+    "llc",
+    "ltd",
+    "limited",
+    "corp",
+    "corporation",
+    "company",
+    "group",
+    "holdings",
+    "foundation",
+    "labs",
+    "lab",
+    "studio",
+    "studios",
+    "beta",
+    "alpha",
+    "launch",
+    "show",
+    "hn",
 }
 
 USERNAME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9_]{3,31}$")
@@ -17,6 +36,8 @@ USERNAME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9_]{3,31}$")
 
 def clean_project_name(value: str) -> str:
     value = value.lower()
+    value = re.sub(r"^show\s+hn\s*[:\-]\s*", " ", value)
+    value = re.sub(r"\s*[-|:]\s*.*$", " ", value)
     value = re.sub(r"\([^)]*\)", " ", value)
     value = re.sub(r"[^a-z0-9 ]+", " ", value)
     parts = [part for part in value.split() if part not in BAD_WORDS]

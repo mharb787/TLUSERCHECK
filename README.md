@@ -11,6 +11,8 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
   - DexScreener latest token profiles
   - DexScreener latest/top boosts
   - CoinGecko trending coins
+  - Hacker News Show HN launches
+  - GitHub repositories created in the last 7 days for crypto/AI/web3 terms
 - Cleans project names and generates username variations:
   - `projectname`
   - `getprojectname`
@@ -22,21 +24,21 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 - Sends alerts only when Fragment shows the `unavailable` label, based on the observed claimable-name wording.
 - Scores each username from 1 to 100.
 - Sends up to 10 new Telegram alerts per run by default.
-- Checks up to 80 new usernames per run by default.
+- Checks up to 160 new usernames per run by default.
 - Stores checked usernames in `data/checked_usernames.json` to avoid repeating alerts in future runs.
 
 ## Setup
 
 1. Create a Telegram bot with BotFather and copy the bot token.
-2. Get your Telegram chat ID.
-3. Push this project to a GitHub repository.
-4. In GitHub, open `Settings -> Secrets and variables -> Actions`.
-5. Add these repository secrets:
+2. Send `/start` to your bot.
+3. In GitHub, open `Settings -> Secrets and variables -> Actions`.
+4. Add this repository secret:
 
 | Secret | Description |
 | --- | --- |
 | `TELEGRAM_BOT_TOKEN` | Token from BotFather |
-| `TELEGRAM_CHAT_ID` | Chat ID that should receive alerts |
+
+The workflow currently sends alerts to chat ID `12204622`.
 
 ## GitHub Actions Schedule
 
@@ -55,9 +57,9 @@ Each run sends up to 10 suggestions, or fewer if fewer `unavailable` opportuniti
 | Variable | Default | Description |
 | --- | ---: | --- |
 | `TELEGRAM_BOT_TOKEN` | empty | Telegram bot token |
-| `TELEGRAM_CHAT_ID` | empty | Telegram chat ID |
+| `TELEGRAM_CHAT_ID` | `12204622` | Telegram chat ID used by the workflow |
 | `MAX_ALERTS_PER_RUN` | `10` | Maximum alerts per workflow run |
-| `MAX_USERNAMES_TO_CHECK` | `80` | Maximum new usernames to check per workflow run |
+| `MAX_USERNAMES_TO_CHECK` | `160` | Maximum new usernames to check per workflow run |
 | `MIN_SCORE` | `70` | Minimum score required for alerts |
 | `REQUEST_TIMEOUT` | `20` | HTTP timeout in seconds |
 | `CACHE_PATH` | `data/checked_usernames.json` | Local username cache path |
@@ -80,7 +82,7 @@ python main.py
 ## Alert Example
 
 ```text
-🚨 New Username Opportunity
+New Username Opportunity
 
 Project: CASHOME
 Source: DexScreener
