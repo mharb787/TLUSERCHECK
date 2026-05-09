@@ -14,6 +14,67 @@ LOGGER = logging.getLogger(__name__)
 
 _GITHUB_TRENDING_PERIODS = ["daily", "weekly", "monthly"]
 
+_REDDIT_SUBREDDITS = [
+    "startups",
+    "SideProject",
+    "entrepreneur",
+    "MachineLearning",
+    "technology",
+    "artificial",
+    "programming",
+    "webdev",
+    "javascript",
+    "python",
+    "golang",
+    "rust",
+    "datascience",
+    "deeplearning",
+    "singularity",
+    "Futurology",
+    "gamedev",
+    "indiegaming",
+    "androiddev",
+    "iphone",
+    "saas",
+    "fintech",
+    "biotech",
+    "healthtech",
+    "edtech",
+    "productivity",
+    "apps",
+    "software",
+    "coding",
+    "techstartups",
+    "microsaas",
+    "InternetIsBeautiful",
+    "webapps",
+    "opensource",
+    "selfhosted",
+]
+
+_GITHUB_TOPICS = [
+    "ai",
+    "ml",
+    "llm",
+    "saas",
+    "api",
+    "cli",
+    "devtools",
+    "automation",
+    "productivity",
+    "mobile",
+    "web",
+    "security",
+    "blockchain",
+    "fintech",
+    "healthtech",
+    "education",
+    "gaming",
+    "database",
+    "analytics",
+    "monitoring",
+]
+
 
 class SourceClient:
     def __init__(self, timeout: int, user_agent: str) -> None:
@@ -42,6 +103,24 @@ class SourceClient:
             pagination_state.set("hn_top", "page", 0)
         all_projects.extend(hn_top_results)
 
+        # HackerNews Ask HN with pagination
+        hn_ask_page = pagination_state.get("hn_ask", "page", 0)
+        hn_ask_results = self._hacker_news_ask(hn_ask_page)
+        if hn_ask_results:
+            pagination_state.set("hn_ask", "page", hn_ask_page + 1)
+        else:
+            pagination_state.set("hn_ask", "page", 0)
+        all_projects.extend(hn_ask_results)
+
+        # HackerNews new stories with pagination
+        hn_new_page = pagination_state.get("hn_new", "page", 0)
+        hn_new_results = self._hacker_news_new(hn_new_page)
+        if hn_new_results:
+            pagination_state.set("hn_new", "page", hn_new_page + 1)
+        else:
+            pagination_state.set("hn_new", "page", 0)
+        all_projects.extend(hn_new_results)
+
         # GitHub trending with period cycling
         period_index = pagination_state.get("github_trending", "period_index", 0)
         period = _GITHUB_TRENDING_PERIODS[period_index % len(_GITHUB_TRENDING_PERIODS)]
@@ -53,8 +132,15 @@ class SourceClient:
         all_projects.extend(self._github_new_repos(days_offset))
         pagination_state.set("github_new_repos", "days_offset", days_offset + 14)
 
-        # Reddit posts with after cursor per subreddit
-        for subreddit in ("startups", "SideProject", "entrepreneur", "MachineLearning", "technology", "artificial"):
+        # GitHub topic repos with days_offset per topic
+        for topic in _GITHUB_TOPICS:
+            state_key = f"github_topic_{topic}"
+            topic_days_offset = pagination_state.get(state_key, "days_offset", 0)
+            all_projects.extend(self._github_topic_repos(topic, topic_days_offset))
+            pagination_state.set(state_key, "days_offset", topic_days_offset + 14)
+
+        # Reddit posts with after cursor per subreddit (35 subreddits)
+        for subreddit in _REDDIT_SUBREDDITS:
             after_cursor = pagination_state.get(f"reddit_{subreddit}", "after", None)
             reddit_results, new_after = self._reddit_posts(subreddit, after_cursor)
             all_projects.extend(reddit_results)
@@ -72,6 +158,48 @@ class SourceClient:
         # VentureBeat RSS
         all_projects.extend(self._venturebeat_rss())
 
+        # Wired RSS
+        all_projects.extend(self._wired_rss())
+
+        # The Verge RSS
+        all_projects.extend(self._theverge_rss())
+
+        # Engadget RSS
+        all_projects.extend(self._engadget_rss())
+
+        # Ars Technica RSS
+        all_projects.extend(self._arstechnica_rss())
+
+        # Fast Company RSS
+        all_projects.extend(self._fastcompany_rss())
+
+        # Mashable RSS
+        all_projects.extend(self._mashable_rss())
+
+        # ZDNet RSS
+        all_projects.extend(self._zdnet_rss())
+
+        # Hacker Noon RSS
+        all_projects.extend(self._hackernoon_rss())
+
+        # Dev.to RSS
+        all_projects.extend(self._devto_rss())
+
+        # Indie Hackers RSS
+        all_projects.extend(self._indiehackers_rss())
+
+        # SaaStr RSS
+        all_projects.extend(self._saastr_rss())
+
+        # First Round Review RSS
+        all_projects.extend(self._firstround_rss())
+
+        # A16Z blog RSS
+        all_projects.extend(self._a16z_rss())
+
+        # Sequoia RSS
+        all_projects.extend(self._sequoia_rss())
+
         # Wikipedia trending with days_offset
         wiki_days_offset = pagination_state.get("wikipedia_trending", "days_offset", 1)
         all_projects.extend(self._wikipedia_trending(wiki_days_offset))
@@ -82,6 +210,16 @@ class SourceClient:
 
         # YC companies
         all_projects.extend(self._ycombinator_companies())
+
+        # npm trending packages
+        npm_offset = pagination_state.get("npm_packages", "offset", 0)
+        all_projects.extend(self._npm_trending(npm_offset))
+        pagination_state.set("npm_packages", "offset", npm_offset + 100)
+
+        # PyPI top packages
+        pypi_offset = pagination_state.get("pypi_packages", "pypi_offset", 0)
+        all_projects.extend(self._pypi_top(pypi_offset))
+        pagination_state.set("pypi_packages", "pypi_offset", pypi_offset + 100)
 
         return _dedupe_projects(all_projects)
 
@@ -158,6 +296,76 @@ class SourceClient:
             )
         return projects
 
+    def _hacker_news_ask(self, page: int) -> List[Project]:
+        url = f"https://hn.algolia.com/api/v1/search_by_date?tags=story&query=Ask%20HN&hitsPerPage=100&page={page}"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Hacker News Ask HN failed: %s", exc)
+            return []
+
+        projects: List[Project] = []
+        for item in data.get("hits", []):
+            title = item.get("title") or item.get("story_title") or ""
+            if not title:
+                continue
+            # Strip "Ask HN:" prefix
+            title = re.sub(r"^Ask\s+HN\s*[:\-]?\s*", "", title, flags=re.IGNORECASE).strip()
+            name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            words = name.split()
+            if len(words) > 5:
+                name = " ".join(words[:5])
+            if not name:
+                continue
+            points = item.get("points") or 0
+            comments = item.get("num_comments") or 0
+            strength = min(20.0, float(points) / 10 + float(comments) / 20)
+            object_id = item.get("objectID")
+            projects.append(
+                Project(
+                    name=name,
+                    symbol="",
+                    source="Hacker News Ask HN",
+                    url=f"https://news.ycombinator.com/item?id={object_id}" if object_id else item.get("url"),
+                    raw_strength=strength,
+                )
+            )
+        return projects
+
+    def _hacker_news_new(self, page: int) -> List[Project]:
+        url = f"https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=100&page={page}"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Hacker News new failed: %s", exc)
+            return []
+
+        projects: List[Project] = []
+        for item in data.get("hits", []):
+            title = item.get("title") or item.get("story_title") or ""
+            if not title:
+                continue
+            name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            words = name.split()
+            if len(words) > 5:
+                name = " ".join(words[:5])
+            if not name:
+                continue
+            points = item.get("points") or 0
+            comments = item.get("num_comments") or 0
+            strength = min(15.0, float(points) / 10 + float(comments) / 20)
+            object_id = item.get("objectID")
+            projects.append(
+                Project(
+                    name=name,
+                    symbol="",
+                    source="Hacker News New",
+                    url=f"https://news.ycombinator.com/item?id={object_id}" if object_id else item.get("url"),
+                    raw_strength=strength,
+                )
+            )
+        return projects
+
     def _github_trending(self, period: str) -> List[Project]:
         url = f"https://api.github.com/search/repositories?q=created:>{_days_ago(7)}&sort=stars&order=desc&per_page=100"
         if period == "weekly":
@@ -207,6 +415,32 @@ class SourceClient:
                 name=name.replace("-", " ").replace("_", " "),
                 symbol="",
                 source="GitHub New Repos",
+                url=item.get("html_url"),
+                raw_strength=strength,
+            ))
+        return projects
+
+    def _github_topic_repos(self, topic: str, days_offset: int) -> List[Project]:
+        start = _days_ago(days_offset + 14)
+        end = _days_ago(days_offset)
+        query = quote(f"topic:{topic} stars:>10 created:{start}..{end}")
+        url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=100"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("GitHub topic repos (topic=%s, offset=%s) failed: %s", topic, days_offset, exc)
+            return []
+        projects = []
+        for item in data.get("items", []):
+            name = item.get("name") or ""
+            if not name:
+                continue
+            stars = item.get("stargazers_count") or 0
+            strength = min(25.0, float(stars) / 50)
+            projects.append(Project(
+                name=name.replace("-", " ").replace("_", " "),
+                symbol="",
+                source=f"GitHub Topic ({topic})",
                 url=item.get("html_url"),
                 raw_strength=strength,
             ))
@@ -262,6 +496,132 @@ class SourceClient:
             LOGGER.warning("VentureBeat RSS failed: %s", exc)
             return []
         return _parse_rss_titles(text, "VentureBeat", base_strength=4.0)
+
+    def _wired_rss(self) -> List[Project]:
+        url = "https://www.wired.com/feed/rss"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Wired RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Wired", base_strength=4.0)
+
+    def _theverge_rss(self) -> List[Project]:
+        url = "https://www.theverge.com/rss/index.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("The Verge RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "The Verge", base_strength=4.0)
+
+    def _engadget_rss(self) -> List[Project]:
+        url = "https://www.engadget.com/rss.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Engadget RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Engadget", base_strength=3.5)
+
+    def _arstechnica_rss(self) -> List[Project]:
+        url = "https://feeds.arstechnica.com/arstechnica/index"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Ars Technica RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Ars Technica", base_strength=3.5)
+
+    def _fastcompany_rss(self) -> List[Project]:
+        url = "https://www.fastcompany.com/latest/rss"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Fast Company RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Fast Company", base_strength=3.5)
+
+    def _mashable_rss(self) -> List[Project]:
+        url = "https://mashable.com/feeds/rss/all"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Mashable RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Mashable", base_strength=3.0)
+
+    def _zdnet_rss(self) -> List[Project]:
+        url = "https://www.zdnet.com/news/rss.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("ZDNet RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "ZDNet", base_strength=3.0)
+
+    def _hackernoon_rss(self) -> List[Project]:
+        url = "https://hackernoon.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Hacker Noon RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Hacker Noon", base_strength=3.0)
+
+    def _devto_rss(self) -> List[Project]:
+        url = "https://dev.to/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Dev.to RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Dev.to", base_strength=3.0)
+
+    def _indiehackers_rss(self) -> List[Project]:
+        url = "https://www.indiehackers.com/feed.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Indie Hackers RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Indie Hackers", base_strength=4.0)
+
+    def _saastr_rss(self) -> List[Project]:
+        url = "https://www.saastr.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("SaaStr RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "SaaStr", base_strength=4.0)
+
+    def _firstround_rss(self) -> List[Project]:
+        url = "https://review.firstround.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("First Round Review RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "First Round Review", base_strength=4.0)
+
+    def _a16z_rss(self) -> List[Project]:
+        url = "https://a16z.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("A16Z RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "A16Z", base_strength=4.5)
+
+    def _sequoia_rss(self) -> List[Project]:
+        url = "https://www.sequoiacap.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Sequoia RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Sequoia", base_strength=4.5)
 
     def _wikipedia_trending(self, days_offset: int) -> List[Project]:
         target_date = datetime.now(timezone.utc) - timedelta(days=days_offset)
@@ -336,6 +696,64 @@ class SourceClient:
             points = item.get("points") or 0
             strength = min(25.0, float(points) / 10)
             projects.append(Project(name=name, symbol="", source="YC Companies", raw_strength=strength))
+        return projects
+
+    def _npm_trending(self, offset: int) -> List[Project]:
+        url = (
+            f"https://registry.npmjs.org/-/v1/search"
+            f"?text=is:unstable&popularity=1.0&quality=0.0&maintenance=0.0&size=100&from={offset}"
+        )
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("npm trending (offset=%s) failed: %s", offset, exc)
+            return []
+        projects = []
+        for obj in data.get("objects", []):
+            name = obj.get("package", {}).get("name") or ""
+            if not name:
+                continue
+            # Strip scope prefix (@scope/name -> name)
+            display_name = name.split("/")[-1] if "/" in name else name
+            display_name = display_name.replace("-", " ").replace("_", " ")
+            if not display_name:
+                continue
+            score = obj.get("score", {}).get("final") or 0
+            strength = min(15.0, float(score) * 15)
+            projects.append(Project(
+                name=display_name,
+                symbol="",
+                source="npm Trending",
+                url=f"https://www.npmjs.com/package/{name}",
+                raw_strength=strength,
+            ))
+        return projects
+
+    def _pypi_top(self, pypi_offset: int) -> List[Project]:
+        url = "https://hugovk.github.io/top-pypi-packages/top-pypi-packages-30-days.min.json"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("PyPI top packages failed: %s", exc)
+            return []
+        projects = []
+        rows = data.get("rows", [])
+        page_rows = rows[pypi_offset: pypi_offset + 100]
+        for i, row in enumerate(page_rows):
+            name = row.get("project") or ""
+            if not name:
+                continue
+            display_name = name.replace("-", " ").replace("_", " ")
+            # Rank-based strength: earlier in list = higher rank = stronger signal
+            rank = pypi_offset + i
+            strength = max(1.0, 20.0 - rank * 0.1)
+            projects.append(Project(
+                name=display_name,
+                symbol="",
+                source="PyPI Top",
+                url=f"https://pypi.org/project/{name}/",
+                raw_strength=min(20.0, strength),
+            ))
         return projects
 
 
