@@ -56,6 +56,14 @@
       "score": 93,
       "source": "CoinPaprika Coins"
     },
+    "affirm": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:16.044460+00:00",
+      "fragment_status": "Taken",
+      "project": "Affirm: Buy now, pay over time",
+      "score": 88,
+      "source": "App Store Top"
+    },
     "agent": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:17.821974+00:00",
@@ -71,6 +79,22 @@
       "project": "Aguri-Chan",
       "score": 88,
       "source": "CoinGecko All"
+    },
+    "aibijia": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:09.469222+00:00",
+      "fragment_status": "Taken",
+      "project": "AIbijia",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "airbnb": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:13.986571+00:00",
+      "fragment_status": "Taken",
+      "project": "Airbnb",
+      "score": 96,
+      "source": "App Store Top"
     },
     "akash": {
       "cache_version": 14,
@@ -184,6 +208,22 @@
       "score": 82,
       "source": "CryptoCompare"
     },
+    "arkon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:09.941402+00:00",
+      "fragment_status": "Taken",
+      "project": "arkon",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "armorer": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:05.472964+00:00",
+      "fragment_status": "Taken",
+      "project": "Armorer",
+      "score": 96,
+      "source": "Hacker News Show HN"
+    },
     "arowana": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:48:30.794227+00:00",
@@ -199,6 +239,14 @@
       "project": "Aster",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "atlas": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:07.869801+00:00",
+      "fragment_status": "Taken",
+      "project": "atlas",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
     },
     "avalanche": {
       "cache_version": 14,
@@ -287,6 +335,14 @@
       "project": "BFUSD",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "bicycle": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:06.916114+00:00",
+      "fragment_status": "Taken",
+      "project": "Bicycle",
+      "score": 87,
+      "source": "Hacker News Top"
     },
     "billions": {
       "cache_version": 14,
@@ -520,6 +576,22 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "canva": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:12.835864+00:00",
+      "fragment_status": "Taken",
+      "project": "Canva: AI Video & Photo Editor",
+      "score": 100,
+      "source": "App Store Top"
+    },
+    "capcut": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:11.087871+00:00",
+      "fragment_status": "Taken",
+      "project": "CapCut: Photo & Video Editor",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "carberry": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:07.393810+00:00",
@@ -608,6 +680,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "chatgpt": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:10.921470+00:00",
+      "fragment_status": "Taken",
+      "project": "ChatGPT",
+      "score": 69,
+      "source": "Wikipedia Trending"
+    },
     "cheapshot": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:03.029228+00:00",
@@ -624,6 +704,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "chick": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:15.248614+00:00",
+      "fragment_status": "Taken",
+      "project": "Chick-fil-A",
+      "score": 92,
+      "source": "App Store Top"
+    },
     "chiliz": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:25:36.644345+00:00",
@@ -639,6 +727,14 @@
       "project": "chremsel",
       "score": 82,
       "source": "English Words"
+    },
+    "chromex": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:09.307754+00:00",
+      "fragment_status": "Taken",
+      "project": "chromex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "chupatti": {
       "cache_version": 14,
@@ -679,6 +775,14 @@
       "project": "clifty",
       "score": 88,
       "source": "English Words"
+    },
+    "clipify": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:07.553382+00:00",
+      "fragment_status": "Auction",
+      "project": "clipify",
+      "score": 84,
+      "source": "GitHub Trending (daily)"
     },
     "clotter": {
       "cache_version": 14,
@@ -800,6 +904,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "costco": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:14.936722+00:00",
+      "fragment_status": "Taken",
+      "project": "Costco",
+      "score": 93,
+      "source": "App Store Top"
+    },
     "cqrcrypto": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:12:21.480472+00:00",
@@ -896,6 +1008,14 @@
       "score": 97,
       "source": "CoinPaprika Coins"
     },
+    "deepsec": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:08.996228+00:00",
+      "fragment_status": "Auction",
+      "project": "deepsec",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "defecated": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:06.940625+00:00",
@@ -911,6 +1031,14 @@
       "project": "dentately",
       "score": 82,
       "source": "English Words"
+    },
+    "depop": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:13.675168+00:00",
+      "fragment_status": "Taken",
+      "project": "Depop - Buy & Sell Clothes",
+      "score": 99,
+      "source": "App Store Top"
     },
     "deribit": {
       "cache_version": 14,
@@ -983,6 +1111,22 @@
       "project": "dilatorily",
       "score": 82,
       "source": "English Words"
+    },
+    "discord": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:13.517295+00:00",
+      "fragment_status": "Taken",
+      "project": "Discord - Talk, Play, Hang Out",
+      "score": 93,
+      "source": "App Store Top"
+    },
+    "disney": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:14.780391+00:00",
+      "fragment_status": "Taken",
+      "project": "Disney+",
+      "score": 94,
+      "source": "App Store Top"
     },
     "dispirited": {
       "cache_version": 14,
@@ -1087,6 +1231,14 @@
       "project": "edgeX",
       "score": 99,
       "source": "CoinPaprika Coins"
+    },
+    "edits": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:15.883083+00:00",
+      "fragment_status": "Taken",
+      "project": "Edits: Video Editor",
+      "score": 88,
+      "source": "App Store Top"
     },
     "eigencloud": {
       "cache_version": 14,
@@ -1368,6 +1520,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "gears": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:07.081714+00:00",
+      "fragment_status": "Taken",
+      "project": "Gears",
+      "score": 100,
+      "source": "Hacker News Top"
+    },
     "gemini": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:07.117384+00:00",
@@ -1440,6 +1600,14 @@
       "score": 92,
       "source": "Product Hunt"
     },
+    "gmail": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:11.719651+00:00",
+      "fragment_status": "Taken",
+      "project": "Gmail - Email by Google",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "gnosis": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:29:05.138376+00:00",
@@ -1463,6 +1631,14 @@
       "project": "GOGGLES",
       "score": 82,
       "source": "CoinGecko All"
+    },
+    "google": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:11.244089+00:00",
+      "fragment_status": "Taken",
+      "project": "Google",
+      "score": 100,
+      "source": "App Store Top"
     },
     "grabble": {
       "cache_version": 14,
@@ -1543,6 +1719,14 @@
       "project": "Hachiko",
       "score": 82,
       "source": "CoinGecko All"
+    },
+    "harness": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:08.344867+00:00",
+      "fragment_status": "Auction",
+      "project": "harness",
+      "score": 82,
+      "source": "GitHub Trending (daily)"
     },
     "haulmiest": {
       "cache_version": 14,
@@ -1712,6 +1896,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "kalshi": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:14.306659+00:00",
+      "fragment_status": "Taken",
+      "project": "Kalshi: Trade News & Sports",
+      "score": 96,
+      "source": "App Store Top"
+    },
     "kaspa": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:35:17.572369+00:00",
@@ -1768,6 +1960,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "kwcode": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:09.784131+00:00",
+      "fragment_status": "Taken",
+      "project": "kwcode",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lactarious": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:05.409877+00:00",
@@ -1807,6 +2007,14 @@
       "project": "leaguelong",
       "score": 82,
       "source": "English Words"
+    },
+    "legends": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:10.600534+00:00",
+      "fragment_status": "Taken",
+      "project": "Legends (2026 TV series)",
+      "score": 81,
+      "source": "Wikipedia Trending"
     },
     "leisurely": {
       "cache_version": 14,
@@ -1855,6 +2063,14 @@
       "project": "Lombard",
       "score": 82,
       "source": "CoinGecko All"
+    },
+    "loopit": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:15.725941+00:00",
+      "fragment_status": "Taken",
+      "project": "Loopit - Make playables",
+      "score": 88,
+      "source": "App Store Top"
     },
     "lophodont": {
       "cache_version": 14,
@@ -2032,6 +2248,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "michael": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:10.438298+00:00",
+      "fragment_status": "Taken",
+      "project": "Michael (2026 film)",
+      "score": 82,
+      "source": "Wikipedia Trending"
+    },
     "midnight": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:18.408784+00:00",
@@ -2047,6 +2271,22 @@
       "project": "Minions",
       "score": 86,
       "source": "Product Hunt"
+    },
+    "mirage": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:07.240697+00:00",
+      "fragment_status": "Taken",
+      "project": "mirage",
+      "score": 100,
+      "source": "GitHub Trending (daily)"
+    },
+    "mirrai": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:07.396118+00:00",
+      "fragment_status": "Auction",
+      "project": "Mirrai",
+      "score": 100,
+      "source": "GitHub Trending (daily)"
     },
     "miserable": {
       "cache_version": 14,
@@ -2128,6 +2368,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "mychart": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:14.466061+00:00",
+      "fragment_status": "Taken",
+      "project": "MyChart",
+      "score": 76,
+      "source": "App Store Top"
+    },
     "nanorust": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:06.343485+00:00",
@@ -2151,6 +2399,14 @@
       "project": "naumacay",
       "score": 82,
       "source": "English Words"
+    },
+    "netflix": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:14.146200+00:00",
+      "fragment_status": "Taken",
+      "project": "Netflix",
+      "score": 90,
+      "source": "App Store Top"
     },
     "nikolai": {
       "cache_version": 14,
@@ -2183,6 +2439,14 @@
       "project": "notation",
       "score": 82,
       "source": "English Words"
+    },
+    "notelet": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:07.714355+00:00",
+      "fragment_status": "Auction",
+      "project": "notelet",
+      "score": 83,
+      "source": "GitHub Trending (daily)"
     },
     "notion": {
       "cache_version": 14,
@@ -2272,6 +2536,14 @@
       "score": 96,
       "source": "Hacker News Show HN"
     },
+    "openysm": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:08.836691+00:00",
+      "fragment_status": "Unavailable",
+      "project": "OpenYSM",
+      "score": 70,
+      "source": "GitHub Trending (daily)"
+    },
     "opera": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:48:34.923416+00:00",
@@ -2352,6 +2624,14 @@
       "score": 92,
       "source": "CryptoCompare"
     },
+    "paypal": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:13.360775+00:00",
+      "fragment_status": "Unavailable",
+      "project": "PayPal - Pay, Send, Save",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "pendle": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:10.828187+00:00",
@@ -2367,6 +2647,14 @@
       "project": "peridermic",
       "score": 82,
       "source": "English Words"
+    },
+    "petdex": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:09.151694+00:00",
+      "fragment_status": "Taken",
+      "project": "petdex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pharos": {
       "cache_version": 14,
@@ -2463,6 +2751,14 @@
       "project": "polyoicous",
       "score": 82,
       "source": "English Words"
+    },
+    "pordee": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:08.026451+00:00",
+      "fragment_status": "Taken",
+      "project": "pordee",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
     },
     "portal": {
       "cache_version": 14,
@@ -2696,6 +2992,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "reversa": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:09.623937+00:00",
+      "fragment_status": "Auction",
+      "project": "reversa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "reverso": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:18:58.491903+00:00",
@@ -2824,6 +3128,14 @@
       "score": 88,
       "source": "CoinGecko All"
     },
+    "shein": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:12.360248+00:00",
+      "fragment_status": "Auction",
+      "project": "SHEIN - Shopping Online",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "shinobi": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:48:31.475331+00:00",
@@ -2944,6 +3256,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "sound": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:06.761217+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Sound",
+      "score": 100,
+      "source": "Hacker News Top"
+    },
     "sparklend": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:28.849443+00:00",
@@ -2951,6 +3271,14 @@
       "project": "SparkLend",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "speca": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:10.098366+00:00",
+      "fragment_status": "Taken",
+      "project": "speca",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "spiko": {
       "cache_version": 14,
@@ -2983,6 +3311,14 @@
       "project": "Sponge",
       "score": 88,
       "source": "CoinGecko All"
+    },
+    "spotify": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:12.520948+00:00",
+      "fragment_status": "Taken",
+      "project": "Spotify: Music and Podcasts",
+      "score": 96,
+      "source": "App Store Top"
     },
     "spreagh": {
       "cache_version": 14,
@@ -3072,6 +3408,14 @@
       "score": 92,
       "source": "CoinPaprika Coins"
     },
+    "strava": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:15.568235+00:00",
+      "fragment_status": "Taken",
+      "project": "Strava: Run, Bike, Walk",
+      "score": 89,
+      "source": "App Store Top"
+    },
     "structured": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:11.842681+00:00",
@@ -3103,6 +3447,14 @@
       "project": "sUSDS",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "swapped": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:10.758074+00:00",
+      "fragment_status": "Taken",
+      "project": "Swapped",
+      "score": 91,
+      "source": "Wikipedia Trending"
     },
     "swaps": {
       "cache_version": 14,
@@ -3208,6 +3560,14 @@
       "score": 96,
       "source": "CoinPaprika Coins"
     },
+    "threads": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:11.565427+00:00",
+      "fragment_status": "Auction",
+      "project": "Threads",
+      "score": 99,
+      "source": "App Store Top"
+    },
     "thumb": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:42.915513+00:00",
@@ -3223,6 +3583,14 @@
       "project": "TigerJSON",
       "score": 96,
       "source": "Hacker News Show HN"
+    },
+    "tiktok": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:12.204743+00:00",
+      "fragment_status": "Unavailable",
+      "project": "TikTok - Videos, Shop & LIVE",
+      "score": 100,
+      "source": "App Store Top"
     },
     "tonal": {
       "cache_version": 14,
@@ -3295,6 +3663,14 @@
       "project": "OFFICIAL TRUMP",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "trust": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:08.188618+00:00",
+      "fragment_status": "Taken",
+      "project": "trust",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
     },
     "turbox": {
       "cache_version": 14,
@@ -3392,6 +3768,14 @@
       "score": 92,
       "source": "English Words"
     },
+    "upside": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:15.409235+00:00",
+      "fragment_status": "Taken",
+      "project": "Upside: Gas & Food Cash Back",
+      "score": 90,
+      "source": "App Store Top"
+    },
     "upstaff": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:19.155718+00:00",
@@ -3464,6 +3848,14 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "venmo": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:13.831301+00:00",
+      "fragment_status": "Taken",
+      "project": "Venmo",
+      "score": 98,
+      "source": "App Store Top"
+    },
     "verge": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:44.151739+00:00",
@@ -3480,6 +3872,22 @@
       "score": 100,
       "source": "GitHub New Repos: crypto"
     },
+    "vijay": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:10.280963+00:00",
+      "fragment_status": "Taken",
+      "project": "Vijay (actor)",
+      "score": 88,
+      "source": "Wikipedia Trending"
+    },
+    "vinted": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:14.622997+00:00",
+      "fragment_status": "Taken",
+      "project": "Vinted: Pre-loved marketplace",
+      "score": 94,
+      "source": "App Store Top"
+    },
     "viper": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:31.073278+00:00",
@@ -3487,6 +3895,14 @@
       "project": "VIPER",
       "score": 88,
       "source": "CoinGecko All"
+    },
+    "vizio": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:15.092493+00:00",
+      "fragment_status": "Taken",
+      "project": "VIZIO | WatchFree+",
+      "score": 93,
+      "source": "App Store Top"
     },
     "vogues": {
       "cache_version": 14,
@@ -3504,6 +3920,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "walmart": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:12.676807+00:00",
+      "fragment_status": "Taken",
+      "project": "Walmart: Shopping & Savings",
+      "score": 95,
+      "source": "App Store Top"
+    },
     "warplet": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:39.948637+00:00",
@@ -3519,6 +3943,14 @@
       "project": "Websea",
       "score": 88,
       "source": "CoinGecko All"
+    },
+    "whatnot": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:11.400679+00:00",
+      "fragment_status": "Taken",
+      "project": "Whatnot: Shop, Sell, Connect",
+      "score": 99,
+      "source": "App Store Top"
     },
     "whippable": {
       "cache_version": 14,
@@ -3607,6 +4039,14 @@
       "project": "yearn.finance",
       "score": 88,
       "source": "CoinGecko All"
+    },
+    "youtube": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T16:16:06.273303+00:00",
+      "fragment_status": "Taken in Telegram",
+      "project": "YouTube",
+      "score": 99,
+      "source": "Hacker News Top"
     },
     "zcash": {
       "cache_version": 14,
