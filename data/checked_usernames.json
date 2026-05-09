@@ -8,6 +8,14 @@
       "score": 93,
       "source": "CoinPaprika Coins"
     },
+    "akash": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:23.328048+00:00",
+      "fragment_status": "Taken",
+      "project": "Akash Network",
+      "score": 93,
+      "source": "CoinPaprika Coins"
+    },
     "algorand": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:29.083866+00:00",
@@ -32,12 +40,36 @@
       "score": 97,
       "source": "CoinPaprika Coins"
     },
+    "aptos": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:19.952548+00:00",
+      "fragment_status": "Taken",
+      "project": "Aptos",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "arbitrum": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:20.410846+00:00",
+      "fragment_status": "Taken",
+      "project": "Arbitrum",
+      "score": 97,
+      "source": "CoinPaprika Coins"
+    },
     "aster": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:28.118016+00:00",
       "fragment_status": "Taken",
       "project": "Aster",
       "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "avalanche": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:20.256921+00:00",
+      "fragment_status": "Taken",
+      "project": "Avalanche",
+      "score": 99,
       "source": "CoinPaprika Coins"
     },
     "babylon": {
@@ -248,6 +280,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "cqrcrypto": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:21.480472+00:00",
+      "fragment_status": "Auction",
+      "project": "CQRCrypto",
+      "score": 88,
+      "source": "GitHub New Repos: web3"
+    },
     "cronos": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:05.647793+00:00",
@@ -264,6 +304,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "cryptomsg": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:20.565408+00:00",
+      "fragment_status": "Taken",
+      "project": "cryptomsg",
+      "score": 88,
+      "source": "GitHub New Repos: crypto"
+    },
     "decred": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:29:04.810936+00:00",
@@ -279,6 +327,22 @@
       "project": "Deribit",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "dogecoin": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:21.948262+00:00",
+      "fragment_status": "Taken",
+      "project": "Dogecoin",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
+    "dogwifhat": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:21.638740+00:00",
+      "fragment_status": "Taken",
+      "project": "dogwifhat",
+      "score": 87,
+      "source": "CoinPaprika Coins"
     },
     "eigencloud": {
       "cache_version": 14,
@@ -352,6 +416,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "github": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:21.796187+00:00",
+      "fragment_status": "Taken",
+      "project": ".github",
+      "score": 100,
+      "source": "GitHub New Repos: web3"
+    },
     "gnosis": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:29:05.138376+00:00",
@@ -384,6 +456,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "jasmycoin": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:23.633165+00:00",
+      "fragment_status": "Taken",
+      "project": "JasmyCoin",
+      "score": 79,
+      "source": "CoinPaprika Coins"
+    },
     "justlend": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:28.363974+00:00",
@@ -399,6 +479,14 @@
       "project": "KuCoin",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "lighter": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:22.101711+00:00",
+      "fragment_status": "Taken",
+      "project": "Lighter",
+      "score": 89,
+      "source": "CoinPaprika Coins"
     },
     "litecoin": {
       "cache_version": 14,
@@ -480,6 +568,14 @@
       "score": 98,
       "source": "CoinGecko Trending"
     },
+    "pinguhub": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:23.480867+00:00",
+      "fragment_status": "Taken",
+      "project": "PinguHub",
+      "score": 98,
+      "source": "GitHub New Repos: ton"
+    },
     "plasma": {
       "cache_version": 14,
       "checked_at": "2026-05-09T14:32:06.397878+00:00",
@@ -519,6 +615,14 @@
       "project": "Portal",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "quant": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:21.186955+00:00",
+      "fragment_status": "Taken",
+      "project": "Quant",
+      "score": 100,
+      "source": "CoinPaprika Coins"
     },
     "ravedao": {
       "cache_version": 14,
@@ -600,6 +704,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "stargate": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:20.718727+00:00",
+      "fragment_status": "Taken",
+      "project": "Stargate Finance",
+      "score": 88,
+      "source": "CoinPaprika Coins"
+    },
     "starknet": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:29.330043+00:00",
@@ -614,6 +726,14 @@
       "fragment_status": "Taken",
       "project": "Stellar",
       "score": 99,
+      "source": "CoinPaprika Coins"
+    },
+    "susds": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:22.726954+00:00",
+      "fragment_status": "Taken",
+      "project": "sUSDS",
+      "score": 100,
       "source": "CoinPaprika Coins"
     },
     "swissborg": {
@@ -664,6 +784,30 @@
       "score": 96,
       "source": "CoinPaprika Coins"
     },
+    "tonal": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:22.882777+00:00",
+      "fragment_status": "Auction",
+      "project": "Tonal",
+      "score": 100,
+      "source": "GitHub New Repos: ton"
+    },
+    "tonbanapp": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:22.399124+00:00",
+      "fragment_status": "Auction",
+      "project": "TonBanApp",
+      "score": 98,
+      "source": "GitHub New Repos: ton"
+    },
+    "tonchtory": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:23.175198+00:00",
+      "fragment_status": "Auction",
+      "project": "tonchtory",
+      "score": 86,
+      "source": "GitHub New Repos: ton"
+    },
     "toncoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:04.914365+00:00",
@@ -695,6 +839,14 @@
       "project": "UNFAZED",
       "score": 99,
       "source": "DexScreener Top Boosts"
+    },
+    "unibase": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:20.104206+00:00",
+      "fragment_status": "Auction",
+      "project": "Unibase",
+      "score": 99,
+      "source": "CoinPaprika Coins"
     },
     "uniswap": {
       "cache_version": 14,
@@ -736,6 +888,14 @@
       "score": 100,
       "source": "GitHub New Repos: crypto"
     },
+    "whitebit": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:22.554574+00:00",
+      "fragment_status": "Taken",
+      "project": "WhiteBIT Coin",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
     "wisdomtree": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:33.949037+00:00",
@@ -752,6 +912,14 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "worldcoin": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:20.874519+00:00",
+      "fragment_status": "Taken",
+      "project": "Worldcoin",
+      "score": 85,
+      "source": "CoinPaprika Coins"
+    },
     "zcash": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:27.133270+00:00",
@@ -759,6 +927,14 @@
       "project": "Zcash",
       "score": 100,
       "source": "CoinGecko Trending"
+    },
+    "zebec": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:12:21.028535+00:00",
+      "fragment_status": "Auction",
+      "project": "Zebec Network",
+      "score": 95,
+      "source": "CoinPaprika Coins"
     }
   }
 }
