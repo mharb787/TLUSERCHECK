@@ -2601,8 +2601,8 @@
       "source": "CoinPaprika Coins"
     },
     "bitmex": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:31.652663+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:50.631341+00:00",
       "fragment_status": "Taken",
       "project": "Bitmex",
       "score": 100,
@@ -3121,11 +3121,11 @@
       "source": "English Wordlist"
     },
     "cadara": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:10:30.813901+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:49.948626+00:00",
       "fragment_status": "Taken",
       "project": "CADara",
-      "score": 92,
+      "score": 100,
       "source": "Hacker News Show HN"
     },
     "cadence": {
@@ -4153,11 +4153,11 @@
       "source": "CoinPaprika Coins"
     },
     "crypto": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:10:36.010323+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:50.125046+00:00",
       "fragment_status": "Taken",
       "project": "Crypto-com",
-      "score": 93,
+      "score": 100,
       "source": "DeFiLlama Protocols"
     },
     "crypton": {
@@ -4393,11 +4393,11 @@
       "source": "CoinPaprika Coins"
     },
     "deribit": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:10:30.105536+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:49.783123+00:00",
       "fragment_status": "Taken",
       "project": "Deribit",
-      "score": 99,
+      "score": 100,
       "source": "DeFiLlama Protocols"
     },
     "derive": {
@@ -5721,8 +5721,8 @@
       "source": "CoinPaprika Coins"
     },
     "gemini": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:10:28.502471+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:49.616453+00:00",
       "fragment_status": "Taken",
       "project": "Gemini",
       "score": 100,
@@ -6161,8 +6161,8 @@
       "source": "CoinPaprika Coins"
     },
     "gocoon": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:29.875910+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:50.457014+00:00",
       "fragment_status": "Taken",
       "project": "gocoon",
       "score": 100,
@@ -11537,11 +11537,11 @@
       "source": "CoinPaprika Coins"
     },
     "sentora": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:28.846281+00:00",
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:17:50.291655+00:00",
       "fragment_status": "Taken",
       "project": "Sentora",
-      "score": 99,
+      "score": 100,
       "source": "DeFiLlama Protocols"
     },
     "sentre": {
