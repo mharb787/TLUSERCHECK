@@ -40,6 +40,14 @@
       "score": 88,
       "source": "CryptoCompare"
     },
+    "actcam": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:10.649162+00:00",
+      "fragment_status": "Taken",
+      "project": "ActCam",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "adola": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:36.390467+00:00",
@@ -168,6 +176,14 @@
       "score": 99,
       "source": "CoinPaprika Coins"
     },
+    "alice": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:16.124440+00:00",
+      "fragment_status": "Taken",
+      "project": "alice",
+      "score": 93,
+      "source": "GitHub Topic (ai)"
+    },
     "aliencoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:31.532250+00:00",
@@ -256,6 +272,14 @@
       "score": 97,
       "source": "CoinPaprika Coins"
     },
+    "apfel": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:11.374191+00:00",
+      "fragment_status": "Taken",
+      "project": "apfel",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "apieval": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:29.458558+00:00",
@@ -304,6 +328,14 @@
       "score": 81,
       "source": "GitHub Topic (ai)"
     },
+    "arden": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:07.500905+00:00",
+      "fragment_status": "Auction",
+      "project": "Arden",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aricoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:34.325684+00:00",
@@ -336,6 +368,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "article": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:10.409053+00:00",
+      "fragment_status": "Taken",
+      "project": "Article",
+      "score": 81,
+      "source": "Hacker News New"
+    },
     "ashub": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:43.236623+00:00",
@@ -367,6 +407,14 @@
       "project": "attrs",
       "score": 92,
       "source": "PyPI Top"
+    },
+    "autocli": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:12.796032+00:00",
+      "fragment_status": "Unavailable",
+      "project": "AutoCLI",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "autosh": {
       "cache_version": 14,
@@ -656,6 +704,14 @@
       "score": 98,
       "source": "GitHub Topic (cli)"
     },
+    "braindb": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:21.927748+00:00",
+      "fragment_status": "Unavailable",
+      "project": "braindb",
+      "score": 91,
+      "source": "GitHub Topic (llm)"
+    },
     "brilliance": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:04.097127+00:00",
@@ -824,6 +880,14 @@
       "score": 99,
       "source": "CoinPaprika Coins"
     },
+    "cargo": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:08.977935+00:00",
+      "fragment_status": "Taken",
+      "project": "Cargo-affect",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "carto": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:41.402790+00:00",
@@ -863,6 +927,14 @@
       "project": "caveman",
       "score": 99,
       "source": "GitHub Trending (monthly)"
+    },
+    "cavemem": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:15.884126+00:00",
+      "fragment_status": "Taken",
+      "project": "cavemem",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "ccqkl": {
       "cache_version": 14,
@@ -1320,6 +1392,22 @@
       "score": 98,
       "source": "English Words"
     },
+    "dawnai": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:16.845550+00:00",
+      "fragment_status": "Auction",
+      "project": "dawnai",
+      "score": 98,
+      "source": "GitHub Topic (ai)"
+    },
+    "dbskill": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:11.615219+00:00",
+      "fragment_status": "Taken",
+      "project": "dbskill",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "declaiming": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:10.157263+00:00",
@@ -1391,6 +1479,14 @@
       "project": "DevCoin (DEVCOIN)",
       "score": 82,
       "source": "CryptoCompare"
+    },
+    "devrage": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:10.887433+00:00",
+      "fragment_status": "Taken",
+      "project": "devrage",
+      "score": 81,
+      "source": "Hacker News New"
     },
     "deworming": {
       "cache_version": 14,
@@ -1528,6 +1624,14 @@
       "score": 88,
       "source": "English Words"
     },
+    "drawers": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:07.262423+00:00",
+      "fragment_status": "Auction",
+      "project": "Drawers",
+      "score": 96,
+      "source": "Hacker News Show HN"
+    },
     "dropee": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:44.512245+00:00",
@@ -1648,6 +1752,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "ennoia": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:17.577191+00:00",
+      "fragment_status": "Taken",
+      "project": "ennoia",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "ensiles": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:04.963037+00:00",
@@ -1736,6 +1848,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "fallow": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:13.272119+00:00",
+      "fragment_status": "Auction",
+      "project": "fallow",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "farriers": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:30:59.948720+00:00",
@@ -1776,6 +1896,14 @@
       "score": 76,
       "source": "CoinGecko All"
     },
+    "fetih": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:18.723132+00:00",
+      "fragment_status": "Auction",
+      "project": "fetih",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "feynman": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:38.616715+00:00",
@@ -1808,6 +1936,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "fizgig": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:19.451438+00:00",
+      "fragment_status": "Taken",
+      "project": "Fizgig",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "flare": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:32.757414+00:00",
@@ -1832,6 +1968,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "flipoff": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:12.106392+00:00",
+      "fragment_status": "Auction",
+      "project": "flipoff",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "freezers": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:18:57.235688+00:00",
@@ -1847,6 +1991,14 @@
       "project": "fribblers",
       "score": 82,
       "source": "English Words"
+    },
+    "friday": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:17.088530+00:00",
+      "fragment_status": "Taken",
+      "project": "friday studio",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
     },
     "fsspec": {
       "cache_version": 14,
@@ -1999,6 +2151,14 @@
       "project": ".github",
       "score": 100,
       "source": "GitHub New Repos: web3"
+    },
+    "gitmem": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:18.966318+00:00",
+      "fragment_status": "Taken",
+      "project": "gitmem",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "glazers": {
       "cache_version": 14,
@@ -2168,6 +2328,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "guten": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:07.021563+00:00",
+      "fragment_status": "Auction",
+      "project": "Guten",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "hachiko": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:48:30.906711+00:00",
@@ -2224,6 +2392,14 @@
       "score": 88,
       "source": "CoinGecko All"
     },
+    "holaos": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:11.129174+00:00",
+      "fragment_status": "Taken",
+      "project": "holaOS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "honker": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:28:43.294529+00:00",
@@ -2255,6 +2431,14 @@
       "project": "httpx",
       "score": 91,
       "source": "PyPI Top"
+    },
+    "hucre": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:15.165202+00:00",
+      "fragment_status": "Taken",
+      "project": "hucre",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "humanity": {
       "cache_version": 14,
@@ -2416,6 +2600,14 @@
       "score": 96,
       "source": "App Store Top"
     },
+    "kaomian": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:17.336987+00:00",
+      "fragment_status": "Taken",
+      "project": "kaomian",
+      "score": 82,
+      "source": "GitHub Topic (ai)"
+    },
     "kaspa": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:35:17.572369+00:00",
@@ -2455,6 +2647,14 @@
       "project": "Kimchi Coin",
       "score": 88,
       "source": "CoinGecko All"
+    },
+    "kimodo": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:13.034429+00:00",
+      "fragment_status": "Taken",
+      "project": "kimodo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kodhau": {
       "cache_version": 14,
@@ -2504,6 +2704,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "kwipu": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:21.279548+00:00",
+      "fragment_status": "Taken",
+      "project": "Kwipu",
+      "score": 88,
+      "source": "GitHub Topic (llm)"
+    },
     "lactarious": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:05.409877+00:00",
@@ -2511,6 +2719,14 @@
       "project": "lactarious",
       "score": 82,
       "source": "English Words"
+    },
+    "ladon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:07.738505+00:00",
+      "fragment_status": "Taken",
+      "project": "Ladon",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "landtrost": {
       "cache_version": 14,
@@ -2543,6 +2759,22 @@
       "project": "leaguelong",
       "score": 82,
       "source": "English Words"
+    },
+    "leanctx": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:21.037625+00:00",
+      "fragment_status": "Unavailable",
+      "project": "leanctx",
+      "score": 70,
+      "source": "GitHub Topic (llm)"
+    },
+    "leankg": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:20.370173+00:00",
+      "fragment_status": "Unavailable",
+      "project": "LeanKG",
+      "score": 90,
+      "source": "GitHub Topic (llm)"
     },
     "legends": {
       "cache_version": 14,
@@ -2600,6 +2832,14 @@
       "score": 99,
       "source": "CoinPaprika Coins"
     },
+    "litmux": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:16.605139+00:00",
+      "fragment_status": "Taken",
+      "project": "litmux",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
+    },
     "llmfit": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:37.152578+00:00",
@@ -2615,6 +2855,14 @@
       "project": "Local-first long-term memory engine",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "locus": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:16.366736+00:00",
+      "fragment_status": "Taken",
+      "project": "Locus",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
     },
     "lombard": {
       "cache_version": 14,
@@ -2832,6 +3080,14 @@
       "score": 82,
       "source": "Wikipedia Trending"
     },
+    "middle": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:09.219304+00:00",
+      "fragment_status": "Taken",
+      "project": "Middle",
+      "score": 100,
+      "source": "Hacker News Top"
+    },
     "mideo": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:28:39.141850+00:00",
@@ -2911,6 +3167,14 @@
       "project": "mockingly",
       "score": 70,
       "source": "English Words"
+    },
+    "modly": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:11.856410+00:00",
+      "fragment_status": "Taken",
+      "project": "modly",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "monad": {
       "cache_version": 14,
@@ -3240,6 +3504,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "otelite": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:23.362458+00:00",
+      "fragment_status": "Unavailable",
+      "project": "otelite",
+      "score": 81,
+      "source": "GitHub Topic (llm)"
+    },
     "outbakes": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:02.852807+00:00",
@@ -3359,6 +3631,14 @@
       "project": "PgQue",
       "score": 100,
       "source": "GitHub Trending (weekly)"
+    },
+    "phantom": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:14.684553+00:00",
+      "fragment_status": "Unavailable",
+      "project": "phantom",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pharos": {
       "cache_version": 14,
@@ -3576,6 +3856,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "probus": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:19.208722+00:00",
+      "fragment_status": "Taken",
+      "project": "Probus",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "proda": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:40.449095+00:00",
@@ -3768,6 +4056,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "rdprrap": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:08.734335+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Rdprrap",
+      "score": 84,
+      "source": "Hacker News Show HN"
+    },
     "reclip": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:38.832852+00:00",
@@ -3815,6 +4111,14 @@
       "project": "reindicate",
       "score": 82,
       "source": "English Words"
+    },
+    "rekal": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:22.692806+00:00",
+      "fragment_status": "Unavailable",
+      "project": "rekal",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "relance": {
       "cache_version": 14,
@@ -3943,6 +4247,14 @@
       "project": "rozzers",
       "score": 82,
       "source": "English Words"
+    },
+    "rtwatch": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:10.171676+00:00",
+      "fragment_status": "Taken",
+      "project": "Rtwatch",
+      "score": 81,
+      "source": "Hacker News New"
     },
     "saastr": {
       "cache_version": 14,
@@ -4168,6 +4480,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "skymap": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:06.782666+00:00",
+      "fragment_status": "Taken",
+      "project": "Skymap",
+      "score": 91,
+      "source": "Hacker News Show HN"
+    },
     "slate": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:28:37.905497+00:00",
@@ -4264,6 +4584,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "spinel": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:13.989464+00:00",
+      "fragment_status": "Taken",
+      "project": "spinel",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "spirt": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:22.482890+00:00",
@@ -4351,6 +4679,14 @@
       "project": "Starknet",
       "score": 91,
       "source": "CoinPaprika Coins"
+    },
+    "stash": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:15.643210+00:00",
+      "fragment_status": "Taken",
+      "project": "stash",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "staynex": {
       "cache_version": 14,
@@ -4480,6 +4816,14 @@
       "score": 96,
       "source": "CoinPaprika Coins"
     },
+    "taito": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:18.485064+00:00",
+      "fragment_status": "Unavailable",
+      "project": "taito",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "talkie": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:28:45.246198+00:00",
@@ -4487,6 +4831,14 @@
       "project": "talkie",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "taosmd": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:24.038347+00:00",
+      "fragment_status": "Unavailable",
+      "project": "taosmd",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "tatsu": {
       "cache_version": 14,
@@ -4688,6 +5040,14 @@
       "score": 99,
       "source": "CoinGecko Trending"
     },
+    "toprank": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:13.511510+00:00",
+      "fragment_status": "Taken",
+      "project": "toprank",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tracker": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:39.585902+00:00",
@@ -4736,6 +5096,14 @@
       "score": 88,
       "source": "GitHub Trending (daily)"
     },
+    "tuiql": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:06.304421+00:00",
+      "fragment_status": "Taken",
+      "project": "Tuiql",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "turbox": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:43.803897+00:00",
@@ -4751,6 +5119,14 @@
       "project": "Tuxedo",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "twotrim": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:17.817466+00:00",
+      "fragment_status": "Taken",
+      "project": "twotrim",
+      "score": 81,
+      "source": "GitHub Topic (ai)"
     },
     "typer": {
       "cache_version": 14,
@@ -4855,6 +5231,14 @@
       "project": "Upside: Gas & Food Cash Back",
       "score": 90,
       "source": "App Store Top"
+    },
+    "upskill": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:06.544958+00:00",
+      "fragment_status": "Auction",
+      "project": "Upskill",
+      "score": 97,
+      "source": "Hacker News Show HN"
     },
     "upstaff": {
       "cache_version": 14,
@@ -5064,6 +5448,22 @@
       "score": 95,
       "source": "App Store Top"
     },
+    "wanman": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:19.692948+00:00",
+      "fragment_status": "Taken",
+      "project": "wanman",
+      "score": 97,
+      "source": "GitHub Topic (llm)"
+    },
+    "wanted": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:09.931546+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Wanted",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "warplet": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:39.948637+00:00",
@@ -5080,6 +5480,14 @@
       "score": 88,
       "source": "CoinGecko All"
     },
+    "weclaw": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:14.927292+00:00",
+      "fragment_status": "Taken",
+      "project": "weclaw",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "werss": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:41.076963+00:00",
@@ -5087,6 +5495,14 @@
       "project": "werss",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "wewrite": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:13.751006+00:00",
+      "fragment_status": "Auction",
+      "project": "wewrite",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "whale": {
       "cache_version": 14,
@@ -5167,6 +5583,14 @@
       "project": "Worldcoin",
       "score": 85,
       "source": "CoinPaprika Coins"
+    },
+    "worldx": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T17:13:15.403815+00:00",
+      "fragment_status": "Auction",
+      "project": "WorldX",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
     },
     "would": {
       "cache_version": 14,
