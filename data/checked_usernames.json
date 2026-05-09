@@ -8,6 +8,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "abbott": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.708728+00:00",
+      "fragment_status": "Auction",
+      "project": "Abbott (Ondo Tokenized Stock)",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "achain": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:43.091771+00:00",
@@ -176,6 +184,14 @@
       "score": 82,
       "source": "CryptoCompare"
     },
+    "arowana": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.794227+00:00",
+      "fragment_status": "Auction",
+      "project": "Arowana",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
     "aster": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:28.118016+00:00",
@@ -223,6 +239,14 @@
       "project": "bangos",
       "score": 88,
       "source": "English Words"
+    },
+    "basecto": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:34.113003+00:00",
+      "fragment_status": "Unavailable",
+      "project": "BaseCTO",
+      "score": 92,
+      "source": "CoinGecko All"
     },
     "baulked": {
       "cache_version": 14,
@@ -416,6 +440,14 @@
       "score": 92,
       "source": "CoinPaprika Coins"
     },
+    "bullets": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.359452+00:00",
+      "fragment_status": "Taken",
+      "project": "Bullets",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
     "bully": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:31.042621+00:00",
@@ -528,6 +560,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "ccqkl": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:34.701978+00:00",
+      "fragment_status": "Taken",
+      "project": "CCQKL",
+      "score": 76,
+      "source": "CoinGecko All"
+    },
     "celestia": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:27.623206+00:00",
@@ -552,6 +592,14 @@
       "score": 88,
       "source": "CryptoCompare"
     },
+    "chain": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:32.978639+00:00",
+      "fragment_status": "Taken",
+      "project": "Chain-key Bitcoin",
+      "score": 98,
+      "source": "CoinGecko All"
+    },
     "chainlink": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:07.136451+00:00",
@@ -567,6 +615,14 @@
       "project": "Cheapshot",
       "score": 96,
       "source": "Hacker News Show HN"
+    },
+    "chevron": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.855358+00:00",
+      "fragment_status": "Taken",
+      "project": "Chevron (Ondo Tokenized Stock)",
+      "score": 82,
+      "source": "CoinGecko All"
     },
     "chiliz": {
       "cache_version": 14,
@@ -1112,6 +1168,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "ergone": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.325757+00:00",
+      "fragment_status": "Taken",
+      "project": "ErgOne",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "escudos": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:29:51.508193+00:00",
@@ -1264,6 +1328,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "galaxis": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.588421+00:00",
+      "fragment_status": "Taken",
+      "project": "GALAXIS Token",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
     "ganoid": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:00.996066+00:00",
@@ -1311,6 +1383,14 @@
       "project": "GeoCoin (GEO)",
       "score": 82,
       "source": "CryptoCompare"
+    },
+    "geodnet": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.553736+00:00",
+      "fragment_status": "Taken",
+      "project": "Geodnet",
+      "score": 82,
+      "source": "CoinGecko All"
     },
     "ghedda": {
       "cache_version": 14,
@@ -1432,6 +1512,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "groyper": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.682237+00:00",
+      "fragment_status": "Taken",
+      "project": "Groyper",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
     "grubstreet": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:29:48.768062+00:00",
@@ -1446,6 +1534,14 @@
       "fragment_status": "Taken",
       "project": "Gunda",
       "score": 88,
+      "source": "CoinGecko All"
+    },
+    "hachiko": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.906711+00:00",
+      "fragment_status": "Taken",
+      "project": "Hachiko",
+      "score": 82,
       "source": "CoinGecko All"
     },
     "haulmiest": {
@@ -1464,6 +1560,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "helix": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.972793+00:00",
+      "fragment_status": "Taken",
+      "project": "Helix",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "hemidactyl": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:18:59.011583+00:00",
@@ -1471,6 +1575,14 @@
       "project": "hemidactyl",
       "score": 70,
       "source": "English Words"
+    },
+    "higher": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.130506+00:00",
+      "fragment_status": "Taken",
+      "project": "higher",
+      "score": 88,
+      "source": "CoinGecko All"
     },
     "horse": {
       "cache_version": 14,
@@ -1616,6 +1728,14 @@
       "score": 84,
       "source": "Hacker News Show HN"
     },
+    "kimchi": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.329200+00:00",
+      "fragment_status": "Taken",
+      "project": "Kimchi Coin",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "kodhau": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:28.627051+00:00",
@@ -1695,6 +1815,14 @@
       "project": "leisurely",
       "score": 82,
       "source": "English Words"
+    },
+    "libra": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.211656+00:00",
+      "fragment_status": "Taken",
+      "project": "Libra",
+      "score": 88,
+      "source": "CoinGecko All"
     },
     "lighter": {
       "cache_version": 14,
@@ -2032,6 +2160,22 @@
       "score": 92,
       "source": "CoinGecko All"
     },
+    "noctura": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.245009+00:00",
+      "fragment_status": "Taken",
+      "project": "NOCtura",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
+    "nosana": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:35.034152+00:00",
+      "fragment_status": "Taken",
+      "project": "Nosana",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "notation": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:04.788707+00:00",
@@ -2047,6 +2191,14 @@
       "project": "Notion-to-site",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "novax": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:34.227448+00:00",
+      "fragment_status": "Taken",
+      "project": "NovaX",
+      "score": 88,
+      "source": "CoinGecko All"
     },
     "nxusd": {
       "cache_version": 14,
@@ -2119,6 +2271,14 @@
       "project": "Openloom",
       "score": 96,
       "source": "Hacker News Show HN"
+    },
+    "opera": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:34.923416+00:00",
+      "fragment_status": "Taken",
+      "project": "Opera (Ondo Tokenized)",
+      "score": 88,
+      "source": "CoinGecko All"
     },
     "optimism": {
       "cache_version": 14,
@@ -2224,6 +2384,30 @@
       "score": 98,
       "source": "GitHub New Repos: ton"
     },
+    "pisces": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:34.812001+00:00",
+      "fragment_status": "Taken",
+      "project": "Pisces",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
+    "pitbull": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.442584+00:00",
+      "fragment_status": "Taken",
+      "project": "Pitbull",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
+    "pixtel": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.212203+00:00",
+      "fragment_status": "Auction",
+      "project": "PIXTEL",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "plaintail": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:05.867827+00:00",
@@ -2312,6 +2496,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "prerich": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.015485+00:00",
+      "fragment_status": "Taken",
+      "project": "prerich",
+      "score": 82,
+      "source": "CoinGecko All"
+    },
     "primeness": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:15.680013+00:00",
@@ -2351,6 +2543,14 @@
       "project": "proteiform",
       "score": 82,
       "source": "English Words"
+    },
+    "pulse": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.093963+00:00",
+      "fragment_status": "Taken",
+      "project": "PULSE",
+      "score": 88,
+      "source": "CoinGecko All"
     },
     "quant": {
       "cache_version": 14,
@@ -2622,6 +2822,14 @@
       "fragment_status": "Taken",
       "project": "Shards",
       "score": 88,
+      "source": "CoinGecko All"
+    },
+    "shinobi": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:31.475331+00:00",
+      "fragment_status": "Taken",
+      "project": "Shinobi",
+      "score": 82,
       "source": "CoinGecko All"
     },
     "shippable": {
@@ -2904,6 +3112,14 @@
       "score": 100,
       "source": "GitHub New Repos: solana"
     },
+    "sweat": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.556158+00:00",
+      "fragment_status": "Taken",
+      "project": "SWEAT",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "swissborg": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:29.809711+00:00",
@@ -2935,6 +3151,14 @@
       "project": "Telcoin",
       "score": 86,
       "source": "CoinPaprika Coins"
+    },
+    "terrace": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.783811+00:00",
+      "fragment_status": "Auction",
+      "project": "Terrace",
+      "score": 82,
+      "source": "CoinGecko All"
     },
     "tether": {
       "cache_version": 14,
@@ -3288,6 +3512,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "websea": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:32.868885+00:00",
+      "fragment_status": "Taken",
+      "project": "Websea",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "whippable": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:00.050358+00:00",
@@ -3344,6 +3576,14 @@
       "score": 85,
       "source": "CoinPaprika Coins"
     },
+    "would": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:30.441232+00:00",
+      "fragment_status": "Taken",
+      "project": "would",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "xstocks": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:44.702374+00:00",
@@ -3360,6 +3600,14 @@
       "score": 88,
       "source": "CryptoCompare"
     },
+    "yearn": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:33.671048+00:00",
+      "fragment_status": "Taken",
+      "project": "yearn.finance",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
     "zcash": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:27.133270+00:00",
@@ -3375,6 +3623,22 @@
       "project": "Zebec Network",
       "score": 95,
       "source": "CoinPaprika Coins"
+    },
+    "zenzec": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:32.752157+00:00",
+      "fragment_status": "Unavailable",
+      "project": "zenZEC",
+      "score": 88,
+      "source": "CoinGecko All"
+    },
+    "zkchan": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:48:34.590331+00:00",
+      "fragment_status": "Unavailable",
+      "project": "zkChan",
+      "score": 76,
+      "source": "CoinGecko All"
     },
     "zoonomical": {
       "cache_version": 14,
