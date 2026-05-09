@@ -25,7 +25,7 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 - Scores each username from 1 to 100.
 - Only checks generated usernames up to 6 characters.
 - Sends up to 10 new Telegram alerts per run by default.
-- Checks up to 160 new usernames per run by default.
+- Checks up to 600 new usernames per run by default.
 - Stores checked usernames in `data/checked_usernames.json` to avoid repeating alerts in future runs.
 
 ## Setup
@@ -60,7 +60,7 @@ Each run sends up to 10 suggestions, or fewer if fewer `unavailable` opportuniti
 | `TELEGRAM_BOT_TOKEN` | empty | Telegram bot token |
 | `TELEGRAM_CHAT_ID` | `12204622` | Telegram chat ID used by the workflow |
 | `MAX_ALERTS_PER_RUN` | `10` | Maximum alerts per workflow run |
-| `MAX_USERNAMES_TO_CHECK` | `160` | Maximum new usernames to check per workflow run |
+| `MAX_USERNAMES_TO_CHECK` | `600` | Maximum new usernames to check per workflow run |
 | `MIN_SCORE` | `81` | Minimum score required for alerts |
 | `REQUEST_TIMEOUT` | `20` | HTTP timeout in seconds |
 | `CACHE_PATH` | `data/checked_usernames.json` | Local username cache path |

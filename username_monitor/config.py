@@ -14,7 +14,7 @@ class Config:
     telegram_bot_token: str
     telegram_chat_id: str
     max_alerts_per_run: int = 10
-    max_usernames_to_check: int = 160
+    max_usernames_to_check: int = 600
     min_score: int = 81
     request_timeout: int = 20
     cache_path: str = "data/checked_usernames.json"
@@ -27,7 +27,7 @@ def load_config() -> Config:
         telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", ""),
         telegram_chat_id=os.getenv("TELEGRAM_CHAT_ID", ""),
         max_alerts_per_run=_int_env("MAX_ALERTS_PER_RUN", 10),
-        max_usernames_to_check=_int_env("MAX_USERNAMES_TO_CHECK", 160),
+        max_usernames_to_check=_int_env("MAX_USERNAMES_TO_CHECK", 600),
         min_score=_int_env("MIN_SCORE", 81),
         request_timeout=_int_env("REQUEST_TIMEOUT", 20),
         cache_path=os.getenv("CACHE_PATH", "data/checked_usernames.json"),
