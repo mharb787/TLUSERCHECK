@@ -1,5 +1,13 @@
 {
   "checked": {
+    "abashing": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:54.837786+00:00",
+      "fragment_status": "Taken",
+      "project": "abashing",
+      "score": 82,
+      "source": "English Words"
+    },
     "adores": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:04.483599+00:00",
@@ -48,6 +56,22 @@
       "score": 99,
       "source": "DexScreener Top Boosts"
     },
+    "amang": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:57.255694+00:00",
+      "fragment_status": "Unavailable",
+      "project": "amang",
+      "score": 88,
+      "source": "English Words"
+    },
+    "amnesiacs": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:55.988532+00:00",
+      "fragment_status": "Auction",
+      "project": "amnesiacs",
+      "score": 82,
+      "source": "English Words"
+    },
     "anycrap": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:00.569234+00:00",
@@ -63,6 +87,14 @@
       "project": "APENFT",
       "score": 97,
       "source": "CoinPaprika Coins"
+    },
+    "apocrine": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:05.694811+00:00",
+      "fragment_status": "Taken",
+      "project": "apocrine",
+      "score": 82,
+      "source": "English Words"
     },
     "aptmatic": {
       "cache_version": 14,
@@ -117,6 +149,14 @@
       "checked_at": "2026-05-09T15:18:57.022075+00:00",
       "fragment_status": "Taken",
       "project": "baulked",
+      "score": 82,
+      "source": "English Words"
+    },
+    "beanstalks": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:57.443320+00:00",
+      "fragment_status": "Taken",
+      "project": "beanstalks",
       "score": 82,
       "source": "English Words"
     },
@@ -320,6 +360,14 @@
       "score": 99,
       "source": "CoinPaprika Coins"
     },
+    "cashiering": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:02.023441+00:00",
+      "fragment_status": "Taken",
+      "project": "cashiering",
+      "score": 92,
+      "source": "English Words"
+    },
     "celestia": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:27.623206+00:00",
@@ -335,6 +383,14 @@
       "project": "Centrifuge Protocol",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "chainlink": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:07.136451+00:00",
+      "fragment_status": "Taken",
+      "project": "Chainlink",
+      "score": 100,
+      "source": "CoinPaprika Coins"
     },
     "cheapshot": {
       "cache_version": 14,
@@ -357,6 +413,14 @@
       "checked_at": "2026-05-09T15:19:00.395332+00:00",
       "fragment_status": "Auction",
       "project": "chremsel",
+      "score": 82,
+      "source": "English Words"
+    },
+    "chupatti": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:07.321668+00:00",
+      "fragment_status": "Taken",
+      "project": "chupatti",
       "score": 82,
       "source": "English Words"
     },
@@ -448,6 +512,14 @@
       "score": 92,
       "source": "English Words"
     },
+    "corkwing": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:54.648974+00:00",
+      "fragment_status": "Taken",
+      "project": "corkwing",
+      "score": 82,
+      "source": "English Words"
+    },
     "cornland": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:11.149381+00:00",
@@ -504,6 +576,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "danaid": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:58.684219+00:00",
+      "fragment_status": "Auction",
+      "project": "danaid",
+      "score": 98,
+      "source": "English Words"
+    },
     "declaiming": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:10.157263+00:00",
@@ -520,6 +600,14 @@
       "score": 97,
       "source": "CoinPaprika Coins"
     },
+    "defecated": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:06.940625+00:00",
+      "fragment_status": "Taken",
+      "project": "defecated",
+      "score": 82,
+      "source": "English Words"
+    },
     "deribit": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:07.843539+00:00",
@@ -533,6 +621,14 @@
       "checked_at": "2026-05-09T15:19:16.201709+00:00",
       "fragment_status": "Auction",
       "project": "desemer",
+      "score": 82,
+      "source": "English Words"
+    },
+    "deworming": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:01.664517+00:00",
+      "fragment_status": "Unavailable",
+      "project": "deworming",
       "score": 82,
       "source": "English Words"
     },
@@ -560,6 +656,14 @@
       "score": 96,
       "source": "Hacker News Show HN"
     },
+    "dispirited": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:05.317767+00:00",
+      "fragment_status": "Auction",
+      "project": "dispirited",
+      "score": 82,
+      "source": "English Words"
+    },
     "dogecoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:12:21.948262+00:00",
@@ -576,6 +680,14 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "doorstone": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:05.130701+00:00",
+      "fragment_status": "Taken",
+      "project": "doorstone",
+      "score": 82,
+      "source": "English Words"
+    },
     "doublezero": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:15.853018+00:00",
@@ -590,6 +702,14 @@
       "fragment_status": "Taken",
       "project": "drank",
       "score": 88,
+      "source": "English Words"
+    },
+    "drummer": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:01.189121+00:00",
+      "fragment_status": "Taken",
+      "project": "drummer",
+      "score": 82,
       "source": "English Words"
     },
     "duosolve": {
@@ -616,11 +736,27 @@
       "score": 82,
       "source": "English Words"
     },
+    "ensiles": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:04.963037+00:00",
+      "fragment_status": "Taken",
+      "project": "ensiles",
+      "score": 82,
+      "source": "English Words"
+    },
     "envying": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:08.329619+00:00",
       "fragment_status": "Taken",
       "project": "envying",
+      "score": 82,
+      "source": "English Words"
+    },
+    "epicurish": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:03.535321+00:00",
+      "fragment_status": "Unavailable",
+      "project": "epicurish",
       "score": 82,
       "source": "English Words"
     },
@@ -712,6 +848,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "ganoid": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:00.996066+00:00",
+      "fragment_status": "Taken",
+      "project": "ganoid",
+      "score": 88,
+      "source": "English Words"
+    },
     "gastrotomy": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:02.858187+00:00",
@@ -784,6 +928,14 @@
       "score": 100,
       "source": "GitHub New Repos: ton"
     },
+    "grabble": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:58.309431+00:00",
+      "fragment_status": "Unavailable",
+      "project": "grabble",
+      "score": 82,
+      "source": "English Words"
+    },
     "grainland": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:18:57.404868+00:00",
@@ -800,6 +952,14 @@
       "score": 93,
       "source": "CoinPaprika Coins"
     },
+    "grates": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:59.061240+00:00",
+      "fragment_status": "Auction",
+      "project": "grates",
+      "score": 88,
+      "source": "English Words"
+    },
     "grove": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:06:30.054589+00:00",
@@ -807,6 +967,14 @@
       "project": "Grove Finance",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "haulmiest": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:04.411240+00:00",
+      "fragment_status": "Taken",
+      "project": "haulmiest",
+      "score": 82,
+      "source": "English Words"
     },
     "headmen": {
       "cache_version": 14,
@@ -824,12 +992,36 @@
       "score": 70,
       "source": "English Words"
     },
+    "humanity": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:04.600518+00:00",
+      "fragment_status": "Taken",
+      "project": "Humanity",
+      "score": 92,
+      "source": "CoinPaprika Coins"
+    },
+    "hydromotor": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:59.771828+00:00",
+      "fragment_status": "Unavailable",
+      "project": "hydromotor",
+      "score": 70,
+      "source": "English Words"
+    },
     "hydrotheca": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:19.670743+00:00",
       "fragment_status": "Auction",
       "project": "hydrotheca",
       "score": 70,
+      "source": "English Words"
+    },
+    "immoralist": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:57.808908+00:00",
+      "fragment_status": "Taken",
+      "project": "immoralist",
+      "score": 82,
       "source": "English Words"
     },
     "inactuate": {
@@ -888,6 +1080,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "kaffirs": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:55.815602+00:00",
+      "fragment_status": "Taken",
+      "project": "kaffirs",
+      "score": 82,
+      "source": "English Words"
+    },
     "killclawd": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:09.813442+00:00",
@@ -917,6 +1117,22 @@
       "checked_at": "2026-05-09T15:19:05.409877+00:00",
       "fragment_status": "Auction",
       "project": "lactarious",
+      "score": 82,
+      "source": "English Words"
+    },
+    "landtrost": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:00.445084+00:00",
+      "fragment_status": "Unavailable",
+      "project": "landtrost",
+      "score": 70,
+      "source": "English Words"
+    },
+    "lankish": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:58.490838+00:00",
+      "fragment_status": "Auction",
+      "project": "lankish",
       "score": 82,
       "source": "English Words"
     },
@@ -968,6 +1184,22 @@
       "score": 99,
       "source": "CoinPaprika Coins"
     },
+    "lophodont": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:07.825932+00:00",
+      "fragment_status": "Unavailable",
+      "project": "lophodont",
+      "score": 82,
+      "source": "English Words"
+    },
+    "lossful": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:06.751015+00:00",
+      "fragment_status": "Taken",
+      "project": "lossful",
+      "score": 82,
+      "source": "English Words"
+    },
     "manadia": {
       "cache_version": 14,
       "checked_at": "2026-05-09T14:32:06.283310+00:00",
@@ -1016,6 +1248,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "marseille": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:57.635521+00:00",
+      "fragment_status": "Taken",
+      "project": "marseille",
+      "score": 82,
+      "source": "English Words"
+    },
     "masochism": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:18:56.521993+00:00",
@@ -1037,6 +1277,14 @@
       "checked_at": "2026-05-09T15:19:04.310434+00:00",
       "fragment_status": "Auction",
       "project": "mesquit",
+      "score": 82,
+      "source": "English Words"
+    },
+    "mestinos": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:56.535467+00:00",
+      "fragment_status": "Unavailable",
+      "project": "mestinos",
       "score": 82,
       "source": "English Words"
     },
@@ -1063,6 +1311,14 @@
       "project": "Mobile-ink, an open-source mobile",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "mockingly": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:58.877471+00:00",
+      "fragment_status": "Taken",
+      "project": "mockingly",
+      "score": 70,
+      "source": "English Words"
     },
     "monad": {
       "cache_version": 14,
@@ -1120,6 +1376,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "notation": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:04.788707+00:00",
+      "fragment_status": "Auction",
+      "project": "notation",
+      "score": 82,
+      "source": "English Words"
+    },
     "nylgau": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:20.386221+00:00",
@@ -1143,6 +1407,14 @@
       "project": "Openloom",
       "score": 96,
       "source": "Hacker News Show HN"
+    },
+    "outbakes": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:02.852807+00:00",
+      "fragment_status": "Unavailable",
+      "project": "outbakes",
+      "score": 82,
+      "source": "English Words"
     },
     "outlimn": {
       "cache_version": 14,
@@ -1168,6 +1440,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "passel": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:59.946993+00:00",
+      "fragment_status": "Auction",
+      "project": "passel",
+      "score": 88,
+      "source": "English Words"
+    },
     "pendle": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:10.828187+00:00",
@@ -1191,6 +1471,14 @@
       "project": "PinguHub",
       "score": 98,
       "source": "GitHub New Repos: ton"
+    },
+    "plaintail": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:05.867827+00:00",
+      "fragment_status": "Taken",
+      "project": "plaintail",
+      "score": 92,
+      "source": "English Words"
     },
     "plasma": {
       "cache_version": 14,
@@ -1223,6 +1511,14 @@
       "project": "Polygon",
       "score": 86,
       "source": "CoinPaprika Coins"
+    },
+    "polyoicous": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:06.388682+00:00",
+      "fragment_status": "Unavailable",
+      "project": "polyoicous",
+      "score": 82,
+      "source": "English Words"
     },
     "portal": {
       "cache_version": 14,
@@ -1264,6 +1560,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "proslaver": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:04.063076+00:00",
+      "fragment_status": "Unavailable",
+      "project": "proslaver",
+      "score": 82,
+      "source": "English Words"
+    },
     "proteiform": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:12.927076+00:00",
@@ -1279,6 +1583,14 @@
       "project": "Quant",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "quinarius": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:00.807742+00:00",
+      "fragment_status": "Taken",
+      "project": "quinarius",
+      "score": 82,
+      "source": "English Words"
     },
     "quisquous": {
       "cache_version": 14,
@@ -1296,6 +1608,14 @@
       "score": 96,
       "source": "CoinGecko Trending"
     },
+    "ravinement": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:55.636167+00:00",
+      "fragment_status": "Unavailable",
+      "project": "ravinement",
+      "score": 82,
+      "source": "English Words"
+    },
     "raydium": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:23:17.555568+00:00",
@@ -1304,11 +1624,27 @@
       "score": 87,
       "source": "CoinPaprika Coins"
     },
+    "rector": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:06.563388+00:00",
+      "fragment_status": "Taken",
+      "project": "rector",
+      "score": 88,
+      "source": "English Words"
+    },
     "relance": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:18.234481+00:00",
       "fragment_status": "Auction",
       "project": "relance",
+      "score": 82,
+      "source": "English Words"
+    },
+    "remurmur": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:00.633003+00:00",
+      "fragment_status": "Taken",
+      "project": "remurmur",
       "score": 82,
       "source": "English Words"
     },
@@ -1357,6 +1693,14 @@
       "checked_at": "2026-05-09T15:19:13.328968+00:00",
       "fragment_status": "Taken",
       "project": "rozzers",
+      "score": 82,
+      "source": "English Words"
+    },
+    "safroles": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:05.505801+00:00",
+      "fragment_status": "Taken",
+      "project": "safroles",
       "score": 82,
       "source": "English Words"
     },
@@ -1504,6 +1848,22 @@
       "score": 99,
       "source": "CoinPaprika Coins"
     },
+    "stiles": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:04.236774+00:00",
+      "fragment_status": "Auction",
+      "project": "stiles",
+      "score": 88,
+      "source": "English Words"
+    },
+    "story": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:59.248213+00:00",
+      "fragment_status": "Taken",
+      "project": "Story",
+      "score": 92,
+      "source": "CoinPaprika Coins"
+    },
     "structured": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:11.842681+00:00",
@@ -1624,6 +1984,14 @@
       "score": 88,
       "source": "English Words"
     },
+    "trounced": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:02.368596+00:00",
+      "fragment_status": "Taken",
+      "project": "trounced",
+      "score": 82,
+      "source": "English Words"
+    },
     "trueusd": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:23:15.728534+00:00",
@@ -1672,11 +2040,27 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "unius": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:25:56.723827+00:00",
+      "fragment_status": "Auction",
+      "project": "unius",
+      "score": 88,
+      "source": "English Words"
+    },
     "unregal": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:19:11.670221+00:00",
       "fragment_status": "Auction",
       "project": "unregal",
+      "score": 82,
+      "source": "English Words"
+    },
+    "unshifts": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:01.852593+00:00",
+      "fragment_status": "Taken",
+      "project": "unshifts",
       "score": 82,
       "source": "English Words"
     },
@@ -1686,6 +2070,14 @@
       "fragment_status": "Auction",
       "project": "unswilled",
       "score": 82,
+      "source": "English Words"
+    },
+    "upmountain": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T15:26:02.197253+00:00",
+      "fragment_status": "Taken",
+      "project": "upmountain",
+      "score": 92,
       "source": "English Words"
     },
     "upstaff": {
