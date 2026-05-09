@@ -609,8 +609,8 @@
       "source": "English Wordlist"
     },
     "beacon": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:10:31.685142+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:19.347268+00:00",
       "fragment_status": "Taken",
       "project": "beacon",
       "score": 95,
@@ -1329,8 +1329,8 @@
       "source": "CoinPaprika Coins"
     },
     "dolphin": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:32.357582+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:19.531280+00:00",
       "fragment_status": "Taken",
       "project": "dolphin",
       "score": 89,
@@ -1625,16 +1625,16 @@
       "source": "GitHub New Repos: telegram bot"
     },
     "galaxy": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:37.308598+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:19.726573+00:00",
       "fragment_status": "Taken",
       "project": "galaxy",
       "score": 95,
       "source": "English Wordlist"
     },
     "garden": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:37.433171+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:19.909448+00:00",
       "fragment_status": "Taken",
       "project": "garden",
       "score": 95,
@@ -1665,8 +1665,8 @@
       "source": "DeFiLlama Protocols"
     },
     "gentle": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:37.672062+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:20.109845+00:00",
       "fragment_status": "Taken",
       "project": "gentle",
       "score": 95,
@@ -2049,16 +2049,16 @@
       "source": "English Wordlist"
     },
     "harbor": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:39.936573+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:20.300130+00:00",
       "fragment_status": "Taken",
       "project": "harbor",
       "score": 95,
       "source": "English Wordlist"
     },
     "harmony": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:40.050189+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:20.488368+00:00",
       "fragment_status": "Taken",
       "project": "harmony",
       "score": 89,
@@ -2153,8 +2153,8 @@
       "source": "English Wordlist"
     },
     "horizon": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:40.897196+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:20.672402+00:00",
       "fragment_status": "Taken",
       "project": "horizon",
       "score": 89,
@@ -2217,8 +2217,8 @@
       "source": "CoinPaprika Coins"
     },
     "impact": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:41.124889+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:20.864721+00:00",
       "fragment_status": "Taken",
       "project": "impact",
       "score": 95,
@@ -2369,8 +2369,8 @@
       "source": "CoinPaprika Coins"
     },
     "kinetic": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:41.951581+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:21.053320+00:00",
       "fragment_status": "Taken",
       "project": "kinetic",
       "score": 89,
@@ -2569,16 +2569,16 @@
       "source": "English Wordlist"
     },
     "matrix": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:44.041782+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:21.243935+00:00",
       "fragment_status": "Taken",
       "project": "matrix",
       "score": 95,
       "source": "English Wordlist"
     },
     "meadow": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:44.304555+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:21.428475+00:00",
       "fragment_status": "Taken",
       "project": "meadow",
       "score": 95,
@@ -2657,8 +2657,8 @@
       "source": "English Wordlist"
     },
     "moment": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:45.402345+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:21.619459+00:00",
       "fragment_status": "Taken",
       "project": "moment",
       "score": 95,
@@ -2713,24 +2713,24 @@
       "source": "GitHub New Repos: solana"
     },
     "motion": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:45.517384+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:21.806085+00:00",
       "fragment_status": "Taken",
       "project": "motion",
       "score": 95,
       "source": "English Wordlist"
     },
     "native": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:45.637826+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:21.992181+00:00",
       "fragment_status": "Taken",
       "project": "native",
       "score": 95,
       "source": "English Wordlist"
     },
     "nectar": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:45.875498+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:22.178989+00:00",
       "fragment_status": "Taken",
       "project": "nectar",
       "score": 95,
@@ -2905,8 +2905,8 @@
       "source": "English Wordlist"
     },
     "origin": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:47.861282+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:22.535182+00:00",
       "fragment_status": "Unavailable",
       "project": "origin",
       "score": 95,
@@ -3041,8 +3041,8 @@
       "source": "English Wordlist"
     },
     "planet": {
-      "cache_version": 9,
-      "checked_at": "2026-05-09T10:14:48.782842+00:00",
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:22.731849+00:00",
       "fragment_status": "Taken",
       "project": "planet",
       "score": 95,
@@ -3288,6 +3288,14 @@
       "score": 97,
       "source": "Hacker News Show HN"
     },
+    "rocket": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:22.918264+00:00",
+      "fragment_status": "Taken",
+      "project": "rocket",
+      "score": 95,
+      "source": "English Wordlist"
+    },
     "rseth": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:47.526106+00:00",
@@ -3336,6 +3344,14 @@
       "score": 86,
       "source": "Hacker News Show HN"
     },
+    "signal": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:23.128802+00:00",
+      "fragment_status": "Taken",
+      "project": "signal",
+      "score": 95,
+      "source": "English Wordlist"
+    },
     "signegy": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:10:34.240404+00:00",
@@ -3344,6 +3360,22 @@
       "score": 81,
       "source": "Hacker News Show HN"
     },
+    "silver": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:23.313129+00:00",
+      "fragment_status": "Auction",
+      "project": "silver",
+      "score": 95,
+      "source": "English Wordlist"
+    },
+    "simple": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:23.500481+00:00",
+      "fragment_status": "Taken",
+      "project": "simple",
+      "score": 95,
+      "source": "English Wordlist"
+    },
     "siren": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:49.221528+00:00",
@@ -3351,6 +3383,14 @@
       "project": "SIREN",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "sketch": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:23.689955+00:00",
+      "fragment_status": "Taken",
+      "project": "sketch",
+      "score": 95,
+      "source": "English Wordlist"
     },
     "slate": {
       "cache_version": 9,
@@ -3424,6 +3464,30 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "spirit": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:23.879471+00:00",
+      "fragment_status": "Taken",
+      "project": "spirit",
+      "score": 95,
+      "source": "English Wordlist"
+    },
+    "sprout": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:24.066050+00:00",
+      "fragment_status": "Auction",
+      "project": "sprout",
+      "score": 95,
+      "source": "English Wordlist"
+    },
+    "stable": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:24.266033+00:00",
+      "fragment_status": "Taken",
+      "project": "stable",
+      "score": 95,
+      "source": "English Wordlist"
+    },
     "stader": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:14:43.927754+00:00",
@@ -3447,6 +3511,22 @@
       "project": "STETH",
       "score": 100,
       "source": "CoinPaprika Coins"
+    },
+    "stream": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:24.453676+00:00",
+      "fragment_status": "Taken",
+      "project": "stream",
+      "score": 95,
+      "source": "English Wordlist"
+    },
+    "summit": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:24.643476+00:00",
+      "fragment_status": "Taken",
+      "project": "summit",
+      "score": 95,
+      "source": "English Wordlist"
     },
     "susde": {
       "cache_version": 9,
@@ -3784,6 +3864,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "velvet": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:24.838341+00:00",
+      "fragment_status": "Taken",
+      "project": "velvet",
+      "score": 95,
+      "source": "English Wordlist"
+    },
     "venice": {
       "cache_version": 9,
       "checked_at": "2026-05-09T10:10:23.662872+00:00",
@@ -3815,6 +3903,14 @@
       "project": "Venice Token",
       "score": 100,
       "source": "CoinGecko Trending"
+    },
+    "voyage": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:25.025628+00:00",
+      "fragment_status": "Taken",
+      "project": "voyage",
+      "score": 95,
+      "source": "English Wordlist"
     },
     "walrushf": {
       "cache_version": 4,
@@ -3975,6 +4071,14 @@
       "project": "Zcash",
       "score": 100,
       "source": "CoinGecko Trending"
+    },
+    "zenith": {
+      "cache_version": 10,
+      "checked_at": "2026-05-09T10:26:25.239996+00:00",
+      "fragment_status": "Taken",
+      "project": "zenith",
+      "score": 95,
+      "source": "English Wordlist"
     },
     "zyrln": {
       "cache_version": 9,
