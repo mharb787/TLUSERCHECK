@@ -16,6 +16,22 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "beldex": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:17.330485+00:00",
+      "fragment_status": "Taken",
+      "project": "Beldex",
+      "score": 100,
+      "source": "CoinPaprika Coins"
+    },
+    "binance": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:16.158126+00:00",
+      "fragment_status": "Auction",
+      "project": "Binance-Peg Ethereum Token",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
     "bitcoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:08.105282+00:00",
@@ -64,6 +80,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "classic": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:16.869150+00:00",
+      "fragment_status": "Taken",
+      "project": "Ethereum Classic",
+      "score": 99,
+      "source": "CoinPaprika Coins"
+    },
     "cosmos": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:10.583135+00:00",
@@ -95,6 +119,14 @@
       "project": "Deribit",
       "score": 100,
       "source": "DeFiLlama Protocols"
+    },
+    "ethena": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:17.096866+00:00",
+      "fragment_status": "Taken",
+      "project": "Ethena",
+      "score": 100,
+      "source": "CoinPaprika Coins"
     },
     "ethgas": {
       "cache_version": 14,
@@ -168,6 +200,14 @@
       "score": 98,
       "source": "CoinGecko Trending"
     },
+    "polygon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:15.494824+00:00",
+      "fragment_status": "Taken",
+      "project": "Polygon",
+      "score": 86,
+      "source": "CoinPaprika Coins"
+    },
     "portal": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:10.340278+00:00",
@@ -183,6 +223,22 @@
       "project": "RaveDAO",
       "score": 96,
       "source": "CoinGecko Trending"
+    },
+    "raydium": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:17.555568+00:00",
+      "fragment_status": "Taken",
+      "project": "Raydium",
+      "score": 87,
+      "source": "CoinPaprika Coins"
+    },
+    "render": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:16.392493+00:00",
+      "fragment_status": "Taken",
+      "project": "Render",
+      "score": 100,
+      "source": "CoinPaprika Coins"
     },
     "sentora": {
       "cache_version": 14,
@@ -208,6 +264,14 @@
       "score": 100,
       "source": "CoinPaprika Coins"
     },
+    "telcoin": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:16.628343+00:00",
+      "fragment_status": "Taken",
+      "project": "Telcoin",
+      "score": 86,
+      "source": "CoinPaprika Coins"
+    },
     "tether": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:09.112661+00:00",
@@ -223,6 +287,14 @@
       "project": "Toncoin",
       "score": 99,
       "source": "CoinGecko Trending"
+    },
+    "trueusd": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T13:23:15.728534+00:00",
+      "fragment_status": "Taken",
+      "project": "TrueUSD",
+      "score": 94,
+      "source": "CoinPaprika Coins"
     },
     "unfazed": {
       "cache_version": 14,
