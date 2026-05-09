@@ -11,7 +11,8 @@ from .english_words import ENGLISH_WORDS
 from .models import Project
 
 LOGGER = logging.getLogger(__name__)
-ENGLISH_WORDS_URL = "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt"
+COMMON_WORDS_URL = "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt"
+DICTIONARY_WORDS_URL = "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt"
 
 
 class SourceClient:
@@ -237,10 +238,16 @@ class SourceClient:
         seen = set()
 
         try:
-            text = self._get_text(ENGLISH_WORDS_URL)
+            common_words = self._load_common_words()
+            text = self._get_text(DICTIONARY_WORDS_URL)
+            dictionary_words = []
             for line in text.splitlines():
                 word = extract_plain_word(line.strip())
-                if word and word not in seen:
+                if word and word not in common_words:
+                    dictionary_words.append(word)
+
+            for word in _prioritize_uncommon_words(dictionary_words):
+                if word not in seen:
                     seen.add(word)
                     words.append(word)
         except requests.RequestException as exc:
@@ -254,6 +261,15 @@ class SourceClient:
 
         LOGGER.info("Loaded %s English dictionary words", len(words))
         return words
+
+    def _load_common_words(self) -> set[str]:
+        common_words: set[str] = set()
+        text = self._get_text(COMMON_WORDS_URL)
+        for line in text.splitlines():
+            word = extract_plain_word(line.strip())
+            if word:
+                common_words.add(word)
+        return common_words
 
 
 def _as_list(data: Any) -> List[Dict[str, Any]]:
@@ -338,3 +354,22 @@ def _round_robin(batches: List[List[Project]]) -> List[Project]:
             if index < len(batch):
                 result.append(batch[index])
     return result
+
+
+def _prioritize_uncommon_words(words: Iterable[str]) -> List[str]:
+    unique_words = sorted(set(words))
+    return sorted(unique_words, key=lambda word: (_word_shape_score(word), word))
+
+
+def _word_shape_score(word: str) -> int:
+    common_suffixes = ("ing", "ers", "ies", "ion", "ist", "ism", "ous", "est", "ed", "er", "ly")
+    score = 0
+    if any(word.endswith(suffix) for suffix in common_suffixes):
+        score += 4
+    if len(set(word)) <= 4:
+        score += 2
+    if re.search(r"[qxz]", word):
+        score -= 2
+    if re.search(r"(.)\1", word):
+        score += 1
+    return score
