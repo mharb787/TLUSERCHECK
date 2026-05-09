@@ -1192,6 +1192,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "cattrs": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T21:37:24.141852+00:00",
+      "fragment_status": "Taken",
+      "project": "cattrs",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "caveman": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:45:36.717224+00:00",
@@ -1799,6 +1807,14 @@
       "project": "dario",
       "score": 90,
       "source": "GitHub Topic (ai)"
+    },
+    "datadog": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T21:37:24.345720+00:00",
+      "fragment_status": "Taken",
+      "project": "datadog",
+      "score": 92,
+      "source": "PyPI Top"
     },
     "datavyn": {
       "cache_version": 14,
@@ -2438,6 +2454,14 @@
       "fragment_status": "Taken",
       "project": "fastapi",
       "score": 93,
+      "source": "PyPI Top"
+    },
+    "fastmcp": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T21:37:23.859623+00:00",
+      "fragment_status": "Taken",
+      "project": "fastmcp",
+      "score": 70,
       "source": "PyPI Top"
     },
     "felix": {
@@ -4327,6 +4351,14 @@
       "project": "mismanners",
       "score": 82,
       "source": "English Words"
+    },
+    "mistune": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T21:37:24.542598+00:00",
+      "fragment_status": "Taken",
+      "project": "mistune",
+      "score": 82,
+      "source": "PyPI Top"
     },
     "mnemo": {
       "cache_version": 14,
@@ -7118,6 +7150,14 @@
       "fragment_status": "Unavailable",
       "project": "tzlocal",
       "score": 82,
+      "source": "PyPI Top"
+    },
+    "ujson": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T21:37:24.741228+00:00",
+      "fragment_status": "Auction",
+      "project": "ujson",
+      "score": 88,
       "source": "PyPI Top"
     },
     "unagi": {
