@@ -440,6 +440,14 @@
       "score": 82,
       "source": "CoinGecko All"
     },
+    "arrow": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:11.636213+00:00",
+      "fragment_status": "Unavailable",
+      "project": "arrow",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "article": {
       "cache_version": 14,
       "checked_at": "2026-05-09T17:13:10.409053+00:00",
@@ -487,6 +495,14 @@
       "project": "Async",
       "score": 84,
       "source": "GitHub Topic (llm)"
+    },
+    "asyncpg": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:12.301657+00:00",
+      "fragment_status": "Taken",
+      "project": "asyncpg",
+      "score": 70,
+      "source": "PyPI Top"
     },
     "atlas": {
       "cache_version": 14,
@@ -927,6 +943,14 @@
       "project": "brilliance",
       "score": 82,
       "source": "English Words"
+    },
+    "brotli": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:12.762060+00:00",
+      "fragment_status": "Auction",
+      "project": "brotli",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "bubbles": {
       "cache_version": 14,
@@ -1776,6 +1800,14 @@
       "score": 90,
       "source": "GitHub Topic (ai)"
     },
+    "datavyn": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:05.653698+00:00",
+      "fragment_status": "Unavailable",
+      "project": "DataVyn",
+      "score": 91,
+      "source": "GitHub Topic (automation)"
+    },
     "dawnai": {
       "cache_version": 14,
       "checked_at": "2026-05-09T17:13:16.845550+00:00",
@@ -1872,6 +1904,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "devboot": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:02.645311+00:00",
+      "fragment_status": "Auction",
+      "project": "devboot",
+      "score": 81,
+      "source": "GitHub Topic (devtools)"
+    },
     "devcoin": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:41:45.051493+00:00",
@@ -1935,6 +1975,14 @@
       "project": "dilatorily",
       "score": 82,
       "source": "English Words"
+    },
+    "discli": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:05.180251+00:00",
+      "fragment_status": "Unavailable",
+      "project": "discli",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
     },
     "discord": {
       "cache_version": 14,
@@ -2087,6 +2135,14 @@
       "project": "drummer",
       "score": 82,
       "source": "English Words"
+    },
+    "dulwich": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:08.185278+00:00",
+      "fragment_status": "Auction",
+      "project": "dulwich",
+      "score": 82,
+      "source": "PyPI Top"
     },
     "duosolve": {
       "cache_version": 14,
@@ -2246,6 +2302,14 @@
       "fragment_status": "Unavailable",
       "project": "envsafe",
       "score": 81,
+      "source": "GitHub Topic (devtools)"
+    },
+    "envsec": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:02.474452+00:00",
+      "fragment_status": "Unavailable",
+      "project": "envsec",
+      "score": 87,
       "source": "GitHub Topic (devtools)"
     },
     "envying": {
@@ -2512,6 +2576,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "forge": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:04.121263+00:00",
+      "fragment_status": "Taken",
+      "project": "forge",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
+    },
     "freezers": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:18:57.235688+00:00",
@@ -2559,6 +2631,14 @@
       "project": "Furwall",
       "score": 97,
       "source": "Hacker News Show HN"
+    },
+    "future": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:13.745687+00:00",
+      "fragment_status": "Unavailable",
+      "project": "future",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "gadslid": {
       "cache_version": 14,
@@ -2615,6 +2695,14 @@
       "project": "gbrain",
       "score": 100,
       "source": "GitHub Trending (monthly)"
+    },
+    "gcsfs": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:07.822458+00:00",
+      "fragment_status": "Taken in Telegram",
+      "project": "gcsfs",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "gears": {
       "cache_version": 14,
@@ -2736,6 +2824,14 @@
       "score": 82,
       "source": "GitHub Topic (cli)"
     },
+    "gitwise": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:06.007293+00:00",
+      "fragment_status": "Taken",
+      "project": "gitwise",
+      "score": 81,
+      "source": "GitHub Topic (automation)"
+    },
     "glance": {
       "cache_version": 14,
       "checked_at": "2026-05-09T20:05:22.042074+00:00",
@@ -2831,6 +2927,14 @@
       "project": "Google",
       "score": 100,
       "source": "App Store Top"
+    },
+    "goskill": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:02.813844+00:00",
+      "fragment_status": "Auction",
+      "project": "goskill",
+      "score": 82,
+      "source": "GitHub Topic (automation)"
     },
     "gpxfix": {
       "cache_version": 14,
@@ -3200,6 +3304,14 @@
       "score": 100,
       "source": "GitHub Topic (ai)"
     },
+    "imcodes": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:04.294911+00:00",
+      "fragment_status": "Taken",
+      "project": "imcodes",
+      "score": 81,
+      "source": "GitHub Topic (automation)"
+    },
     "immoralist": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:25:57.808908+00:00",
@@ -3256,6 +3368,14 @@
       "score": 82,
       "source": "English Words"
     },
+    "invoke": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:10.242327+00:00",
+      "fragment_status": "Taken",
+      "project": "invoke",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "ipython": {
       "cache_version": 14,
       "checked_at": "2026-05-09T19:22:01.601773+00:00",
@@ -3295,6 +3415,22 @@
       "project": "Isonq",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "isort": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:08.004841+00:00",
+      "fragment_status": "Taken",
+      "project": "isort",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "isparto": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:03.437723+00:00",
+      "fragment_status": "Unavailable",
+      "project": "iSparto",
+      "score": 82,
+      "source": "GitHub Topic (automation)"
     },
     "jackpot": {
       "cache_version": 14,
@@ -3382,6 +3518,14 @@
       "fragment_status": "Auction",
       "project": "joblib",
       "score": 90,
+      "source": "PyPI Top"
+    },
+    "jsonref": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:11.099850+00:00",
+      "fragment_status": "Unavailable",
+      "project": "jsonref",
+      "score": 82,
       "source": "PyPI Top"
     },
     "juliana": {
@@ -3688,6 +3832,14 @@
       "score": 88,
       "source": "CoinGecko All"
     },
+    "librt": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:07.257521+00:00",
+      "fragment_status": "Taken",
+      "project": "librt",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "lighter": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:12:22.101711+00:00",
@@ -3783,6 +3935,14 @@
       "project": "Locus",
       "score": 92,
       "source": "GitHub Topic (ai)"
+    },
+    "loguru": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:10.412965+00:00",
+      "fragment_status": "Taken",
+      "project": "loguru",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "lombard": {
       "cache_version": 14,
@@ -3968,6 +4128,14 @@
       "score": 88,
       "source": "English Words"
     },
+    "mccabe": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:08.678315+00:00",
+      "fragment_status": "Unavailable",
+      "project": "mccabe",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "mdeval": {
       "cache_version": 14,
       "checked_at": "2026-05-09T19:21:55.723911+00:00",
@@ -4031,6 +4199,14 @@
       "project": "Meowdo",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "meowkit": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:05.830184+00:00",
+      "fragment_status": "Taken",
+      "project": "MeowKit",
+      "score": 81,
+      "source": "GitHub Topic (automation)"
     },
     "mesorecta": {
       "cache_version": 14,
@@ -4224,6 +4400,14 @@
       "score": 100,
       "source": "GitHub New Repos: solana"
     },
+    "monmon": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:03.781389+00:00",
+      "fragment_status": "Taken",
+      "project": "MonMon",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
+    },
     "morpho": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:06.627188+00:00",
@@ -4264,6 +4448,14 @@
       "score": 75,
       "source": "PyPI Top"
     },
+    "msrest": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:09.368542+00:00",
+      "fragment_status": "Taken",
+      "project": "msrest",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "muesli": {
       "cache_version": 14,
       "checked_at": "2026-05-09T20:05:17.968712+00:00",
@@ -4279,6 +4471,14 @@
       "project": "mullioned",
       "score": 82,
       "source": "English Words"
+    },
+    "mycar": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:06.755390+00:00",
+      "fragment_status": "Taken",
+      "project": "myCar: Car Widgets & Dashboard",
+      "score": 88,
+      "source": "App Store Top"
     },
     "mychart": {
       "cache_version": 14,
@@ -4776,6 +4976,14 @@
       "score": 88,
       "source": "English Words"
     },
+    "patriot": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:06.565541+00:00",
+      "fragment_status": "Taken",
+      "project": "Patriot (film)",
+      "score": 81,
+      "source": "Wikipedia Trending"
+    },
     "pavisade": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:31:02.507616+00:00",
@@ -4904,6 +5112,22 @@
       "score": 88,
       "source": "CoinGecko All"
     },
+    "pkginfo": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:09.011507+00:00",
+      "fragment_status": "Taken",
+      "project": "pkginfo",
+      "score": 82,
+      "source": "PyPI Top"
+    },
+    "placet": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:03.607025+00:00",
+      "fragment_status": "Auction",
+      "project": "placet",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
+    },
     "plaintail": {
       "cache_version": 14,
       "checked_at": "2026-05-09T15:26:05.867827+00:00",
@@ -4959,6 +5183,14 @@
       "project": "Pockit",
       "score": 100,
       "source": "Hacker News Top"
+    },
+    "poetry": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:10.046874+00:00",
+      "fragment_status": "Taken",
+      "project": "poetry",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "poloniex": {
       "cache_version": 14,
@@ -5184,6 +5416,30 @@
       "score": 90,
       "source": "PyPI Top"
     },
+    "pymongo": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:07.089724+00:00",
+      "fragment_status": "Taken",
+      "project": "pymongo",
+      "score": 82,
+      "source": "PyPI Top"
+    },
+    "pymupdf": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:09.836063+00:00",
+      "fragment_status": "Unavailable",
+      "project": "pymupdf",
+      "score": 82,
+      "source": "PyPI Top"
+    },
+    "pymysql": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:08.844045+00:00",
+      "fragment_status": "Taken",
+      "project": "pymysql",
+      "score": 70,
+      "source": "PyPI Top"
+    },
     "pynacl": {
       "cache_version": 14,
       "checked_at": "2026-05-09T17:28:02.883586+00:00",
@@ -5214,6 +5470,14 @@
       "fragment_status": "Taken",
       "project": "pyyaml",
       "score": 100,
+      "source": "PyPI Top"
+    },
+    "pyzmq": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:06.923826+00:00",
+      "fragment_status": "Taken",
+      "project": "pyzmq",
+      "score": 76,
       "source": "PyPI Top"
     },
     "qclaw": {
@@ -5656,6 +5920,22 @@
       "score": 82,
       "source": "English Words"
     },
+    "semver": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:10.587119+00:00",
+      "fragment_status": "Taken",
+      "project": "semver",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "sendly": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:06.186135+00:00",
+      "fragment_status": "Taken",
+      "project": "Sendly",
+      "score": 80,
+      "source": "Product Hunt"
+    },
     "sentora": {
       "cache_version": 14,
       "checked_at": "2026-05-09T13:20:11.313081+00:00",
@@ -5735,6 +6015,14 @@
       "project": "shadmin",
       "score": 84,
       "source": "GitHub Topic (ai)"
+    },
+    "shapely": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:12.587617+00:00",
+      "fragment_status": "Taken",
+      "project": "shapely",
+      "score": 82,
+      "source": "PyPI Top"
     },
     "shards": {
       "cache_version": 14,
@@ -5984,6 +6272,14 @@
       "score": 100,
       "source": "DeFiLlama Protocols"
     },
+    "sortie": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:02.981412+00:00",
+      "fragment_status": "Taken",
+      "project": "sortie",
+      "score": 88,
+      "source": "GitHub Topic (automation)"
+    },
     "sound": {
       "cache_version": 14,
       "checked_at": "2026-05-09T16:16:06.761217+00:00",
@@ -6015,6 +6311,22 @@
       "project": "speca",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "specter": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:03.957924+00:00",
+      "fragment_status": "Taken",
+      "project": "specter",
+      "score": 81,
+      "source": "GitHub Topic (automation)"
+    },
+    "sphinx": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:12.130973+00:00",
+      "fragment_status": "Unavailable",
+      "project": "sphinx",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "spiko": {
       "cache_version": 14,
@@ -6279,6 +6591,14 @@
       "project": "sutando",
       "score": 84,
       "source": "GitHub Topic (automation)"
+    },
+    "sutra": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:06.365691+00:00",
+      "fragment_status": "Taken",
+      "project": "Sutra",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "swapped": {
       "cache_version": 14,
@@ -6655,6 +6975,14 @@
       "project": "toprank",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "torch": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:09.193054+00:00",
+      "fragment_status": "Taken",
+      "project": "torch",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "tornado": {
       "cache_version": 14,
@@ -7407,6 +7735,14 @@
       "project": "Writer",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "wsproto": {
+      "cache_version": 14,
+      "checked_at": "2026-05-09T20:57:13.222874+00:00",
+      "fragment_status": "Unavailable",
+      "project": "wsproto",
+      "score": 70,
+      "source": "PyPI Top"
     },
     "wterm": {
       "cache_version": 14,
