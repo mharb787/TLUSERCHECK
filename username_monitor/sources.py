@@ -1,6 +1,6 @@
 import logging
-import random
 import re
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
 from urllib.parse import quote
@@ -8,8 +8,11 @@ from urllib.parse import quote
 import requests
 
 from .models import Project
+from .pagination import PaginationState
 
 LOGGER = logging.getLogger(__name__)
+
+_GITHUB_TRENDING_PERIODS = ["daily", "weekly", "monthly"]
 
 
 class SourceClient:
@@ -18,27 +21,69 @@ class SourceClient:
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": user_agent, "Accept": "application/json"})
 
-    def collect_projects(self) -> List[Project]:
-        cap = 120
-        coinpaprika = self._coinpaprika_coins()
-        random.shuffle(coinpaprika)
-        coingecko_all = self._coingecko_all_coins()
-        random.shuffle(coingecko_all)
-        source_batches = [
-            self._dexscreener_latest_profiles()[:cap],
-            self._coingecko_trending()[:cap],
-            coinpaprika[:cap],
-            self._hacker_news_show_hn()[:cap],
-            self._defillama_protocols()[:cap],
-            self._github_new_repositories()[:cap],
-            (self._dexscreener_boosts("latest") + self._dexscreener_boosts("top"))[:cap],
-            coingecko_all[:cap],
-            self._github_trending()[:cap],
-            self._producthunt_posts()[:cap],
-            self._reddit_startups()[:cap],
-            self._cryptocompare_coins()[:cap],
-        ]
-        return _dedupe_projects(_round_robin(source_batches))
+    def collect_projects(self, pagination_state: PaginationState) -> List[Project]:
+        all_projects: List[Project] = []
+
+        # HackerNews Show HN with pagination
+        hn_show_page = pagination_state.get("hn_show_hn", "page", 0)
+        hn_show_results = self._hacker_news_show_hn(hn_show_page)
+        if hn_show_results:
+            pagination_state.set("hn_show_hn", "page", hn_show_page + 1)
+        else:
+            pagination_state.set("hn_show_hn", "page", 0)
+        all_projects.extend(hn_show_results)
+
+        # HackerNews top stories with pagination
+        hn_top_page = pagination_state.get("hn_top", "page", 0)
+        hn_top_results = self._hacker_news_top(hn_top_page)
+        if hn_top_results:
+            pagination_state.set("hn_top", "page", hn_top_page + 1)
+        else:
+            pagination_state.set("hn_top", "page", 0)
+        all_projects.extend(hn_top_results)
+
+        # GitHub trending with period cycling
+        period_index = pagination_state.get("github_trending", "period_index", 0)
+        period = _GITHUB_TRENDING_PERIODS[period_index % len(_GITHUB_TRENDING_PERIODS)]
+        all_projects.extend(self._github_trending(period))
+        pagination_state.set("github_trending", "period_index", (period_index + 1) % len(_GITHUB_TRENDING_PERIODS))
+
+        # GitHub new repos with days_offset
+        days_offset = pagination_state.get("github_new_repos", "days_offset", 0)
+        all_projects.extend(self._github_new_repos(days_offset))
+        pagination_state.set("github_new_repos", "days_offset", days_offset + 14)
+
+        # Reddit posts with after cursor per subreddit
+        for subreddit in ("startups", "SideProject", "entrepreneur", "MachineLearning", "technology", "artificial"):
+            after_cursor = pagination_state.get(f"reddit_{subreddit}", "after", None)
+            reddit_results, new_after = self._reddit_posts(subreddit, after_cursor)
+            all_projects.extend(reddit_results)
+            if new_after:
+                pagination_state.set(f"reddit_{subreddit}", "after", new_after)
+            else:
+                pagination_state.set(f"reddit_{subreddit}", "after", None)
+
+        # Product Hunt RSS
+        all_projects.extend(self._producthunt_rss())
+
+        # TechCrunch RSS
+        all_projects.extend(self._techcrunch_rss())
+
+        # VentureBeat RSS
+        all_projects.extend(self._venturebeat_rss())
+
+        # Wikipedia trending with days_offset
+        wiki_days_offset = pagination_state.get("wikipedia_trending", "days_offset", 1)
+        all_projects.extend(self._wikipedia_trending(wiki_days_offset))
+        pagination_state.set("wikipedia_trending", "days_offset", wiki_days_offset + 1)
+
+        # App Store top apps
+        all_projects.extend(self._appstore_top())
+
+        # YC companies
+        all_projects.extend(self._ycombinator_companies())
+
+        return _dedupe_projects(all_projects)
 
     def _get_json(self, url: str) -> Any:
         response = self.session.get(url, timeout=self.timeout)
@@ -50,60 +95,8 @@ class SourceClient:
         response.raise_for_status()
         return response.text
 
-    def _dexscreener_latest_profiles(self) -> List[Project]:
-        url = "https://api.dexscreener.com/token-profiles/latest/v1"
-        try:
-            data = self._get_json(url)
-        except requests.RequestException as exc:
-            LOGGER.warning("DexScreener profiles failed: %s", exc)
-            return []
-        return [project for item in _as_list(data) if (project := _project_from_dex_profile(item, "DexScreener Profiles"))]
-
-    def _dexscreener_boosts(self, kind: str) -> List[Project]:
-        url = f"https://api.dexscreener.com/token-boosts/{kind}/v1"
-        try:
-            data = self._get_json(url)
-        except requests.RequestException as exc:
-            LOGGER.warning("DexScreener %s boosts failed: %s", kind, exc)
-            return []
-        source = "DexScreener Boosts" if kind == "latest" else "DexScreener Top Boosts"
-        return [project for item in _as_list(data) if (project := _project_from_dex_profile(item, source))]
-
-    def _coingecko_trending(self) -> List[Project]:
-        url = "https://api.coingecko.com/api/v3/search/trending"
-        try:
-            data = self._get_json(url)
-        except requests.RequestException as exc:
-            LOGGER.warning("CoinGecko trending failed: %s", exc)
-            return []
-
-        projects: List[Project] = []
-        for coin in data.get("coins", []):
-            item = coin.get("item", {})
-            name = item.get("name")
-            if not name:
-                continue
-            rank = item.get("market_cap_rank")
-            trend_score = item.get("score")
-            strength = 10.0
-            if isinstance(rank, int) and rank > 0:
-                strength += max(0, 20 - min(rank, 200) / 10)
-            if isinstance(trend_score, (int, float)):
-                strength += max(0, 15 - trend_score)
-            projects.append(
-                Project(
-                    name=name,
-                    symbol=item.get("symbol", ""),
-                    source="CoinGecko Trending",
-                    trend_score=trend_score,
-                    url=f"https://www.coingecko.com/en/coins/{item.get('id')}" if item.get("id") else None,
-                    raw_strength=strength,
-                )
-            )
-        return projects
-
-    def _hacker_news_show_hn(self) -> List[Project]:
-        url = "https://hn.algolia.com/api/v1/search_by_date?tags=story&query=Show%20HN&hitsPerPage=100"
+    def _hacker_news_show_hn(self, page: int) -> List[Project]:
+        url = f"https://hn.algolia.com/api/v1/search_by_date?tags=story&query=Show%20HN&hitsPerPage=100&page={page}"
         try:
             data = self._get_json(url)
         except requests.RequestException as exc:
@@ -131,127 +124,50 @@ class SourceClient:
             )
         return projects
 
-    def _defillama_protocols(self) -> List[Project]:
-        url = "https://api.llama.fi/protocols"
+    def _hacker_news_top(self, page: int) -> List[Project]:
+        url = f"https://hn.algolia.com/api/v1/search?tags=story&numericFilters=points>100&hitsPerPage=100&page={page}"
         try:
             data = self._get_json(url)
         except requests.RequestException as exc:
-            LOGGER.warning("DeFiLlama protocols failed: %s", exc)
+            LOGGER.warning("Hacker News top failed: %s", exc)
             return []
 
         projects: List[Project] = []
-        for item in _as_list(data):
-            name = item.get("name") or ""
+        for item in data.get("hits", []):
+            title = item.get("title") or item.get("story_title") or ""
+            if not title:
+                continue
+            name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            words = name.split()
+            if len(words) > 5:
+                name = " ".join(words[:5])
             if not name:
                 continue
-            tvl = item.get("tvl") or 0
-            change = item.get("change_1d") or 0
-            strength = min(30.0, max(0.0, float(change)) + min(20.0, float(tvl) / 10_000_000))
+            points = item.get("points") or 0
+            comments = item.get("num_comments") or 0
+            strength = min(30.0, float(points) / 10 + float(comments) / 20)
+            object_id = item.get("objectID")
             projects.append(
                 Project(
                     name=name,
-                    symbol=item.get("symbol", ""),
-                    source="DeFiLlama Protocols",
-                    url=item.get("url"),
+                    symbol="",
+                    source="Hacker News Top",
+                    url=f"https://news.ycombinator.com/item?id={object_id}" if object_id else item.get("url"),
                     raw_strength=strength,
                 )
             )
         return projects
 
-    def _coinpaprika_coins(self) -> List[Project]:
-        url = "https://api.coinpaprika.com/v1/coins"
+    def _github_trending(self, period: str) -> List[Project]:
+        url = f"https://api.github.com/search/repositories?q=created:>{_days_ago(7)}&sort=stars&order=desc&per_page=100"
+        if period == "weekly":
+            url = f"https://api.github.com/search/repositories?q=created:>{_days_ago(30)}&sort=stars&order=desc&per_page=100"
+        elif period == "monthly":
+            url = f"https://api.github.com/search/repositories?q=created:>{_days_ago(90)}&sort=stars&order=desc&per_page=100"
         try:
             data = self._get_json(url)
         except requests.RequestException as exc:
-            LOGGER.warning("CoinPaprika coins failed: %s", exc)
-            return []
-
-        projects: List[Project] = []
-        for item in _as_list(data):
-            if not item.get("is_active", False):
-                continue
-            rank = item.get("rank") or 0
-            if not isinstance(rank, int) or rank <= 0 or rank > 200:
-                continue
-            name = item.get("name") or ""
-            symbol = item.get("symbol") or ""
-            strength = max(0.0, 25.0 - rank / 10)
-            projects.append(
-                Project(
-                    name=name,
-                    symbol=symbol,
-                    source="CoinPaprika Coins",
-                    url=f"https://coinpaprika.com/coin/{item.get('id')}/" if item.get("id") else None,
-                    raw_strength=strength,
-                )
-            )
-        return projects
-
-    def _github_new_repositories(self) -> List[Project]:
-        created_after = (datetime.now(timezone.utc) - timedelta(days=7)).date().isoformat()
-        terms = [
-            "crypto",
-            "web3",
-            "ton",
-            "solana",
-            "base",
-            "telegram bot",
-            "ai agent",
-            "agent",
-            "defi",
-            "swap",
-            "wallet",
-            "chain",
-        ]
-        projects: List[Project] = []
-        for term in terms:
-            query = quote(f"{term} created:>={created_after}")
-            url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=25"
-            try:
-                data = self._get_json(url)
-            except requests.RequestException as exc:
-                LOGGER.warning("GitHub repository search failed for %s: %s", term, exc)
-                continue
-
-            for item in data.get("items", []):
-                name = item.get("name") or ""
-                if not name:
-                    continue
-                stars = item.get("stargazers_count") or 0
-                forks = item.get("forks_count") or 0
-                strength = min(25.0, float(stars) * 2 + float(forks))
-                projects.append(
-                    Project(
-                        name=name.replace("-", " ").replace("_", " "),
-                        symbol="",
-                        source=f"GitHub New Repos: {term}",
-                        url=item.get("html_url"),
-                        raw_strength=strength,
-                    )
-                )
-        return projects
-
-    def _coingecko_all_coins(self) -> List[Project]:
-        url = "https://api.coingecko.com/api/v3/coins/list"
-        try:
-            data = self._get_json(url)
-        except requests.RequestException as exc:
-            LOGGER.warning("CoinGecko all coins failed: %s", exc)
-            return []
-        projects = []
-        for item in _as_list(data):
-            name = item.get("name") or ""
-            if not name:
-                continue
-            projects.append(Project(name=name, symbol=item.get("symbol", ""), source="CoinGecko All", raw_strength=1.0))
-        return projects
-
-    def _github_trending(self) -> List[Project]:
-        url = "https://api.github.com/search/repositories?q=stars:>100&sort=stars&order=desc&per_page=100"
-        try:
-            data = self._get_json(url)
-        except requests.RequestException as exc:
-            LOGGER.warning("GitHub trending failed: %s", exc)
+            LOGGER.warning("GitHub trending (%s) failed: %s", period, exc)
             return []
         projects = []
         for item in data.get("items", []):
@@ -259,106 +175,199 @@ class SourceClient:
             if not name:
                 continue
             stars = item.get("stargazers_count") or 0
-            strength = min(30.0, float(stars) / 1000)
+            strength = min(30.0, float(stars) / 100)
             projects.append(Project(
                 name=name.replace("-", " ").replace("_", " "),
-                symbol="", source="GitHub Trending", url=item.get("html_url"), raw_strength=strength,
+                symbol="",
+                source=f"GitHub Trending ({period})",
+                url=item.get("html_url"),
+                raw_strength=strength,
             ))
         return projects
 
-    def _producthunt_posts(self) -> List[Project]:
+    def _github_new_repos(self, days_offset: int) -> List[Project]:
+        start = _days_ago(days_offset + 14)
+        end = _days_ago(days_offset)
+        query = quote(f"created:{start}..{end} stars:>5")
+        url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=100"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("GitHub new repos (offset=%s) failed: %s", days_offset, exc)
+            return []
+        projects = []
+        for item in data.get("items", []):
+            name = item.get("name") or ""
+            if not name:
+                continue
+            stars = item.get("stargazers_count") or 0
+            forks = item.get("forks_count") or 0
+            strength = min(25.0, float(stars) * 2 + float(forks))
+            projects.append(Project(
+                name=name.replace("-", " ").replace("_", " "),
+                symbol="",
+                source="GitHub New Repos",
+                url=item.get("html_url"),
+                raw_strength=strength,
+            ))
+        return projects
+
+    def _reddit_posts(self, subreddit: str, after_cursor: Optional[str]) -> tuple:
+        url = f"https://www.reddit.com/r/{subreddit}/new.json?limit=100"
+        if after_cursor:
+            url += f"&after={after_cursor}"
+        headers = {"Accept": "application/json", "User-Agent": self.session.headers.get("User-Agent", "bot")}
+        try:
+            resp = self.session.get(url, timeout=self.timeout, headers=headers)
+            resp.raise_for_status()
+            data = resp.json()
+        except requests.RequestException as exc:
+            LOGGER.warning("Reddit r/%s failed: %s", subreddit, exc)
+            return [], None
+
+        projects = []
+        new_after = data.get("data", {}).get("after")
+        for post in data.get("data", {}).get("children", []):
+            title = post.get("data", {}).get("title") or ""
+            name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            score = post.get("data", {}).get("score") or 0
+            strength = min(20.0, float(score) / 10)
+            if name:
+                projects.append(Project(name=name, symbol="", source=f"Reddit r/{subreddit}", raw_strength=strength))
+        return projects, new_after
+
+    def _producthunt_rss(self) -> List[Project]:
         url = "https://www.producthunt.com/feed"
         try:
             text = self._get_text(url)
         except requests.RequestException as exc:
             LOGGER.warning("Product Hunt RSS failed: %s", exc)
             return []
-        names = re.findall(r"<title><!\[CDATA\[([^\]]+)\]\]></title>", text)
-        if not names:
-            names = re.findall(r"<title>([^<]{3,40})</title>", text)
-        projects = []
-        for name in names[1:]:
-            name = re.sub(r"\s*[-–|:]\s*.*$", "", name).strip()
-            if name:
-                projects.append(Project(name=name, symbol="", source="Product Hunt", raw_strength=5.0))
-        return projects
+        return _parse_rss_titles(text, "Product Hunt", base_strength=5.0)
 
-    def _reddit_startups(self) -> List[Project]:
-        projects = []
-        for sub in ("startups", "SideProject", "entrepreneur"):
-            url = f"https://www.reddit.com/r/{sub}/new.json?limit=50"
-            try:
-                data = self._get_json(url)
-            except requests.RequestException as exc:
-                LOGGER.warning("Reddit %s failed: %s", sub, exc)
-                continue
-            for post in data.get("data", {}).get("children", []):
-                title = post.get("data", {}).get("title") or ""
-                name = re.split(r"\s*[-–|:]\s*", title)[0].strip()
-                score = post.get("data", {}).get("score") or 0
-                strength = min(20.0, float(score) / 10)
-                if name:
-                    projects.append(Project(name=name, symbol="", source=f"Reddit r/{sub}", raw_strength=strength))
-        return projects
+    def _techcrunch_rss(self) -> List[Project]:
+        url = "https://techcrunch.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("TechCrunch RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "TechCrunch", base_strength=4.0)
 
-    def _cryptocompare_coins(self) -> List[Project]:
-        url = "https://min-api.cryptocompare.com/data/all/coinlist?summary=true"
+    def _venturebeat_rss(self) -> List[Project]:
+        url = "https://venturebeat.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("VentureBeat RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "VentureBeat", base_strength=4.0)
+
+    def _wikipedia_trending(self, days_offset: int) -> List[Project]:
+        target_date = datetime.now(timezone.utc) - timedelta(days=days_offset)
+        year = target_date.strftime("%Y")
+        month = target_date.strftime("%m")
+        day = target_date.strftime("%d")
+        url = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/{year}/{month}/{day}"
         try:
             data = self._get_json(url)
         except requests.RequestException as exc:
-            LOGGER.warning("CryptoCompare coins failed: %s", exc)
+            LOGGER.warning("Wikipedia trending (offset=%s) failed: %s", days_offset, exc)
             return []
         projects = []
-        for symbol, item in (data.get("Data") or {}).items():
-            name = item.get("FullName") or item.get("CoinName") or ""
+        articles = []
+        try:
+            articles = data["items"][0]["articles"]
+        except (KeyError, IndexError, TypeError):
+            pass
+        for article in articles[:100]:
+            name = article.get("article", "").replace("_", " ")
+            # Skip meta pages
+            if ":" in name or name.startswith("Main_Page") or name == "Main Page":
+                continue
+            views = article.get("views") or 0
+            strength = min(20.0, float(views) / 100000)
+            projects.append(Project(name=name, symbol="", source="Wikipedia Trending", raw_strength=strength))
+        return projects
+
+    def _appstore_top(self) -> List[Project]:
+        url = "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/100/apps.json"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("App Store top apps failed: %s", exc)
+            return []
+        projects = []
+        results = []
+        try:
+            results = data["feed"]["results"]
+        except (KeyError, TypeError):
+            pass
+        for i, item in enumerate(results):
+            name = item.get("name") or ""
             if not name:
                 continue
-            projects.append(Project(name=name, symbol=symbol, source="CryptoCompare", raw_strength=1.0))
+            # Higher rank = lower strength (rank 1 is strongest)
+            strength = max(1.0, 20.0 - i * 0.2)
+            projects.append(Project(name=name, symbol="", source="App Store Top", raw_strength=strength))
+        return projects
+
+    def _ycombinator_companies(self) -> List[Project]:
+        url = "https://hn.algolia.com/api/v1/search?query=&tags=story&numericFilters=points>100&hitsPerPage=100&page=0"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("YC companies (HN Algolia) failed: %s", exc)
+            return []
+        projects = []
+        for item in data.get("hits", []):
+            title = item.get("title") or ""
+            # Look for YC-style: "Launch YC: CompanyName" or "YC S23: CompanyName"
+            yc_match = re.search(r"(?:Launch\s+YC|YC\s+[A-Z]\d+)\s*[:\-]\s*(.+)", title, re.IGNORECASE)
+            if yc_match:
+                name = yc_match.group(1).strip()
+            else:
+                name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            words = name.split()
+            if len(words) > 5:
+                name = " ".join(words[:5])
+            if not name:
+                continue
+            points = item.get("points") or 0
+            strength = min(25.0, float(points) / 10)
+            projects.append(Project(name=name, symbol="", source="YC Companies", raw_strength=strength))
         return projects
 
 
-def _as_list(data: Any) -> List[Dict[str, Any]]:
-    if isinstance(data, list):
-        return [item for item in data if isinstance(item, dict)]
-    if isinstance(data, dict):
-        return [data]
-    return []
+def _days_ago(n: int) -> str:
+    return (datetime.now(timezone.utc) - timedelta(days=n)).date().isoformat()
 
 
-def _project_from_dex_profile(item: Dict[str, Any], source: str) -> Optional[Project]:
-    name = _extract_name_from_dex_item(item)
-    if not name:
-        return None
-    boost = item.get("amount") or item.get("totalAmount") or 0
-    strength = float(boost) if isinstance(boost, (int, float)) else 0.0
-    return Project(
-        name=name,
-        symbol="",
-        source=source,
-        trend_score=strength or None,
-        url=item.get("url"),
-        raw_strength=min(35.0, strength),
-    )
+def _parse_rss_titles(text: str, source: str, base_strength: float = 5.0) -> List[Project]:
+    projects = []
+    # Try CDATA first
+    names = re.findall(r"<title><!\[CDATA\[([^\]]+)\]\]></title>", text)
+    if not names:
+        # Try plain XML titles
+        try:
+            root = ET.fromstring(text)
+            ns = {"atom": "http://www.w3.org/2005/Atom"}
+            names = []
+            for elem in root.iter():
+                if elem.tag in ("title", "{http://www.w3.org/2005/Atom}title"):
+                    if elem.text:
+                        names.append(elem.text.strip())
+        except ET.ParseError:
+            names = re.findall(r"<title>([^<]{3,80})</title>", text)
 
-
-def _extract_name_from_dex_item(item: Dict[str, Any]) -> str:
-    description = item.get("description") or ""
-    links = item.get("links") or []
-    for link in links:
-        if not isinstance(link, dict):
-            continue
-        label = link.get("label") or ""
-        if label and label.lower() not in {"website", "twitter", "telegram", "discord"}:
-            return label
-    if description:
-        first_line = description.splitlines()[0]
-        words = first_line.split()
-        if 1 <= len(words) <= 4:
-            return first_line
-    url = item.get("url") or ""
-    if url:
-        return url.rstrip("/").split("/")[-1].replace("-", " ")
-    return ""
+    # Skip first title (usually the feed title)
+    for name in names[1:]:
+        # Extract company/product name: take the part before dash, pipe, colon
+        name = re.sub(r"\s*[-–|]\s*.*$", "", name).strip()
+        name = re.sub(r":\s*.*$", "", name).strip()
+        if name and len(name) >= 2:
+            projects.append(Project(name=name, symbol="", source=source, raw_strength=base_strength))
+    return projects
 
 
 def _extract_show_hn_name(title: str) -> str:
@@ -366,7 +375,7 @@ def _extract_show_hn_name(title: str) -> str:
         return ""
     title = title.strip()
     title = title.replace("Show HN:", "").replace("Show HN", "", 1).strip(" :-")
-    title = re.split(r"\s+[\-\u2013\u2014]\s+", title, maxsplit=1)[0]
+    title = re.split(r"\s+[\-–—]\s+", title, maxsplit=1)[0]
     if not title:
         return ""
     for separator in (" - ", ": ", " | "):
@@ -388,14 +397,4 @@ def _dedupe_projects(projects: Iterable[Project]) -> List[Project]:
             continue
         seen.add(key)
         result.append(project)
-    return result
-
-
-def _round_robin(batches: List[List[Project]]) -> List[Project]:
-    result: List[Project] = []
-    max_len = max((len(batch) for batch in batches), default=0)
-    for index in range(max_len):
-        for batch in batches:
-            if index < len(batch):
-                result.append(batch[index])
     return result
