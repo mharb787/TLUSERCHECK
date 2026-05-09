@@ -1,11 +1,11 @@
 {
   "checked": {
     "agent": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:25.239732+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:40.877355+00:00",
       "fragment_status": "Taken",
-      "project": "Agent-fox \u2013 write a",
-      "score": 87,
+      "project": "Agent-fox",
+      "score": 97,
       "source": "Hacker News Show HN"
     },
     "aimaxxing": {
@@ -49,11 +49,11 @@
       "source": "GitHub New Repos: ai agent"
     },
     "akash": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:23.097507+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:36.554606+00:00",
       "fragment_status": "Taken",
       "project": "Akash Network",
-      "score": 95,
+      "score": 100,
       "source": "CoinGecko Trending"
     },
     "aliencoin": {
@@ -121,8 +121,8 @@
       "source": "DexScreener Top Boosts"
     },
     "aliun": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:24.769044+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:40.148827+00:00",
       "fragment_status": "Taken",
       "project": "Aliun",
       "score": 97,
@@ -225,16 +225,16 @@
       "source": "Hacker News Show HN"
     },
     "aura": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:22.254633+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:34.808804+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "auraai": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:22.367210+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:35.062383+00:00",
       "fragment_status": "Taken",
       "project": "aura",
       "score": 100,
@@ -321,8 +321,8 @@
       "source": "CoinGecko Trending"
     },
     "based": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:24.126440+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:39.169183+00:00",
       "fragment_status": "Taken",
       "project": "Based",
       "score": 97,
@@ -417,8 +417,8 @@
       "source": "CoinGecko Trending"
     },
     "bully": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:24.529303+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:39.653670+00:00",
       "fragment_status": "Taken",
       "project": "Bully",
       "score": 100,
@@ -447,6 +447,14 @@
       "project": "Bully",
       "score": 91,
       "source": "DexScreener Top Boosts"
+    },
+    "cadara": {
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:39.422540+00:00",
+      "fragment_status": "Taken",
+      "project": "CADara",
+      "score": 92,
+      "source": "Hacker News Show HN"
     },
     "claudeseviltwin": {
       "cache_version": 3,
@@ -481,24 +489,32 @@
       "source": "DexScreener Boosts"
     },
     "cyoda": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:25.101980+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:40.608465+00:00",
       "fragment_status": "Unavailable",
-      "project": "Cyoda-go \u2013 application platform",
-      "score": 77,
+      "project": "Cyoda-go",
+      "score": 87,
+      "source": "Hacker News Show HN"
+    },
+    "digits": {
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:35.784813+00:00",
+      "fragment_status": "Taken",
+      "project": "Digits",
+      "score": 87,
       "source": "Hacker News Show HN"
     },
     "docs": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:23.211833+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:37.726252+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 87,
       "source": "DexScreener Profiles"
     },
     "docsai": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:23.328720+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:37.980080+00:00",
       "fragment_status": "Taken",
       "project": "Docs",
       "score": 91,
@@ -1041,18 +1057,18 @@
       "source": "CoinGecko Trending"
     },
     "nexa": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:24.295673+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:38.678388+00:00",
       "fragment_status": "Auction",
-      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
-      "score": 77,
+      "project": "Nexa-gauge",
+      "score": 87,
       "source": "Hacker News Show HN"
     },
     "nexaai": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:24.407713+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:38.936528+00:00",
       "fragment_status": "Taken",
-      "project": "Nexa-gauge \u2013 Cache/cost-aware graph-based",
+      "project": "Nexa-gauge",
       "score": 91,
       "source": "Hacker News Show HN"
     },
@@ -1073,16 +1089,16 @@
       "source": "Hacker News Show HN"
     },
     "ondo": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:22.479699+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:35.297590+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
       "source": "CoinGecko Trending"
     },
     "ondoai": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:22.592356+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:35.554454+00:00",
       "fragment_status": "Taken",
       "project": "Ondo",
       "score": 100,
@@ -1104,12 +1120,28 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "ovlt": {
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:37.037634+00:00",
+      "fragment_status": "Auction",
+      "project": "Ovlt",
+      "score": 88,
+      "source": "Hacker News Show HN"
+    },
+    "ovltai": {
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:37.500919+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Ovlt",
+      "score": 92,
+      "source": "Hacker News Show HN"
+    },
     "pharos": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:23.554367+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:38.456696+00:00",
       "fragment_status": "Auction",
       "project": "Pharos",
-      "score": 100,
+      "score": 98,
       "source": "CoinGecko Trending"
     },
     "pharosai": {
@@ -1233,8 +1265,8 @@
       "source": "DexScreener Boosts"
     },
     "showhn": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:23.779586+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:38.204497+00:00",
       "fragment_status": "Taken",
       "project": "ShowHN",
       "score": 88,
@@ -1344,6 +1376,14 @@
       "score": 100,
       "source": "CoinGecko Trending"
     },
+    "tuxedo": {
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:39.922331+00:00",
+      "fragment_status": "Taken",
+      "project": "Tuxedo",
+      "score": 88,
+      "source": "Hacker News Show HN"
+    },
     "unfazed": {
       "cache_version": 4,
       "checked_at": "2026-05-09T09:31:22.070905+00:00",
@@ -1377,11 +1417,11 @@
       "source": "DexScreener Top Boosts"
     },
     "venice": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:22.852759+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:36.052944+00:00",
       "fragment_status": "Taken",
       "project": "Venice Token",
-      "score": 95,
+      "score": 100,
       "source": "CoinGecko Trending"
     },
     "veniceai": {
@@ -1449,8 +1489,8 @@
       "source": "GitHub New Repos: web3"
     },
     "wojak": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:22.982519+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:36.284209+00:00",
       "fragment_status": "Taken",
       "project": "wojak",
       "score": 100,
@@ -1481,8 +1521,8 @@
       "source": "CoinGecko Trending"
     },
     "zcash": {
-      "cache_version": 5,
-      "checked_at": "2026-05-09T09:37:23.668365+00:00",
+      "cache_version": 6,
+      "checked_at": "2026-05-09T09:43:36.783680+00:00",
       "fragment_status": "Taken",
       "project": "Zcash",
       "score": 100,
