@@ -46,7 +46,7 @@ def run() -> None:
 
             score, reason = score_username(username, project)
             fragment_result = fragment.check_username(username)
-            should_alert = fragment_result.is_available or score >= 88
+            should_alert = fragment_result.status == "Unavailable"
 
             store.mark(
                 username,

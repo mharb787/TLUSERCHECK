@@ -15,7 +15,7 @@ class FragmentResult:
 
     @property
     def is_available(self) -> bool:
-        return self.status in {"Available", "Unavailable"}
+        return self.status == "Unavailable"
 
 
 class FragmentClient:
