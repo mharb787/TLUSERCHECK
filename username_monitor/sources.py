@@ -6,13 +6,9 @@ from urllib.parse import quote
 
 import requests
 
-from .cleaner import extract_plain_word
-from .english_words import ENGLISH_WORDS
 from .models import Project
 
 LOGGER = logging.getLogger(__name__)
-COMMON_WORDS_URL = "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt"
-DICTIONARY_WORDS_URL = "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt"
 
 
 class SourceClient:
@@ -23,7 +19,11 @@ class SourceClient:
 
     def collect_projects(self) -> List[Project]:
         source_batches = [
-            self._english_words(),
+            self._dexscreener_latest_profiles(),
+            self._coingecko_trending(),
+            self._coinpaprika_coins(),
+            self._dexscreener_boosts("latest"),
+            self._dexscreener_boosts("top"),
         ]
         return _dedupe_projects(_round_robin(source_batches))
 
@@ -163,17 +163,15 @@ class SourceClient:
             strength = 0.0
             if isinstance(rank, int) and rank > 0:
                 strength = max(0.0, 25.0 - min(rank, 500) / 20)
-            for candidate_name in (symbol, name):
-                if candidate_name:
-                    projects.append(
-                        Project(
-                            name=candidate_name,
-                            symbol=symbol,
-                            source="CoinPaprika Coins",
-                            url=f"https://coinpaprika.com/coin/{item.get('id')}/" if item.get("id") else None,
-                            raw_strength=strength,
-                        )
-                    )
+            projects.append(
+                Project(
+                    name=name,
+                    symbol=symbol,
+                    source="CoinPaprika Coins",
+                    url=f"https://coinpaprika.com/coin/{item.get('id')}/" if item.get("id") else None,
+                    raw_strength=strength,
+                )
+            )
         return projects
 
     def _github_new_repositories(self) -> List[Project]:
@@ -219,58 +217,6 @@ class SourceClient:
                     )
                 )
         return projects
-
-    def _english_words(self) -> List[Project]:
-        words = self._load_english_words()
-        return [
-            Project(
-                name=word,
-                symbol="",
-                source="English Dictionary",
-                url=None,
-                raw_strength=8.0,
-            )
-            for word in words
-        ]
-
-    def _load_english_words(self) -> List[str]:
-        words: List[str] = []
-        seen = set()
-
-        try:
-            common_words = self._load_common_words()
-            text = self._get_text(DICTIONARY_WORDS_URL)
-            dictionary_words = []
-            for line in text.splitlines():
-                word = extract_plain_word(line.strip())
-                if word and word not in common_words:
-                    dictionary_words.append(word)
-
-            for word in _prioritize_uncommon_words(dictionary_words):
-                if word not in seen:
-                    seen.add(word)
-                    words.append(word)
-        except requests.RequestException as exc:
-            LOGGER.warning("English dictionary download failed: %s", exc)
-
-        for fallback_word in ENGLISH_WORDS:
-            word = extract_plain_word(fallback_word)
-            if word and word not in seen:
-                seen.add(word)
-                words.append(word)
-
-        LOGGER.info("Loaded %s English dictionary words", len(words))
-        return words
-
-    def _load_common_words(self) -> set[str]:
-        common_words: set[str] = set()
-        text = self._get_text(COMMON_WORDS_URL)
-        for line in text.splitlines():
-            word = extract_plain_word(line.strip())
-            if word:
-                common_words.add(word)
-        return common_words
-
 
 def _as_list(data: Any) -> List[Dict[str, Any]]:
     if isinstance(data, list):
@@ -354,22 +300,3 @@ def _round_robin(batches: List[List[Project]]) -> List[Project]:
             if index < len(batch):
                 result.append(batch[index])
     return result
-
-
-def _prioritize_uncommon_words(words: Iterable[str]) -> List[str]:
-    unique_words = sorted(set(words))
-    return sorted(unique_words, key=lambda word: (_word_shape_score(word), word))
-
-
-def _word_shape_score(word: str) -> int:
-    common_suffixes = ("ing", "ers", "ies", "ion", "ist", "ism", "ous", "est", "ed", "er", "ly")
-    score = 0
-    if any(word.endswith(suffix) for suffix in common_suffixes):
-        score += 4
-    if len(set(word)) <= 4:
-        score += 2
-    if re.search(r"[qxz]", word):
-        score -= 2
-    if re.search(r"(.)\1", word):
-        score += 1
-    return score

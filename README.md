@@ -7,7 +7,7 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 ## What It Does
 
 - Runs every 5 minutes with GitHub Actions.
-- Collects candidates from a large online English dictionary, excludes common words, and prioritizes uncommon valid words.
+- Collects candidates only from crypto coin/token sources such as DexScreener, CoinGecko, and CoinPaprika.
 - Cleans project names and checks only the plain original word.
 - Does not generate prefixes or suffixes such as `get`, `ai`, `app`, or `pay`.
 - Checks public Fragment username pages only.
