@@ -616,6 +616,14 @@
       "score": 90,
       "source": "Hacker News Show HN"
     },
+    "cvxpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:42.917976+00:00",
+      "fragment_status": "Taken",
+      "project": "cvxpy",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "cymem": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:25:10.780514+00:00",
@@ -800,6 +808,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "eliza": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:39.003703+00:00",
+      "fragment_status": "Taken",
+      "project": "ELIZA",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "emmer": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:51.074108+00:00",
@@ -960,6 +976,22 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "fluiq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:39.345266+00:00",
+      "fragment_status": "Taken",
+      "project": "Fluiq",
+      "score": 87,
+      "source": "Hacker News New"
+    },
+    "focus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:41.726681+00:00",
+      "fragment_status": "Taken",
+      "project": "Focus",
+      "score": 91,
+      "source": "GitHub Topic (productivity)"
+    },
     "folib": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:05.747961+00:00",
@@ -982,6 +1014,14 @@
       "fragment_status": "Taken",
       "project": "frago",
       "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
+    "fraim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:40.022907+00:00",
+      "fragment_status": "Taken",
+      "project": "fraim",
+      "score": 100,
       "source": "GitHub Topic (ai)"
     },
     "funcy": {
@@ -1504,6 +1544,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "large": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:39.172013+00:00",
+      "fragment_status": "Taken",
+      "project": "Large",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "laylo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:09.387897+00:00",
@@ -1526,6 +1574,14 @@
       "fragment_status": "Taken",
       "project": "leash",
       "score": 98,
+      "source": "GitHub Topic (ai)"
+    },
+    "libai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:40.542170+00:00",
+      "fragment_status": "Taken",
+      "project": "libai",
+      "score": 97,
       "source": "GitHub Topic (ai)"
     },
     "libra": {
@@ -1560,6 +1616,14 @@
       "score": 88,
       "source": "GitHub Topic (llm)"
     },
+    "limit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:40.207893+00:00",
+      "fragment_status": "Taken",
+      "project": "token limit",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "limix": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:18.207295+00:00",
@@ -1567,6 +1631,14 @@
       "project": "LimiX",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "liora": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:41.558090+00:00",
+      "fragment_status": "Taken",
+      "project": "liora",
+      "score": 89,
+      "source": "GitHub Topic (automation)"
     },
     "litai": {
       "cache_version": 16,
@@ -1623,6 +1695,14 @@
       "project": "lumen",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "luqum": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:42.590688+00:00",
+      "fragment_status": "Taken",
+      "project": "luqum",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "lynkr": {
       "cache_version": 16,
@@ -1784,6 +1864,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "moley": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:41.216774+00:00",
+      "fragment_status": "Taken",
+      "project": "moley",
+      "score": 88,
+      "source": "GitHub Topic (cli)"
+    },
     "motor": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:42.329668+00:00",
@@ -1807,6 +1895,14 @@
       "project": "Multi",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "munch": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:42.425842+00:00",
+      "fragment_status": "Taken",
+      "project": "munch",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "mycar": {
       "cache_version": 16,
@@ -1872,6 +1968,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "optax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:42.077804+00:00",
+      "fragment_status": "Taken",
+      "project": "optax",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "orbit": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:55.807006+00:00",
@@ -1903,6 +2007,14 @@
       "project": "Oxide Lab",
       "score": 89,
       "source": "GitHub Topic (llm)"
+    },
+    "oxirs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:40.369657+00:00",
+      "fragment_status": "Taken",
+      "project": "oxirs",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
     },
     "paios": {
       "cache_version": 16,
@@ -2392,6 +2504,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "ruflo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:39.679030+00:00",
+      "fragment_status": "Taken",
+      "project": "ruflo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rules": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:40.088597+00:00",
@@ -2473,12 +2593,12 @@
       "source": "Hacker News Show HN"
     },
     "shade": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:09.470911+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:40.872643+00:00",
       "fragment_status": "Taken",
-      "project": "Shade",
+      "project": "shade",
       "score": 87,
-      "source": "GitHub Topic (ml)"
+      "source": "GitHub Topic (saas)"
     },
     "shein": {
       "cache_version": 16,
@@ -2504,6 +2624,22 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "shifu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:41.381775+00:00",
+      "fragment_status": "Taken",
+      "project": "shifu",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
+    "shtab": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:42.757039+00:00",
+      "fragment_status": "Taken",
+      "project": "shtab",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "shuck": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:54.216431+00:00",
@@ -2527,6 +2663,14 @@
       "project": "sibyl",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "sixos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:39.514216+00:00",
+      "fragment_status": "Taken",
+      "project": "sixos",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "skald": {
       "cache_version": 16,
@@ -2888,6 +3032,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "triad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:43.081584+00:00",
+      "fragment_status": "Taken",
+      "project": "triad",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "trino": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.649513+00:00",
@@ -3104,6 +3256,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "verve": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:41.037623+00:00",
+      "fragment_status": "Auction",
+      "project": "verve",
+      "score": 87,
+      "source": "GitHub Topic (saas)"
+    },
     "vexil": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:51.641684+00:00",
@@ -3127,6 +3287,14 @@
       "project": "vFlow",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "vishu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:41.898665+00:00",
+      "fragment_status": "Taken",
+      "project": "Vishu",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "visor": {
       "cache_version": 16,
@@ -3152,6 +3320,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "voirs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:40.702211+00:00",
+      "fragment_status": "Taken",
+      "project": "voirs",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "vsync": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:11.357958+00:00",
@@ -3175,6 +3351,14 @@
       "project": "wandb",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "wanwu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:39.855980+00:00",
+      "fragment_status": "Taken",
+      "project": "wanwu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "waves": {
       "cache_version": 16,
@@ -3287,6 +3471,14 @@
       "project": "zedis",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "zenpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T23:03:42.261038+00:00",
+      "fragment_status": "Taken",
+      "project": "zenpy",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "zlist": {
       "cache_version": 14,
