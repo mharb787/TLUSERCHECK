@@ -96,6 +96,14 @@
       "score": 75,
       "source": "GitHub Topic (api)"
     },
+    "argus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.362325+00:00",
+      "fragment_status": "Taken",
+      "project": "argus",
+      "score": 90,
+      "source": "GitHub Topic (cli)"
+    },
     "arxiv": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:25:11.300731+00:00",
@@ -175,6 +183,14 @@
       "project": "beads",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "bible": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:57.060873+00:00",
+      "fragment_status": "Taken",
+      "project": "Bible",
+      "score": 90,
+      "source": "App Store Top"
     },
     "bilig": {
       "cache_version": 16,
@@ -448,6 +464,22 @@
       "score": 87,
       "source": "Hacker News Who Is Hiring"
     },
+    "cqlai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:55.600889+00:00",
+      "fragment_status": "Taken",
+      "project": "cqlai",
+      "score": 97,
+      "source": "GitHub Topic (llm)"
+    },
+    "crank": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.935828+00:00",
+      "fragment_status": "Taken",
+      "project": "crank",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
+    },
     "csrct": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:38.730346+00:00",
@@ -712,6 +744,14 @@
       "score": 90,
       "source": "CSS Tricks"
     },
+    "flaky": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:57.670063+00:00",
+      "fragment_status": "Taken",
+      "project": "flaky",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "flare": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:02.542819+00:00",
@@ -791,6 +831,14 @@
       "project": "Ghost",
       "score": 92,
       "source": "Product Hunt"
+    },
+    "ghtkn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.483729+00:00",
+      "fragment_status": "Taken",
+      "project": "ghtkn",
+      "score": 77,
+      "source": "GitHub Topic (cli)"
     },
     "gitai": {
       "cache_version": 16,
@@ -936,6 +984,14 @@
       "score": 91,
       "source": "GitHub Topic (ai)"
     },
+    "iftta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.825726+00:00",
+      "fragment_status": "Taken",
+      "project": "iftta",
+      "score": 88,
+      "source": "GitHub Topic (automation)"
+    },
     "image": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:41.628207+00:00",
@@ -969,8 +1025,8 @@
       "source": "Hacker News Show HN"
     },
     "issue": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:07.228790+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.918363+00:00",
       "fragment_status": "Taken",
       "project": "Issue",
       "score": 100,
@@ -1200,6 +1256,14 @@
       "score": 98,
       "source": "GitHub Topic (ai)"
     },
+    "libra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:55.152104+00:00",
+      "fragment_status": "Taken",
+      "project": "libra",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "liger": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:39.465124+00:00",
@@ -1255,6 +1319,14 @@
       "project": "luffy",
       "score": 90,
       "source": "GitHub Topic (cli)"
+    },
+    "lumen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:55.486769+00:00",
+      "fragment_status": "Taken",
+      "project": "lumen",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "lynkr": {
       "cache_version": 16,
@@ -1568,6 +1640,14 @@
       "score": 90,
       "source": "Lobsters"
     },
+    "polib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:57.173440+00:00",
+      "fragment_status": "Taken",
+      "project": "polib",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "pooch": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.110429+00:00",
@@ -1697,12 +1777,28 @@
       "source": "PyPI Top"
     },
     "pyinc": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:06.184826+00:00",
-      "fragment_status": "Unavailable",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.327489+00:00",
+      "fragment_status": "Taken",
       "project": "Pyinc",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "pyker": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.599857+00:00",
+      "fragment_status": "Taken",
+      "project": "pyker",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
+    "pymax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.137020+00:00",
+      "fragment_status": "Unavailable",
+      "project": "PyMax",
+      "score": 90,
+      "source": "GitHub Topic (api)"
     },
     "pyotp": {
       "cache_version": 14,
@@ -1735,6 +1831,14 @@
       "project": "pyshp",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "qelos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:55.377877+00:00",
+      "fragment_status": "Taken",
+      "project": "qelos",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "radiq": {
       "cache_version": 16,
@@ -1864,6 +1968,14 @@
       "score": 95,
       "source": "GitHub Topic (ai)"
     },
+    "rxtui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.251269+00:00",
+      "fragment_status": "Taken",
+      "project": "rxtui",
+      "score": 93,
+      "source": "GitHub Topic (cli)"
+    },
     "sacha": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:54.979532+00:00",
@@ -1897,12 +2009,20 @@
       "source": "Hacker News Show HN"
     },
     "serra": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:06.705848+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.674896+00:00",
       "fragment_status": "Taken",
       "project": "Serra",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "servy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:55.033085+00:00",
+      "fragment_status": "Taken",
+      "project": "servy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sfera": {
       "cache_version": 16,
@@ -1928,6 +2048,14 @@
       "score": 100,
       "source": "App Store Top"
     },
+    "shell": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.103700+00:00",
+      "fragment_status": "Auction",
+      "project": "Shell-MCP, per-directory shell allowlisting",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "sherp": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:52.262691+00:00",
@@ -1937,8 +2065,8 @@
       "source": "GitHub Topic (cli)"
     },
     "shuck": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:05.297093+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.216431+00:00",
       "fragment_status": "Auction",
       "project": "Shuck",
       "score": 100,
@@ -2104,6 +2232,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "sugar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:56.713417+00:00",
+      "fragment_status": "Taken",
+      "project": "sugar",
+      "score": 88,
+      "source": "GitHub Topic (devtools)"
+    },
     "surge": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:57.410189+00:00",
@@ -2136,9 +2272,17 @@
       "score": 87,
       "source": "GitHub Topic (ml)"
     },
+    "sygra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:55.266666+00:00",
+      "fragment_status": "Taken",
+      "project": "SyGra",
+      "score": 76,
+      "source": "GitHub Topic (ai)"
+    },
     "tabfs": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:07.042182+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.799481+00:00",
       "fragment_status": "Taken",
       "project": "TabFS",
       "score": 100,
@@ -2169,8 +2313,8 @@
       "source": "GitHub Topic (ai)"
     },
     "tapfi": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:06.357184+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.437614+00:00",
       "fragment_status": "Auction",
       "project": "TapFi",
       "score": 100,
@@ -2265,8 +2409,8 @@
       "source": "GitHub New Repos"
     },
     "trent": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:09:06.535068+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:54.549498+00:00",
       "fragment_status": "Taken",
       "project": "Trent",
       "score": 100,
@@ -2383,6 +2527,14 @@
       "project": "upage",
       "score": 96,
       "source": "GitHub Topic (ai)"
+    },
+    "urwid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T19:46:57.560640+00:00",
+      "fragment_status": "Unavailable",
+      "project": "urwid",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "valai": {
       "cache_version": 16,
