@@ -1,15 +1,15 @@
 {
   "hn_show_hn": {
-    "page": 8
+    "page": 9
   },
   "hn_top": {
-    "page": 8
+    "page": 9
   },
   "github_trending": {
-    "period_index": 1
+    "period_index": 2
   },
   "github_new_repos": {
-    "days_offset": 266
+    "days_offset": 280
   },
   "reddit_startups": {
     "after": null
@@ -30,73 +30,73 @@
     "after": null
   },
   "wikipedia_trending": {
-    "days_offset": 20
+    "days_offset": 21
   },
   "hn_ask": {
-    "page": 6
+    "page": 7
   },
   "hn_new": {
-    "page": 6
+    "page": 7
   },
   "github_topic_ai": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_ml": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_llm": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_saas": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_api": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_cli": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_devtools": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_automation": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_productivity": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_mobile": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_web": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_security": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_blockchain": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_fintech": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_healthtech": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_education": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_gaming": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_database": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_analytics": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "github_topic_monitoring": {
-    "days_offset": 238
+    "days_offset": 252
   },
   "reddit_programming": {
     "after": null
@@ -186,70 +186,70 @@
     "after": null
   },
   "npm_packages": {
-    "offset": 1700
+    "offset": 1800
   },
   "pypi_packages": {
-    "pypi_offset": 1700
+    "pypi_offset": 1800
   },
   "github_topic_rust": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_typescript": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_swift": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_kotlin": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_flutter": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_react": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_nextjs": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_fastapi": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_langchain": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_agents": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_rag": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_vector": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_embedding": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_chatbot": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_assistant": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_workflow": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_pipeline": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_scraper": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_crawler": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "github_topic_dashboard": {
-    "days_offset": 140
+    "days_offset": 154
   },
   "reddit_solofounder": {
     "after": null
@@ -357,39 +357,39 @@
     "after": null
   },
   "github_lang_python": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_javascript": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_typescript": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_rust": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_go": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_swift": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_kotlin": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_cpp": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_java": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "github_lang_ruby": {
-    "days_offset": 70
+    "days_offset": 77
   },
   "hn_jobs": {
-    "page": 10
+    "page": 0
   },
   "hn_hiring": {
-    "page": 10
+    "page": 0
   }
 }
