@@ -40,6 +40,14 @@
       "score": 98,
       "source": "GitHub Topic (ai)"
     },
+    "aizen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.217813+00:00",
+      "fragment_status": "Taken",
+      "project": "aizen",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
+    },
     "aleph": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:53.218160+00:00",
@@ -77,6 +85,14 @@
       "checked_at": "2026-05-10T08:25:11.300731+00:00",
       "fragment_status": "Unavailable",
       "project": "arxiv",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "asana": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.110340+00:00",
+      "fragment_status": "Taken",
+      "project": "asana",
       "score": 88,
       "source": "PyPI Top"
     },
@@ -152,6 +168,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "borsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.543149+00:00",
+      "fragment_status": "Auction",
+      "project": "borsa",
+      "score": 87,
+      "source": "GitHub Topic (api)"
+    },
     "brief": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:54.546480+00:00",
@@ -215,6 +239,14 @@
       "project": "claws",
       "score": 89,
       "source": "GitHub Topic (cli)"
+    },
+    "cligj": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.979740+00:00",
+      "fragment_status": "Taken",
+      "project": "cligj",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "climp": {
       "cache_version": 14,
@@ -360,6 +392,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "dpath": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.004597+00:00",
+      "fragment_status": "Auction",
+      "project": "dpath",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "drift": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:10.665387+00:00",
@@ -423,6 +463,14 @@
       "project": "emoji",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "eneru": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:41.671495+00:00",
+      "fragment_status": "Taken",
+      "project": "Eneru",
+      "score": 88,
+      "source": "GitHub Topic (automation)"
     },
     "epupp": {
       "cache_version": 16,
@@ -536,6 +584,14 @@
       "score": 88,
       "source": "GitHub Topic (llm)"
     },
+    "grimp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:43.087292+00:00",
+      "fragment_status": "Auction",
+      "project": "grimp",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "guten": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:49.252742+00:00",
@@ -584,6 +640,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "horus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:41.564855+00:00",
+      "fragment_status": "Taken",
+      "project": "horus",
+      "score": 93,
+      "source": "GitHub Topic (automation)"
+    },
     "hyufa": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:50.384836+00:00",
@@ -591,6 +655,22 @@
       "project": "hyufa",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "inkog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.759126+00:00",
+      "fragment_status": "Auction",
+      "project": "inkog",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
+    "isonq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.418641+00:00",
+      "fragment_status": "Taken",
+      "project": "Isonq",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "issue": {
       "cache_version": 14,
@@ -616,6 +696,14 @@
       "score": 88,
       "source": "Hacker News New"
     },
+    "jsrip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:41.783230+00:00",
+      "fragment_status": "Taken",
+      "project": "jsrip",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
+    },
     "kagan": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:11.183479+00:00",
@@ -632,6 +720,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "kamal": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.097701+00:00",
+      "fragment_status": "Taken",
+      "project": "Kamal-backup",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "kapso": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:53.433013+00:00",
@@ -640,6 +736,14 @@
       "score": 88,
       "source": "GitHub Topic (llm)"
     },
+    "kavim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.431361+00:00",
+      "fragment_status": "Taken",
+      "project": "kavim",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "kazoo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:53.296618+00:00",
@@ -647,6 +751,14 @@
       "project": "kazoo",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "keepr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.866201+00:00",
+      "fragment_status": "Auction",
+      "project": "Keepr",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
     },
     "keifu": {
       "cache_version": 16,
@@ -720,6 +832,14 @@
       "score": 88,
       "source": "GitHub Topic (automation)"
     },
+    "kwami": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.324245+00:00",
+      "fragment_status": "Taken",
+      "project": "kwami",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "ladon": {
       "cache_version": 16,
       "checked_at": "2026-05-10T15:03:19.314876+00:00",
@@ -735,6 +855,14 @@
       "project": "Laylo (YC S20)",
       "score": 87,
       "source": "Hacker News Jobs"
+    },
+    "leash": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.969668+00:00",
+      "fragment_status": "Taken",
+      "project": "leash",
+      "score": 98,
+      "source": "GitHub Topic (ai)"
     },
     "liger": {
       "cache_version": 14,
@@ -845,6 +973,14 @@
       "checked_at": "2026-05-10T15:03:21.764085+00:00",
       "fragment_status": "Taken",
       "project": "minio",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "motor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.329668+00:00",
+      "fragment_status": "Taken",
+      "project": "motor",
       "score": 88,
       "source": "PyPI Top"
     },
@@ -1032,6 +1168,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "primp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.435064+00:00",
+      "fragment_status": "Taken",
+      "project": "primp",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "prism": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:50.951027+00:00",
@@ -1039,6 +1183,14 @@
       "project": "Prism",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "probe": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.531314+00:00",
+      "fragment_status": "Taken",
+      "project": "Probe",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "proma": {
       "cache_version": 14,
@@ -1072,6 +1224,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "pybcj": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.761579+00:00",
+      "fragment_status": "Unavailable",
+      "project": "pybcj",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pydot": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.541959+00:00",
@@ -1104,6 +1264,14 @@
       "score": 75,
       "source": "GitHub Topic (automation)"
     },
+    "pyhcl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.872197+00:00",
+      "fragment_status": "Taken",
+      "project": "pyhcl",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pyinc": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:06.184826+00:00",
@@ -1135,6 +1303,30 @@
       "project": "ralph",
       "score": 93,
       "source": "GitHub Topic (cli)"
+    },
+    "rbust": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.652554+00:00",
+      "fragment_status": "Taken",
+      "project": "RBust",
+      "score": 88,
+      "source": "GitHub Topic (cli)"
+    },
+    "rdkit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:42.220922+00:00",
+      "fragment_status": "Taken",
+      "project": "rdkit",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "react": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.639651+00:00",
+      "fragment_status": "Taken",
+      "project": "React",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "reefy": {
       "cache_version": 16,
@@ -1174,6 +1366,14 @@
       "fragment_status": "Taken",
       "project": "rover",
       "score": 89,
+      "source": "GitHub Topic (ai)"
+    },
+    "rules": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:40.088597+00:00",
+      "fragment_status": "Taken",
+      "project": "rules",
+      "score": 95,
       "source": "GitHub Topic (ai)"
     },
     "sacha": {
@@ -1277,6 +1477,22 @@
       "checked_at": "2026-05-10T11:37:51.063786+00:00",
       "fragment_status": "Taken",
       "project": "Slate",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "slyde": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:41.433734+00:00",
+      "fragment_status": "Unavailable",
+      "project": "Slyde",
+      "score": 75,
+      "source": "GitHub Topic (cli)"
+    },
+    "smile": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.312674+00:00",
+      "fragment_status": "Taken",
+      "project": "Smile-Serve",
       "score": 100,
       "source": "Hacker News Show HN"
     },
@@ -1464,6 +1680,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "thrml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.751155+00:00",
+      "fragment_status": "Auction",
+      "project": "thrml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tokid": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:55.645059+00:00",
@@ -1471,6 +1695,14 @@
       "project": "Tokid",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "torph": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.863172+00:00",
+      "fragment_status": "Auction",
+      "project": "torph",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "trent": {
       "cache_version": 14,
@@ -1688,6 +1920,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "yames": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:39.202880+00:00",
+      "fragment_status": "Auction",
+      "project": "Yames",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "yasna": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:48.893311+00:00",
@@ -1703,6 +1943,14 @@
       "project": "ynode",
       "score": 87,
       "source": "GitHub Topic (automation)"
+    },
+    "youth": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T16:01:41.894885+00:00",
+      "fragment_status": "Taken",
+      "project": "Youth (2026 film)",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "yubal": {
       "cache_version": 14,
