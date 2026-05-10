@@ -56,6 +56,14 @@
       "score": 87,
       "source": "GitHub Topic (api)"
     },
+    "arden": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:19.079866+00:00",
+      "fragment_status": "Auction",
+      "project": "Arden",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "argly": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:37.164636+00:00",
@@ -159,6 +167,14 @@
       "project": "Canva: AI Video & Photo Editor",
       "score": 99,
       "source": "App Store Top"
+    },
+    "cargo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:19.554479+00:00",
+      "fragment_status": "Taken",
+      "project": "Cargo-affect",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ceres": {
       "cache_version": 16,
@@ -408,6 +424,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "epupp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:20.035404+00:00",
+      "fragment_status": "Taken",
+      "project": "Epupp",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "evoke": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:50.738316+00:00",
@@ -656,6 +680,14 @@
       "score": 88,
       "source": "GitHub Topic (automation)"
     },
+    "klypn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:19.794581+00:00",
+      "fragment_status": "Taken",
+      "project": "Klypn",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "koine": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:53.326670+00:00",
@@ -687,6 +719,14 @@
       "project": "kspec",
       "score": 88,
       "source": "GitHub Topic (automation)"
+    },
+    "ladon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:19.314876+00:00",
+      "fragment_status": "Taken",
+      "project": "Ladon",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "laylo": {
       "cache_version": 14,
@@ -800,6 +840,14 @@
       "score": 89,
       "source": "GitHub Topic (llm)"
     },
+    "minio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:21.764085+00:00",
+      "fragment_status": "Taken",
+      "project": "minio",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "mpvex": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:57.571592+00:00",
@@ -831,6 +879,14 @@
       "project": "Mysti",
       "score": 93,
       "source": "GitHub Topic (ai)"
+    },
+    "namex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:21.527540+00:00",
+      "fragment_status": "Taken",
+      "project": "namex",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "nango": {
       "cache_version": 14,
@@ -943,6 +999,14 @@
       "project": "pilot",
       "score": 96,
       "source": "GitHub Topic (devtools)"
+    },
+    "plass": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:22.006131+00:00",
+      "fragment_status": "Auction",
+      "project": "plass",
+      "score": 90,
+      "source": "Lobsters"
     },
     "plezy": {
       "cache_version": 16,
@@ -1073,8 +1137,8 @@
       "source": "GitHub Topic (cli)"
     },
     "reefy": {
-      "cache_version": 14,
-      "checked_at": "2026-05-10T08:25:10.303678+00:00",
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:20.277610+00:00",
       "fragment_status": "Auction",
       "project": "Reefy",
       "score": 92,
@@ -1495,6 +1559,14 @@
       "project": "VBeta",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "vcrpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-10T15:03:21.286553+00:00",
+      "fragment_status": "Unavailable",
+      "project": "vcrpy",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "vedit": {
       "cache_version": 14,
