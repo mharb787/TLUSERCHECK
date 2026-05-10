@@ -7,14 +7,14 @@ This project is monitoring-only. It does not connect wallets, log in to Telegram
 ## What It Does
 
 - Runs every 5 minutes with GitHub Actions.
-- Collects candidates only from crypto coin/token sources such as DexScreener, CoinGecko, and CoinPaprika.
+- Temporarily collects candidates only from `tabatkins/wordle-list`.
 - Cleans project names and checks only the plain original word.
 - Does not generate prefixes or suffixes such as `get`, `ai`, `app`, or `pay`.
 - Checks public Fragment username pages only.
 - Treats missing Fragment pages as `No Fragment listing`, not as confirmed Telegram availability.
 - Sends alerts only when Fragment shows the `unavailable` label, based on the observed claimable-name wording.
 - Scores each username from 1 to 100.
-- Only checks plain English-letter words from 6 to 7 characters.
+- Temporarily checks plain five-letter English words.
 - Sends up to 10 new Telegram alerts per run by default.
 - Checks up to 500 new usernames per run by default.
 - Stores checked usernames in `data/checked_usernames.json` to avoid repeating alerts in future runs.
