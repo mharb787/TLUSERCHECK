@@ -1,15 +1,15 @@
 {
   "hn_show_hn": {
-    "page": 8
+    "page": 9
   },
   "hn_top": {
-    "page": 8
+    "page": 9
   },
   "github_trending": {
-    "period_index": 2
+    "period_index": 0
   },
   "github_new_repos": {
-    "days_offset": 112
+    "days_offset": 126
   },
   "reddit_startups": {
     "after": null
@@ -30,73 +30,73 @@
     "after": null
   },
   "wikipedia_trending": {
-    "days_offset": 9
+    "days_offset": 10
   },
   "hn_ask": {
-    "page": 6
+    "page": 7
   },
   "hn_new": {
-    "page": 6
+    "page": 7
   },
   "github_topic_ai": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_ml": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_llm": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_saas": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_api": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_cli": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_devtools": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_automation": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_productivity": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_mobile": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_web": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_security": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_blockchain": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_fintech": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_healthtech": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_education": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_gaming": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_database": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_analytics": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "github_topic_monitoring": {
-    "days_offset": 84
+    "days_offset": 98
   },
   "reddit_programming": {
     "after": null
@@ -186,9 +186,9 @@
     "after": null
   },
   "npm_packages": {
-    "offset": 600
+    "offset": 700
   },
   "pypi_packages": {
-    "pypi_offset": 600
+    "pypi_offset": 700
   }
 }
