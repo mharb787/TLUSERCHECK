@@ -144,6 +144,17 @@ class SourceClient:
     def collect_projects(self, pagination_state: PaginationState) -> List[Project]:
         all_projects: List[Project] = []
 
+        # TEMPORARY: Wordle word list only — all other sources disabled
+        wordle_offset = pagination_state.get("wordle", "offset", 0)
+        wordle_results = self._wordle_list(wordle_offset)
+        if wordle_results:
+            pagination_state.set("wordle", "offset", wordle_offset + 200)
+        else:
+            pagination_state.set("wordle", "offset", 0)
+        all_projects.extend(wordle_results)
+        return _dedupe_projects(all_projects)
+
+        # === ALL OTHER SOURCES TEMPORARILY DISABLED ===
         # HackerNews Show HN with pagination
         hn_show_page = pagination_state.get("hn_show_hn", "page", 0)
         hn_show_results = self._hacker_news_show_hn(hn_show_page)
@@ -326,6 +337,20 @@ class SourceClient:
         all_projects.extend(self._steam_new_releases())
 
         return _dedupe_projects(all_projects)
+
+    def _wordle_list(self, offset: int) -> List[Project]:
+        url = "https://raw.githubusercontent.com/tabatkins/wordle-list/main/words"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Wordle list failed: %s", exc)
+            return []
+        words = [w.strip().lower() for w in text.splitlines() if len(w.strip()) == 5 and w.strip().isalpha()]
+        batch = words[offset: offset + 200]
+        projects = []
+        for word in batch:
+            projects.append(Project(name=word, symbol="", source="Wordle List", raw_strength=10.0))
+        return projects
 
     def _get_json(self, url: str) -> Any:
         response = self.session.get(url, timeout=self.timeout)
