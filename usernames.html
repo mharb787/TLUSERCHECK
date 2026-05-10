@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>قائمة أسماء Telegram المتاحة</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #0f0f0f; color: #e0e0e0; min-height: 100vh; }
+  header { background: #1a1a2e; padding: 18px 24px; border-bottom: 2px solid #16213e; position: sticky; top: 0; z-index: 100; }
+  header h1 { font-size: 1.3rem; color: #4fc3f7; margin-bottom: 10px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .controls input[type=text] { background: #16213e; border: 1px solid #334; color: #e0e0e0; padding: 7px 12px; border-radius: 6px; font-size: 0.9rem; width: 200px; }
+  .controls input[type=text]::placeholder { color: #888; }
+  .btn { padding: 7px 14px; border: none; border-radius: 6px; cursor: pointer; font-size: 0.85rem; font-weight: bold; transition: 0.2s; }
+  .btn-blue { background: #1565c0; color: #fff; }
+  .btn-blue:hover { background: #1976d2; }
+  .btn-green { background: #2e7d32; color: #fff; }
+  .btn-green:hover { background: #388e3c; }
+  .btn-red { background: #c62828; color: #fff; }
+  .btn-red:hover { background: #d32f2f; }
+  .btn-gray { background: #424242; color: #fff; }
+  .btn-gray:hover { background: #616161; }
+  .tier-btns { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tier-btn { padding: 5px 12px; border-radius: 5px; cursor: pointer; border: 2px solid transparent; font-size: 0.8rem; font-weight: bold; }
+  .tier-btn.active { border-color: #fff; }
+  .t-all { background: #333; color: #fff; }
+  .t-1-btn { background: #1b5e20; color: #a5d6a7; }
+  .t-2-btn { background: #0d47a1; color: #90caf9; }
+  .t-3-btn { background: #e65100; color: #ffcc80; }
+  .t-4-btn { background: #37474f; color: #b0bec5; }
+  .stats { display: flex; gap: 14px; font-size: 0.8rem; color: #aaa; align-items: center; flex-wrap: wrap; }
+  .stat-val { color: #4fc3f7; font-weight: bold; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  thead th { background: #16213e; color: #90caf9; padding: 10px 12px; text-align: right; position: sticky; top: 0; border-bottom: 1px solid #334; font-size: 0.8rem; }
+  tbody tr { border-bottom: 1px solid #1e1e2e; transition: background 0.15s; }
+  tbody tr:hover { background: #1a1a2e; }
+  tbody tr.done { opacity: 0.5; }
+  td { padding: 7px 12px; vertical-align: middle; }
+  .td-num { color: #666; width: 46px; text-align: center; font-size: 0.78rem; }
+  .td-tier { width: 90px; text-align: center; }
+  .tier-badge { display: inline-block; padding: 3px 9px; border-radius: 12px; font-size: 0.72rem; font-weight: bold; }
+  .tier-1 { background: #1b5e20; color: #a5d6a7; }
+  .tier-2 { background: #0d47a1; color: #90caf9; }
+  .tier-3 { background: #bf360c; color: #ffcc80; }
+  .tier-4 { background: #37474f; color: #b0bec5; }
+  .td-name { font-family: monospace; font-size: 1rem; font-weight: bold; letter-spacing: 1px; width: 110px; }
+  .td-name a { color: #4fc3f7; text-decoration: none; }
+  .td-name a:hover { text-decoration: underline; }
+  .td-check { width: 60px; text-align: center; }
+  .td-check input[type=checkbox] { width: 18px; height: 18px; cursor: pointer; accent-color: #4fc3f7; }
+  .td-notes input[type=text] { background: #111; border: 1px solid #333; color: #ccc; padding: 5px 8px; border-radius: 5px; width: 100%; font-size: 0.82rem; }
+  .td-notes input[type=text]:focus { outline: none; border-color: #4fc3f7; background: #1a1a2e; }
+  .save-indicator { color: #4caf50; font-size: 0.78rem; }
+  .container { padding: 0 0 40px; overflow-x: auto; }
+  .empty-msg { text-align: center; color: #555; padding: 40px; font-size: 1rem; }
+  .progress-bar-wrap { height: 4px; background: #1a1a2e; }
+  .progress-bar { height: 4px; background: linear-gradient(90deg, #4fc3f7, #4caf50); transition: width 0.4s; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📋 قائمة أسماء Telegram المتاحة على Fragment</h1>
+  <div class="controls">
+    <input type="text" id="searchBox" placeholder="🔍 ابحث..." oninput="filterTable()">
+    <div class="tier-btns">
+      <button class="tier-btn t-all active" onclick="setTier('all',this)">الكل</button>
+      <button class="tier-btn t-1-btn" onclick="setTier(1,this)">⭐ شائع جداً</button>
+      <button class="tier-btn t-2-btn" onclick="setTier(2,this)">🔵 شائع</button>
+      <button class="tier-btn t-3-btn" onclick="setTier(3,this)">🟠 أقل شيوعاً</button>
+      <button class="tier-btn t-4-btn" onclick="setTier(4,this)">⚫ نادر</button>
+    </div>
+    <button class="btn btn-gray" onclick="setTier('untried',null)">☐ غير مجرَّب فقط</button>
+    <button class="btn btn-green" onclick="exportData()">💾 تصدير JSON</button>
+    <button class="btn btn-blue" onclick="importData()">📂 استيراد JSON</button>
+    <span class="save-indicator" id="saveIndicator"></span>
+  </div>
+  <div style="margin-top:10px;" class="stats">
+    <span>الإجمالي: <span class="stat-val" id="statTotal">0</span></span>
+    <span>مُجرَّب: <span class="stat-val" id="statDone">0</span></span>
+    <span>متبقي: <span class="stat-val" id="statLeft">0</span></span>
+    <span>يُعرض: <span class="stat-val" id="statShown">0</span></span>
+    <span>⭐ <span class="stat-val" id="s1">0</span></span>
+    <span>🔵 <span class="stat-val" id="s2">0</span></span>
+    <span>🟠 <span class="stat-val" id="s3">0</span></span>
+    <span>⚫ <span class="stat-val" id="s4">0</span></span>
+  </div>
+  <div class="progress-bar-wrap" style="margin-top:8px;">
+    <div class="progress-bar" id="progressBar" style="width:0%"></div>
+  </div>
+</header>
+
+<div class="container">
+  <table id="mainTable">
+    <thead>
+      <tr>
+        <th class="td-num">#</th>
+        <th class="td-tier">الدرجة</th>
+        <th class="td-name">الاسم</th>
+        <th class="td-check">تم التجربة</th>
+        <th>ملاحظات</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+  <div class="empty-msg" id="emptyMsg" style="display:none">لا توجد نتائج</div>
+</div>
+
+<script>
+const WORDS = [
+  // Tier 1 - شائع جداً
+  ["tease",1],["rainy",1],["might",1],["magic",1],["chair",1],["title",1],["angel",1],["bloom",1],
+  ["album",1],["trans",1],["lusty",1],["rusty",1],["admin",1],["greet",1],["ample",1],["bogus",1],
+  ["oscar",1],["blame",1],["bravo",1],["sloth",1],["ticks",1],["seeks",1],["model",1],["flock",1],
+  ["meals",1],["throw",1],["fiend",1],["budge",1],["swing",1],["shark",1],["mulls",1],["mills",1],
+  ["nerve",1],["drill",1],["naked",1],["eaves",1],["slice",1],["power",1],["flash",1],["empty",1],
+  ["candy",1],["count",1],["spice",1],["sugar",1],["small",1],["chase",1],["bones",1],["terms",1],
+  ["royal",1],["child",1],["cling",1],["sauce",1],["moans",1],["gorge",1],["login",1],["phone",1],
+  ["hands",1],["loans",1],["signs",1],["round",1],["staff",1],["stale",1],["stock",1],["suave",1],
+  ["adult",1],["share",1],["tests",1],["quite",1],["adore",1],["burnt",1],["grump",1],["packs",1],
+  ["carry",1],["prove",1],["think",1],["arrow",1],["solid",1],["cabin",1],["cloud",1],["storm",1],
+  ["brush",1],["swift",1],["leave",1],["seize",1],["pluck",1],["cheap",1],["nasty",1],["jelly",1],
+  ["prone",1],["hopes",1],["snoop",1],["video",1],["front",1],["ideal",1],["topic",1],["wrong",1],
+  ["howdy",1],["horny",1],["shire",1],["loser",1],["views",1],["porno",1],["trump",1],["pinto",1],
+  ["curvy",1],["flirt",1],["pulls",1],["thugs",1],["froze",1],["rests",1],["nudes",1],["jiffy",1],
+  ["socks",1],["blurt",1],["blogs",1],["quoit",1],["pines",1],["fells",1],["taken",1],["beast",1],
+  ["pills",1],["stuck",1],["growl",1],["visor",1],["recap",1],["trick",1],["canal",1],["roman",1],
+  ["treks",1],["motor",1],["birth",1],["users",1],["press",1],["vague",1],["whirl",1],["sally",1],
+  ["joker",1],["jerry",1],["theme",1],["dunts",1],["minus",1],["costs",1],["porch",1],["dusts",1],
+
+  // Tier 2 - شائع
+  ["graze",2],["spite",2],["faxes",2],["simps",2],["jibed",2],["lexis",2],["turnt",2],["smite",2],
+  ["palls",2],["ouzos",2],["louie",2],["dulls",2],["blare",2],["ovoli",2],["scapi",2],["kudus",2],
+  ["recce",2],["creds",2],["lumps",2],["codex",2],["mimes",2],["sears",2],["lilos",2],["orate",2],
+  ["outre",2],["quasi",2],["piezo",2],["fluor",2],["belon",2],["spirt",2],["toper",2],["bhang",2],
+  ["lidar",2],["aduki",2],["trios",2],["cubby",2],["piggy",2],["amine",2],["feist",2],["lauds",2],
+  ["doner",2],["plies",2],["lubed",2],["cyans",2],["vicar",2],["waxen",2],["swing",2],["mulls",2],
+  ["virga",2],["rests",2],["agate",2],["feuds",2],["mills",2],["burgs",2],["ludic",2],["cavil",2],
+  ["ducky",2],["warez",2],["tatts",2],["blips",2],["scoot",2],["scant",2],["biddy",2],["honky",2],
+  ["odour",2],["cores",2],["petit",2],["butts",2],["bucks",2],["snoot",2],["shtum",2],["coked",2],
+  ["burka",2],["urine",2],["idler",2],["smuts",2],["sexer",2],["moths",2],["pasha",2],["ocker",2],
+  ["lambs",2],["kraft",2],["apeak",2],["layin",2],["dopes",2],["crone",2],["trump",2],["shewn",2],
+  ["chook",2],["flits",2],["scars",2],["flaky",2],["kente",2],["viper",2],["dobro",2],["genii",2],
+  ["buxom",2],["bilks",2],["linos",2],["booby",2],["capos",2],["packs",2],["filmy",2],["pared",2],
+  ["merde",2],["bulge",2],["axels",2],["orals",2],["cocks",2],["boobs",2],["ruled",2],["barks",2],
+  ["carts",2],["fiche",2],["tryer",2],["rials",2],["zippo",2],["malty",2],["sexed",2],["bused",2],
+  ["muted",2],["pluck",2],["gaudy",2],["tunas",2],["harps",2],["dimly",2],["sails",2],["lobed",2],
+  ["direr",2],["ruble",2],["hypos",2],["loams",2],["germy",2],["dinos",2],["beaus",2],["hecks",2],
+  ["silky",2],["aloes",2],["peely",2],["croup",2],["kales",2],["flogs",2],["amens",2],["hilly",2],
+  ["belie",2],["brans",2],["oomph",2],["hawed",2],["sloes",2],["phlox",2],["fells",2],["yawed",2],
+  ["gonad",2],["capri",2],["nonna",2],["ducat",2],["goofy",2],["tushy",2],["glaze",2],["hotty",2],
+  ["wined",2],["loupe",2],["mired",2],["roved",2],["agate",2],["slomo",2],["pasha",2],["penis",2],
+  ["orzos",2],["crore",2],["capri",2],["gites",2],["hench",2],["mucho",2],["talcs",2],["quays",2],
+  ["scoff",2],["lousy",2],["mofos",2],["aioli",2],["cornu",2],["sexes",2],["tryer",2],["bused",2],
+  ["girts",2],["agues",2],["wrapt",2],["froom",2],["nashi",2],["mmkay",2],["growl",2],["calms",2],
+  ["vague",2],["whirl",2],["innie",2],["farro",2],["snoop",2],["mires",2],["schmo",2],["dinos",2],
+  ["lippy",2],["levis",2],["milfs",2],["dreck",2],["pluto",2],["dildo",2],["scoff",2],["loams",2],
+  ["whack",2],["belie",2],["mutes",2],["turnt",2],["gibed",2],["shtum",2],["porno",2],["louie",2],
+  ["blips",2],["slaes",2],["swies",2],["roons",2],["kapos",2],["grump",2],["flaky",2],["lousy",2],
+
+  // Tier 3 - أقل شيوعاً
+  ["mahal",3],["allee",3],["pharm",3],["poboy",3],["agama",3],["patka",3],["vizir",3],["bates",3],
+  ["wadge",3],["zoris",3],["ephod",3],["ayahs",3],["grege",3],["kurta",3],["kandy",3],["gogos",3],
+  ["cions",3],["gomer",3],["mulga",3],["delly",3],["anile",3],["kivas",3],["loids",3],["lyard",3],
+  ["mesel",3],["eyots",3],["skarn",3],["sapor",3],["manus",3],["crome",3],["tamas",3],["coset",3],
+  ["shist",3],["mapou",3],["virls",3],["azine",3],["backy",3],["puris",3],["relos",3],["shoat",3],
+  ["hurra",3],["prexy",3],["vinas",3],["urial",3],["hikoi",3],["dobla",3],["timbo",3],["pyxie",3],
+  ["kylix",3],["cueca",3],["scurs",3],["hogen",3],["bodoh",3],["spier",3],["skios",3],["holms",3],
+  ["clits",3],["fawny",3],["skols",3],["rerig",3],["chapt",3],["hejab",3],["bhels",3],["hexad",3],
+  ["eskar",3],["stopt",3],["dewed",3],["unbag",3],["typic",3],["hoved",3],["kidel",3],["dewax",3],
+  ["girly",3],["tynes",3],["admen",3],["aspro",3],["pekes",3],["vanga",3],["quags",3],["rawly",3],
+  ["conge",3],["nisse",3],["addio",3],["duded",3],["kobos",3],["womas",3],["octas",3],["cooly",3],
+  ["sopra",3],["ungag",3],["porus",3],["hypha",3],["fluor",3],["fluor",3],["lyard",3],["spirt",3],
+  ["varix",3],["chine",3],["coign",3],["unpen",3],["yobbo",3],["sooks",3],["haole",3],["renig",3],
+  ["toles",3],["worts",3],["tulpa",3],["ileal",3],["basho",3],["banty",3],["tubal",3],["spued",3],
+  ["kliks",3],["doucs",3],["vardo",3],["gauds",3],["uveas",3],["luvvy",3],["barde",3],["garba",3],
+  ["snath",3],["pions",3],["orgia",3],["trons",3],["namer",3],["suped",3],["gigue",3],["waddy",3],
+  ["dobes",3],["yapon",3],["akees",3],["gippy",3],["ceres",3],["heder",3],["cepes",3],["kench",3],
+  ["salep",3],["murre",3],["birrs",3],["lifes",3],["annal",3],["riant",3],["crone",3],["raphe",3],
+  ["alces",3],["calks",3],["stums",3],["spiry",3],["botes",3],["atomy",3],["grike",3],["bundu",3],
+  ["crura",3],["souks",3],["papri",3],["damar",3],["cists",3],["hests",3],["whups",3],["taxor",3],
+  ["soken",3],["skosh",3],["guyot",3],["sough",3],["hokku",3],["educt",3],["emule",3],["pelau",3],
+  ["weals",3],["kakas",3],["ariot",3],["agios",3],["ungum",3],["gaged",3],["rumen",3],["ceroc",3],
+  ["rorid",3],["aphis",3],["salop",3],["amate",3],["kenaf",3],["comus",3],["yangs",3],["whops",3],
+  ["liers",3],["ceili",3],["blats",3],["punga",3],["turon",3],["tragi",3],["whoof",3],["ogeed",3],
+  ["proby",3],["dobie",3],["lesbo",3],["stirk",3],["pixes",3],["zoeas",3],["lawks",3],["carse",3],
+  ["bovid",3],["zincy",3],["acned",3],["dohyo",3],["ranid",3],["titer",3],["jambu",3],["rosed",3],
+  ["shama",3],["drest",3],["kenos",3],["sykes",3],["aiyah",3],["haldi",3],["tenia",3],["kotow",3],
+  ["gonif",3],["apian",3],["jupon",3],["doomy",3],["trapt",3],["texta",3],["bigha",3],["limba",3],
+  ["ghazi",3],["khadi",3],["skite",3],["fones",3],["omers",3],["derry",3],["mauby",3],["ictus",3],
+  ["unpin",3],["shirs",3],["blits",3],["bulla",3],["mages",3],["karst",3],["mashy",3],["pures",3],
+  ["whare",3],["coxes",3],["sexto",3],["gamic",3],["mamee",3],["veves",3],["titis",3],["bagua",3],
+  ["rapee",3],["mafic",3],["pedos",3],["jalap",3],["wolds",3],["agate",3],["matin",3],["meers",3],
+  ["topis",3],["recco",3],["darga",3],["nicey",3],["loxes",3],["eldin",3],["ludic",3],["speos",3],
+  ["dreys",3],["duper",3],["nelis",3],["preak",3],["wakas",3],["zokor",3],["micos",3],["chiao",3],
+  ["scyes",3],["dearn",3],["tumpy",3],["figos",3],["epris",3],["pisky",3],["kaama",3],["cunny",3],
+  ["weeis",3],["reaks",3],["becke",3],["kades",3],["piets",3],["burqa",3],["spays",3],["milor",3],
+  ["girts",3],["jomos",3],["opzit",3],["kitab",3],["toits",3],["bokes",3],["navew",3],["toses",3],
+  ["cavie",3],["buras",3],["blaff",3],["divna",3],["klaps",3],["glent",3],["gynny",3],["orzos",3],
+  ["batos",3],["tomoz",3],["metif",3],["direr",3],["lassu",3],["airns",3],["semas",3],["baken",3],
+  ["pitso",3],["ewked",3],["cudda",3],["taits",3],["euked",3],["jures",3],["pooay",3],["lochy",3],
+  ["shool",3],["raake",3],["ditts",3],["exeem",3],["vaids",3],["dorse",3],["akoja",3],["gyals",3],
+  ["nerts",3],["vardy",3],["prunt",3],["dooky",3],["lezes",3],["unkey",3],["pelch",3],["urped",3],
+  ["baons",3],["begem",3],["zonae",3],["makie",3],["shonk",3],["artis",3],["pendu",3],["ecole",3],
+  ["rowie",3],["nolls",3],["yaups",3],["larnt",3],["waulk",3],["jaxie",3],["uprun",3],["weros",3],
+  ["ngaio",3],["ahuru",3],["dovie",3],["ethne",3],["ponor",3],["souce",3],["didis",3],["licet",3],
+  ["ydrad",3],["globi",3],["sizel",3],["skroo",3],["dsomo",3],["duras",3],["meynt",3],["sarks",3],
+  ["glits",3],["subak",3],["stott",3],["faurd",3],["sybow",3],["snigs",3],["bahut",3],["femal",3],
+  ["waacs",3],["sunns",3],["cunei",3],["bekah",3],["murrs",3],["mairs",3],["boeps",3],["recep",3],
+  ["immit",3],["rumes",3],["roufs",3],["spawl",3],["gurls",3],["wakfs",3],["tride",3],["jinne",3],
+  ["accha",3],["tirls",3],["vakas",3],["modii",3],["momes",3],["porus",3],["haham",3],["knoop",3],
+  ["lubra",3],["peepy",3],["flote",3],["jaaps",3],["sidas",3],["cribo",3],["fitte",3],["esnes",3],
+  ["isbas",3],["bardy",3],["neoza",3],["daraf",3],["shope",3],["viced",3],["troad",3],["jirds",3],
+  ["nanty",3],["mutas",3],["dwile",3],["meins",3],["unred",3],["caese",3],["gashy",3],["rewin",3],
+  ["skelf",3],["meous",3],["hotis",3],["chiks",3],["crith",3],["wifts",3],["snies",3],["kogal",3],
+  ["claes",3],["voema,3"],["agood",3],["conne",3],["cogie",3],["tooms",3],["mohar",3],["sylis",3],
+  ["pance",3],["mitas",3],["vraic",3],["assez",3],["grebo",3],["qophs",3],["theow",3],["admen",3],
+  ["snebs",3],["sayne",3],["gowls",3],["monie",3],["defat",3],["lieus",3],["fanum",3],["abune",3],
+  ["nisse",3],["rigmo",3],["niced",3],["sycon",3],["muntu",3],["titir",3],["koses",3],["omiai",3],
+  ["kexes",3],["laves",3],["agaty",3],["povos",3],["ympes",3],["mobey",3],["prodd",3],["yaffs",3],
+  ["wagga",3],["ocrea",3],["phese",3],["odahs",3],["agami",3],["imbar",3],["wauls",3],["yewen",3],
+  ["wanty",3],["babul",3],["taals",3],["phwat",3],["mogra",3],["cogue",3],["premy",3],["sooks",3],
+  ["mabes",3],["gumps",3],["facia",3],["mochy",3],["nowed",3],["claut",3],["plesh",3],["aumil",3],
+  ["aroba",3],["kitke",3],["isled",3],["jitty",3],["cusum",3],["poxes",3],["paips",3],["sewar",3],
+  ["mieux",3],["madal",3],["urdee",3],["krunk",3],["reput",3],["fitts",3],["mengs",3],["sades",3],
+  ["culch",3],["latus",3],["slish",3],["uveas",3],["luvvy",3],["barde",3],["prowk",3],["hiped",3],
+  ["vaned",3],["muras",3],["cauls",3],["pawaw",3],["claro",3],["sunis",3],["gitch",3],["dered",3],
+  ["feens",3],["zexes",3],["lipas",3],["olent",3],["lawin",3],["speks",3],["birrs",3],["mihas",3],
+  ["fanos",3],["cital",3],["repla",3],["ungot",3],["furrs",3],["sodic",3],["brast",3],["chuts",3],
+  ["roric",3],["useta",3],["rakus",3],["pooty",3],["mongs",3],["noule",3],["polks",3],["meloe",3],
+  ["agene",3],["neeze",3],["saser",3],["effer",3],["mussy",3],["sexor",3],["spyre",3],["kakas",3],
+  ["roons",3],["merde",3],["kaims",3],["rorid",3],["agush",3],["draps",3],["ybore",3],["urare",3],
+  ["ritts",3],["mazet",3],["whoof",3],["cunny",3],["piets",3],["shris",3],["parms",3],["meved",3],
+  ["wrapt",3],["froom",3],["ploye",3],["verry",3],["ranid",3],["scoff",3],["gynny",3],["batos",3],
+  ["semas",3],["aiyah",3],["jures",3],["pooay",3],["exeem",3],["vaids",3],["akoja",3],["nerts",3],
+  ["prunt",3],["lezes",3],["lippy",3],["bigha",3],["zonae",3],["makie",3],["pendu",3],["ecole",3],
+  ["rowie",3],["nolls",3],["larnt",3],["waulk",3],["jaxie",3],["weros",3],["ngaio",3],["ahuru",3],
+  ["dovie",3],["ethne",3],["souce",3],["didis",3],["licet",3],["sizel",3],["skroo",3],["dsomo",3],
+  ["glits",3],["subak",3],["faurd",3],["sybow",3],["femal",3],["waacs",3],
+
+  // Tier 4 - نادر
+  ["sputa",4],["snool",4],["quipo",4],["nerka",4],["yfere",4],["eliad",4],["nunny",4],["cucks",4],
+  ["treck",4],["muils",4],["oafos",4],["bippy",4],["zupan",4],["ngana",4],["conin",4],["kingy",4],
+  ["syned",4],["ansas",4],["posca",4],["stoln",4],["mesem",4],["oldly",4],["zanze",4],["queyu",4],
+  ["fraps",4],["meint",4],["modge",4],["grege",4],["waift",4],["takky",4],["rosco",4],["uraos",4],
+  ["absit",4],["moups",4],["surra",4],["loids",4],["turnt",4],["lyard",4],["cuifs",4],["sunns",4],
+  ["mesel",4],["boeps",4],["recep",4],["immit",4],["rumes",4],["roufs",4],["spawl",4],["gurls",4],
+  ["sapor",4],["wakfs",4],["tride",4],["jinne",4],["crome",4],["accha",4],["tirls",4],["lited",4],
+  ["cunei",4],["vakas",4],["bekah",4],["murrs",4],["mairs",4],["virls",4],["azine",4],["backy",4],
+  ["raddy",4],["modii",4],["womas",4],["relos",4],["scapi",4],["rokos",4],["fugis",4],["momes",4],
+  ["sopra",4],["ungag",4],["porus",4],["hurra",4],["haham",4],["knoop",4],["prexy",4],["vinas",4],
+  ["lubra",4],["peepy",4],["flote",4],["hogen",4],["sloid",4],["jaaps",4],["skios",4],["sidas",4],
+  ["cribo",4],["fitte",4],["esnes",4],["bhang",4],["isbas",4],["bardy",4],["neoza",4],["daraf",4],
+  ["shope",4],["eskar",4],["viced",4],["troad",4],["stopt",4],["jirds",4],["speos",4],["nanty",4],
+  ["mutas",4],["dwile",4],["meins",4],["unred",4],["caese",4],["unbag",4],["gashy",4],["rewin",4],
+  ["skelf",4],["meous",4],["hotis",4],["chiks",4],["crith",4],["wifts",4],["snies",4],["kogal",4],
+  ["claes",4],["voema",4],["agood",4],["conne",4],["cogie",4],["tooms",4],["mohar",4],["sylis",4],
+  ["pance",4],["mitas",4],["vraic",4],["assez",4],["grebo",4],["qophs",4],["theow",4],["snebs",4],
+  ["sayne",4],["quags",4],["gowls",4],["monie",4],["rawly",4],["defat",4],["lieus",4],["fanum",4],
+  ["abune",4],["nisse",4],["rigmo",4],["niced",4],["sycon",4],["addio",4],["muntu",4],["titir",4],
+  ["koses",4],["omiai",4],["kexes",4],["laves",4],["kobos",4],["agaty",4],["povos",4],["ympes",4],
+  ["mobey",4],["prodd",4],["yaffs",4],["ratos",4],["wagga",4],["ocrea",4],["phese",4],["odahs",4],
+  ["agami",4],["imbar",4],["wauls",4],["yewen",4],["wanty",4],["babul",4],["taals",4],["phwat",4],
+  ["mogra",4],["cogue",4],["premy",4],["mabes",4],["gumps",4],["slaes",4],["facia",4],["mochy",4],
+  ["nowed",4],["claut",4],["plesh",4],["aumil",4],["aroba",4],["kitke",4],["isled",4],["jitty",4],
+  ["cusum",4],["paips",4],["sewar",4],["mieux",4],["madal",4],["urdee",4],["krunk",4],["kliks",4],
+  ["reput",4],["fitts",4],["mengs",4],["doucs",4],["wyled",4],["sades",4],["culch",4],["latus",4],
+  ["slish",4],["uveas",4],["barde",4],["prowk",4],["gleet",4],["hiped",4],["vaned",4],["muras",4],
+  ["cauls",4],["pawaw",4],["claro",4],["sunis",4],["gitch",4],["dered",4],["trons",4],["feens",4],
+  ["zexes",4],["waddy",4],["dobes",4],["yapon",4],["akees",4],["lipas",4],["olent",4],["ceres",4],
+  ["heder",4],["cepes",4],["lawin",4],["speks",4],["kench",4],["mihas",4],["riant",4],["fanos",4],
+  ["cital",4],["alces",4],["calks",4],["repla",4],["stums",4],["spiry",4],["ungot",4],["furrs",4],
+  ["sodic",4],["atomy",4],["bundu",4],["brast",4],["chuts",4],["roric",4],["useta",4],["rakus",4],
+  ["pooty",4],["crura",4],["mongs",4],["damar",4],["noule",4],["polks",4],["meloe",4],["agene",4],
+  ["neeze",4],["saser",4],["effer",4],["mussy",4],["dreys",4],["soken",4],["guyot",4],["preak",4],
+  ["hokku",4],["wakas",4],["sexor",4],["educt",4],["emule",4],["spyre",4],["ariot",4],["agios",4],
+  ["zokor",4],["pooly",4],["kyaks",4],["ungum",4],["gaged",4],["kaims",4],["micos",4],["aphis",4],
+  ["chiao",4],["salop",4],["agush",4],["scyes",4],["dearn",4],["amate",4],["tumpy",4],["kenaf",4],
+  ["comus",4],["figos",4],["draps",4],["ybore",4],["yangs",4],["epris",4],["whops",4],["liers",4],
+  ["aioli",4],["ceili",4],["urare",4],["blats",4],["ritts",4],["mazet",4],["turon",4],["tragi",4],
+  ["pisky",4],["kaama",4],["weeis",4],["reaks",4],["pixes",4],["becke",4],["kades",4],["zoeas",4],
+  ["lawks",4],["carse",4],["milor",4],["shris",4],["parms",4],["meved",4],["jomos",4],["opzit",4],
+  ["kitab",4],["froom",4],["toits",4],["bokes",4],["navew",4],["zincy",4],["ploye",4],["toses",4],
+  ["buras",4],["verry",4],["dohyo",4],["blaff",4],["divna",4],["klaps",4],["glent",4],["gynny",4],
+  ["batos",4],["tomoz",4],["metif",4],["lassu",4],["airns",4],["semas",4],["baken",4],["pitso",4],
+  ["ewked",4],["cudda",4],["taits",4],["euked",4],["jures",4],["pooay",4],["lochy",4],["shool",4],
+  ["raake",4],["ditts",4],["exeem",4],["vaids",4],["dorse",4],["akoja",4],["gyals",4],["nerts",4],
+  ["vardy",4],["prunt",4],["dooky",4],["lezes",4],["unkey",4],["trapt",4],["pelch",4],["urped",4],
+  ["baons",4],["begem",4],["zonae",4],["makie",4],["shonk",4],["artis",4],["pendu",4],["rowie",4],
+  ["nolls",4],["yaups",4],["larnt",4],["waulk",4],["jaxie",4],["uprun",4],["mauby",4],["weros",4],
+  ["ngaio",4],["ahuru",4],["dovie",4],["ethne",4],["innie",4],["blits",4],["ponor",4],["souce",4],
+  ["didis",4],["licet",4],["ydrad",4],["globi",4],["sizel",4],["skroo",4],["dsomo",4],["duras",4],
+  ["meynt",4],["sarks",4],["glits",4],["subak",4],["stott",4],["swies",4],["veves",4],["titis",4],
+  ["bagua",4],["rapee",4],["faurd",4],["sybow",4],["snigs",4],["bahut",4],["femal",4],["waacs",4],
+  ["lubed",4],["spirt",4],["eyots",4],["mapou",4],["sloid",4],["bodoh",4],["phlox",4],["scurs",4],
+  ["oomph",4],["dhoni",4],["coset",4],["bekah",4],["fawny",4],["qualy",4],["chapt",4],["aduki",4],
+  ["cubby",4],["piggy",4],["jirds",4],["dwile",4],["snies",4],["kogal",4],["typic",4],["voema",4],
+  ["kidel",4],["agood",4],["conne",4],["cogie",4],["tooms",4],["sylis",4],["pance",4],["mitas",4],
+  ["assez",4],["qophs",4],["theow",4],["sayne",4],["monie",4],["fanum",4],["abune",4],["rigmo",4],
+  ["niced",4],["sycon",4],["muntu",4],["titir",4],["koses",4],["kexes",4],["kobos",4],["agaty",4],
+  ["povos",4],["ympes",4],["mobey",4],["meers",4],["lusks",4],["loxes",4],["ratos",4],["phese",4],
+  ["odahs",4],["agami",4],["imbar",4],["wanty",4],["babul",4],["taals",4],["phwat",4],["mogra",4],
+  ["cogue",4],["premy",4],["mabes",4],["gumps",4],["slaes",4],["facia",4],["mochy",4],["nowed",4],
+  ["claut",4],["plesh",4],["aumil",4],["aroba",4],["kitke",4],["isled",4],["jitty",4],["cusum",4],
+  ["poxes",4],["paips",4],["sewar",4],["mieux",4],["madal",4],["urdee",4],["krunk",4],["reput",4],
+  ["fitts",4],["mengs",4],["wyled",4],["sades",4],["culch",4],["latus",4],["slish",4],["prowk",4],
+  ["gleet",4],["hiped",4],["muras",4],["pawaw",4],["sunis",4],["gitch",4],["dered",4],["feens",4],
+  ["zexes",4],["waddy",4],["dobes",4],["yapon",4],["akees",4],["olent",4],["heder",4],["cepes",4],
+  ["lawin",4],["speks",4],["mihas",4],["fanos",4],["cital",4],["alces",4],["repla",4],["stums",4],
+  ["spiry",4],["ungot",4],["furrs",4],["sodic",4],["atomy",4],["brast",4],["chuts",4],["roric",4],
+  ["useta",4],["rakus",4],["pooty",4],["mongs",4],["noule",4],["polks",4],["meloe",4],["agene",4],
+  ["saser",4],["effer",4],["mussy",4],["soken",4],["preak",4],["wakas",4],["emule",4],["spyre",4],
+  ["ariot",4],["agios",4],["zokor",4],["pooly",4],["kyaks",4],["kaims",4],["micos",4],["aphis",4],
+  ["chiao",4],["agush",4],["scyes",4],["dearn",4],["amate",4],["tumpy",4],["figos",4],["draps",4],
+  ["ybore",4],["epris",4],["whops",4],["urare",4],["blats",4],["ritts",4],["mazet",4],["turon",4],
+  ["tragi",4],["pisky",4],["kaama",4],["weeis",4],["reaks",4],["becke",4],["kades",4],["zoeas",4],
+  ["lawks",4],["milor",4],["parms",4],["meved",4],["opzit",4],["froom",4],["bokes",4],["ploye",4],
+  ["toses",4],["buras",4],["blaff",4],["klaps",4],["glent",4],["gynny",4],["tomoz",4],["lassu",4],
+  ["airns",4],["baken",4],["pitso",4],["ewked",4],["cudda",4],["taits",4],["euked",4],["pooay",4],
+  ["lochy",4],["shool",4],["raake",4],["ditts",4],["dorse",4],["akoja",4],["gyals",4],["vardy",4],
+  ["pelch",4],["urped",4],["baons",4],["begem",4],["artis",4],["rowie",4],["nolls",4],["yaups",4],
+  ["waulk",4],["jaxie",4],["uprun",4],["mauby",4],["ngaio",4],["ahuru",4],["dovie",4],["ethne",4],
+  ["ponor",4],["souce",4],["didis",4],["licet",4],["ydrad",4],["globi",4],["skroo",4],["dsomo",4],
+  ["duras",4],["meynt",4],["sarks",4],["stott",4],["swies",4],["titis",4],["veves",4],["rapee",4],
+  ["snigs",4],["bahut",4],["waacs",4],
+];
+
+// Deduplicate by word
+const seen = new Set();
+const DATA = [];
+for (const [w, t] of WORDS) {
+  if (!seen.has(w)) { seen.add(w); DATA.push({word: w, tier: t}); }
+}
+DATA.sort((a,b) => a.tier - b.tier || a.word.localeCompare(b.word));
+
+const TIER_LABELS = {1:'شائع جداً', 2:'شائع', 3:'أقل شيوعاً', 4:'نادر'};
+const STORAGE_KEY = 'tg_usernames_v1';
+
+let state = {}; // {word: {checked, notes}}
+let currentTier = 'all';
+
+function loadState() {
+  try { state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch(e) { state = {}; }
+}
+function saveState() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  const el = document.getElementById('saveIndicator');
+  el.textContent = '✓ تم الحفظ تلقائياً';
+  setTimeout(() => el.textContent = '', 2000);
+}
+function getState(word) { return state[word] || {checked: false, notes: ''}; }
+
+function setTier(t, btn) {
+  currentTier = t;
+  document.querySelectorAll('.tier-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  filterTable();
+}
+
+function filterTable() {
+  const q = document.getElementById('searchBox').value.trim().toLowerCase();
+  const tbody = document.getElementById('tableBody');
+  const rows = tbody.querySelectorAll('tr');
+  let shown = 0;
+  rows.forEach(row => {
+    const word = row.dataset.word;
+    const tier = parseInt(row.dataset.tier);
+    const s = getState(word);
+    let show = true;
+    if (currentTier === 'untried' && s.checked) show = false;
+    else if (currentTier !== 'all' && currentTier !== 'untried' && tier !== currentTier) show = false;
+    if (show && q && !word.includes(q)) show = false;
+    row.style.display = show ? '' : 'none';
+    if (show) shown++;
+  });
+  document.getElementById('statShown').textContent = shown;
+  document.getElementById('emptyMsg').style.display = shown === 0 ? '' : 'none';
+  updateStats();
+}
+
+function updateStats() {
+  const total = DATA.length;
+  let done = 0, t1=0, t2=0, t3=0, t4=0;
+  DATA.forEach(d => {
+    if (getState(d.word).checked) done++;
+    if (d.tier===1) t1++; else if (d.tier===2) t2++; else if (d.tier===3) t3++; else t4++;
+  });
+  document.getElementById('statTotal').textContent = total;
+  document.getElementById('statDone').textContent = done;
+  document.getElementById('statLeft').textContent = total - done;
+  document.getElementById('s1').textContent = t1;
+  document.getElementById('s2').textContent = t2;
+  document.getElementById('s3').textContent = t3;
+  document.getElementById('s4').textContent = t4;
+  document.getElementById('progressBar').style.width = (done/total*100).toFixed(1) + '%';
+}
+
+function buildTable() {
+  const tbody = document.getElementById('tableBody');
+  tbody.innerHTML = '';
+  DATA.forEach((d, i) => {
+    const s = getState(d.word);
+    const tr = document.createElement('tr');
+    tr.dataset.word = d.word;
+    tr.dataset.tier = d.tier;
+    if (s.checked) tr.classList.add('done');
+    tr.innerHTML = `
+      <td class="td-num">${i+1}</td>
+      <td class="td-tier"><span class="tier-badge tier-${d.tier}">${TIER_LABELS[d.tier]}</span></td>
+      <td class="td-name"><a href="https://fragment.com/username/${d.word}" target="_blank">@${d.word}</a></td>
+      <td class="td-check"><input type="checkbox" ${s.checked?'checked':''} onchange="toggle('${d.word}',this)"></td>
+      <td class="td-notes"><input type="text" placeholder="ملاحظة..." value="${(s.notes||'').replace(/"/g,'&quot;')}" oninput="updateNote('${d.word}',this.value)"></td>
+    `;
+    tbody.appendChild(tr);
+  });
+  document.getElementById('statShown').textContent = DATA.length;
+  updateStats();
+}
+
+function toggle(word, cb) {
+  const s = getState(word);
+  s.checked = cb.checked;
+  state[word] = s;
+  const row = cb.closest('tr');
+  if (s.checked) row.classList.add('done'); else row.classList.remove('done');
+  saveState();
+  updateStats();
+}
+
+function updateNote(word, val) {
+  const s = getState(word);
+  s.notes = val;
+  state[word] = s;
+  saveState();
+}
+
+function exportData() {
+  const out = DATA.map(d => ({ word: d.word, tier: d.tier, ...getState(d.word) }));
+  const blob = new Blob([JSON.stringify(out, null, 2)], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'tg_usernames_' + new Date().toISOString().slice(0,10) + '.json';
+  a.click();
+}
+
+function importData() {
+  const input = document.createElement('input');
+  input.type = 'file'; input.accept = '.json';
+  input.onchange = e => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = ev => {
+      try {
+        const arr = JSON.parse(ev.target.result);
+        arr.forEach(item => {
+          if (item.word) state[item.word] = { checked: !!item.checked, notes: item.notes || '' };
+        });
+        saveState();
+        buildTable();
+        filterTable();
+      } catch(err) { alert('خطأ في الملف: ' + err.message); }
+    };
+    reader.readAsText(file);
+  };
+  input.click();
+}
+
+loadState();
+buildTable();
+filterTable();
+</script>
+</body>
+</html>
