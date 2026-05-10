@@ -50,6 +50,42 @@ _REDDIT_SUBREDDITS = [
     "webapps",
     "opensource",
     "selfhosted",
+    # Additional 30 subreddits
+    "solofounder",
+    "Entrepreneur",
+    "buildinpublic",
+    "nocode",
+    "lowcode",
+    "digitalnomad",
+    "remotework",
+    "freelance",
+    "passive_income",
+    "ecommerce",
+    "dropshipping",
+    "affiliatemarketing",
+    "SEO",
+    "content_marketing",
+    "growthhacking",
+    "vc",
+    "venturecapital",
+    "angelinvesting",
+    "privateequity",
+    "acquisitions",
+    "buyabusiness",
+    "smallbusiness",
+    "consulting",
+    "b2b",
+    "enterprise",
+    "cloud",
+    "devops",
+    "kubernetes",
+    "docker",
+    "terraform",
+    "serverless",
+    "mlops",
+    "robotics",
+    "iot",
+    "cybersecurity",
 ]
 
 _GITHUB_TOPICS = [
@@ -73,7 +109,30 @@ _GITHUB_TOPICS = [
     "database",
     "analytics",
     "monitoring",
+    # Additional 20 topics
+    "rust",
+    "typescript",
+    "swift",
+    "kotlin",
+    "flutter",
+    "react",
+    "nextjs",
+    "fastapi",
+    "langchain",
+    "agents",
+    "rag",
+    "vector",
+    "embedding",
+    "chatbot",
+    "assistant",
+    "workflow",
+    "pipeline",
+    "scraper",
+    "crawler",
+    "dashboard",
 ]
+
+_GITHUB_LANGUAGES = ["python", "javascript", "typescript", "rust", "go", "swift", "kotlin", "cpp", "java", "ruby"]
 
 
 class SourceClient:
@@ -220,6 +279,51 @@ class SourceClient:
         pypi_offset = pagination_state.get("pypi_packages", "pypi_offset", 0)
         all_projects.extend(self._pypi_top(pypi_offset))
         pagination_state.set("pypi_packages", "pypi_offset", pypi_offset + 100)
+
+        # GitHub language trending with days_offset per language
+        for language in _GITHUB_LANGUAGES:
+            state_key = f"github_lang_{language}"
+            lang_days_offset = pagination_state.get(state_key, "days_offset", 0)
+            all_projects.extend(self._github_language_trending(language, lang_days_offset))
+            pagination_state.set(state_key, "days_offset", lang_days_offset + 7)
+
+        # HackerNews jobs with pagination
+        hn_jobs_page = pagination_state.get("hn_jobs", "page", 0)
+        hn_jobs_results = self._hacker_news_jobs(hn_jobs_page)
+        if hn_jobs_results:
+            pagination_state.set("hn_jobs", "page", hn_jobs_page + 1)
+        else:
+            pagination_state.set("hn_jobs", "page", 0)
+        all_projects.extend(hn_jobs_results)
+
+        # HackerNews who is hiring with pagination
+        hn_hiring_page = pagination_state.get("hn_hiring", "page", 0)
+        hn_hiring_results = self._hacker_news_who_is_hiring(hn_hiring_page)
+        if hn_hiring_results:
+            pagination_state.set("hn_hiring", "page", hn_hiring_page + 1)
+        else:
+            pagination_state.set("hn_hiring", "page", 0)
+        all_projects.extend(hn_hiring_results)
+
+        # Additional RSS feeds
+        all_projects.extend(self._lobsters_rss())
+        all_projects.extend(self._slashdot_rss())
+        all_projects.extend(self._mit_tech_review_rss())
+        all_projects.extend(self._ieee_spectrum_rss())
+        all_projects.extend(self._smashing_magazine_rss())
+        all_projects.extend(self._css_tricks_rss())
+        all_projects.extend(self._webdesignernews_rss())
+        all_projects.extend(self._ux_collective_rss())
+        all_projects.extend(self._product_coalition_rss())
+        all_projects.extend(self._yc_blog_rss())
+        all_projects.extend(self._paulgraham_rss())
+        all_projects.extend(self._benedict_evans_rss())
+        all_projects.extend(self._stratechery_rss())
+        all_projects.extend(self._the_information_rss())
+        all_projects.extend(self._cbinsights_rss())
+
+        # Steam new releases
+        all_projects.extend(self._steam_new_releases())
 
         return _dedupe_projects(all_projects)
 
@@ -755,6 +859,243 @@ class SourceClient:
                 raw_strength=min(20.0, strength),
             ))
         return projects
+
+
+    def _github_language_trending(self, language: str, days_offset: int) -> List[Project]:
+        start = _days_ago(days_offset + 7)
+        end = _days_ago(days_offset)
+        query = quote(f"language:{language} stars:>50 created:>{start}..{end}")
+        url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=100"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("GitHub language trending (lang=%s, offset=%s) failed: %s", language, days_offset, exc)
+            return []
+        projects = []
+        for item in data.get("items", []):
+            name = item.get("name") or ""
+            if not name:
+                continue
+            stars = item.get("stargazers_count") or 0
+            strength = min(25.0, float(stars) / 50)
+            projects.append(Project(
+                name=name.replace("-", " ").replace("_", " "),
+                symbol="",
+                source=f"GitHub Language ({language})",
+                url=item.get("html_url"),
+                raw_strength=strength,
+            ))
+        return projects
+
+    def _hacker_news_jobs(self, page: int) -> List[Project]:
+        url = f"https://hn.algolia.com/api/v1/search_by_date?tags=job&hitsPerPage=100&page={page}"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Hacker News jobs failed: %s", exc)
+            return []
+        projects: List[Project] = []
+        for item in data.get("hits", []):
+            title = item.get("title") or item.get("story_title") or ""
+            if not title:
+                continue
+            name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            words = name.split()
+            if len(words) > 5:
+                name = " ".join(words[:5])
+            if not name:
+                continue
+            points = item.get("points") or 0
+            comments = item.get("num_comments") or 0
+            strength = min(15.0, float(points) / 10 + float(comments) / 20)
+            object_id = item.get("objectID")
+            projects.append(
+                Project(
+                    name=name,
+                    symbol="",
+                    source="Hacker News Jobs",
+                    url=f"https://news.ycombinator.com/item?id={object_id}" if object_id else item.get("url"),
+                    raw_strength=strength,
+                )
+            )
+        return projects
+
+    def _hacker_news_who_is_hiring(self, page: int) -> List[Project]:
+        url = f"https://hn.algolia.com/api/v1/search_by_date?query=who+is+hiring&tags=story&hitsPerPage=100&page={page}"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Hacker News who is hiring failed: %s", exc)
+            return []
+        projects: List[Project] = []
+        for item in data.get("hits", []):
+            title = item.get("title") or item.get("story_title") or ""
+            if not title:
+                continue
+            name = re.split(r"\s*[-–|:]\s*", title, maxsplit=1)[0].strip()
+            words = name.split()
+            if len(words) > 5:
+                name = " ".join(words[:5])
+            if not name:
+                continue
+            points = item.get("points") or 0
+            comments = item.get("num_comments") or 0
+            strength = min(15.0, float(points) / 10 + float(comments) / 20)
+            object_id = item.get("objectID")
+            projects.append(
+                Project(
+                    name=name,
+                    symbol="",
+                    source="Hacker News Who Is Hiring",
+                    url=f"https://news.ycombinator.com/item?id={object_id}" if object_id else item.get("url"),
+                    raw_strength=strength,
+                )
+            )
+        return projects
+
+    def _lobsters_rss(self) -> List[Project]:
+        url = "https://lobste.rs/rss"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Lobsters RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Lobsters", base_strength=3.5)
+
+    def _slashdot_rss(self) -> List[Project]:
+        url = "https://rss.slashdot.org/Slashdot/slashdotMain"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Slashdot RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Slashdot", base_strength=3.0)
+
+    def _mit_tech_review_rss(self) -> List[Project]:
+        url = "https://www.technologyreview.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("MIT Tech Review RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "MIT Tech Review", base_strength=4.0)
+
+    def _ieee_spectrum_rss(self) -> List[Project]:
+        url = "https://spectrum.ieee.org/rss/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("IEEE Spectrum RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "IEEE Spectrum", base_strength=3.5)
+
+    def _smashing_magazine_rss(self) -> List[Project]:
+        url = "https://www.smashingmagazine.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Smashing Magazine RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Smashing Magazine", base_strength=3.0)
+
+    def _css_tricks_rss(self) -> List[Project]:
+        url = "https://css-tricks.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CSS Tricks RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "CSS Tricks", base_strength=3.0)
+
+    def _webdesignernews_rss(self) -> List[Project]:
+        url = "https://www.webdesignernews.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Web Designer News RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Web Designer News", base_strength=2.5)
+
+    def _ux_collective_rss(self) -> List[Project]:
+        url = "https://uxdesign.cc/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("UX Collective RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "UX Collective", base_strength=3.0)
+
+    def _product_coalition_rss(self) -> List[Project]:
+        url = "https://productcoalition.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Product Coalition RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Product Coalition", base_strength=3.0)
+
+    def _yc_blog_rss(self) -> List[Project]:
+        url = "https://www.ycombinator.com/blog/rss.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Y Combinator Blog RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Y Combinator Blog", base_strength=5.0)
+
+    def _paulgraham_rss(self) -> List[Project]:
+        url = "http://www.paulgraham.com/rss.html"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Paul Graham Essays RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Paul Graham Essays", base_strength=4.0)
+
+    def _benedict_evans_rss(self) -> List[Project]:
+        url = "https://www.ben-evans.com/benedictevans?format=rss"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Benedict Evans RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Benedict Evans", base_strength=4.0)
+
+    def _stratechery_rss(self) -> List[Project]:
+        url = "https://stratechery.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Stratechery RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Stratechery", base_strength=4.5)
+
+    def _the_information_rss(self) -> List[Project]:
+        url = "https://www.theinformation.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("The Information RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "The Information", base_strength=4.5)
+
+    def _cbinsights_rss(self) -> List[Project]:
+        url = "https://www.cbinsights.com/research/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CB Insights RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "CB Insights", base_strength=4.0)
+
+    def _steam_new_releases(self) -> List[Project]:
+        url = "https://store.steampowered.com/feeds/newreleases.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Steam New Releases RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Steam New Releases", base_strength=3.0)
 
 
 def _days_ago(n: int) -> str:
