@@ -166,58 +166,13 @@ class SourceClient:
             else:
                 pagination_state.set(f"reddit_{subreddit}", "after", None)
 
-        # Product Hunt RSS
+        # Product Hunt RSS (confirmed working)
         all_projects.extend(self._producthunt_rss())
 
-        # TechCrunch RSS
-        all_projects.extend(self._techcrunch_rss())
+        # Lobsters RSS (confirmed working)
+        all_projects.extend(self._lobsters_rss())
 
-        # VentureBeat RSS
-        all_projects.extend(self._venturebeat_rss())
-
-        # Wired RSS
-        all_projects.extend(self._wired_rss())
-
-        # The Verge RSS
-        all_projects.extend(self._theverge_rss())
-
-        # Engadget RSS
-        all_projects.extend(self._engadget_rss())
-
-        # Ars Technica RSS
-        all_projects.extend(self._arstechnica_rss())
-
-        # Fast Company RSS
-        all_projects.extend(self._fastcompany_rss())
-
-        # Mashable RSS
-        all_projects.extend(self._mashable_rss())
-
-        # ZDNet RSS
-        all_projects.extend(self._zdnet_rss())
-
-        # Hacker Noon RSS
-        all_projects.extend(self._hackernoon_rss())
-
-        # Dev.to RSS
-        all_projects.extend(self._devto_rss())
-
-        # Indie Hackers RSS
-        all_projects.extend(self._indiehackers_rss())
-
-        # SaaStr RSS
-        all_projects.extend(self._saastr_rss())
-
-        # First Round Review RSS
-        all_projects.extend(self._firstround_rss())
-
-        # A16Z blog RSS
-        all_projects.extend(self._a16z_rss())
-
-        # Sequoia RSS
-        all_projects.extend(self._sequoia_rss())
-
-        # Wikipedia trending with days_offset
+        # Wikipedia trending
         wiki_days_offset = pagination_state.get("wikipedia_trending", "days_offset", 1)
         all_projects.extend(self._wikipedia_trending(wiki_days_offset))
         pagination_state.set("wikipedia_trending", "days_offset", wiki_days_offset + 1)
@@ -238,14 +193,14 @@ class SourceClient:
         all_projects.extend(self._pypi_top(pypi_offset))
         pagination_state.set("pypi_packages", "pypi_offset", pypi_offset + 100)
 
-        # GitHub language trending with days_offset per language
+        # GitHub language trending
         for language in _GITHUB_LANGUAGES:
             state_key = f"github_lang_{language}"
             lang_days_offset = pagination_state.get(state_key, "days_offset", 0)
             all_projects.extend(self._github_language_trending(language, lang_days_offset))
             pagination_state.set(state_key, "days_offset", lang_days_offset + 7)
 
-        # HackerNews jobs with pagination
+        # HackerNews jobs
         hn_jobs_page = pagination_state.get("hn_jobs", "page", 0)
         hn_jobs_results = self._hacker_news_jobs(hn_jobs_page)
         if hn_jobs_results:
@@ -254,7 +209,7 @@ class SourceClient:
             pagination_state.set("hn_jobs", "page", 0)
         all_projects.extend(hn_jobs_results)
 
-        # HackerNews who is hiring with pagination
+        # HackerNews who is hiring
         hn_hiring_page = pagination_state.get("hn_hiring", "page", 0)
         hn_hiring_results = self._hacker_news_who_is_hiring(hn_hiring_page)
         if hn_hiring_results:
@@ -263,52 +218,170 @@ class SourceClient:
             pagination_state.set("hn_hiring", "page", 0)
         all_projects.extend(hn_hiring_results)
 
-        # Additional RSS feeds
-        all_projects.extend(self._lobsters_rss())
-        all_projects.extend(self._slashdot_rss())
-        all_projects.extend(self._mit_tech_review_rss())
-        all_projects.extend(self._ieee_spectrum_rss())
-        all_projects.extend(self._smashing_magazine_rss())
-        all_projects.extend(self._css_tricks_rss())
-        all_projects.extend(self._webdesignernews_rss())
-        all_projects.extend(self._ux_collective_rss())
-        all_projects.extend(self._product_coalition_rss())
-        all_projects.extend(self._yc_blog_rss())
-        all_projects.extend(self._paulgraham_rss())
-        all_projects.extend(self._benedict_evans_rss())
-        all_projects.extend(self._stratechery_rss())
-        all_projects.extend(self._the_information_rss())
-        all_projects.extend(self._cbinsights_rss())
-
-        # Steam new releases
-        all_projects.extend(self._steam_new_releases())
-
-        # RubyGems top packages
-        rubygems_offset = pagination_state.get("rubygems", "offset", 0)
-        all_projects.extend(self._rubygems_top(rubygems_offset))
-        pagination_state.set("rubygems", "offset", rubygems_offset + 30)
-
-        # Crates.io top packages
+        # Crates.io (Rust packages)
         cratesio_offset = pagination_state.get("cratesio", "offset", 0)
         all_projects.extend(self._cratesio_top(cratesio_offset))
         pagination_state.set("cratesio", "offset", cratesio_offset + 100)
 
-        # NuGet top packages
+        # NuGet (.NET packages)
         nuget_offset = pagination_state.get("nuget", "offset", 0)
         all_projects.extend(self._nuget_top(nuget_offset))
         pagination_state.set("nuget", "offset", nuget_offset + 100)
 
-        # Additional RSS feeds
-        all_projects.extend(self._thenextweb_rss())
-        all_projects.extend(self._euStartups_rss())
-        all_projects.extend(self._crunchbase_news_rss())
-        all_projects.extend(self._infoq_rss())
-        all_projects.extend(self._dzone_rss())
-        all_projects.extend(self._techrepublic_rss())
-        all_projects.extend(self._sifted_rss())
-        all_projects.extend(self._betalist_rss())
+        # RubyGems
+        rubygems_offset = pagination_state.get("rubygems", "offset", 0)
+        all_projects.extend(self._rubygems_top(rubygems_offset))
+        pagination_state.set("rubygems", "offset", rubygems_offset + 30)
+
+        # === HIGH-VOLUME NEW SOURCES ===
+
+        # SEC EDGAR — US company names + tickers (13,000+ entries)
+        edgar_offset = pagination_state.get("sec_edgar", "offset", 0)
+        all_projects.extend(self._sec_edgar_companies(edgar_offset))
+        pagination_state.set("sec_edgar", "offset", edgar_offset + 500)
+
+        # English 4-letter word list (ENABLE dictionary ~3,500 words)
+        if not pagination_state.get("enable_words", "done", False):
+            words = self._english_words()
+            all_projects.extend(words)
+            if words:
+                pagination_state.set("enable_words", "done", True)
+
+        # NASDAQ + NYSE stock tickers
+        nasdaq_offset = pagination_state.get("nasdaq_tickers", "offset", 0)
+        all_projects.extend(self._stock_tickers(nasdaq_offset))
+        pagination_state.set("nasdaq_tickers", "offset", nasdaq_offset + 500)
+
+        # GeoNames: 4-letter city names worldwide
+        if not pagination_state.get("geonames", "done", False):
+            cities = self._geonames_cities()
+            all_projects.extend(cities)
+            if cities:
+                pagination_state.set("geonames", "done", True)
+
+        # Packagist (PHP packages)
+        packagist_page = pagination_state.get("packagist", "page", 1)
+        all_projects.extend(self._packagist_packages(packagist_page))
+        pagination_state.set("packagist", "page", packagist_page + 1)
+
+        # Go module proxy trending
+        go_offset = pagination_state.get("go_modules", "offset", 0)
+        all_projects.extend(self._go_modules(go_offset))
+        pagination_state.set("go_modules", "offset", go_offset + 100)
 
         return _dedupe_projects(all_projects)
+
+    def _sec_edgar_companies(self, offset: int) -> List[Project]:
+        url = "https://www.sec.gov/files/company_tickers.json"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("SEC EDGAR failed: %s", exc)
+            return []
+        entries = list(data.values())
+        page = entries[offset: offset + 500]
+        projects = []
+        for entry in page:
+            name = (entry.get("title") or "").strip()
+            ticker = (entry.get("ticker") or "").strip().lower()
+            if name:
+                projects.append(Project(name=name, symbol=ticker, source="SEC EDGAR", raw_strength=5.0))
+            if ticker and ticker.isalpha():
+                projects.append(Project(name=ticker, symbol=ticker, source="SEC EDGAR Ticker", raw_strength=7.0))
+        return projects
+
+    def _english_words(self) -> List[Project]:
+        url = "https://raw.githubusercontent.com/dolph/dictionary/master/enable1.txt"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("English word list failed: %s", exc)
+            return []
+        words = [w.strip().lower() for w in text.splitlines() if w.strip().isalpha()]
+        return [Project(name=w, symbol="", source="English Dictionary", raw_strength=8.0) for w in words]
+
+    def _stock_tickers(self, offset: int) -> List[Project]:
+        # Fetch full NASDAQ + NYSE ticker list via SEC EDGAR exchange data
+        urls = [
+            "https://www.sec.gov/files/company_tickers_exchange.json",
+        ]
+        projects = []
+        for url in urls:
+            try:
+                data = self._get_json(url)
+            except requests.RequestException as exc:
+                LOGGER.warning("Stock tickers failed (%s): %s", url, exc)
+                continue
+            fields = data.get("fields", [])
+            rows = data.get("data", [])
+            try:
+                ticker_idx = fields.index("ticker")
+                name_idx = fields.index("name")
+            except ValueError:
+                continue
+            page = rows[offset: offset + 500]
+            for row in page:
+                ticker = str(row[ticker_idx]).strip().lower()
+                name = str(row[name_idx]).strip()
+                if ticker and ticker.isalpha():
+                    projects.append(Project(name=ticker, symbol=ticker, source="Stock Ticker", raw_strength=7.0))
+                if name:
+                    projects.append(Project(name=name, symbol=ticker, source="Stock Company", raw_strength=5.0))
+        return projects
+
+    def _geonames_cities(self) -> List[Project]:
+        # GeoNames top 1000 cities (CC BY license, no auth needed for this endpoint)
+        url = "https://raw.githubusercontent.com/datasets/world-cities/master/data/world-cities.csv"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("GeoNames cities failed: %s", exc)
+            return []
+        projects = []
+        for line in text.splitlines()[1:]:
+            parts = line.split(",")
+            if not parts:
+                continue
+            city = parts[0].strip().strip('"').lower()
+            if city.isalpha():
+                projects.append(Project(name=city, symbol="", source="City Names", raw_strength=6.0))
+        return projects
+
+    def _packagist_packages(self, page: int) -> List[Project]:
+        url = f"https://packagist.org/search.json?q=&page={page}&per_page=100"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Packagist failed: %s", exc)
+            return []
+        projects = []
+        for pkg in data.get("results", []):
+            name = pkg.get("name") or ""
+            # Strip vendor prefix: vendor/package → package
+            short = name.split("/")[-1] if "/" in name else name
+            display = short.replace("-", " ").replace("_", " ")
+            if display:
+                projects.append(Project(name=display, symbol="", source="Packagist", raw_strength=3.0))
+        return projects
+
+    def _go_modules(self, offset: int) -> List[Project]:
+        url = f"https://goproxy.io/stats/top?limit=100&offset={offset}"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Go modules failed: %s", exc)
+            return []
+        projects = []
+        for item in data if isinstance(data, list) else data.get("results", []):
+            path = (item.get("module") or item.get("path") or "").strip()
+            if not path:
+                continue
+            # Extract last segment: github.com/user/repo → repo
+            name = path.rstrip("/").split("/")[-1]
+            display = name.replace("-", " ").replace("_", " ").replace(".", " ")
+            if display:
+                projects.append(Project(name=display, symbol="", source="Go Modules", raw_strength=3.0))
+        return projects
 
     def _get_json(self, url: str) -> Any:
         response = self.session.get(url, timeout=self.timeout)
