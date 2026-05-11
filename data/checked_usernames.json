@@ -120,6 +120,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.262725+00:00",
+      "fragment_status": "Auction",
+      "project": "abso",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "abut": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:03.849675+00:00",
@@ -2159,6 +2167,14 @@
       "project": "atma",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "atob": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.617463+00:00",
+      "fragment_status": "Auction",
+      "project": "AtoB (YC S20)",
+      "score": 87,
+      "source": "Hacker News Jobs"
     },
     "atom": {
       "cache_version": 16,
@@ -8680,6 +8696,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "diff": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.862009+00:00",
+      "fragment_status": "Auction",
+      "project": "diff",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "difit": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:48.800408+00:00",
@@ -9247,6 +9271,14 @@
       "project": "dopy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dora": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.381164+00:00",
+      "fragment_status": "Auction",
+      "project": "dora",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "dore": {
       "cache_version": 16,
@@ -12039,6 +12071,14 @@
       "project": "Fixed",
       "score": 90,
       "source": "CSS Tricks"
+    },
+    "fixi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.028950+00:00",
+      "fragment_status": "Auction",
+      "project": "fixi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fixt": {
       "cache_version": 16,
@@ -16167,6 +16207,14 @@
       "project": "hjson",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "hkdf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.733132+00:00",
+      "fragment_status": "Auction",
+      "project": "hkdf",
+      "score": 93,
+      "source": "Crates.io"
     },
     "hmac": {
       "cache_version": 16,
@@ -25584,6 +25632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nexa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:11.802599+00:00",
+      "fragment_status": "Auction",
+      "project": "Nexa-gauge",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "next": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:21.030885+00:00",
@@ -26952,6 +27008,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "opsy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.146782+00:00",
+      "fragment_status": "Auction",
+      "project": "opsy",
+      "score": 91,
+      "source": "GitHub Topic (ai)"
+    },
     "optax": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:42.077804+00:00",
@@ -27359,6 +27423,14 @@
       "project": "over",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ovlt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:11.682646+00:00",
+      "fragment_status": "Auction",
+      "project": "Ovlt",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ovum": {
       "cache_version": 16,
@@ -30247,6 +30319,14 @@
       "project": "qelos",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "qfex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:12.500700+00:00",
+      "fragment_status": "Auction",
+      "project": "Qfex (YC X25)",
+      "score": 87,
+      "source": "Hacker News Jobs"
     },
     "qina": {
       "cache_version": 16,
@@ -38751,6 +38831,14 @@
       "project": "\u00e7ubuk",
       "score": 93,
       "source": "City Names"
+    },
+    "uccl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T18:05:11.916528+00:00",
+      "fragment_status": "Auction",
+      "project": "uccl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "uden": {
       "cache_version": 16,
