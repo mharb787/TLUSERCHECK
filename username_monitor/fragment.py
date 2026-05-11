@@ -46,16 +46,36 @@ class FragmentClient:
 
         text = response.text.lower()
 
+        # 1. Check for auction/for-sale signals FIRST — these cost TON, not free
+        if any(kw in text for kw in ("place a bid", "place bid", "make an offer", "floor price", "buy now")):
+            return FragmentResult(username=username, status="Auction", url=url)
+
+        # Price in TON visible on page = it's for sale
+        if re.search(r'\d[\d\s,]*\s*ton\b', text):
+            return FragmentResult(username=username, status="Auction", url=url)
+
+        # 2. Already sold / has an owner
+        if "sold" in text or "owner" in text:
+            return FragmentResult(username=username, status="Taken", url=url)
+
+        # 3. Taken on Telegram (registered by a user)
+        if any(kw in text for kw in ("on auction", "username taken", "this username is taken")):
+            return FragmentResult(username=username, status="Taken", url=url)
+
+        # 4. "Unavailable" — could mean not listed OR reserved by Fragment/TON
+        #    Only treat as opportunity if Telegram confirms it's NOT registered
         if "unavailable" in text:
             if self._is_registered_on_telegram(username):
                 return FragmentResult(username=username, status="Taken in Telegram", url=url)
+            # Double-check: make sure there's no price hiding elsewhere
+            if re.search(r'\d', text[text.find("unavailable"):text.find("unavailable") + 200]):
+                return FragmentResult(username=username, status="Auction", url=url)
             return FragmentResult(username=username, status="Unavailable", url=url)
-        if "on auction" in text or "place bid" in text:
-            return FragmentResult(username=username, status="Auction", url=url)
-        if "sold" in text or "owner" in text:
-            return FragmentResult(username=username, status="Taken", url=url)
-        if re.search(r"username\s+is\s+available|not\s+found", text):
+
+        # 5. Explicitly free
+        if re.search(r"username\s+is\s+available|not\s+found|free\s+to\s+claim", text):
             return FragmentResult(username=username, status="Available", url=url)
+
         return FragmentResult(username=username, status="Unknown", url=url)
 
     def _is_registered_on_telegram(self, username: str) -> bool:
@@ -70,8 +90,9 @@ class FragmentClient:
             )
             data = response.json()
             registered = data.get("ok", False)
-            LOGGER.info("Telegram registration check @%s: %s", username, "taken" if registered else "free")
+            LOGGER.info("Telegram check @%s: %s", username, "taken" if registered else "free")
             return registered
         except requests.RequestException as exc:
             LOGGER.warning("Telegram getChat failed for @%s: %s", username, exc)
             return False
+
