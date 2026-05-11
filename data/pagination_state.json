@@ -1,15 +1,15 @@
 {
   "hn_show_hn": {
-    "page": 8
+    "page": 9
   },
   "hn_top": {
-    "page": 8
+    "page": 9
   },
   "github_trending": {
-    "period_index": 0
+    "period_index": 1
   },
   "github_new_repos": {
-    "days_offset": 420
+    "days_offset": 434
   },
   "reddit_startups": {
     "after": null
@@ -30,73 +30,73 @@
     "after": null
   },
   "wikipedia_trending": {
-    "days_offset": 31
+    "days_offset": 32
   },
   "hn_ask": {
-    "page": 6
+    "page": 7
   },
   "hn_new": {
-    "page": 6
+    "page": 7
   },
   "github_topic_ai": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_ml": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_llm": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_saas": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_api": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_cli": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_devtools": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_automation": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_productivity": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_mobile": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_web": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_security": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_blockchain": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_fintech": {
     "days_offset": 392
   },
   "github_topic_healthtech": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_education": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_gaming": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_database": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_analytics": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "github_topic_monitoring": {
-    "days_offset": 392
+    "days_offset": 406
   },
   "reddit_programming": {
     "after": null
@@ -186,70 +186,70 @@
     "after": null
   },
   "npm_packages": {
-    "offset": 2800
+    "offset": 2900
   },
   "pypi_packages": {
-    "pypi_offset": 2800
+    "pypi_offset": 2900
   },
   "github_topic_rust": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_typescript": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_swift": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_kotlin": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_flutter": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_react": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_nextjs": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_fastapi": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_langchain": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_agents": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_rag": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_vector": {
     "days_offset": 294
   },
   "github_topic_embedding": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_chatbot": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_assistant": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_workflow": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_pipeline": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_scraper": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_crawler": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "github_topic_dashboard": {
-    "days_offset": 294
+    "days_offset": 308
   },
   "reddit_solofounder": {
     "after": null
@@ -357,39 +357,504 @@
     "after": null
   },
   "github_lang_python": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_javascript": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_typescript": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_rust": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_go": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_swift": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_kotlin": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_cpp": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_java": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "github_lang_ruby": {
-    "days_offset": 147
+    "days_offset": 154
   },
   "hn_jobs": {
-    "page": 10
+    "page": 0
   },
   "hn_hiring": {
-    "page": 10
+    "page": 0
+  },
+  "github_topic_machine-learning": {
+    "days_offset": 14
+  },
+  "github_topic_deep-learning": {
+    "days_offset": 14
+  },
+  "github_topic_neural-network": {
+    "days_offset": 14
+  },
+  "github_topic_computer-vision": {
+    "days_offset": 14
+  },
+  "github_topic_nlp": {
+    "days_offset": 14
+  },
+  "github_topic_speech-recognition": {
+    "days_offset": 14
+  },
+  "github_topic_reinforcement-learning": {
+    "days_offset": 14
+  },
+  "github_topic_vector-database": {
+    "days_offset": 14
+  },
+  "github_topic_stable-diffusion": {
+    "days_offset": 14
+  },
+  "github_topic_generative-ai": {
+    "days_offset": 14
+  },
+  "github_topic_transformers": {
+    "days_offset": 14
+  },
+  "github_topic_fine-tuning": {
+    "days_offset": 14
+  },
+  "github_topic_rest-api": {
+    "days_offset": 14
+  },
+  "github_topic_graphql": {
+    "days_offset": 14
+  },
+  "github_topic_grpc": {
+    "days_offset": 14
+  },
+  "github_topic_microservices": {
+    "days_offset": 14
+  },
+  "github_topic_vue": {
+    "days_offset": 14
+  },
+  "github_topic_svelte": {
+    "days_offset": 14
+  },
+  "github_topic_nuxtjs": {
+    "days_offset": 14
+  },
+  "github_topic_astro": {
+    "days_offset": 14
+  },
+  "github_topic_django": {
+    "days_offset": 14
+  },
+  "github_topic_flask": {
+    "days_offset": 14
+  },
+  "github_topic_express": {
+    "days_offset": 14
+  },
+  "github_topic_nestjs": {
+    "days_offset": 14
+  },
+  "github_topic_laravel": {
+    "days_offset": 14
+  },
+  "github_topic_websocket": {
+    "days_offset": 14
+  },
+  "github_topic_realtime": {
+    "days_offset": 14
+  },
+  "github_topic_webhook": {
+    "days_offset": 14
+  },
+  "github_topic_ci-cd": {
+    "days_offset": 14
+  },
+  "github_topic_docker": {
+    "days_offset": 14
+  },
+  "github_topic_kubernetes": {
+    "days_offset": 14
+  },
+  "github_topic_terraform": {
+    "days_offset": 14
+  },
+  "github_topic_ansible": {
+    "days_offset": 14
+  },
+  "github_topic_observability": {
+    "days_offset": 14
+  },
+  "github_topic_logging": {
+    "days_offset": 14
+  },
+  "github_topic_tracing": {
+    "days_offset": 14
+  },
+  "github_topic_react-native": {
+    "days_offset": 14
+  },
+  "github_topic_ios": {
+    "days_offset": 14
+  },
+  "github_topic_android": {
+    "days_offset": 14
+  },
+  "github_topic_electron": {
+    "days_offset": 14
+  },
+  "github_topic_tauri": {
+    "days_offset": 14
+  },
+  "github_topic_macos": {
+    "days_offset": 14
+  },
+  "github_topic_cross-platform": {
+    "days_offset": 14
+  },
+  "github_topic_cryptography": {
+    "days_offset": 14
+  },
+  "github_topic_authentication": {
+    "days_offset": 14
+  },
+  "github_topic_oauth": {
+    "days_offset": 14
+  },
+  "github_topic_jwt": {
+    "days_offset": 14
+  },
+  "github_topic_penetration-testing": {
+    "days_offset": 14
+  },
+  "github_topic_vulnerability": {
+    "days_offset": 14
+  },
+  "github_topic_privacy": {
+    "days_offset": 14
+  },
+  "github_topic_zero-trust": {
+    "days_offset": 14
+  },
+  "github_topic_postgresql": {
+    "days_offset": 14
+  },
+  "github_topic_redis": {
+    "days_offset": 14
+  },
+  "github_topic_mongodb": {
+    "days_offset": 14
+  },
+  "github_topic_sqlite": {
+    "days_offset": 14
+  },
+  "github_topic_timeseries": {
+    "days_offset": 14
+  },
+  "github_topic_data-engineering": {
+    "days_offset": 14
+  },
+  "github_topic_etl": {
+    "days_offset": 14
+  },
+  "github_topic_streaming": {
+    "days_offset": 14
+  },
+  "github_topic_kafka": {
+    "days_offset": 14
+  },
+  "github_topic_spark": {
+    "days_offset": 14
+  },
+  "github_topic_golang": {
+    "days_offset": 14
+  },
+  "github_topic_zig": {
+    "days_offset": 14
+  },
+  "github_topic_wasm": {
+    "days_offset": 14
+  },
+  "github_topic_deno": {
+    "days_offset": 14
+  },
+  "github_topic_bun": {
+    "days_offset": 14
+  },
+  "github_topic_nodejs": {
+    "days_offset": 14
+  },
+  "github_topic_web3": {
+    "days_offset": 14
+  },
+  "github_topic_defi": {
+    "days_offset": 14
+  },
+  "github_topic_smart-contract": {
+    "days_offset": 14
+  },
+  "github_topic_solidity": {
+    "days_offset": 14
+  },
+  "github_topic_nft": {
+    "days_offset": 14
+  },
+  "github_topic_game-engine": {
+    "days_offset": 14
+  },
+  "github_topic_unity": {
+    "days_offset": 14
+  },
+  "github_topic_godot": {
+    "days_offset": 14
+  },
+  "github_topic_game-development": {
+    "days_offset": 14
+  },
+  "github_topic_finance": {
+    "days_offset": 14
+  },
+  "github_topic_open-source": {
+    "days_offset": 14
+  },
+  "github_topic_self-hosted": {
+    "days_offset": 14
+  },
+  "github_topic_homelab": {
+    "days_offset": 14
+  },
+  "github_topic_extension": {
+    "days_offset": 14
+  },
+  "github_topic_plugin": {
+    "days_offset": 14
+  },
+  "reddit_YCombinator": {
+    "after": null
+  },
+  "reddit_indiebiz": {
+    "after": null
+  },
+  "reddit_typescript": {
+    "after": null
+  },
+  "reddit_cpp": {
+    "after": null
+  },
+  "reddit_java": {
+    "after": null
+  },
+  "reddit_csharp": {
+    "after": null
+  },
+  "reddit_swift": {
+    "after": null
+  },
+  "reddit_kotlin": {
+    "after": null
+  },
+  "reddit_ruby": {
+    "after": null
+  },
+  "reddit_haskell": {
+    "after": null
+  },
+  "reddit_elixir": {
+    "after": null
+  },
+  "reddit_scala": {
+    "after": null
+  },
+  "reddit_clojure": {
+    "after": null
+  },
+  "reddit_lua": {
+    "after": null
+  },
+  "reddit_zig": {
+    "after": null
+  },
+  "reddit_nim": {
+    "after": null
+  },
+  "reddit_FlutterDev": {
+    "after": null
+  },
+  "reddit_reactnative": {
+    "after": null
+  },
+  "reddit_unitydev": {
+    "after": null
+  },
+  "reddit_unrealengine": {
+    "after": null
+  },
+  "reddit_GameDevelopment": {
+    "after": null
+  },
+  "reddit_LocalLLaMA": {
+    "after": null
+  },
+  "reddit_StableDiffusion": {
+    "after": null
+  },
+  "reddit_ChatGPT": {
+    "after": null
+  },
+  "reddit_OpenAI": {
+    "after": null
+  },
+  "reddit_AIAssistants": {
+    "after": null
+  },
+  "reddit_learnmachinelearning": {
+    "after": null
+  },
+  "reddit_computervision": {
+    "after": null
+  },
+  "reddit_netsec": {
+    "after": null
+  },
+  "reddit_hacking": {
+    "after": null
+  },
+  "reddit_ReverseEngineering": {
+    "after": null
+  },
+  "reddit_linux": {
+    "after": null
+  },
+  "reddit_sysadmin": {
+    "after": null
+  },
+  "reddit_homelab": {
+    "after": null
+  },
+  "reddit_vim": {
+    "after": null
+  },
+  "reddit_emacs": {
+    "after": null
+  },
+  "reddit_commandline": {
+    "after": null
+  },
+  "reddit_bash": {
+    "after": null
+  },
+  "reddit_PowerShell": {
+    "after": null
+  },
+  "reddit_blockchain": {
+    "after": null
+  },
+  "reddit_web3": {
+    "after": null
+  },
+  "reddit_CryptoTechnology": {
+    "after": null
+  },
+  "reddit_UI_Design": {
+    "after": null
+  },
+  "reddit_UXDesign": {
+    "after": null
+  },
+  "reddit_graphic_design": {
+    "after": null
+  },
+  "reddit_web_design": {
+    "after": null
+  },
+  "reddit_ProductManagement": {
+    "after": null
+  },
+  "reddit_product_design": {
+    "after": null
+  },
+  "reddit_userexperience": {
+    "after": null
+  },
+  "reddit_digitalmarketing": {
+    "after": null
+  },
+  "reddit_socialmedia": {
+    "after": null
+  },
+  "reddit_PPC": {
+    "after": null
+  },
+  "reddit_aws": {
+    "after": null
+  },
+  "reddit_googlecloud": {
+    "after": null
+  },
+  "reddit_AZURE": {
+    "after": null
+  },
+  "reddit_DatabaseHelp": {
+    "after": null
+  },
+  "reddit_PostgreSQL": {
+    "after": null
+  },
+  "reddit_redis": {
+    "after": null
+  },
+  "reddit_mongodb": {
+    "after": null
+  },
+  "reddit_elasticsearch": {
+    "after": null
+  },
+  "github_lang_c": {
+    "days_offset": 7
+  },
+  "github_lang_csharp": {
+    "days_offset": 7
+  },
+  "github_lang_php": {
+    "days_offset": 7
+  },
+  "github_lang_scala": {
+    "days_offset": 7
+  },
+  "github_lang_elixir": {
+    "days_offset": 7
+  },
+  "github_lang_haskell": {
+    "days_offset": 7
+  },
+  "github_lang_lua": {
+    "days_offset": 7
+  },
+  "github_lang_zig": {
+    "days_offset": 7
+  },
+  "github_lang_dart": {
+    "days_offset": 7
+  },
+  "github_lang_julia": {
+    "days_offset": 7
+  },
+  "rubygems": {
+    "offset": 30
+  },
+  "cratesio": {
+    "offset": 100
+  },
+  "nuget": {
+    "offset": 100
   }
 }
