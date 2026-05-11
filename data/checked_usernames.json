@@ -392,6 +392,14 @@
       "score": 100,
       "source": "Hacker News Top"
     },
+    "bubus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:46.084586+00:00",
+      "fragment_status": "Taken",
+      "project": "bubus",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "cadam": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:09.440153+00:00",
@@ -688,6 +696,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "decli": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:46.249676+00:00",
+      "fragment_status": "Taken",
+      "project": "decli",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "deedo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:52.087702+00:00",
@@ -749,6 +765,14 @@
       "checked_at": "2026-05-10T11:37:52.456375+00:00",
       "fragment_status": "Taken",
       "project": "dizhi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "docmd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:44.855884+00:00",
+      "fragment_status": "Taken",
+      "project": "docmd",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -967,6 +991,14 @@
       "project": "ffmpy",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "fhevm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:44.507941+00:00",
+      "fragment_status": "Taken",
+      "project": "fhevm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fiona": {
       "cache_version": 16,
@@ -2064,6 +2096,14 @@
       "score": 90,
       "source": "GitHub Topic (api)"
     },
+    "nlweb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:44.676757+00:00",
+      "fragment_status": "Auction",
+      "project": "NLWeb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "oasis": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:25:09.504890+00:00",
@@ -2071,6 +2111,22 @@
       "project": "oasis",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "octet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:45.193650+00:00",
+      "fragment_status": "Auction",
+      "project": "Octet (musical)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
+    "odfpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:45.920904+00:00",
+      "fragment_status": "Unavailable",
+      "project": "odfpy",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "odino": {
       "cache_version": 16,
@@ -2608,6 +2664,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rogue": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:45.026220+00:00",
+      "fragment_status": "Taken",
+      "project": "rogue",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
+    },
     "rover": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:49.031970+00:00",
@@ -3095,6 +3159,14 @@
       "project": "tenuo",
       "score": 88,
       "source": "GitHub Topic (llm)"
+    },
+    "terax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T03:54:44.338033+00:00",
+      "fragment_status": "Auction",
+      "project": "Terax",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "tesla": {
       "cache_version": 16,
