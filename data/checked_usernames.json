@@ -40,6 +40,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "aide": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:19.604696+00:00",
+      "fragment_status": "Auction",
+      "project": "Aide-memory",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aigit": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:01.731325+00:00",
@@ -120,6 +128,14 @@
       "score": 88,
       "source": "GitHub Topic (cli)"
     },
+    "anus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:20.532237+00:00",
+      "fragment_status": "Taken",
+      "project": "ANUS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "apple": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:21.267902+00:00",
@@ -167,6 +183,14 @@
       "project": "Arion",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "arks": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:22.003727+00:00",
+      "fragment_status": "Auction",
+      "project": "arks",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "arviz": {
       "cache_version": 16,
@@ -248,6 +272,14 @@
       "score": 89,
       "source": "GitHub Topic (cli)"
     },
+    "axon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:22.372603+00:00",
+      "fragment_status": "Auction",
+      "project": "axon",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
+    },
     "azura": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:36.999734+00:00",
@@ -319,6 +351,14 @@
       "project": "Bilig",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "bing": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:25.155289+00:00",
+      "fragment_status": "Taken",
+      "project": "Bing",
+      "score": 100,
+      "source": "YC Companies"
     },
     "birda": {
       "cache_version": 14,
@@ -568,6 +608,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "clap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:26.835038+00:00",
+      "fragment_status": "Taken",
+      "project": "clap",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "clash": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:09.251010+00:00",
@@ -776,6 +824,14 @@
       "score": 97,
       "source": "GitHub Topic (llm)"
     },
+    "dapo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:20.887895+00:00",
+      "fragment_status": "Auction",
+      "project": "DAPO",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "datui": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:11.018500+00:00",
@@ -960,6 +1016,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "dyad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:21.651638+00:00",
+      "fragment_status": "Auction",
+      "project": "dyad",
+      "score": 100,
+      "source": "GitHub Topic (llm)"
+    },
     "edict": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:49.659381+00:00",
@@ -975,6 +1039,14 @@
       "project": "Edits: Video Editor",
       "score": 88,
       "source": "App Store Top"
+    },
+    "einx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:25.518822+00:00",
+      "fragment_status": "Auction",
+      "project": "einx",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "ekctl": {
       "cache_version": 14,
@@ -1048,6 +1120,22 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "etsy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:24.603033+00:00",
+      "fragment_status": "Auction",
+      "project": "Etsy: Shop Home, Style & More",
+      "score": 89,
+      "source": "App Store Top"
+    },
+    "eval": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:21.825337+00:00",
+      "fragment_status": "Taken",
+      "project": "Eval",
+      "score": 88,
+      "source": "GitHub Topic (llm)"
+    },
     "evals": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:49.270590+00:00",
@@ -1119,6 +1207,14 @@
       "project": "fhevm",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "filo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:22.742758+00:00",
+      "fragment_status": "Auction",
+      "project": "filo",
+      "score": 87,
+      "source": "GitHub Topic (cross-platform)"
     },
     "fiona": {
       "cache_version": 16,
@@ -1424,6 +1520,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "grok": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:23.307239+00:00",
+      "fragment_status": "Taken",
+      "project": "Grok - AI Chat & Video",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "grove": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:11.896534+00:00",
@@ -1480,6 +1584,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "heck": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:26.634670+00:00",
+      "fragment_status": "Auction",
+      "project": "heck",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "helix": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:53.680419+00:00",
@@ -1512,6 +1624,14 @@
       "score": 93,
       "source": "GitHub Topic (automation)"
     },
+    "http": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:27.204573+00:00",
+      "fragment_status": "Taken",
+      "project": "http",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "hydra": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:22.970545+00:00",
@@ -1527,6 +1647,14 @@
       "project": "hyufa",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "idna": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:27.014663+00:00",
+      "fragment_status": "Auction",
+      "project": "idna",
+      "score": 100,
+      "source": "Crates.io"
     },
     "iftta": {
       "cache_version": 16,
@@ -1599,6 +1727,14 @@
       "project": "Issue",
       "score": 100,
       "source": "Hacker News Top"
+    },
+    "itoa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:26.451628+00:00",
+      "fragment_status": "Auction",
+      "project": "itoa",
+      "score": 100,
+      "source": "Crates.io"
     },
     "itzam": {
       "cache_version": 16,
@@ -1872,6 +2008,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "laid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:22.941264+00:00",
+      "fragment_status": "Taken",
+      "project": "Laid",
+      "score": 100,
+      "source": "TechCrunch"
+    },
     "large": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:39.172013+00:00",
@@ -1919,6 +2063,14 @@
       "project": "libai",
       "score": 97,
       "source": "GitHub Topic (ai)"
+    },
+    "libc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:26.094872+00:00",
+      "fragment_status": "Auction",
+      "project": "libc",
+      "score": 100,
+      "source": "Crates.io"
     },
     "libra": {
       "cache_version": 16,
@@ -2040,6 +2192,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "lyft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:24.228549+00:00",
+      "fragment_status": "Auction",
+      "project": "Lyft",
+      "score": 82,
+      "source": "App Store Top"
+    },
     "lynkr": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:58.995152+00:00",
@@ -2047,6 +2207,14 @@
       "project": "Lynkr",
       "score": 83,
       "source": "GitHub Topic (ai)"
+    },
+    "lynx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:20.358551+00:00",
+      "fragment_status": "Taken",
+      "project": "lynx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lynxe": {
       "cache_version": 16,
@@ -2232,6 +2400,14 @@
       "score": 87,
       "source": "GitHub Topic (devtools)"
     },
+    "miri": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:22.554231+00:00",
+      "fragment_status": "Auction",
+      "project": "miri",
+      "score": 90,
+      "source": "GitHub Topic (macos)"
+    },
     "mirix": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:23.576940+00:00",
@@ -2303,6 +2479,14 @@
       "project": "moley",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "moon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:25.339098+00:00",
+      "fragment_status": "Taken",
+      "project": "Moon",
+      "score": 100,
+      "source": "YC Companies"
     },
     "motor": {
       "cache_version": 16,
@@ -2384,6 +2568,14 @@
       "score": 87,
       "source": "Hacker News Jobs"
     },
+    "nasa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:19.984768+00:00",
+      "fragment_status": "Taken",
+      "project": "NASA",
+      "score": 100,
+      "source": "Hacker News Top"
+    },
     "navix": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:51.413600+00:00",
@@ -2400,6 +2592,14 @@
       "score": 90,
       "source": "GitHub Topic (api)"
     },
+    "ngpt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:22.180053+00:00",
+      "fragment_status": "Auction",
+      "project": "ngpt",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
+    },
     "ngrep": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:03.276953+00:00",
@@ -2407,6 +2607,14 @@
       "project": "ngrep",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "nlog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:27.927260+00:00",
+      "fragment_status": "Auction",
+      "project": "NLog",
+      "score": 100,
+      "source": "NuGet"
     },
     "nlweb": {
       "cache_version": 16,
@@ -2471,6 +2679,22 @@
       "project": "odino",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "omar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:19.781937+00:00",
+      "fragment_status": "Taken",
+      "project": "Omar",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "open": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:19.422774+00:00",
+      "fragment_status": "Taken",
+      "project": "Open-Source FHIR \u2013> OMOP",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "optax": {
       "cache_version": 16,
@@ -2984,6 +3208,14 @@
       "score": 93,
       "source": "GitHub Topic (cli)"
     },
+    "rand": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:26.267918+00:00",
+      "fragment_status": "Auction",
+      "project": "rand",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "ratty": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:27.517656+00:00",
@@ -3063,6 +3295,14 @@
       "project": "respx",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "ring": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:24.787433+00:00",
+      "fragment_status": "Taken",
+      "project": "Ring - Always Home",
+      "score": 88,
+      "source": "App Store Top"
     },
     "river": {
       "cache_version": 16,
@@ -3288,6 +3528,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "shop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:23.506170+00:00",
+      "fragment_status": "Taken",
+      "project": "Shop: All your favorite brands",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "shots": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:37.530420+00:00",
@@ -3376,6 +3624,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "slab": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:27.567750+00:00",
+      "fragment_status": "Auction",
+      "project": "slab",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "slate": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:51.063786+00:00",
@@ -3415,6 +3671,14 @@
       "project": "smith",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "sora": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:24.981982+00:00",
+      "fragment_status": "Taken",
+      "project": "Sora",
+      "score": 100,
+      "source": "YC Companies"
     },
     "sound": {
       "cache_version": 16,
@@ -3544,6 +3808,14 @@
       "score": 88,
       "source": "GitHub Topic (devtools)"
     },
+    "suno": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:24.406247+00:00",
+      "fragment_status": "Auction",
+      "project": "Suno - AI Songs & Music",
+      "score": 93,
+      "source": "App Store Top"
+    },
     "surge": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:57.410189+00:00",
@@ -3640,6 +3912,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "tell": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:20.166981+00:00",
+      "fragment_status": "Taken",
+      "project": "Tell HN",
+      "score": 88,
+      "source": "Hacker News Ask HN"
+    },
     "tempo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:50.833881+00:00",
@@ -3647,6 +3927,14 @@
       "project": "Tempo",
       "score": 87,
       "source": "GitHub Topic (llm)"
+    },
+    "temu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:23.128157+00:00",
+      "fragment_status": "Taken",
+      "project": "Temu: Shop Like a Billionaire",
+      "score": 100,
+      "source": "App Store Top"
     },
     "tenuo": {
       "cache_version": 16,
@@ -3728,6 +4016,22 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "time": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:27.393175+00:00",
+      "fragment_status": "Taken",
+      "project": "time",
+      "score": 100,
+      "source": "Crates.io"
+    },
+    "tiny": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:25.900509+00:00",
+      "fragment_status": "Taken",
+      "project": "Tiny",
+      "score": 90,
+      "source": "Lobsters"
+    },
     "tinyv": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:39.059443+00:00",
@@ -3743,6 +4047,14 @@
       "project": "Tokid",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "toml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:27.747819+00:00",
+      "fragment_status": "Auction",
+      "project": "toml",
+      "score": 100,
+      "source": "Crates.io"
     },
     "tooka": {
       "cache_version": 16,
@@ -3824,6 +4136,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "tubi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:23.873048+00:00",
+      "fragment_status": "Auction",
+      "project": "Tubi: Movies & Live TV",
+      "score": 95,
+      "source": "App Store Top"
+    },
     "tuios": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:09.623779+00:00",
@@ -3855,6 +4175,14 @@
       "project": "tunix",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tuui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:21.284201+00:00",
+      "fragment_status": "Auction",
+      "project": "tuui",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "tview": {
       "cache_version": 16,
@@ -3928,6 +4256,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "uber": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:23.686898+00:00",
+      "fragment_status": "Taken",
+      "project": "Uber - Request a ride",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "uigen": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:17.215855+00:00",
@@ -3951,6 +4287,14 @@
       "project": "urwid",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "vace": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:20.711720+00:00",
+      "fragment_status": "Auction",
+      "project": "VACE",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "valai": {
       "cache_version": 16,
@@ -4136,6 +4480,14 @@
       "score": 100,
       "source": "GitHub Topic (cli)"
     },
+    "wand": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:25.716589+00:00",
+      "fragment_status": "Auction",
+      "project": "wand",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "wandb": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:39.639486+00:00",
@@ -4167,6 +4519,14 @@
       "project": "webob",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "well": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:21.465258+00:00",
+      "fragment_status": "Taken",
+      "project": "Well",
+      "score": 93,
+      "source": "GitHub Topic (ai)"
     },
     "whats": {
       "cache_version": 16,
@@ -4248,6 +4608,14 @@
       "score": 88,
       "source": "GitHub Topic (cli)"
     },
+    "yelp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:24.048230+00:00",
+      "fragment_status": "Taken",
+      "project": "Yelp: Food, Services & Reviews",
+      "score": 94,
+      "source": "App Store Top"
+    },
     "ynode": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:38.858661+00:00",
@@ -4295,6 +4663,14 @@
       "project": "zlist",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "zola": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:48:21.086987+00:00",
+      "fragment_status": "Auction",
+      "project": "zola",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "zyrln": {
       "cache_version": 16,
