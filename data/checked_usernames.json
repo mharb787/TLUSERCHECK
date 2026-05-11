@@ -336,6 +336,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "aead": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.194375+00:00",
+      "fragment_status": "Auction",
+      "project": "aead",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "aeon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.962378+00:00",
@@ -1824,6 +1832,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "arlo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.374665+00:00",
+      "fragment_status": "Auction",
+      "project": "Arlo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "arms": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:19.261474+00:00",
@@ -2175,6 +2191,14 @@
       "project": "AtoB (YC S20)",
       "score": 87,
       "source": "Hacker News Jobs"
+    },
+    "atoi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.432778+00:00",
+      "fragment_status": "Auction",
+      "project": "atoi",
+      "score": 100,
+      "source": "Crates.io"
     },
     "atom": {
       "cache_version": 16,
@@ -7320,6 +7344,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "crit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.487158+00:00",
+      "fragment_status": "Auction",
+      "project": "Crit",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "croc": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:43.272704+00:00",
@@ -7383,6 +7415,14 @@
       "project": "Csrct",
       "score": 90,
       "source": "Hacker News Show HN"
+    },
+    "ctor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.312356+00:00",
+      "fragment_status": "Auction",
+      "project": "ctor",
+      "score": 100,
+      "source": "Crates.io"
     },
     "cube": {
       "cache_version": 16,
@@ -8199,6 +8239,14 @@
       "project": "dBase",
       "score": 100,
       "source": "Lobsters"
+    },
+    "dcup": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.942779+00:00",
+      "fragment_status": "Auction",
+      "project": "dcup",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
     },
     "dead": {
       "cache_version": 16,
@@ -14759,6 +14807,14 @@
       "project": "grow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "grpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.902222+00:00",
+      "fragment_status": "Auction",
+      "project": "Grpc",
+      "score": 84,
+      "source": "NuGet"
     },
     "grub": {
       "cache_version": 16,
@@ -26176,6 +26232,22 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "npoi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.788912+00:00",
+      "fragment_status": "Auction",
+      "project": "NPOI",
+      "score": 97,
+      "source": "NuGet"
+    },
+    "nrfr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.602760+00:00",
+      "fragment_status": "Auction",
+      "project": "Nrfr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nubl": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:50.857073+00:00",
@@ -27967,6 +28039,14 @@
       "project": "Launch Party",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "pasa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.715403+00:00",
+      "fragment_status": "Auction",
+      "project": "pasa",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pase": {
       "cache_version": 16,
@@ -36888,6 +36968,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "teta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.070199+00:00",
+      "fragment_status": "Auction",
+      "project": "teta",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "teth": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:38.162322+00:00",
@@ -37455,6 +37543,14 @@
       "project": "tiwi",
       "score": 93,
       "source": "City Names"
+    },
+    "tltv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.261256+00:00",
+      "fragment_status": "Auction",
+      "project": "tltv",
+      "score": 91,
+      "source": "Hacker News Show HN"
     },
     "toad": {
       "cache_version": 16,
@@ -38055,6 +38151,14 @@
       "project": "trad",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "trae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:31.826457+00:00",
+      "fragment_status": "Auction",
+      "project": "TRAE",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tram": {
       "cache_version": 16,
@@ -39175,6 +39279,14 @@
       "project": "urea",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ureq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.555503+00:00",
+      "fragment_status": "Auction",
+      "project": "ureq",
+      "score": 100,
+      "source": "Crates.io"
     },
     "urge": {
       "cache_version": 16,
@@ -43007,6 +43119,14 @@
       "project": "zlist",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "zmij": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T20:00:32.675641+00:00",
+      "fragment_status": "Auction",
+      "project": "zmij",
+      "score": 100,
+      "source": "Crates.io"
     },
     "zoea": {
       "cache_version": 16,
