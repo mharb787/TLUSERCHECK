@@ -15,124 +15,82 @@ LOGGER = logging.getLogger(__name__)
 _GITHUB_TRENDING_PERIODS = ["daily", "weekly", "monthly"]
 
 _REDDIT_SUBREDDITS = [
-    "startups",
-    "SideProject",
-    "entrepreneur",
-    "MachineLearning",
-    "technology",
-    "artificial",
-    "programming",
-    "webdev",
-    "javascript",
-    "python",
-    "golang",
-    "rust",
-    "datascience",
-    "deeplearning",
-    "singularity",
-    "Futurology",
-    "gamedev",
-    "indiegaming",
-    "androiddev",
-    "iphone",
-    "saas",
-    "fintech",
-    "biotech",
-    "healthtech",
-    "edtech",
-    "productivity",
-    "apps",
-    "software",
-    "coding",
-    "techstartups",
-    "microsaas",
-    "InternetIsBeautiful",
-    "webapps",
-    "opensource",
-    "selfhosted",
-    # Additional 30 subreddits
-    "solofounder",
-    "Entrepreneur",
-    "buildinpublic",
-    "nocode",
-    "lowcode",
-    "digitalnomad",
-    "remotework",
-    "freelance",
-    "passive_income",
-    "ecommerce",
-    "dropshipping",
-    "affiliatemarketing",
-    "SEO",
-    "content_marketing",
-    "growthhacking",
-    "vc",
-    "venturecapital",
-    "angelinvesting",
-    "privateequity",
-    "acquisitions",
-    "buyabusiness",
-    "smallbusiness",
-    "consulting",
-    "b2b",
-    "enterprise",
-    "cloud",
-    "devops",
-    "kubernetes",
-    "docker",
-    "terraform",
-    "serverless",
-    "mlops",
-    "robotics",
-    "iot",
-    "cybersecurity",
+    # Startups & Business
+    "startups", "SideProject", "entrepreneur", "Entrepreneur", "solofounder",
+    "buildinpublic", "microsaas", "saas", "techstartups", "smallbusiness",
+    "passive_income", "ecommerce", "b2b", "consulting", "freelance",
+    "growthhacking", "vc", "venturecapital", "angelinvesting", "YCombinator",
+    "nocode", "lowcode", "buyabusiness", "acquisitions", "indiebiz",
+    # Tech & Programming
+    "programming", "webdev", "javascript", "python", "golang", "rust",
+    "typescript", "cpp", "java", "csharp", "swift", "kotlin", "ruby",
+    "haskell", "elixir", "scala", "clojure", "lua", "zig", "nim",
+    "androiddev", "iphone", "FlutterDev", "reactnative", "unitydev",
+    "gamedev", "indiegaming", "unrealengine", "GameDevelopment",
+    "MachineLearning", "deeplearning", "artificial", "singularity",
+    "LocalLLaMA", "StableDiffusion", "ChatGPT", "OpenAI", "AIAssistants",
+    "datascience", "learnmachinelearning", "computervision", "mlops",
+    "devops", "kubernetes", "docker", "terraform", "serverless",
+    "netsec", "cybersecurity", "hacking", "ReverseEngineering", "netsec",
+    "linux", "opensource", "selfhosted", "sysadmin", "homelab",
+    "vim", "emacs", "commandline", "bash", "PowerShell",
+    # Tech News & Products
+    "technology", "Futurology", "InternetIsBeautiful", "webapps",
+    "apps", "software", "coding", "productivity", "digitalnomad",
+    "remotework", "fintech", "biotech", "healthtech", "edtech",
+    "robotics", "iot", "blockchain", "web3", "CryptoTechnology",
+    # Design & Product
+    "UI_Design", "UXDesign", "graphic_design", "web_design",
+    "ProductManagement", "product_design", "userexperience",
+    # Marketing & Growth
+    "SEO", "content_marketing", "affiliatemarketing", "dropshipping",
+    "digitalmarketing", "socialmedia", "PPC",
+    # Cloud & Infrastructure
+    "aws", "googlecloud", "AZURE", "DatabaseHelp", "PostgreSQL",
+    "redis", "mongodb", "elasticsearch",
 ]
 
 _GITHUB_TOPICS = [
-    "ai",
-    "ml",
-    "llm",
-    "saas",
-    "api",
-    "cli",
-    "devtools",
-    "automation",
-    "productivity",
-    "mobile",
-    "web",
-    "security",
-    "blockchain",
-    "fintech",
-    "healthtech",
-    "education",
-    "gaming",
-    "database",
-    "analytics",
-    "monitoring",
-    # Additional 20 topics
-    "rust",
-    "typescript",
-    "swift",
-    "kotlin",
-    "flutter",
-    "react",
-    "nextjs",
-    "fastapi",
-    "langchain",
-    "agents",
-    "rag",
-    "vector",
-    "embedding",
-    "chatbot",
-    "assistant",
-    "workflow",
-    "pipeline",
-    "scraper",
-    "crawler",
-    "dashboard",
+    # AI & ML
+    "ai", "ml", "llm", "machine-learning", "deep-learning", "neural-network",
+    "computer-vision", "nlp", "speech-recognition", "reinforcement-learning",
+    "langchain", "agents", "rag", "vector-database", "embedding", "chatbot",
+    "stable-diffusion", "generative-ai", "transformers", "fine-tuning",
+    # Web & Backend
+    "saas", "api", "rest-api", "graphql", "grpc", "microservices",
+    "web", "nextjs", "react", "vue", "svelte", "nuxtjs", "astro",
+    "fastapi", "django", "flask", "express", "nestjs", "laravel",
+    "websocket", "realtime", "webhook",
+    # DevTools & Infrastructure
+    "cli", "devtools", "automation", "workflow", "pipeline", "ci-cd",
+    "docker", "kubernetes", "terraform", "ansible", "monitoring", "observability",
+    "logging", "tracing", "dashboard", "analytics", "scraper", "crawler",
+    # Mobile & Desktop
+    "mobile", "flutter", "react-native", "ios", "android", "electron",
+    "tauri", "macos", "cross-platform",
+    # Security
+    "security", "cryptography", "authentication", "oauth", "jwt",
+    "penetration-testing", "vulnerability", "privacy", "zero-trust",
+    # Data & Database
+    "database", "postgresql", "redis", "mongodb", "sqlite", "timeseries",
+    "data-engineering", "etl", "streaming", "kafka", "spark",
+    # Languages & Runtimes
+    "rust", "typescript", "swift", "kotlin", "golang", "zig", "wasm",
+    "deno", "bun", "nodejs",
+    # Blockchain & Web3
+    "blockchain", "web3", "defi", "smart-contract", "solidity", "nft",
+    # Gaming
+    "gaming", "game-engine", "unity", "godot", "game-development",
+    # Other
+    "productivity", "finance", "education", "healthtech", "open-source",
+    "self-hosted", "homelab", "assistant", "extension", "plugin",
 ]
 
-_GITHUB_LANGUAGES = ["python", "javascript", "typescript", "rust", "go", "swift", "kotlin", "cpp", "java", "ruby"]
+_GITHUB_LANGUAGES = [
+    "python", "javascript", "typescript", "rust", "go", "swift",
+    "kotlin", "cpp", "java", "ruby", "c", "csharp", "php",
+    "scala", "elixir", "haskell", "lua", "zig", "dart", "julia",
+]
 
 
 class SourceClient:
@@ -324,6 +282,31 @@ class SourceClient:
 
         # Steam new releases
         all_projects.extend(self._steam_new_releases())
+
+        # RubyGems top packages
+        rubygems_offset = pagination_state.get("rubygems", "offset", 0)
+        all_projects.extend(self._rubygems_top(rubygems_offset))
+        pagination_state.set("rubygems", "offset", rubygems_offset + 30)
+
+        # Crates.io top packages
+        cratesio_offset = pagination_state.get("cratesio", "offset", 0)
+        all_projects.extend(self._cratesio_top(cratesio_offset))
+        pagination_state.set("cratesio", "offset", cratesio_offset + 100)
+
+        # NuGet top packages
+        nuget_offset = pagination_state.get("nuget", "offset", 0)
+        all_projects.extend(self._nuget_top(nuget_offset))
+        pagination_state.set("nuget", "offset", nuget_offset + 100)
+
+        # Additional RSS feeds
+        all_projects.extend(self._thenextweb_rss())
+        all_projects.extend(self._euStartups_rss())
+        all_projects.extend(self._crunchbase_news_rss())
+        all_projects.extend(self._infoq_rss())
+        all_projects.extend(self._dzone_rss())
+        all_projects.extend(self._techrepublic_rss())
+        all_projects.extend(self._sifted_rss())
+        all_projects.extend(self._betalist_rss())
 
         return _dedupe_projects(all_projects)
 
@@ -1096,6 +1079,148 @@ class SourceClient:
             LOGGER.warning("Steam New Releases RSS failed: %s", exc)
             return []
         return _parse_rss_titles(text, "Steam New Releases", base_strength=3.0)
+
+    def _rubygems_top(self, offset: int) -> List[Project]:
+        url = f"https://rubygems.org/api/v1/search.json?query=&page={offset // 30 + 1}"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("RubyGems top failed: %s", exc)
+            return []
+        projects = []
+        for gem in data:
+            name = gem.get("name") or ""
+            if not name:
+                continue
+            display = name.replace("-", " ").replace("_", " ")
+            downloads = gem.get("downloads") or 0
+            strength = min(20.0, float(downloads) / 1_000_000)
+            projects.append(Project(name=display, symbol="", source="RubyGems", url=gem.get("project_uri"), raw_strength=max(1.0, strength)))
+        return projects
+
+    def _cratesio_top(self, offset: int) -> List[Project]:
+        page = offset // 100 + 1
+        url = f"https://crates.io/api/v1/crates?sort=downloads&per_page=100&page={page}"
+        headers = {"User-Agent": self.session.headers.get("User-Agent", "bot")}
+        try:
+            resp = self.session.get(url, timeout=self.timeout, headers=headers)
+            resp.raise_for_status()
+            data = resp.json()
+        except requests.RequestException as exc:
+            LOGGER.warning("Crates.io top failed: %s", exc)
+            return []
+        projects = []
+        for crate in data.get("crates", []):
+            name = crate.get("name") or ""
+            if not name:
+                continue
+            display = name.replace("-", " ").replace("_", " ")
+            downloads = crate.get("downloads") or 0
+            strength = min(20.0, float(downloads) / 1_000_000)
+            projects.append(Project(name=display, symbol="", source="Crates.io", raw_strength=max(1.0, strength)))
+        return projects
+
+    def _nuget_top(self, offset: int) -> List[Project]:
+        url = f"https://azuresearch-usnc.nuget.org/query?q=&take=100&skip={offset}&sortBy=totalDownloads-desc"
+        try:
+            data = self._get_json(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("NuGet top failed: %s", exc)
+            return []
+        projects = []
+        for pkg in data.get("data", []):
+            name = pkg.get("id") or ""
+            if not name:
+                continue
+            display = name.replace(".", " ").replace("-", " ").replace("_", " ")
+            strength = min(20.0, float(pkg.get("totalDownloads") or 0) / 10_000_000)
+            projects.append(Project(name=display, symbol="", source="NuGet", raw_strength=max(1.0, strength)))
+        return projects
+
+    def _google_play_top(self) -> List[Project]:
+        url = "https://rss.applemarketingtools.com/api/v2/us/apps/top-free/100/apps.json"
+        # Reuse Apple structure for Google Play via RSS proxy
+        url = "https://feeds.feedburner.com/GooglePlayNewApps"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Google Play RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Google Play", base_strength=4.0)
+
+    def _thenextweb_rss(self) -> List[Project]:
+        url = "https://thenextweb.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("The Next Web RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "The Next Web", base_strength=4.0)
+
+    def _euStartups_rss(self) -> List[Project]:
+        url = "https://eu-startups.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("EU Startups RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "EU Startups", base_strength=4.5)
+
+    def _crunchbase_news_rss(self) -> List[Project]:
+        url = "https://news.crunchbase.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Crunchbase News RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Crunchbase News", base_strength=5.0)
+
+    def _infoq_rss(self) -> List[Project]:
+        url = "https://feed.infoq.com/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("InfoQ RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "InfoQ", base_strength=3.5)
+
+    def _dzone_rss(self) -> List[Project]:
+        url = "https://feeds.dzone.com/home"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("DZone RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "DZone", base_strength=3.0)
+
+    def _techrepublic_rss(self) -> List[Project]:
+        url = "https://www.techrepublic.com/rssfeeds/articles/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("TechRepublic RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "TechRepublic", base_strength=3.0)
+
+    def _sifted_rss(self) -> List[Project]:
+        url = "https://sifted.eu/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Sifted RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Sifted", base_strength=4.5)
+
+    def _betalist_rss(self) -> List[Project]:
+        url = "https://betalist.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("BetaList RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "BetaList", base_strength=6.0)
+
+    def _lobsters_rss(self) -> List[Project]:
 
 
 def _days_ago(n: int) -> str:
