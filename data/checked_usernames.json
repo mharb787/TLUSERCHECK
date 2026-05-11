@@ -1968,6 +1968,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "asap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.392940+00:00",
+      "fragment_status": "Auction",
+      "project": "ASAP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "asci": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:20.223563+00:00",
@@ -1983,6 +1991,14 @@
       "project": "asea",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "aser": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.517138+00:00",
+      "fragment_status": "Auction",
+      "project": "aser",
+      "score": 96,
+      "source": "GitHub Topic (ai)"
     },
     "asha": {
       "cache_version": 16,
@@ -8824,6 +8840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dirs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:57.412591+00:00",
+      "fragment_status": "Auction",
+      "project": "dirs",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "dirt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:12.772775+00:00",
@@ -10695,6 +10719,14 @@
       "project": "eons",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eora": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.908575+00:00",
+      "fragment_status": "Auction",
+      "project": "EoRA",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "epha": {
       "cache_version": 16,
@@ -17416,6 +17448,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ipic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.145487+00:00",
+      "fragment_status": "Auction",
+      "project": "IPic",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ipil": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:29.852096+00:00",
@@ -20392,6 +20432,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lago": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:57.291326+00:00",
+      "fragment_status": "Auction",
+      "project": "Lago",
+      "score": 87,
+      "source": "Hacker News Jobs"
+    },
     "lags": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:01.845539+00:00",
@@ -20815,6 +20863,14 @@
       "project": "lazy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lcme": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:57.029516+00:00",
+      "fragment_status": "Auction",
+      "project": "lcme",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
     },
     "lead": {
       "cache_version": 16,
@@ -23976,6 +24032,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "miro": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:55.965521+00:00",
+      "fragment_status": "Auction",
+      "project": "Miro-pdf v0.9.0",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "mirs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:59.131933+00:00",
@@ -24743,6 +24807,14 @@
       "project": "muhe",
       "score": 93,
       "source": "City Names"
+    },
+    "mukh": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.658981+00:00",
+      "fragment_status": "Auction",
+      "project": "mukh",
+      "score": 94,
+      "source": "GitHub Topic (ai)"
     },
     "mula": {
       "cache_version": 16,
@@ -26160,6 +26232,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "nuwa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.786154+00:00",
+      "fragment_status": "Auction",
+      "project": "nuwa",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "nyon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:39.290347+00:00",
@@ -26279,6 +26359,14 @@
       "project": "obit",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "objo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:55.843268+00:00",
+      "fragment_status": "Auction",
+      "project": "Objo Studio",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "oboe": {
       "cache_version": 16,
@@ -31536,6 +31624,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rllm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:56.271524+00:00",
+      "fragment_status": "Auction",
+      "project": "rllm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rmcp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T13:24:19.071083+00:00",
@@ -35703,6 +35799,14 @@
       "project": "suwa",
       "score": 93,
       "source": "City Names"
+    },
+    "svix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T16:14:57.172181+00:00",
+      "fragment_status": "Auction",
+      "project": "Svix (webhooks as a service)",
+      "score": 87,
+      "source": "Hacker News Jobs"
     },
     "swab": {
       "cache_version": 16,
