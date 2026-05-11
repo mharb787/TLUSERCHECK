@@ -69,11 +69,11 @@ def run() -> None:
     status_counts: Counter = Counter()
     leftover_items: list = []
 
-    while not queue.is_empty() and len(opportunities) < config.max_alerts_per_run:
+    while not queue.is_empty() and len(opportunities) < config.max_alerts_per_run and len(checked_this_run) < config.max_usernames_to_check:
         batch = queue.pop_batch(_BATCH_SIZE)
 
         for item in batch:
-            if len(opportunities) >= config.max_alerts_per_run:
+            if len(opportunities) >= config.max_alerts_per_run or len(checked_this_run) >= config.max_usernames_to_check:
                 idx = batch.index(item)
                 leftover_items = batch[idx:] + leftover_items
                 break
