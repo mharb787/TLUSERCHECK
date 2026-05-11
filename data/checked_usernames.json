@@ -352,6 +352,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "aerf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.273245+00:00",
+      "fragment_status": "Auction",
+      "project": "AERF",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aero": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:06.077034+00:00",
@@ -4064,6 +4072,14 @@
       "score": 93,
       "source": "GitHub Topic (cli)"
     },
+    "blok": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.706014+00:00",
+      "fragment_status": "Auction",
+      "project": "blok",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bloom": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:48.916305+00:00",
@@ -4175,6 +4191,14 @@
       "project": "bode",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bodi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:35.529252+00:00",
+      "fragment_status": "Auction",
+      "project": "BoDi",
+      "score": 94,
+      "source": "NuGet"
     },
     "bodr": {
       "cache_version": 16,
@@ -7912,6 +7936,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "dall": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.381292+00:00",
+      "fragment_status": "Auction",
+      "project": "Dall",
+      "score": 100,
+      "source": "Hacker News Top"
+    },
     "dals": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:01.373712+00:00",
@@ -9704,6 +9736,14 @@
       "score": 77,
       "source": "GitHub Topic (cli)"
     },
+    "dtoa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:35.097007+00:00",
+      "fragment_status": "Auction",
+      "project": "dtoa",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "duad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:22.048612+00:00",
@@ -11184,6 +11224,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "exmc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.642194+00:00",
+      "fragment_status": "Auction",
+      "project": "eXMC",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "exon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:46.227327+00:00",
@@ -12464,6 +12512,14 @@
       "score": 91,
       "source": "GitHub Topic (productivity)"
     },
+    "fody": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:35.420613+00:00",
+      "fragment_status": "Auction",
+      "project": "Fody",
+      "score": 95,
+      "source": "NuGet"
+    },
     "foes": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:11.756017+00:00",
@@ -13215,6 +13271,14 @@
       "project": "gags",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gaia": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.927774+00:00",
+      "fragment_status": "Auction",
+      "project": "gaia",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gain": {
       "cache_version": 16,
@@ -14527,6 +14591,14 @@
       "project": "gory",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gosd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.164555+00:00",
+      "fragment_status": "Auction",
+      "project": "Gosd",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "gose": {
       "cache_version": 16,
@@ -18264,6 +18336,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jido": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.817203+00:00",
+      "fragment_status": "Auction",
+      "project": "jido",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jiff": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:34.639108+00:00",
@@ -21559,6 +21639,14 @@
       "project": "like",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lila": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.361157+00:00",
+      "fragment_status": "Auction",
+      "project": "lila",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "lilac": {
       "cache_version": 16,
@@ -25600,6 +25688,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nesa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.599759+00:00",
+      "fragment_status": "Auction",
+      "project": "nesa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ness": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:19.368087+00:00",
@@ -29016,6 +29112,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pkce": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.984184+00:00",
+      "fragment_status": "Auction",
+      "project": "pkce",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "pktai": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:07.943151+00:00",
@@ -29167,6 +29271,14 @@
       "project": "plus",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "plux": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.872082+00:00",
+      "fragment_status": "Auction",
+      "project": "plux",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "pncat": {
       "cache_version": 16,
@@ -29583,6 +29695,14 @@
       "project": "pows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pplx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.489774+00:00",
+      "fragment_status": "Auction",
+      "project": "pplx",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
     },
     "prai": {
       "cache_version": 16,
@@ -31775,6 +31895,14 @@
       "project": "rize",
       "score": 93,
       "source": "City Names"
+    },
+    "rkyv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:35.203132+00:00",
+      "fragment_status": "Auction",
+      "project": "rkyv",
+      "score": 93,
+      "source": "Crates.io"
     },
     "rlinf": {
       "cache_version": 16,
@@ -35368,6 +35496,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "sqlx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:35.312002+00:00",
+      "fragment_status": "Auction",
+      "project": "sqlx",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "squix": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:11.329362+00:00",
@@ -35406,6 +35542,14 @@
       "fragment_status": "Taken",
       "project": "sshai",
       "score": 99,
+      "source": "GitHub Topic (ai)"
+    },
+    "ssui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.254226+00:00",
+      "fragment_status": "Auction",
+      "project": "SSUI",
+      "score": 87,
       "source": "GitHub Topic (ai)"
     },
     "stab": {
@@ -39368,6 +39512,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "utag": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.035446+00:00",
+      "fragment_status": "Auction",
+      "project": "uTag",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "utan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:23.206510+00:00",
@@ -39375,6 +39527,14 @@
       "project": "utan",
       "score": 93,
       "source": "City Names"
+    },
+    "utao": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:33.491664+00:00",
+      "fragment_status": "Auction",
+      "project": "utao",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "utas": {
       "cache_version": 16,
@@ -40223,6 +40383,14 @@
       "project": "vole",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "volo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.144370+00:00",
+      "fragment_status": "Auction",
+      "project": "volo",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
     },
     "volt": {
       "cache_version": 16,
@@ -41927,6 +42095,14 @@
       "project": "xleak",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xmem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T21:19:34.756219+00:00",
+      "fragment_status": "Auction",
+      "project": "XMem",
+      "score": 88,
+      "source": "GitHub Topic (vector-database)"
     },
     "xtalk": {
       "cache_version": 16,
