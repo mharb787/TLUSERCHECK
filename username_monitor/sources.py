@@ -14,41 +14,6 @@ LOGGER = logging.getLogger(__name__)
 
 _GITHUB_TRENDING_PERIODS = ["daily", "weekly", "monthly"]
 
-_REDDIT_SUBREDDITS = [
-    # Startups & Business
-    "startups", "SideProject", "entrepreneur", "Entrepreneur", "solofounder",
-    "buildinpublic", "microsaas", "saas", "techstartups", "smallbusiness",
-    "passive_income", "ecommerce", "b2b", "consulting", "freelance",
-    "growthhacking", "vc", "venturecapital", "angelinvesting", "YCombinator",
-    "nocode", "lowcode", "buyabusiness", "acquisitions", "indiebiz",
-    # Tech & Programming
-    "programming", "webdev", "javascript", "python", "golang", "rust",
-    "typescript", "cpp", "java", "csharp", "swift", "kotlin", "ruby",
-    "haskell", "elixir", "scala", "clojure", "lua", "zig", "nim",
-    "androiddev", "iphone", "FlutterDev", "reactnative", "unitydev",
-    "gamedev", "indiegaming", "unrealengine", "GameDevelopment",
-    "MachineLearning", "deeplearning", "artificial", "singularity",
-    "LocalLLaMA", "StableDiffusion", "ChatGPT", "OpenAI", "AIAssistants",
-    "datascience", "learnmachinelearning", "computervision", "mlops",
-    "devops", "kubernetes", "docker", "terraform", "serverless",
-    "netsec", "cybersecurity", "hacking", "ReverseEngineering", "netsec",
-    "linux", "opensource", "selfhosted", "sysadmin", "homelab",
-    "vim", "emacs", "commandline", "bash", "PowerShell",
-    # Tech News & Products
-    "technology", "Futurology", "InternetIsBeautiful", "webapps",
-    "apps", "software", "coding", "productivity", "digitalnomad",
-    "remotework", "fintech", "biotech", "healthtech", "edtech",
-    "robotics", "iot", "blockchain", "web3", "CryptoTechnology",
-    # Design & Product
-    "UI_Design", "UXDesign", "graphic_design", "web_design",
-    "ProductManagement", "product_design", "userexperience",
-    # Marketing & Growth
-    "SEO", "content_marketing", "affiliatemarketing", "dropshipping",
-    "digitalmarketing", "socialmedia", "PPC",
-    # Cloud & Infrastructure
-    "aws", "googlecloud", "AZURE", "DatabaseHelp", "PostgreSQL",
-    "redis", "mongodb", "elasticsearch",
-]
 
 _GITHUB_TOPICS = [
     # AI & ML
@@ -155,16 +120,6 @@ class SourceClient:
             topic_days_offset = pagination_state.get(state_key, "days_offset", 0)
             all_projects.extend(self._github_topic_repos(topic, topic_days_offset))
             pagination_state.set(state_key, "days_offset", topic_days_offset + 14)
-
-        # Reddit posts with after cursor per subreddit (35 subreddits)
-        for subreddit in _REDDIT_SUBREDDITS:
-            after_cursor = pagination_state.get(f"reddit_{subreddit}", "after", None)
-            reddit_results, new_after = self._reddit_posts(subreddit, after_cursor)
-            all_projects.extend(reddit_results)
-            if new_after:
-                pagination_state.set(f"reddit_{subreddit}", "after", new_after)
-            else:
-                pagination_state.set(f"reddit_{subreddit}", "after", None)
 
         # Product Hunt RSS (confirmed working)
         all_projects.extend(self._producthunt_rss())
