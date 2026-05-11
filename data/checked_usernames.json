@@ -712,6 +712,14 @@
       "score": 100,
       "source": "City Names"
     },
+    "airi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.228620+00:00",
+      "fragment_status": "Auction",
+      "project": "airi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "airn": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:08.787330+00:00",
@@ -2471,6 +2479,14 @@
       "project": "axal",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "axar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.558091+00:00",
+      "fragment_status": "Auction",
+      "project": "axar",
+      "score": 90,
+      "source": "GitHub Topic (ai)"
     },
     "axed": {
       "cache_version": 16,
@@ -10464,6 +10480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "eino": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.336631+00:00",
+      "fragment_status": "Auction",
+      "project": "eino",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "einx": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:25.518822+00:00",
@@ -17295,6 +17319,14 @@
       "project": "ikat",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ikka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.117544+00:00",
+      "fragment_status": "Auction",
+      "project": "Ikka",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ikom": {
       "cache_version": 16,
@@ -24512,6 +24544,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "moka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.851628+00:00",
+      "fragment_status": "Auction",
+      "project": "moka",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "moke": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:02.811258+00:00",
@@ -29440,6 +29480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "poml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.446966+00:00",
+      "fragment_status": "Auction",
+      "project": "poml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pomp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:21.956459+00:00",
@@ -32631,6 +32679,14 @@
       "project": "ryes",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ryft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T22:30:48.737117+00:00",
+      "fragment_status": "Auction",
+      "project": "ryft",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ryke": {
       "cache_version": 16,
