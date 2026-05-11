@@ -528,6 +528,14 @@
       "score": 91,
       "source": "GitHub Topic (ai)"
     },
+    "agno": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:29.347972+00:00",
+      "fragment_status": "Auction",
+      "project": "agno",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "agog": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:07.708267+00:00",
@@ -3943,6 +3951,14 @@
       "project": "bize",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bknd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:27.804336+00:00",
+      "fragment_status": "Auction",
+      "project": "bknd",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "blab": {
       "cache_version": 16,
@@ -8472,6 +8488,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "deim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:28.144072+00:00",
+      "fragment_status": "Auction",
+      "project": "DEIM",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "deke": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:06.715060+00:00",
@@ -9135,6 +9159,14 @@
       "project": "docs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "docx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:27.459901+00:00",
+      "fragment_status": "Auction",
+      "project": "Docx-CLI",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "doda": {
       "cache_version": 16,
@@ -13784,6 +13816,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "genp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:27.974156+00:00",
+      "fragment_status": "Auction",
+      "project": "GenP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gens": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:26.457854+00:00",
@@ -14167,6 +14207,14 @@
       "project": "glad",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "glam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:29.692924+00:00",
+      "fragment_status": "Auction",
+      "project": "glam",
+      "score": 100,
+      "source": "Crates.io"
     },
     "glan": {
       "cache_version": 16,
@@ -17783,6 +17831,14 @@
       "project": "irun",
       "score": 93,
       "source": "City Names"
+    },
+    "isal": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:28.829628+00:00",
+      "fragment_status": "Auction",
+      "project": "isal",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "isba": {
       "cache_version": 16,
@@ -22312,6 +22368,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "loro": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:29.179268+00:00",
+      "fragment_status": "Auction",
+      "project": "loro",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "lory": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:27.720321+00:00",
@@ -25680,6 +25744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nefi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:28.314197+00:00",
+      "fragment_status": "Auction",
+      "project": "nefi",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "nehe": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:53.090465+00:00",
@@ -27416,6 +27488,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "orqa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:28.485238+00:00",
+      "fragment_status": "Auction",
+      "project": "ORQA",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
+    },
     "orra": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:49.634666+00:00",
@@ -28326,6 +28406,14 @@
       "fragment_status": "Taken",
       "project": "pdfrw",
       "score": 76,
+      "source": "PyPI Top"
+    },
+    "pdoc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:29.518650+00:00",
+      "fragment_status": "Auction",
+      "project": "pdoc",
+      "score": 88,
       "source": "PyPI Top"
     },
     "peag": {
@@ -30534,6 +30622,14 @@
       "fragment_status": "Taken",
       "project": "pysmb",
       "score": 76,
+      "source": "PyPI Top"
+    },
+    "pyte": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:29.000967+00:00",
+      "fragment_status": "Auction",
+      "project": "pyte",
+      "score": 88,
       "source": "PyPI Top"
     },
     "pyusb": {
@@ -42248,6 +42344,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "yali": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:28.657061+00:00",
+      "fragment_status": "Auction",
+      "project": "yali",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "yama": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:54.701757+00:00",
@@ -42984,6 +43088,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "yumi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:27.290662+00:00",
+      "fragment_status": "Auction",
+      "project": "Yumi",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "yups": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:08.811378+00:00",
@@ -43239,6 +43351,14 @@
       "project": "zibo",
       "score": 93,
       "source": "City Names"
+    },
+    "zift": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T23:31:27.630766+00:00",
+      "fragment_status": "Auction",
+      "project": "Zift",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "zigs": {
       "cache_version": 16,
