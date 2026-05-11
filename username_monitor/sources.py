@@ -1221,6 +1221,148 @@ class SourceClient:
         return _parse_rss_titles(text, "BetaList", base_strength=6.0)
 
     def _lobsters_rss(self) -> List[Project]:
+        url = "https://lobste.rs/rss"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Lobsters RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Lobsters", base_strength=3.5)
+
+    def _slashdot_rss(self) -> List[Project]:
+        url = "https://rss.slashdot.org/Slashdot/slashdotMain"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Slashdot RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Slashdot", base_strength=3.0)
+
+    def _mit_tech_review_rss(self) -> List[Project]:
+        url = "https://www.technologyreview.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("MIT Tech Review RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "MIT Tech Review", base_strength=4.0)
+
+    def _ieee_spectrum_rss(self) -> List[Project]:
+        url = "https://spectrum.ieee.org/rss/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("IEEE Spectrum RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "IEEE Spectrum", base_strength=3.5)
+
+    def _smashing_magazine_rss(self) -> List[Project]:
+        url = "https://www.smashingmagazine.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Smashing Magazine RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Smashing Magazine", base_strength=3.0)
+
+    def _css_tricks_rss(self) -> List[Project]:
+        url = "https://css-tricks.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CSS Tricks RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "CSS Tricks", base_strength=3.0)
+
+    def _webdesignernews_rss(self) -> List[Project]:
+        url = "https://www.webdesignernews.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Web Designer News RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Web Designer News", base_strength=2.5)
+
+    def _ux_collective_rss(self) -> List[Project]:
+        url = "https://uxdesign.cc/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("UX Collective RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "UX Collective", base_strength=3.0)
+
+    def _product_coalition_rss(self) -> List[Project]:
+        url = "https://productcoalition.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Product Coalition RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Product Coalition", base_strength=3.0)
+
+    def _yc_blog_rss(self) -> List[Project]:
+        url = "https://www.ycombinator.com/blog/rss.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Y Combinator Blog RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Y Combinator Blog", base_strength=5.0)
+
+    def _paulgraham_rss(self) -> List[Project]:
+        url = "http://www.paulgraham.com/rss.html"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Paul Graham Essays RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Paul Graham Essays", base_strength=4.0)
+
+    def _benedict_evans_rss(self) -> List[Project]:
+        url = "https://www.ben-evans.com/benedictevans?format=rss"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Benedict Evans RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Benedict Evans", base_strength=4.0)
+
+    def _stratechery_rss(self) -> List[Project]:
+        url = "https://stratechery.com/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Stratechery RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Stratechery", base_strength=4.5)
+
+    def _the_information_rss(self) -> List[Project]:
+        url = "https://www.theinformation.com/feed"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("The Information RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "The Information", base_strength=4.5)
+
+    def _cbinsights_rss(self) -> List[Project]:
+        url = "https://www.cbinsights.com/research/feed/"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("CB Insights RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "CB Insights", base_strength=4.0)
+
+    def _steam_new_releases(self) -> List[Project]:
+        url = "https://store.steampowered.com/feeds/newreleases.xml"
+        try:
+            text = self._get_text(url)
+        except requests.RequestException as exc:
+            LOGGER.warning("Steam New Releases RSS failed: %s", exc)
+            return []
+        return _parse_rss_titles(text, "Steam New Releases", base_strength=3.0)
 
 
 def _days_ago(n: int) -> str:
