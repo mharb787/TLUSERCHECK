@@ -31,9 +31,9 @@ BAD_WORDS = {
     "hn",
 }
 
-MIN_USERNAME_LENGTH = 5
-MAX_USERNAME_LENGTH = 5
-USERNAME_RE = re.compile(r"^[a-z]{5}$")
+MIN_USERNAME_LENGTH = 4
+MAX_USERNAME_LENGTH = 4
+USERNAME_RE = re.compile(r"^[a-z]{4}$")
 
 
 def clean_project_name(value: str) -> str:
