@@ -408,6 +408,14 @@
       "score": 87,
       "source": "GitHub Topic (api)"
     },
+    "boson": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:01.548706+00:00",
+      "fragment_status": "Taken",
+      "project": "Boson",
+      "score": 87,
+      "source": "GitHub Topic (api)"
+    },
     "brepl": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:24.908421+00:00",
@@ -751,6 +759,22 @@
       "project": "Cyoda-go",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "cyrus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:00.902134+00:00",
+      "fragment_status": "Taken",
+      "project": "cyrus",
+      "score": 98,
+      "source": "GitHub Topic (ai)"
+    },
+    "dadai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:01.386882+00:00",
+      "fragment_status": "Taken",
+      "project": "dadAI",
+      "score": 97,
+      "source": "GitHub Topic (llm)"
     },
     "datui": {
       "cache_version": 14,
@@ -1520,6 +1544,22 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "impli": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:03.916315+00:00",
+      "fragment_status": "Auction",
+      "project": "impli",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
+    "infra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:04.088750+00:00",
+      "fragment_status": "Auction",
+      "project": "infra",
+      "score": 87,
+      "source": "GitHub Topic (automation)"
+    },
     "inkog": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:40.759126+00:00",
@@ -1535,6 +1575,14 @@
       "project": "Invio",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ishop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:01.715816+00:00",
+      "fragment_status": "Taken",
+      "project": "ishop",
+      "score": 87,
+      "source": "GitHub Topic (api)"
     },
     "isonq": {
       "cache_version": 16,
@@ -1576,6 +1624,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "jelly": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:02.501989+00:00",
+      "fragment_status": "Unavailable",
+      "project": "jelly",
+      "score": 89,
+      "source": "GitHub Topic (cli)"
+    },
     "jetro": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:34.205890+00:00",
@@ -1583,6 +1639,14 @@
       "project": "Jetro",
       "score": 88,
       "source": "Hacker News New"
+    },
+    "jiwer": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:05.190293+00:00",
+      "fragment_status": "Taken",
+      "project": "jiwer",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "jotty": {
       "cache_version": 16,
@@ -1751,6 +1815,14 @@
       "project": "kodit",
       "score": 89,
       "source": "GitHub Topic (ai)"
+    },
+    "kofta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:04.407617+00:00",
+      "fragment_status": "Auction",
+      "project": "Kofta",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "koine": {
       "cache_version": 16,
@@ -2064,6 +2136,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "mdlib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:02.658687+00:00",
+      "fragment_status": "Auction",
+      "project": "mdlib",
+      "score": 88,
+      "source": "GitHub Topic (cli)"
+    },
     "memoh": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:35.895602+00:00",
@@ -2200,6 +2280,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "mmcif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:05.035333+00:00",
+      "fragment_status": "Unavailable",
+      "project": "mmcif",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "mochi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:37.859080+00:00",
@@ -2272,6 +2360,14 @@
       "score": 93,
       "source": "GitHub Topic (ai)"
     },
+    "nadle": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:03.434688+00:00",
+      "fragment_status": "Taken",
+      "project": "nadle",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
     "namex": {
       "cache_version": 16,
       "checked_at": "2026-05-10T15:03:21.527540+00:00",
@@ -2304,6 +2400,14 @@
       "score": 90,
       "source": "GitHub Topic (api)"
     },
+    "ngrep": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:03.276953+00:00",
+      "fragment_status": "Taken",
+      "project": "ngrep",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
     "nlweb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T03:54:44.676757+00:00",
@@ -2317,6 +2421,22 @@
       "checked_at": "2026-05-11T06:56:38.937790+00:00",
       "fragment_status": "Taken",
       "project": "nudge",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
+    "numen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:03.753966+00:00",
+      "fragment_status": "Auction",
+      "project": "numen",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
+    },
+    "numrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:01.220359+00:00",
+      "fragment_status": "Taken",
+      "project": "numrs",
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
@@ -2376,6 +2496,14 @@
       "score": 87,
       "source": "GitHub Topic (saas)"
     },
+    "orion": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:04.569765+00:00",
+      "fragment_status": "Taken",
+      "project": "Orion (spacecraft)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "osint": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:02.379563+00:00",
@@ -2423,6 +2551,14 @@
       "project": "panel",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "parqv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:03.117615+00:00",
+      "fragment_status": "Unavailable",
+      "project": "parqv",
+      "score": 88,
+      "source": "GitHub Topic (cli)"
     },
     "parse": {
       "cache_version": 14,
@@ -2784,6 +2920,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pysmb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:05.347810+00:00",
+      "fragment_status": "Taken",
+      "project": "pysmb",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pyusb": {
       "cache_version": 16,
       "checked_at": "2026-05-10T22:08:02.010866+00:00",
@@ -2807,6 +2951,14 @@
       "project": "quart",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "quest": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:04.249990+00:00",
+      "fragment_status": "Taken",
+      "project": "Quest",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "radiq": {
       "cache_version": 16,
@@ -2951,6 +3103,14 @@
       "project": "rover",
       "score": 92,
       "source": "GitHub Topic (ai)"
+    },
+    "rtest": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:05.503530+00:00",
+      "fragment_status": "Auction",
+      "project": "rtest",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "rtfde": {
       "cache_version": 16,
@@ -3167,6 +3327,14 @@
       "project": "sibyl",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "siliv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:01.060411+00:00",
+      "fragment_status": "Taken",
+      "project": "Siliv",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
     },
     "sixos": {
       "cache_version": 16,
@@ -3495,6 +3663,14 @@
       "project": "Terax",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "tersa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:00.741086+00:00",
+      "fragment_status": "Taken",
+      "project": "tersa",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "tesla": {
       "cache_version": 16,
@@ -3888,6 +4064,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "vimax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:00.581985+00:00",
+      "fragment_status": "Taken",
+      "project": "ViMax",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "viper": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:38.720515+00:00",
@@ -3983,6 +4167,14 @@
       "project": "webob",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "whats": {
+      "cache_version": 16,
+      "checked_at": "2026-05-11T10:35:03.597789+00:00",
+      "fragment_status": "Taken",
+      "project": "whats",
+      "score": 87,
+      "source": "GitHub Topic (cli)"
     },
     "wifui": {
       "cache_version": 16,
