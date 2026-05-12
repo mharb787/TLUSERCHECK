@@ -6,7 +6,7 @@ import json
 from flask import Flask, render_template, jsonify, request
 from config import TOP_10_COINS, TIMEFRAMES
 from data.fetcher import fetch_ohlcv
-from data.tv_analysis import get_tv_signal
+from data.tv_analysis import get_local_signal, get_tv_signal
 from prediction.candle_predictor import predict_candles
 from prediction.backtester import run_backtest
 from visualization.chart import build_chart
@@ -34,7 +34,12 @@ def analyze():
 
     try:
         df        = fetch_ohlcv(coin["binance"], tf_cfg["ccxt"])
-        signal    = get_tv_signal(coin["tv"], tf)
+        try:
+            signal = get_tv_signal(coin["tv"], tf)
+        except Exception as tv_error:
+            signal = get_local_signal(df)
+            signal["warning"] = f"TradingView unavailable: {tv_error}"
+
         predicted = predict_candles(df, signal)
         backtest  = run_backtest(df)
         fig       = build_chart(df, predicted, backtest, coin["symbol"], tf, signal)
@@ -53,6 +58,8 @@ def analyze():
                 "buy":     signal["buy_count"],
                 "sell":    signal["sell_count"],
                 "neutral": signal["neutral_count"],
+                "source":  signal.get("source", "tradingview"),
+                "warning": signal.get("warning"),
             },
             "backtest": {
                 "accuracy":  backtest["accuracy_pct"],
@@ -79,13 +86,18 @@ def coins_status():
     results = []
     for coin in TOP_10_COINS:
         try:
-            signal = get_tv_signal(coin["tv"], tf)
+            try:
+                signal = get_tv_signal(coin["tv"], tf)
+            except Exception:
+                df = fetch_ohlcv(coin["binance"], tf_cfg["ccxt"], limit=120)
+                signal = get_local_signal(df)
             rec = signal["recommendation"]
             results.append({
                 "symbol":  coin["symbol"],
                 "name":    coin["name"],
                 "rec":     rec,
                 "strength": round(signal["strength"] * 100, 1),
+                "source":   signal.get("source", "tradingview"),
             })
         except Exception:
             results.append({"symbol": coin["symbol"], "name": coin["name"],
