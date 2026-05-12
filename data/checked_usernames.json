@@ -4232,6 +4232,14 @@
       "score": 94,
       "source": "NuGet"
     },
+    "bodo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:02.270866+00:00",
+      "fragment_status": "Auction",
+      "project": "Bodo",
+      "score": 94,
+      "source": "GitHub Topic (ai)"
+    },
     "bodr": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:46.196502+00:00",
@@ -7496,6 +7504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cuda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:01.385327+00:00",
+      "fragment_status": "Auction",
+      "project": "CUDA",
+      "score": 100,
+      "source": "Hacker News New"
+    },
     "cuds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:47.511351+00:00",
@@ -7719,6 +7735,14 @@
       "project": "cuts",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cvss": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:03.837200+00:00",
+      "fragment_status": "Auction",
+      "project": "cvss",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "cvxpy": {
       "cache_version": 16,
@@ -10871,6 +10895,14 @@
       "project": "enow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "envs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:03.617049+00:00",
+      "fragment_status": "Auction",
+      "project": "envs",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "envui": {
       "cache_version": 16,
@@ -17192,6 +17224,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ichi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:03.171429+00:00",
+      "fragment_status": "Auction",
+      "project": "Ichi",
+      "score": 89,
+      "source": "GitHub Topic (llm)"
+    },
     "ichs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:23.504299+00:00",
@@ -20664,6 +20704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lada": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:01.827425+00:00",
+      "fragment_status": "Auction",
+      "project": "lada",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lade": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:01.308238+00:00",
@@ -21959,6 +22007,14 @@
       "project": "liri",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lisa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:02.502376+00:00",
+      "fragment_status": "Auction",
+      "project": "Lisa",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
     },
     "lisp": {
       "cache_version": 16,
@@ -24288,6 +24344,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "miow": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:04.279479+00:00",
+      "fragment_status": "Auction",
+      "project": "miow",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "mire": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:58.809273+00:00",
@@ -26119,6 +26183,14 @@
       "project": "nizw\u00e1",
       "score": 93,
       "source": "City Names"
+    },
+    "nlad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:02.723413+00:00",
+      "fragment_status": "Auction",
+      "project": "nlad",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
     },
     "nlog": {
       "cache_version": 16,
@@ -29256,6 +29328,14 @@
       "score": 97,
       "source": "GitHub Topic (llm)"
     },
+    "plac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:03.396709+00:00",
+      "fragment_status": "Auction",
+      "project": "plac",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "plan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:16.803711+00:00",
@@ -30655,6 +30735,14 @@
       "project": "qats",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "qelm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:02.943688+00:00",
+      "fragment_status": "Auction",
+      "project": "Qelm",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "qelos": {
       "cache_version": 16,
@@ -39152,6 +39240,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "typr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:02.048966+00:00",
+      "fragment_status": "Auction",
+      "project": "typr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "typy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:04.145837+00:00",
@@ -39319,6 +39415,14 @@
       "project": "uiju",
       "score": 93,
       "source": "City Names"
+    },
+    "uint": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:04.058731+00:00",
+      "fragment_status": "Auction",
+      "project": "uint",
+      "score": 100,
+      "source": "Crates.io"
     },
     "ujar": {
       "cache_version": 16,
@@ -39863,6 +39967,14 @@
       "project": "vase",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vask": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:01.159717+00:00",
+      "fragment_status": "Auction",
+      "project": "Vask",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "vaso": {
       "cache_version": 16,
@@ -42192,6 +42304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "xget": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:01.607691+00:00",
+      "fragment_status": "Auction",
+      "project": "xget",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "xico": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:15.737465+00:00",
@@ -43215,6 +43335,14 @@
       "project": "zaxo",
       "score": 93,
       "source": "City Names"
+    },
+    "zbus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T01:17:04.499644+00:00",
+      "fragment_status": "Auction",
+      "project": "zbus",
+      "score": 100,
+      "source": "Crates.io"
     },
     "zeal": {
       "cache_version": 16,
