@@ -92,6 +92,49 @@ header {
 }
 .btn-analyze:hover { opacity: .85; }
 
+.btn-live {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 18px;
+  font-family: 'Cairo', sans-serif;
+  font-size: .95rem;
+  font-weight: 700;
+  cursor: pointer;
+  align-self: flex-end;
+}
+.btn-live.active {
+  color: var(--green);
+  border-color: var(--green);
+  background: rgba(0,200,83,.1);
+}
+
+.live-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(130px, 1fr));
+  gap: 12px;
+  padding: 16px 28px;
+  background: #0b0f14;
+  border-bottom: 1px solid var(--border);
+}
+.live-item {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 16px;
+}
+.live-label {
+  display: block;
+  color: var(--muted);
+  font-size: .75rem;
+  margin-bottom: 4px;
+}
+.live-item strong {
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+
 /* ── Stats row ── */
 .stats-row {
   display: flex;
@@ -232,6 +275,7 @@ header {
 
 @media (max-width: 600px) {
   .controls { flex-direction: column; }
+  .live-strip { grid-template-columns: 1fr 1fr; }
   .stats-row { gap: 8px; }
   .stat-card { padding: 10px 12px; }
 }

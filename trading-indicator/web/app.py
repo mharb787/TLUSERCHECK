@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 import json
 from flask import Flask, render_template, jsonify, request
 from config import TOP_10_COINS, TIMEFRAMES
-from data.fetcher import fetch_ohlcv
+from data.fetcher import fetch_ohlcv, fetch_ticker
 from data.tv_analysis import get_local_signal, get_tv_signal
 from prediction.candle_predictor import predict_candles
 from prediction.backtester import run_backtest
@@ -72,6 +72,44 @@ def analyze():
             "tf":    tf_cfg["label"],
         })
 
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/live")
+def live():
+    symbol = request.args.get("symbol", "BTC").upper()
+    tf = request.args.get("tf", "1h")
+
+    coin = next((c for c in TOP_10_COINS if c["symbol"] == symbol), None)
+    if not coin or tf not in TIMEFRAMES:
+        return jsonify({"error": "رمز أو فريم غير صحيح"}), 400
+
+    try:
+        ticker = fetch_ticker(coin["binance"])
+        df = fetch_ohlcv(coin["binance"], TIMEFRAMES[tf]["ccxt"], limit=120)
+        signal = get_local_signal(df)
+        rec = signal["recommendation"]
+
+        direction_map = {"BUY": "شراء", "SELL": "بيع", "NEUTRAL": "محايد"}
+        direction_color = {"BUY": "#00C853", "SELL": "#D50000", "NEUTRAL": "#FF6F00"}
+
+        return jsonify({
+            "coin": coin["name"],
+            "symbol": coin["symbol"],
+            "price": ticker["last"],
+            "bid": ticker["bid"],
+            "ask": ticker["ask"],
+            "change_pct": ticker["change_pct"],
+            "timestamp": ticker["timestamp"],
+            "signal": {
+                "recommendation": rec,
+                "label": direction_map.get(rec, rec),
+                "color": direction_color.get(rec, "#888"),
+                "strength": round(signal["strength"] * 100, 1),
+                "source": "live-binance",
+            },
+        })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
