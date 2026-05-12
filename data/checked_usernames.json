@@ -8968,6 +8968,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "diom": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:06.835581+00:00",
+      "fragment_status": "Auction",
+      "project": "Diom",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "dippy": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:37.324548+00:00",
@@ -9135,6 +9143,14 @@
       "project": "djin",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dlib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:08.314732+00:00",
+      "fragment_status": "Auction",
+      "project": "dlib",
+      "score": 100,
+      "source": "Crates.io"
     },
     "doat": {
       "cache_version": 16,
@@ -11735,6 +11751,14 @@
       "project": "fdnpy",
       "score": 75,
       "source": "GitHub Topic (api)"
+    },
+    "fdta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.638136+00:00",
+      "fragment_status": "Auction",
+      "project": "FDTA",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "feal": {
       "cache_version": 16,
@@ -15039,6 +15063,14 @@
       "project": "grum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gtts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.976153+00:00",
+      "fragment_status": "Auction",
+      "project": "gtts",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "guan": {
       "cache_version": 16,
@@ -23736,6 +23768,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "mcap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:08.094630+00:00",
+      "fragment_status": "Auction",
+      "project": "mcap",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "mcpls": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:25:08.710404+00:00",
@@ -25424,6 +25464,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mvio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.749332+00:00",
+      "fragment_status": "Auction",
+      "project": "mvio",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "mycar": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:56.299885+00:00",
@@ -25911,6 +25959,14 @@
       "project": "nema",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nemo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.525190+00:00",
+      "fragment_status": "Auction",
+      "project": "NeMO",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "neon": {
       "cache_version": 16,
@@ -27295,6 +27351,14 @@
       "project": "onex",
       "score": 93,
       "source": "City Names"
+    },
+    "onig": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:08.423248+00:00",
+      "fragment_status": "Auction",
+      "project": "onig",
+      "score": 100,
+      "source": "Crates.io"
     },
     "only": {
       "cache_version": 16,
@@ -28936,6 +29000,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "phik": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.865078+00:00",
+      "fragment_status": "Auction",
+      "project": "phik",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "phis": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:09.315781+00:00",
@@ -30032,6 +30104,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "praw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:08.204151+00:00",
+      "fragment_status": "Auction",
+      "project": "praw",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "pray": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:29.130262+00:00",
@@ -30047,6 +30127,14 @@
       "project": "pree",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "prek": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.184752+00:00",
+      "fragment_status": "Auction",
+      "project": "prek",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "prep": {
       "cache_version": 16,
@@ -31744,6 +31832,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "repa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.409951+00:00",
+      "fragment_status": "Auction",
+      "project": "REPA",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "repo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:57.277371+00:00",
@@ -33255,6 +33351,14 @@
       "project": "samp",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sana": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.298822+00:00",
+      "fragment_status": "Auction",
+      "project": "Sana",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sand": {
       "cache_version": 16,
@@ -35696,6 +35800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "speq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:06.948877+00:00",
+      "fragment_status": "Auction",
+      "project": "Speq",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "spew": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:06.347664+00:00",
@@ -36279,6 +36391,14 @@
       "project": "sumy",
       "score": 93,
       "source": "City Names"
+    },
+    "suna": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T07:33:07.073247+00:00",
+      "fragment_status": "Auction",
+      "project": "suna",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sung": {
       "cache_version": 16,
