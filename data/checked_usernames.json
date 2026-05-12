@@ -11904,6 +11904,14 @@
       "score": 96,
       "source": "GitHub Topic (ai)"
     },
+    "fenn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:59.092937+00:00",
+      "fragment_status": "Auction",
+      "project": "fenn",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "fens": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:02.895566+00:00",
@@ -17543,6 +17551,14 @@
       "project": "illy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "iltm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:59.322962+00:00",
+      "fragment_status": "Auction",
+      "project": "iLTM",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "image": {
       "cache_version": 16,
@@ -24368,6 +24384,14 @@
       "score": 89,
       "source": "GitHub Topic (llm)"
     },
+    "mimo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:58.760414+00:00",
+      "fragment_status": "Auction",
+      "project": "MIMO",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mina": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:57.639033+00:00",
@@ -24743,6 +24767,14 @@
       "project": "moga",
       "score": 93,
       "source": "City Names"
+    },
+    "moge": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:58.651038+00:00",
+      "fragment_status": "Auction",
+      "project": "MoGe",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mogs": {
       "cache_version": 16,
@@ -26680,6 +26712,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "nuid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:59.540049+00:00",
+      "fragment_status": "Auction",
+      "project": "nuid",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "nuke": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:35.331009+00:00",
@@ -27360,6 +27400,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "onit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:58.873381+00:00",
+      "fragment_status": "Auction",
+      "project": "onit",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "only": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:45.464752+00:00",
@@ -27695,6 +27743,14 @@
       "project": "orob\u00f3",
       "score": 93,
       "source": "City Names"
+    },
+    "orpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:58.542823+00:00",
+      "fragment_status": "Auction",
+      "project": "orpc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "orqa": {
       "cache_version": 16,
@@ -30311,6 +30367,14 @@
       "project": "psmux",
       "score": 100,
       "source": "GitHub Topic (cli)"
+    },
+    "psrn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:59.206006+00:00",
+      "fragment_status": "Auction",
+      "project": "PSRN",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "psst": {
       "cache_version": 16,
@@ -33471,6 +33535,14 @@
       "project": "sash",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sasl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:59.432190+00:00",
+      "fragment_status": "Auction",
+      "project": "sasl",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "sate": {
       "cache_version": 16,
@@ -38959,6 +39031,14 @@
       "project": "Tsarr",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "tsds": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T10:07:58.984549+00:00",
+      "fragment_status": "Auction",
+      "project": "TSDS",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
     },
     "tsks": {
       "cache_version": 16,
