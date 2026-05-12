@@ -6160,6 +6160,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "chai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:01.886455+00:00",
+      "fragment_status": "Auction",
+      "project": "chai lab",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cham": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:28.115032+00:00",
@@ -6679,6 +6687,14 @@
       "project": "cloy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "clru": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.934626+00:00",
+      "fragment_status": "Auction",
+      "project": "clru",
+      "score": 100,
+      "source": "Crates.io"
     },
     "club": {
       "cache_version": 16,
@@ -7287,6 +7303,14 @@
       "project": "Covid",
       "score": 87,
       "source": "Hacker News Who Is Hiring"
+    },
+    "covt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.698808+00:00",
+      "fragment_status": "Auction",
+      "project": "CoVT",
+      "score": 94,
+      "source": "GitHub Topic (computer-vision)"
     },
     "cowl": {
       "cache_version": 16,
@@ -17304,6 +17328,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "icir": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.583957+00:00",
+      "fragment_status": "Auction",
+      "project": "icir",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "icky": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:23.617874+00:00",
@@ -18624,6 +18656,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jint": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:03.278384+00:00",
+      "fragment_status": "Auction",
+      "project": "Jint",
+      "score": 89,
+      "source": "NuGet"
+    },
     "jinx": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:35.542981+00:00",
@@ -18663,6 +18703,14 @@
       "project": "jixi",
       "score": 93,
       "source": "City Names"
+    },
+    "jjui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:01.999268+00:00",
+      "fragment_status": "Auction",
+      "project": "jjui",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "joal": {
       "cache_version": 16,
@@ -20351,6 +20399,14 @@
       "project": "konz",
       "score": 93,
       "source": "City Names"
+    },
+    "kopf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.817575+00:00",
+      "fragment_status": "Auction",
+      "project": "kopf",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "koph": {
       "cache_version": 16,
@@ -22679,6 +22735,14 @@
       "project": "lows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "loxs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.129456+00:00",
+      "fragment_status": "Auction",
+      "project": "loxs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "luau": {
       "cache_version": 16,
@@ -25744,6 +25808,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "napi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:03.048642+00:00",
+      "fragment_status": "Auction",
+      "project": "napi",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "naps": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:15.889043+00:00",
@@ -26631,6 +26703,14 @@
       "project": "nous",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nouv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.241380+00:00",
+      "fragment_status": "Auction",
+      "project": "nouv",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "nova": {
       "cache_version": 16,
@@ -33064,6 +33144,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rxai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.353743+00:00",
+      "fragment_status": "Auction",
+      "project": "RxAI",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "rxtui": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:56.251269+00:00",
@@ -36607,6 +36695,14 @@
       "project": "suwa",
       "score": 93,
       "source": "City Names"
+    },
+    "sval": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:03.160959+00:00",
+      "fragment_status": "Auction",
+      "project": "sval",
+      "score": 100,
+      "source": "Crates.io"
     },
     "svix": {
       "cache_version": 16,
@@ -42775,6 +42871,14 @@
       "project": "yali",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "yalm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T12:08:02.468357+00:00",
+      "fragment_status": "Auction",
+      "project": "yalm",
+      "score": 98,
+      "source": "GitHub Topic (llm)"
     },
     "yama": {
       "cache_version": 16,
