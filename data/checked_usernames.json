@@ -3136,6 +3136,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "barq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:22.301904+00:00",
+      "fragment_status": "Auction",
+      "project": "barq",
+      "score": 88,
+      "source": "GitHub Topic (llm)"
+    },
     "bars": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:29.474035+00:00",
@@ -6056,6 +6064,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cbor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:22.471361+00:00",
+      "fragment_status": "Auction",
+      "project": "cbor",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "cclog": {
       "cache_version": 16,
       "checked_at": "2026-05-10T22:08:01.236091+00:00",
@@ -7120,6 +7136,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "conv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:22.859413+00:00",
+      "fragment_status": "Auction",
+      "project": "conv",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "cony": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:37.611201+00:00",
@@ -7663,6 +7687,14 @@
       "project": "cuff",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cuid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:22.632903+00:00",
+      "fragment_status": "Auction",
+      "project": "cuid",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "cuif": {
       "cache_version": 16,
@@ -10695,6 +10727,14 @@
       "project": "egra",
       "score": 93,
       "source": "City Names"
+    },
+    "egui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:23.348518+00:00",
+      "fragment_status": "Auction",
+      "project": "egui",
+      "score": 100,
+      "source": "Crates.io"
     },
     "eide": {
       "cache_version": 16,
@@ -22144,6 +22184,14 @@
       "score": 88,
       "source": "GitHub Topic (llm)"
     },
+    "lilm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:22.140730+00:00",
+      "fragment_status": "Auction",
+      "project": "lilm",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
+    },
     "lilt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:17.192981+00:00",
@@ -25568,6 +25616,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "muda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:23.187393+00:00",
+      "fragment_status": "Auction",
+      "project": "muda",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "muds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:09.959541+00:00",
@@ -28335,6 +28391,14 @@
       "project": "over",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ovis": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:21.974797+00:00",
+      "fragment_status": "Auction",
+      "project": "Ovis",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ovlt": {
       "cache_version": 16,
@@ -35679,6 +35743,14 @@
       "project": "smog",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "smol": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T22:46:23.020160+00:00",
+      "fragment_status": "Auction",
+      "project": "smol",
+      "score": 100,
+      "source": "Crates.io"
     },
     "smug": {
       "cache_version": 16,
