@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>مؤشر التداول المخصص</title>
+  <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- ═══════════════════  HEADER  ═══════════════════ -->
+<header>
+  <div class="logo">📊 مؤشر التداول</div>
+  <span class="subtitle">أكبر 10 عملات رقمية</span>
+</header>
+
+<!-- ═══════════════════  CONTROLS  ═══════════════════ -->
+<section class="controls">
+  <div class="control-group">
+    <label>العملة</label>
+    <div class="select-wrap">
+      <select id="coinSelect">
+        {% for c in coins %}
+        <option value="{{ c.symbol }}">{{ c.symbol }} – {{ c.name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+
+  <div class="control-group">
+    <label>الفريم</label>
+    <div class="tf-buttons" id="tfButtons">
+      {% for tf in timeframes %}
+      <button class="tf-btn {% if tf.key == '1h' %}active{% endif %}"
+              data-tf="{{ tf.key }}">{{ tf.label }}</button>
+      {% endfor %}
+    </div>
+  </div>
+
+  <button id="analyzeBtn" class="btn-analyze">تحليل ◀</button>
+</section>
+
+<!-- ═══════════════════  STATS CARDS  ═══════════════════ -->
+<section class="stats-row" id="statsRow" style="display:none">
+  <div class="stat-card" id="cardSignal">
+    <div class="stat-label">الإشارة</div>
+    <div class="stat-value" id="valSignal">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">قوة الإشارة</div>
+    <div class="stat-value" id="valStrength">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">دقة الـ Backtest</div>
+    <div class="stat-value" id="valAcc">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">دقة الشراء</div>
+    <div class="stat-value green" id="valBuyAcc">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">دقة البيع</div>
+    <div class="stat-value red" id="valSellAcc">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">إشارات محللة</div>
+    <div class="stat-value" id="valSigs">—</div>
+  </div>
+</section>
+
+<!-- ═══════════════════  PREDICTED TABLE  ═══════════════════ -->
+<section class="predicted-section" id="predictedSection" style="display:none">
+  <h3>الشمعات المتوقعة القادمة</h3>
+  <div class="candle-cards" id="candleCards"></div>
+</section>
+
+<!-- ═══════════════════  CHART  ═══════════════════ -->
+<section class="chart-section">
+  <div id="chartPlaceholder" class="chart-placeholder">
+    اختر عملة وفريماً ثم اضغط «تحليل»
+  </div>
+  <div id="chartDiv" style="display:none"></div>
+</section>
+
+<!-- ═══════════════════  DASHBOARD CARDS  ═══════════════════ -->
+<section class="dashboard">
+  <div class="dash-header">
+    <h3>لوحة العملات العشر</h3>
+    <button id="refreshDash" class="btn-refresh">تحديث ↺</button>
+  </div>
+  <div class="coin-grid" id="coinGrid">
+    <div class="loading-msg">جارٍ تحميل الإشارات…</div>
+  </div>
+</section>
+
+<!-- ═══════════════════  LOADER  ═══════════════════ -->
+<div id="loader" class="loader-overlay" style="display:none">
+  <div class="spinner"></div>
+  <p>جارٍ التحليل…</p>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
