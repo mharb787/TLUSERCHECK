@@ -5040,6 +5040,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "btoi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:06.245184+00:00",
+      "fragment_status": "Auction",
+      "project": "btoi",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "bubo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:07.706042+00:00",
@@ -6815,6 +6823,14 @@
       "project": "clue",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cmac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:06.482967+00:00",
+      "fragment_status": "Auction",
+      "project": "cmac",
+      "score": 100,
+      "source": "Crates.io"
     },
     "cmake": {
       "cache_version": 16,
@@ -31456,6 +31472,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "qllm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:05.904753+00:00",
+      "fragment_status": "Auction",
+      "project": "qllm",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "qods": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:48.171640+00:00",
@@ -36384,6 +36408,22 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "spdl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:06.017506+00:00",
+      "fragment_status": "Auction",
+      "project": "spdl",
+      "score": 82,
+      "source": "GitHub Topic (ml)"
+    },
+    "spdx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:06.597488+00:00",
+      "fragment_status": "Auction",
+      "project": "spdx",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "spec": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:06.014499+00:00",
@@ -38231,6 +38271,14 @@
       "project": "tews",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "texo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:06.130617+00:00",
+      "fragment_status": "Auction",
+      "project": "Texo",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "text": {
       "cache_version": 16,
@@ -40648,6 +40696,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "usvg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:06.364494+00:00",
+      "fragment_status": "Auction",
+      "project": "usvg",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "utag": {
       "cache_version": 16,
       "checked_at": "2026-05-11T21:19:34.035446+00:00",
@@ -42135,6 +42191,14 @@
       "project": "ways",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "waza": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T23:43:05.788862+00:00",
+      "fragment_status": "Auction",
+      "project": "Waza",
+      "score": 100,
+      "source": "GitHub Trending (monthly)"
     },
     "wcgw": {
       "cache_version": 16,
