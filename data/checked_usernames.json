@@ -1544,6 +1544,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "anys": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:03.014267+00:00",
+      "fragment_status": "Auction",
+      "project": "anys",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "aoto": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:00.846274+00:00",
@@ -6440,6 +6448,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cidr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:04.405063+00:00",
+      "fragment_status": "Auction",
+      "project": "cidr",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "cija": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:06.999834+00:00",
@@ -8384,6 +8400,14 @@
       "score": 100,
       "source": "Lobsters"
     },
+    "dbus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:03.936618+00:00",
+      "fragment_status": "Auction",
+      "project": "dbus",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "dcup": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:31.942779+00:00",
@@ -9885,6 +9909,14 @@
       "checked_at": "2026-05-11T21:19:35.097007+00:00",
       "fragment_status": "Auction",
       "project": "dtoa",
+      "score": 100,
+      "source": "Crates.io"
+    },
+    "dtor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:04.636772+00:00",
+      "fragment_status": "Auction",
+      "project": "dtor",
       "score": 100,
       "source": "Crates.io"
     },
@@ -18968,6 +19000,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "json": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:04.160346+00:00",
+      "fragment_status": "Auction",
+      "project": "json",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "jsrip": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:41.783230+00:00",
@@ -27416,6 +27456,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "okta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:03.708053+00:00",
+      "fragment_status": "Auction",
+      "project": "okta",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "olds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:43.485708+00:00",
@@ -31096,6 +31144,14 @@
       "score": 90,
       "source": "GitHub Topic (api)"
     },
+    "pymc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:03.472415+00:00",
+      "fragment_status": "Auction",
+      "project": "pymc",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pyotp": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:39.967420+00:00",
@@ -32983,6 +33039,14 @@
       "project": "rows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rpyc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:03.242701+00:00",
+      "fragment_status": "Auction",
+      "project": "rpyc",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "rsta": {
       "cache_version": 16,
@@ -42111,6 +42175,14 @@
       "project": "wets",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wgpu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T18:54:04.864271+00:00",
+      "fragment_status": "Auction",
+      "project": "wgpu",
+      "score": 100,
+      "source": "Crates.io"
     },
     "wham": {
       "cache_version": 16,
