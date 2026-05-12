@@ -272,6 +272,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "addr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:52.650774+00:00",
+      "fragment_status": "Auction",
+      "project": "addr",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "adds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.482677+00:00",
@@ -799,6 +807,14 @@
       "project": "aiud",
       "score": 100,
       "source": "City Names"
+    },
+    "aius": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:51.928011+00:00",
+      "fragment_status": "Auction",
+      "project": "aius",
+      "score": 98,
+      "source": "GitHub Topic (ml)"
     },
     "aiway": {
       "cache_version": 16,
@@ -4999,6 +5015,14 @@
       "project": "brut",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bson": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:52.896990+00:00",
+      "fragment_status": "Auction",
+      "project": "bson",
+      "score": 100,
+      "source": "Crates.io"
     },
     "bstr": {
       "cache_version": 16,
@@ -18032,6 +18056,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "iptv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:50.953772+00:00",
+      "fragment_status": "Auction",
+      "project": "IPTV",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "iran": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.139043+00:00",
@@ -21856,6 +21888,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lgtm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:51.695884+00:00",
+      "fragment_status": "Auction",
+      "project": "lgtm",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "liam": {
       "cache_version": 16,
       "checked_at": "2026-05-12T16:58:19.136035+00:00",
@@ -22391,6 +22431,14 @@
       "project": "lkml",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "llaf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:52.163841+00:00",
+      "fragment_status": "Auction",
+      "project": "llaf",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "llma": {
       "cache_version": 16,
@@ -29288,6 +29336,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "petl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:52.409794+00:00",
+      "fragment_status": "Auction",
+      "project": "petl",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "peto": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:15.902999+00:00",
@@ -32991,6 +33047,14 @@
       "project": "ropy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rosa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:51.450331+00:00",
+      "fragment_status": "Auction",
+      "project": "rosa",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "rose": {
       "cache_version": 16,
@@ -43008,6 +43072,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "wush": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:51.199491+00:00",
+      "fragment_status": "Auction",
+      "project": "wush",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wuss": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:56.437445+00:00",
@@ -43399,6 +43471,14 @@
       "project": "yarn",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yasb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-12T21:44:50.715043+00:00",
+      "fragment_status": "Auction",
+      "project": "yasb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yasna": {
       "cache_version": 16,
