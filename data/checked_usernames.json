@@ -6384,6 +6384,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "chaz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:40.665606+00:00",
+      "fragment_status": "Auction",
+      "project": "chaz",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "cheb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:58.516016+00:00",
@@ -10991,6 +10999,14 @@
       "project": "elks",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ella": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:40.234488+00:00",
+      "fragment_status": "Auction",
+      "project": "ELLA",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ells": {
       "cache_version": 16,
@@ -17696,6 +17712,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "iann": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:41.070480+00:00",
+      "fragment_status": "Auction",
+      "project": "IANN",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "iati": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:22.661842+00:00",
@@ -23296,6 +23320,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lssa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:41.270276+00:00",
+      "fragment_status": "Auction",
+      "project": "LSSA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "luau": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:33.958400+00:00",
@@ -23759,6 +23791,14 @@
       "project": "mack",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "macm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:40.864284+00:00",
+      "fragment_status": "Auction",
+      "project": "MACM",
+      "score": 88,
+      "source": "GitHub Topic (llm)"
     },
     "maco": {
       "cache_version": 16,
@@ -30056,6 +30096,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "piko": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:39.840029+00:00",
+      "fragment_status": "Auction",
+      "project": "piko",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pila": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:26.492622+00:00",
@@ -33320,6 +33368,14 @@
       "score": 76,
       "source": "GitHub Topic (llm)"
     },
+    "rmpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:39.417112+00:00",
+      "fragment_status": "Auction",
+      "project": "rmpc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rmpv": {
       "cache_version": 16,
       "checked_at": "2026-05-12T20:22:42.058103+00:00",
@@ -33711,6 +33767,14 @@
       "project": "rpds",
       "score": 87,
       "source": "Crates.io"
+    },
+    "rply": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:41.493717+00:00",
+      "fragment_status": "Auction",
+      "project": "rply",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "rpyc": {
       "cache_version": 16,
@@ -34727,6 +34791,14 @@
       "project": "scut",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sdfx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:40.450753+00:00",
+      "fragment_status": "Auction",
+      "project": "sdfx",
+      "score": 83,
+      "source": "GitHub Topic (ai)"
     },
     "seal": {
       "cache_version": 16,
@@ -40672,6 +40744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tzdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:41.706015+00:00",
+      "fragment_status": "Auction",
+      "project": "tzdb",
+      "score": 84,
+      "source": "Crates.io"
+    },
     "tzfpy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T22:08:02.644663+00:00",
@@ -43304,6 +43384,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "winx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:41.912812+00:00",
+      "fragment_status": "Auction",
+      "project": "winx",
+      "score": 96,
+      "source": "Crates.io"
+    },
     "winy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:49.424814+00:00",
@@ -43791,6 +43879,14 @@
       "project": "wyte",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "xdit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:39.629120+00:00",
+      "fragment_status": "Auction",
+      "project": "xDiT",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xget": {
       "cache_version": 16,
@@ -44567,6 +44663,14 @@
       "project": "yolk",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yolo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T15:25:40.035013+00:00",
+      "fragment_status": "Auction",
+      "project": "YOLO",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yond": {
       "cache_version": 16,
