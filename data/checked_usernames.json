@@ -1768,6 +1768,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "aqtp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:33.189219+00:00",
+      "fragment_status": "Auction",
+      "project": "aqtp",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "aqua": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:17.876261+00:00",
@@ -2263,6 +2271,14 @@
       "project": "asxiv",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "atac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.166451+00:00",
+      "fragment_status": "Auction",
+      "project": "ATAC",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "atap": {
       "cache_version": 16,
@@ -6712,6 +6728,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "clai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.452143+00:00",
+      "fragment_status": "Auction",
+      "project": "clai",
+      "score": 99,
+      "source": "GitHub Topic (ai)"
+    },
     "clam": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:31.747128+00:00",
@@ -10023,6 +10047,14 @@
       "project": "dpkt",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "dpmm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.844008+00:00",
+      "fragment_status": "Auction",
+      "project": "dpmm",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "drab": {
       "cache_version": 16,
@@ -13503,6 +13535,14 @@
       "project": "frug",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fsml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.693240+00:00",
+      "fragment_status": "Auction",
+      "project": "fsml",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "fubs": {
       "cache_version": 16,
@@ -21920,6 +21960,14 @@
       "score": 87,
       "source": "GitHub Topic (neural-network)"
     },
+    "lddc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.339520+00:00",
+      "fragment_status": "Auction",
+      "project": "LDDC",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:08.383650+00:00",
@@ -24983,6 +25031,14 @@
       "project": "midi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mido": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:33.302547+00:00",
+      "fragment_status": "Auction",
+      "project": "mido",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "mids": {
       "cache_version": 16,
@@ -32632,6 +32688,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "raxo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.959382+00:00",
+      "fragment_status": "Auction",
+      "project": "RAXO",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "raya": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:52.185135+00:00",
@@ -33511,6 +33575,14 @@
       "project": "\u015f\u0131rnak",
       "score": 93,
       "source": "City Names"
+    },
+    "rnet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:33.420545+00:00",
+      "fragment_status": "Auction",
+      "project": "rnet",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "road": {
       "cache_version": 16,
@@ -37559,6 +37631,14 @@
       "project": "sudd",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sudo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.047032+00:00",
+      "fragment_status": "Auction",
+      "project": "sudo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "suds": {
       "cache_version": 16,
@@ -43440,6 +43520,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "wiki": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:32.579956+00:00",
+      "fragment_status": "Auction",
+      "project": "wiki",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
+    },
     "wild": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:47.421968+00:00",
@@ -43639,6 +43727,14 @@
       "project": "wits",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "witx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:33.532177+00:00",
+      "fragment_status": "Auction",
+      "project": "witx",
+      "score": 95,
+      "source": "Crates.io"
     },
     "wive": {
       "cache_version": 16,
@@ -44975,6 +45071,14 @@
       "project": "yuga",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yuka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T20:57:33.073260+00:00",
+      "fragment_status": "Auction",
+      "project": "Yuka - Food & Cosmetic Scanner",
+      "score": 88,
+      "source": "App Store Top"
     },
     "yuks": {
       "cache_version": 16,
