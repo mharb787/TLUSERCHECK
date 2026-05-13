@@ -744,6 +744,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "aipt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.208588+00:00",
+      "fragment_status": "Auction",
+      "project": "AIPT",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "aira": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:05.320052+00:00",
@@ -1168,6 +1176,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:33.283533+00:00",
+      "fragment_status": "Auction",
+      "project": "alsa",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "also": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:12.492532+00:00",
@@ -1488,6 +1504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "anki": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.921695+00:00",
+      "fragment_status": "Auction",
+      "project": "anki",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "anlu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:51.290844+00:00",
@@ -1663,6 +1687,14 @@
       "project": "apia\u00ed",
       "score": 93,
       "source": "City Names"
+    },
+    "apiq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.557408+00:00",
+      "fragment_status": "Auction",
+      "project": "ApiQ",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "apod": {
       "cache_version": 16,
@@ -7640,6 +7672,14 @@
       "score": 90,
       "source": "Hacker News Show HN"
     },
+    "csvw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:33.166743+00:00",
+      "fragment_status": "Auction",
+      "project": "csvw",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "ctor": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:32.312356+00:00",
@@ -8511,6 +8551,14 @@
       "project": "dbus",
       "score": 100,
       "source": "Crates.io"
+    },
+    "dclm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:31.865266+00:00",
+      "fragment_status": "Auction",
+      "project": "dclm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dcup": {
       "cache_version": 16,
@@ -10904,6 +10952,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "elsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:33.399383+00:00",
+      "fragment_status": "Auction",
+      "project": "elsa",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "else": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:32.221077+00:00",
@@ -13168,6 +13224,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "frai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.683392+00:00",
+      "fragment_status": "Auction",
+      "project": "frai",
+      "score": 98,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "fraim": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:40.022907+00:00",
@@ -13968,6 +14032,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gcop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.441391+00:00",
+      "fragment_status": "Auction",
+      "project": "gcop",
+      "score": 90,
+      "source": "GitHub Topic (llm)"
+    },
     "gcovr": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:39.722780+00:00",
@@ -14223,6 +14295,14 @@
       "project": "geum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gguf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.324885+00:00",
+      "fragment_status": "Auction",
+      "project": "gguf",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "ghat": {
       "cache_version": 16,
@@ -24184,6 +24264,14 @@
       "score": 88,
       "source": "GitHub Topic (cli)"
     },
+    "mdxg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:31.630577+00:00",
+      "fragment_status": "Auction",
+      "project": "mdxg",
+      "score": 76,
+      "source": "GitHub Trending (daily)"
+    },
     "mead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:49.597555+00:00",
@@ -27216,6 +27304,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "nvtx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.801090+00:00",
+      "fragment_status": "Auction",
+      "project": "nvtx",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "nyon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:39.290347+00:00",
@@ -29104,6 +29200,14 @@
       "score": 97,
       "source": "GitHub Topic (automation)"
     },
+    "pdbp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:33.036452+00:00",
+      "fragment_status": "Auction",
+      "project": "pdbp",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pdfrw": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:26.110701+00:00",
@@ -29463,6 +29567,14 @@
       "project": "pfui",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pgai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:31.746896+00:00",
+      "fragment_status": "Auction",
+      "project": "pgai",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pgmcp": {
       "cache_version": 16,
@@ -38824,6 +38936,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "tldd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:32.093530+00:00",
+      "fragment_status": "Auction",
+      "project": "tldd",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "tltv": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:31.261256+00:00",
@@ -40671,6 +40791,14 @@
       "project": "urwid",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "usdk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T01:28:31.979447+00:00",
+      "fragment_status": "Auction",
+      "project": "usdk",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "used": {
       "cache_version": 16,
