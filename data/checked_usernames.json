@@ -6888,6 +6888,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "cllm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:08.094884+00:00",
+      "fragment_status": "Auction",
+      "project": "cllm",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
+    },
     "clod": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:32.566575+00:00",
@@ -9143,6 +9151,14 @@
       "project": "dhal",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dhat": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:09.004101+00:00",
+      "fragment_status": "Auction",
+      "project": "dhat",
+      "score": 94,
+      "source": "Crates.io"
     },
     "dhow": {
       "cache_version": 16,
@@ -20784,6 +20800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "kivi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:07.643589+00:00",
+      "fragment_status": "Auction",
+      "project": "KIVI",
+      "score": 94,
+      "source": "GitHub Topic (llm)"
+    },
     "kiwi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:54.409132+00:00",
@@ -21007,6 +21031,14 @@
       "project": "kohl",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "koho": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:08.326942+00:00",
+      "fragment_status": "Auction",
+      "project": "koho",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "koine": {
       "cache_version": 16,
@@ -26808,6 +26840,22 @@
       "score": 76,
       "source": "NuGet"
     },
+    "nbqa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:08.771255+00:00",
+      "fragment_status": "Auction",
+      "project": "nbqa",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "ncfm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:08.549039+00:00",
+      "fragment_status": "Auction",
+      "project": "NCFM",
+      "score": 83,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "ndop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:42.250606+00:00",
@@ -27968,6 +28016,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ocrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:07.190758+00:00",
+      "fragment_status": "Auction",
+      "project": "ocrs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "octet": {
       "cache_version": 16,
       "checked_at": "2026-05-11T03:54:45.193650+00:00",
@@ -28551,6 +28607,14 @@
       "project": "opit",
       "score": 93,
       "source": "City Names"
+    },
+    "oppu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:07.866801+00:00",
+      "fragment_status": "Auction",
+      "project": "OPPU",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
     },
     "opsy": {
       "cache_version": 16,
@@ -35421,6 +35485,14 @@
       "checked_at": "2026-05-10T19:46:55.033085+00:00",
       "fragment_status": "Taken",
       "project": "servy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "sesh": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:06.961572+00:00",
+      "fragment_status": "Auction",
+      "project": "sesh",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -44807,6 +44879,14 @@
       "project": "yews",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yiai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T23:17:07.410751+00:00",
+      "fragment_status": "Auction",
+      "project": "YiAi",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "yids": {
       "cache_version": 16,
