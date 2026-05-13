@@ -7624,6 +7624,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cria": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:05.121314+00:00",
+      "fragment_status": "Auction",
+      "project": "cria",
+      "score": 89,
+      "source": "GitHub Topic (llm)"
+    },
     "crib": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:42.329697+00:00",
@@ -14248,6 +14256,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gemm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:06.571592+00:00",
+      "fragment_status": "Auction",
+      "project": "gemm",
+      "score": 96,
+      "source": "Crates.io"
+    },
     "gems": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:26.225060+00:00",
@@ -17623,6 +17639,14 @@
       "project": "hymn",
       "score": 83,
       "source": "English Dictionary"
+    },
+    "hypd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:03.898237+00:00",
+      "fragment_status": "Auction",
+      "project": "HYPD",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "hype": {
       "cache_version": 16,
@@ -21328,6 +21352,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "laga": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:05.846566+00:00",
+      "fragment_status": "Auction",
+      "project": "LaGa",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lage": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:00.458939+00:00",
@@ -24160,6 +24192,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "masa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:04.380273+00:00",
+      "fragment_status": "Auction",
+      "project": "masa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mash": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:46.278196+00:00",
@@ -25823,6 +25863,14 @@
       "project": "MRAG",
       "score": 91,
       "source": "GitHub Topic (llm)"
+    },
+    "msae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:05.606126+00:00",
+      "fragment_status": "Auction",
+      "project": "MSAE",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "muan": {
       "cache_version": 16,
@@ -28704,6 +28752,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ovld": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:06.090604+00:00",
+      "fragment_status": "Auction",
+      "project": "ovld",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "ovlt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T18:05:11.682646+00:00",
@@ -29863,6 +29919,14 @@
       "project": "phut",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "phyx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:05.363781+00:00",
+      "fragment_status": "Auction",
+      "project": "PhyX",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pial": {
       "cache_version": 16,
@@ -31112,6 +31176,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "prov": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:06.331126+00:00",
+      "fragment_status": "Auction",
+      "project": "prov",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "prow": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:36.505636+00:00",
@@ -31831,6 +31903,14 @@
       "project": "qoph",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "qrev": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:04.618778+00:00",
+      "fragment_status": "Auction",
+      "project": "qrev",
+      "score": 94,
+      "source": "GitHub Topic (ai)"
     },
     "quad": {
       "cache_version": 16,
@@ -39224,6 +39304,14 @@
       "score": 91,
       "source": "Hacker News Show HN"
     },
+    "tmux": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:04.137663+00:00",
+      "fragment_status": "Auction",
+      "project": "Tmux-palette",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "toad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:45.796404+00:00",
@@ -45047,6 +45135,14 @@
       "project": "zits",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ziya": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T12:31:04.874326+00:00",
+      "fragment_status": "Auction",
+      "project": "ziya",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "zlist": {
       "cache_version": 14,
