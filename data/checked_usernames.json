@@ -744,6 +744,14 @@
       "score": 100,
       "source": "City Names"
     },
+    "aios": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.311846+00:00",
+      "fragment_status": "Auction",
+      "project": "AIOS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "aipe": {
       "cache_version": 16,
       "checked_at": "2026-05-12T20:22:41.498042+00:00",
@@ -1911,6 +1919,14 @@
       "project": "argly",
       "score": 75,
       "source": "GitHub Topic (api)"
+    },
+    "argo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:43.096204+00:00",
+      "fragment_status": "Auction",
+      "project": "Argo",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "argus": {
       "cache_version": 16,
@@ -4328,6 +4344,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "bnum": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:43.445481+00:00",
+      "fragment_status": "Auction",
+      "project": "bnum",
+      "score": 94,
+      "source": "Crates.io"
+    },
     "boar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:58.831566+00:00",
@@ -4687,6 +4711,14 @@
       "project": "bora",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "borb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:43.210005+00:00",
+      "fragment_status": "Auction",
+      "project": "borb",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "bore": {
       "cache_version": 16,
@@ -18040,6 +18072,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ihex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:43.326486+00:00",
+      "fragment_status": "Auction",
+      "project": "ihex",
+      "score": 94,
+      "source": "Crates.io"
+    },
     "iida": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:58.371772+00:00",
@@ -18087,6 +18127,14 @@
       "project": "ikon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ikvm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:43.555709+00:00",
+      "fragment_status": "Auction",
+      "project": "IKVM",
+      "score": 88,
+      "source": "NuGet"
     },
     "ilea": {
       "cache_version": 16,
@@ -25472,6 +25520,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "mlop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.869903+00:00",
+      "fragment_status": "Auction",
+      "project": "mlop",
+      "score": 94,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mmada": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:24.420025+00:00",
@@ -25487,6 +25543,14 @@
       "project": "mmcif",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "mmtb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.200359+00:00",
+      "fragment_status": "Auction",
+      "project": "MMTB",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "moan": {
       "cache_version": 16,
@@ -27581,6 +27645,14 @@
       "checked_at": "2026-05-11T20:00:31.602760+00:00",
       "fragment_status": "Auction",
       "project": "Nrfr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "nthw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.425221+00:00",
+      "fragment_status": "Auction",
+      "project": "NTHW",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -30712,6 +30784,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pmsg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.648750+00:00",
+      "fragment_status": "Auction",
+      "project": "PMSG",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "pncat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:24.596444+00:00",
@@ -31055,6 +31135,14 @@
       "project": "porn",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "poro": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.756210+00:00",
+      "fragment_status": "Auction",
+      "project": "poro",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "port": {
       "cache_version": 16,
@@ -41344,6 +41432,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "upet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.982238+00:00",
+      "fragment_status": "Auction",
+      "project": "upet",
+      "score": 91,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "upon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:08.638468+00:00",
@@ -44127,6 +44223,14 @@
       "project": "wyte",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "xbot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T22:06:42.535782+00:00",
+      "fragment_status": "Auction",
+      "project": "xbot",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
     },
     "xdit": {
       "cache_version": 16,
