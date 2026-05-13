@@ -208,6 +208,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "acip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:59.199169+00:00",
+      "fragment_status": "Auction",
+      "project": "acip",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "acme": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:04.784785+00:00",
@@ -1727,6 +1735,14 @@
       "project": "apor\u00e1",
       "score": 93,
       "source": "City Names"
+    },
+    "appl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:58.459076+00:00",
+      "fragment_status": "Auction",
+      "project": "appl",
+      "score": 92,
+      "source": "GitHub Topic (llm)"
     },
     "apple": {
       "cache_version": 16,
@@ -6903,6 +6919,22 @@
       "project": "cmake",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "cmov": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:19:00.180804+00:00",
+      "fragment_status": "Auction",
+      "project": "cmov",
+      "score": 95,
+      "source": "Crates.io"
+    },
+    "cmpr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:58.702851+00:00",
+      "fragment_status": "Auction",
+      "project": "cmpr",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
     },
     "cnmsb": {
       "cache_version": 14,
@@ -14416,6 +14448,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "geti": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:58.948786+00:00",
+      "fragment_status": "Auction",
+      "project": "geti",
+      "score": 96,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "gets": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:27.224408+00:00",
@@ -17416,6 +17456,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "htmz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:57.715746+00:00",
+      "fragment_status": "Auction",
+      "project": "htmz",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "http": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:27.204573+00:00",
@@ -18688,6 +18736,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jamo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:59.693881+00:00",
+      "fragment_status": "Auction",
+      "project": "jamo",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "jams": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:30.810600+00:00",
@@ -18943,6 +18999,14 @@
       "project": "jeon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jepa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:57.474169+00:00",
+      "fragment_status": "Auction",
+      "project": "jepa",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jerk": {
       "cache_version": 16,
@@ -21247,6 +21311,14 @@
       "project": "kvas",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kvdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:19:00.424882+00:00",
+      "fragment_status": "Auction",
+      "project": "kvdb",
+      "score": 83,
+      "source": "Crates.io"
     },
     "kwami": {
       "cache_version": 16,
@@ -31736,6 +31808,14 @@
       "score": 75,
       "source": "GitHub Topic (ml)"
     },
+    "pyct": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:59.936376+00:00",
+      "fragment_status": "Auction",
+      "project": "pyct",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pydot": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.541959+00:00",
@@ -32687,6 +32767,14 @@
       "project": "reda",
       "score": 93,
       "source": "City Names"
+    },
+    "redc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:58.215374+00:00",
+      "fragment_status": "Auction",
+      "project": "redc",
+      "score": 90,
+      "source": "GitHub Topic (ai)"
     },
     "redd": {
       "cache_version": 16,
@@ -39024,6 +39112,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "thor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:57.970983+00:00",
+      "fragment_status": "Auction",
+      "project": "Thor",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
+    },
     "thoth": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:51.298828+00:00",
@@ -42863,6 +42959,14 @@
       "project": "webob",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "webr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T19:18:59.445135+00:00",
+      "fragment_status": "Auction",
+      "project": "WebR",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "webs": {
       "cache_version": 16,
