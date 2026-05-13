@@ -1472,6 +1472,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "angr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:28.622950+00:00",
+      "fragment_status": "Auction",
+      "project": "angr",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "anil": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:15.994588+00:00",
@@ -7520,6 +7528,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cpal": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:29.158554+00:00",
+      "fragment_status": "Auction",
+      "project": "cpal",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "cqlai": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:55.600889+00:00",
@@ -9376,6 +9392,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "dlpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:28.107457+00:00",
+      "fragment_status": "Auction",
+      "project": "DLPM",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "doat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:14.196399+00:00",
@@ -11207,6 +11231,14 @@
       "project": "envy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eole": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:27.919562+00:00",
+      "fragment_status": "Auction",
+      "project": "eole",
+      "score": 90,
+      "source": "GitHub Topic (ai)"
     },
     "eons": {
       "cache_version": 16,
@@ -16832,6 +16864,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "hmar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:28.453153+00:00",
+      "fragment_status": "Auction",
+      "project": "HMAR",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "hoar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:13.416556+00:00",
@@ -18664,6 +18704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jecq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:28.271797+00:00",
+      "fragment_status": "Auction",
+      "project": "jecq",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "jeed": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:32.313461+00:00",
@@ -19311,6 +19359,14 @@
       "project": "jump",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "june": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:27.749661+00:00",
+      "fragment_status": "Auction",
+      "project": "june",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
     },
     "junk": {
       "cache_version": 16,
@@ -22559,6 +22615,14 @@
       "project": "live",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "livy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:28.977105+00:00",
+      "fragment_status": "Auction",
+      "project": "livy",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "lixi": {
       "cache_version": 16,
@@ -28432,6 +28496,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "oumi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:27.558864+00:00",
+      "fragment_status": "Auction",
+      "project": "oumi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ouph": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:51.336173+00:00",
@@ -30256,6 +30328,14 @@
       "score": 91,
       "source": "GitHub Topic (cli)"
     },
+    "pnet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:29.517265+00:00",
+      "fragment_status": "Auction",
+      "project": "pnet",
+      "score": 99,
+      "source": "Crates.io"
+    },
     "pock": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:19.468921+00:00",
@@ -31478,6 +31558,14 @@
       "fragment_status": "Taken",
       "project": "pyotp",
       "score": 88,
+      "source": "PyPI Top"
+    },
+    "pypd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:28.807792+00:00",
+      "fragment_status": "Auction",
+      "project": "pypd",
+      "score": 76,
       "source": "PyPI Top"
     },
     "pypng": {
@@ -33383,6 +33471,14 @@
       "project": "rows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rpds": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:29.329796+00:00",
+      "fragment_status": "Auction",
+      "project": "rpds",
+      "score": 87,
+      "source": "Crates.io"
     },
     "rpyc": {
       "cache_version": 16,
@@ -36631,6 +36727,14 @@
       "project": "spry",
       "score": 83,
       "source": "English Dictionary"
+    },
+    "sptr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T05:07:29.681884+00:00",
+      "fragment_status": "Auction",
+      "project": "sptr",
+      "score": 87,
+      "source": "Crates.io"
     },
     "spud": {
       "cache_version": 16,
