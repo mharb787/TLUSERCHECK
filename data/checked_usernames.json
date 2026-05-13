@@ -8504,6 +8504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dave": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T17:31:34.535857+00:00",
+      "fragment_status": "Auction",
+      "project": "DAVE",
+      "score": 88,
+      "source": "GitHub Topic (llm)"
+    },
     "davia": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:57.730226+00:00",
@@ -10903,6 +10911,14 @@
       "project": "einx",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "ejae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T17:31:34.648052+00:00",
+      "fragment_status": "Auction",
+      "project": "Ejae",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "ekctl": {
       "cache_version": 14,
@@ -26536,6 +26552,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "navi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T17:31:34.426739+00:00",
+      "fragment_status": "Auction",
+      "project": "navi",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "navix": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:51.413600+00:00",
@@ -30591,6 +30615,14 @@
       "project": "poco",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pocs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T17:31:34.199802+00:00",
+      "fragment_status": "Auction",
+      "project": "pocs",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
     },
     "pods": {
       "cache_version": 16,
@@ -35664,6 +35696,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sila": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T17:31:34.315903+00:00",
+      "fragment_status": "Auction",
+      "project": "sila",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "sild": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:44.375077+00:00",
@@ -36239,6 +36279,14 @@
       "project": "Slyde",
       "score": 75,
       "source": "GitHub Topic (cli)"
+    },
+    "smda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-13T17:31:34.759822+00:00",
+      "fragment_status": "Auction",
+      "project": "smda",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "smew": {
       "cache_version": 16,
