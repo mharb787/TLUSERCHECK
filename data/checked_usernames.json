@@ -23368,6 +23368,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "llrt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T17:22:22.239739+00:00",
+      "fragment_status": "Auction",
+      "project": "llrt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "llsa": {
       "cache_version": 16,
       "checked_at": "2026-05-12T04:49:01.495958+00:00",
@@ -25943,6 +25951,14 @@
       "project": "mmcif",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "mmgl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T17:22:22.565046+00:00",
+      "fragment_status": "Auction",
+      "project": "MMGL",
+      "score": 76,
+      "source": "GitHub Topic (llm)"
     },
     "mmos": {
       "cache_version": 16,
@@ -35016,6 +35032,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "rxml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T17:22:23.079854+00:00",
+      "fragment_status": "Auction",
+      "project": "rxml",
+      "score": 79,
+      "source": "Crates.io"
+    },
     "rxtui": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:56.251269+00:00",
@@ -41872,6 +41896,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "udev": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T17:22:22.912664+00:00",
+      "fragment_status": "Auction",
+      "project": "udev",
+      "score": 91,
+      "source": "Crates.io"
+    },
     "udmt": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:06.916427+00:00",
@@ -42039,6 +42071,14 @@
       "project": "umbo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "umix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T17:22:22.404821+00:00",
+      "fragment_status": "Auction",
+      "project": "umix",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "umps": {
       "cache_version": 16,
@@ -45031,6 +45071,14 @@
       "project": "xbot",
       "score": 89,
       "source": "GitHub Topic (ai)"
+    },
+    "xdis": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T17:22:22.742785+00:00",
+      "fragment_status": "Auction",
+      "project": "xdis",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "xdit": {
       "cache_version": 16,
