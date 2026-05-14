@@ -344,6 +344,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "adtk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:09.194607+00:00",
+      "fragment_status": "Auction",
+      "project": "adtk",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "adwa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:12.972423+00:00",
@@ -711,6 +719,14 @@
       "project": "AIMAC",
       "score": 97,
       "source": "GitHub Topic (llm)"
+    },
+    "aiml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:08.395454+00:00",
+      "fragment_status": "Auction",
+      "project": "AIML Lab",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
     },
     "aims": {
       "cache_version": 16,
@@ -1759,6 +1775,14 @@
       "project": "Apple Inc.",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "appt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:08.786943+00:00",
+      "fragment_status": "Auction",
+      "project": "APPT",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "apse": {
       "cache_version": 16,
@@ -8944,6 +8968,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "deku": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:10.834860+00:00",
+      "fragment_status": "Auction",
+      "project": "deku",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "dele": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:06.878641+00:00",
@@ -15032,6 +15064,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gloo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:10.432263+00:00",
+      "fragment_status": "Auction",
+      "project": "gloo",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "glop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:31.833862+00:00",
@@ -15103,6 +15143,14 @@
       "project": "Gmail - Email by Google",
       "score": 100,
       "source": "App Store Top"
+    },
+    "gmml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:08.186750+00:00",
+      "fragment_status": "Auction",
+      "project": "GMML",
+      "score": 76,
+      "source": "GitHub Topic (ai)"
     },
     "gnar": {
       "cache_version": 16,
@@ -21904,6 +21952,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lapx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:09.621132+00:00",
+      "fragment_status": "Auction",
+      "project": "lapx",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "lara": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:17.047951+00:00",
@@ -25664,6 +25720,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "mmos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:08.592619+00:00",
+      "fragment_status": "Auction",
+      "project": "MMOS",
+      "score": 88,
+      "source": "GitHub Topic (llm)"
+    },
     "mmtb": {
       "cache_version": 16,
       "checked_at": "2026-05-13T22:06:42.200359+00:00",
@@ -26552,6 +26616,14 @@
       "score": 90,
       "source": "App Store Top"
     },
+    "myip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:07.577980+00:00",
+      "fragment_status": "Auction",
+      "project": "MyIP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "myna": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:13.751333+00:00",
@@ -26735,6 +26807,14 @@
       "project": "nanj\u014d",
       "score": 93,
       "source": "City Names"
+    },
+    "nano": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:07.992082+00:00",
+      "fragment_status": "Auction",
+      "project": "Nano",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
     },
     "nans": {
       "cache_version": 16,
@@ -30160,6 +30240,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "perf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:10.023082+00:00",
+      "fragment_status": "Auction",
+      "project": "solana perf",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "peri": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:07.296469+00:00",
@@ -33312,6 +33400,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "reor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:07.775833+00:00",
+      "fragment_status": "Auction",
+      "project": "reor",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "repa": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:07.409951+00:00",
@@ -33407,6 +33503,14 @@
       "project": "reus",
       "score": 93,
       "source": "City Names"
+    },
+    "revm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:09.828999+00:00",
+      "fragment_status": "Auction",
+      "project": "revm",
+      "score": 93,
+      "source": "Crates.io"
     },
     "revs": {
       "cache_version": 16,
@@ -37536,6 +37640,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "sppl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:09.407162+00:00",
+      "fragment_status": "Auction",
+      "project": "sppl",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "spry": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:07.322709+00:00",
@@ -39895,6 +40007,14 @@
       "project": "tldx",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tlob": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:08.993822+00:00",
+      "fragment_status": "Auction",
+      "project": "TLOB",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "tltv": {
       "cache_version": 16,
@@ -44920,6 +45040,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "yazi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:10.634943+00:00",
+      "fragment_status": "Auction",
+      "project": "yazi",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "yeah": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:01.060818+00:00",
@@ -45655,6 +45783,14 @@
       "project": "zele",
       "score": 93,
       "source": "City Names"
+    },
+    "zeno": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T07:22:10.228799+00:00",
+      "fragment_status": "Auction",
+      "project": "zeno",
+      "score": 93,
+      "source": "Crates.io"
     },
     "zenpy": {
       "cache_version": 16,
