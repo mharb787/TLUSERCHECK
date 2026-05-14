@@ -17512,6 +17512,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "holi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T19:13:10.392054+00:00",
+      "fragment_status": "Auction",
+      "project": "Holi",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "holk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:15.059438+00:00",
@@ -25936,6 +25944,14 @@
       "score": 94,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlua": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T19:13:10.772490+00:00",
+      "fragment_status": "Auction",
+      "project": "mlua",
+      "score": 91,
+      "source": "Crates.io"
+    },
     "mmada": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:24.420025+00:00",
@@ -31824,6 +31840,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "pqdm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T19:13:10.560069+00:00",
+      "fragment_status": "Auction",
+      "project": "pqdm",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "prai": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:00.900389+00:00",
@@ -33415,6 +33439,14 @@
       "project": "razz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rbpf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T19:13:10.942405+00:00",
+      "fragment_status": "Auction",
+      "project": "solana rbpf",
+      "score": 79,
+      "source": "Crates.io"
     },
     "rbust": {
       "cache_version": 16,
