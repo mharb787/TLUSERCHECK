@@ -64,6 +64,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abel": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T20:44:54.095420+00:00",
+      "fragment_status": "Auction",
+      "project": "abel",
+      "score": 93,
+      "source": "GitHub Topic (llm)"
+    },
     "abet": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:03.267998+00:00",
@@ -4335,6 +4343,14 @@
       "project": "bloc",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "blog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T20:44:53.858734+00:00",
+      "fragment_status": "Taken",
+      "project": "blog",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "blogr": {
       "cache_version": 16,
@@ -12664,6 +12680,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "fiai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T20:44:53.979440+00:00",
+      "fragment_status": "Auction",
+      "project": "FiAi",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "fiar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:04.236394+00:00",
@@ -19335,6 +19359,14 @@
       "project": "jecq",
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "jedi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T20:44:54.216041+00:00",
+      "fragment_status": "Auction",
+      "project": "JEDi",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "jeed": {
       "cache_version": 16,
@@ -27711,6 +27743,14 @@
       "project": "nips",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "niri": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T20:44:53.614096+00:00",
+      "fragment_status": "Auction",
+      "project": "niri",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nisi": {
       "cache_version": 16,
