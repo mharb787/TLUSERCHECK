@@ -9568,6 +9568,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "dmsr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:05.960470+00:00",
+      "fragment_status": "Auction",
+      "project": "DMSR",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "doat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:14.196399+00:00",
@@ -11279,6 +11287,14 @@
       "project": "emit",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "emix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:04.836472+00:00",
+      "fragment_status": "Auction",
+      "project": "EMiX",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "emmer": {
       "cache_version": 16,
@@ -13584,6 +13600,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fsio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:06.337894+00:00",
+      "fragment_status": "Auction",
+      "project": "fsio",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "fsml": {
       "cache_version": 16,
       "checked_at": "2026-05-13T20:57:32.693240+00:00",
@@ -14832,6 +14856,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gitu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:05.212263+00:00",
+      "fragment_status": "Auction",
+      "project": "gitu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "give": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:30.559884+00:00",
@@ -14983,6 +15015,14 @@
       "project": "glow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gltf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:06.152506+00:00",
+      "fragment_status": "Auction",
+      "project": "gltf",
+      "score": 81,
+      "source": "Crates.io"
     },
     "glue": {
       "cache_version": 16,
@@ -17744,6 +17784,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "husi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:05.397554+00:00",
+      "fragment_status": "Auction",
+      "project": "husi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "husk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:21.812078+00:00",
@@ -19839,6 +19887,14 @@
       "project": "kagaz",
       "score": 87,
       "source": "GitHub Topic (llm)"
+    },
+    "kagi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:05.022902+00:00",
+      "fragment_status": "Auction",
+      "project": "Kagi",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "kagu": {
       "cache_version": 16,
@@ -34152,6 +34208,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "rtrb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:06.529175+00:00",
+      "fragment_status": "Auction",
+      "project": "rtrb",
+      "score": 81,
+      "source": "Crates.io"
+    },
     "rtree": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:21.592081+00:00",
@@ -41256,6 +41320,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "uhsr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:05.773281+00:00",
+      "fragment_status": "Auction",
+      "project": "uhsr",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "uigen": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:17.215855+00:00",
@@ -41519,6 +41591,14 @@
       "project": "upon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "upsy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:05.585251+00:00",
+      "fragment_status": "Auction",
+      "project": "upsy",
+      "score": 91,
+      "source": "GitHub Topic (ai)"
     },
     "uran": {
       "cache_version": 16,
@@ -45799,6 +45879,14 @@
       "project": "zuru",
       "score": 93,
       "source": "City Names"
+    },
+    "zuse": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T00:17:06.717041+00:00",
+      "fragment_status": "Auction",
+      "project": "zuse",
+      "score": 93,
+      "source": "Crates.io"
     },
     "zyme": {
       "cache_version": 16,
