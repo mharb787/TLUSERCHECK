@@ -7120,6 +7120,14 @@
       "score": 76,
       "source": "GitHub Topic (ai)"
     },
+    "coai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:05.840009+00:00",
+      "fragment_status": "Auction",
+      "project": "coai",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "coal": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:33.550546+00:00",
@@ -13263,6 +13271,14 @@
       "project": "flow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "flox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:06.708274+00:00",
+      "fragment_status": "Auction",
+      "project": "flox",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "flpc": {
       "cache_version": 16,
@@ -21840,6 +21856,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kuzu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:06.926816+00:00",
+      "fragment_status": "Auction",
+      "project": "kuzu",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "kvas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:59.745742+00:00",
@@ -24383,6 +24407,14 @@
       "project": "lyse",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lzxd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:07.352066+00:00",
+      "fragment_status": "Auction",
+      "project": "lzxd",
+      "score": 79,
+      "source": "Crates.io"
     },
     "maao": {
       "cache_version": 16,
@@ -30776,6 +30808,14 @@
       "score": 85,
       "source": "GitHub Topic (ai)"
     },
+    "pgmq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:06.267259+00:00",
+      "fragment_status": "Auction",
+      "project": "pgmq",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pgque": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:56.775491+00:00",
@@ -32991,6 +33031,14 @@
       "project": "quid",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "quik": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:06.484334+00:00",
+      "fragment_status": "Auction",
+      "project": "quik",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "quin": {
       "cache_version": 16,
@@ -38424,6 +38472,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "stim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:07.140299+00:00",
+      "fragment_status": "Auction",
+      "project": "stim",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "stimm": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:00.009152+00:00",
@@ -42791,6 +42847,14 @@
       "project": "vatu",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vaul": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T22:45:06.053664+00:00",
+      "fragment_status": "Auction",
+      "project": "vaul",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vault": {
       "cache_version": 16,
