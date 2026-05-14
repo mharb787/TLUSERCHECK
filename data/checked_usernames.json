@@ -1432,6 +1432,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "amrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.392562+00:00",
+      "fragment_status": "Auction",
+      "project": "AMRS",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
+    },
     "amus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:15.073982+00:00",
@@ -9288,6 +9296,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dgpw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.857266+00:00",
+      "fragment_status": "Auction",
+      "project": "dgpw",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dhak": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:09.389130+00:00",
@@ -14119,6 +14135,14 @@
       "project": "gads",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gaea": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.278626+00:00",
+      "fragment_status": "Auction",
+      "project": "gaea",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gaed": {
       "cache_version": 16,
@@ -19911,6 +19935,14 @@
       "project": "jouk",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jowa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.622576+00:00",
+      "fragment_status": "Auction",
+      "project": "JOWA",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "jowl": {
       "cache_version": 16,
@@ -30712,6 +30744,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "pfnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.740829+00:00",
+      "fragment_status": "Auction",
+      "project": "PFNN",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "pfui": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:08.809727+00:00",
@@ -31415,6 +31455,14 @@
       "project": "plux",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "pmrf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.972319+00:00",
+      "fragment_status": "Auction",
+      "project": "PMRF",
+      "score": 89,
+      "source": "GitHub Topic (computer-vision)"
     },
     "pmsg": {
       "cache_version": 16,
@@ -32999,6 +33047,14 @@
       "project": "quxu",
       "score": 93,
       "source": "City Names"
+    },
+    "qwen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.162771+00:00",
+      "fragment_status": "Auction",
+      "project": "Qwen",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "qwix": {
       "cache_version": 16,
@@ -34776,6 +34832,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rtcp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:45.091256+00:00",
+      "fragment_status": "Auction",
+      "project": "rtcp",
+      "score": 79,
+      "source": "Crates.io"
+    },
     "rtest": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:05.503530+00:00",
@@ -35095,6 +35159,14 @@
       "project": "ruwa",
       "score": 93,
       "source": "City Names"
+    },
+    "rwkv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T21:50:44.508429+00:00",
+      "fragment_status": "Auction",
+      "project": "rwkv",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
     },
     "rxai": {
       "cache_version": 16,
