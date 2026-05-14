@@ -1928,6 +1928,14 @@
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
     },
+    "args": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:31.076679+00:00",
+      "fragment_status": "Auction",
+      "project": "args",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "argus": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:56.362325+00:00",
@@ -9104,6 +9112,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "devv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:30.232402+00:00",
+      "fragment_status": "Auction",
+      "project": "devv",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dews": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:08.928241+00:00",
@@ -10887,6 +10903,14 @@
       "project": "Edits: Video Editor",
       "score": 88,
       "source": "App Store Top"
+    },
+    "edsl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:30.397396+00:00",
+      "fragment_status": "Auction",
+      "project": "edsl",
+      "score": 96,
+      "source": "GitHub Topic (llm)"
     },
     "eels": {
       "cache_version": 16,
@@ -13511,6 +13535,14 @@
       "project": "fray",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fred": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:31.425041+00:00",
+      "fragment_status": "Auction",
+      "project": "fred",
+      "score": 93,
+      "source": "Crates.io"
     },
     "free": {
       "cache_version": 16,
@@ -26200,6 +26232,14 @@
       "score": 91,
       "source": "GitHub Topic (llm)"
     },
+    "mrml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:30.561312+00:00",
+      "fragment_status": "Auction",
+      "project": "mrml",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "msae": {
       "cache_version": 16,
       "checked_at": "2026-05-13T12:31:05.606126+00:00",
@@ -28087,6 +28127,14 @@
       "project": "Octet (musical)",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "octo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:30.071122+00:00",
+      "fragment_status": "Auction",
+      "project": "octo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "odds": {
       "cache_version": 16,
@@ -33392,6 +33440,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rhai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:31.236790+00:00",
+      "fragment_status": "Auction",
+      "project": "rhai",
+      "score": 100,
+      "source": "Crates.io"
+    },
     "rhea": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:58.608412+00:00",
@@ -34448,6 +34504,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rusb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:31.586483+00:00",
+      "fragment_status": "Auction",
+      "project": "rusb",
+      "score": 93,
+      "source": "Crates.io"
+    },
     "ruse": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:13.304166+00:00",
@@ -34703,6 +34767,14 @@
       "project": "sagy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sahi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:30.916048+00:00",
+      "fragment_status": "Auction",
+      "project": "sahi",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "said": {
       "cache_version": 16,
@@ -37455,6 +37527,14 @@
       "project": "spot",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "spox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:30.733920+00:00",
+      "fragment_status": "Auction",
+      "project": "spox",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "spry": {
       "cache_version": 16,
@@ -42293,6 +42373,14 @@
       "checked_at": "2026-05-10T17:02:10.004348+00:00",
       "fragment_status": "Taken",
       "project": "vFlow",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "vfox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T04:14:29.898018+00:00",
+      "fragment_status": "Auction",
+      "project": "vfox",
       "score": 100,
       "source": "GitHub New Repos"
     },
