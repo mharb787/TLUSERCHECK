@@ -344,6 +344,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "adrf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:25.786638+00:00",
+      "fragment_status": "Auction",
+      "project": "adrf",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "adtk": {
       "cache_version": 16,
       "checked_at": "2026-05-14T07:22:09.194607+00:00",
@@ -679,6 +687,14 @@
       "project": "Aiboo",
       "score": 97,
       "source": "GitHub Topic (ai)"
+    },
+    "aici": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:24.576346+00:00",
+      "fragment_status": "Auction",
+      "project": "aici",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "aide": {
       "cache_version": 16,
@@ -13088,6 +13104,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "flet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:25.616688+00:00",
+      "fragment_status": "Auction",
+      "project": "flet",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "fletx": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:39.390990+00:00",
@@ -17799,6 +17823,14 @@
       "project": "hpke",
       "score": 92,
       "source": "Crates.io"
+    },
+    "hrtx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:24.749722+00:00",
+      "fragment_status": "Auction",
+      "project": "HRTX",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
     },
     "hstr": {
       "cache_version": 16,
@@ -28688,6 +28720,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "oklo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:24.233292+00:00",
+      "fragment_status": "Auction",
+      "project": "Oklo",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "okoa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:41.421036+00:00",
@@ -28719,6 +28759,14 @@
       "project": "okta",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "olah": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:24.914704+00:00",
+      "fragment_status": "Auction",
+      "project": "olah",
+      "score": 91,
+      "source": "GitHub Topic (llm)"
     },
     "olds": {
       "cache_version": 16,
@@ -33448,6 +33496,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "redb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:25.954967+00:00",
+      "fragment_status": "Auction",
+      "project": "redb",
+      "score": 92,
+      "source": "Crates.io"
+    },
     "redc": {
       "cache_version": 16,
       "checked_at": "2026-05-13T19:18:58.215374+00:00",
@@ -36759,6 +36815,14 @@
       "project": "skald",
       "score": 98,
       "source": "GitHub Topic (ai)"
+    },
+    "skar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:24.404953+00:00",
+      "fragment_status": "Auction",
+      "project": "Skar",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "skas": {
       "cache_version": 16,
@@ -40112,6 +40176,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "tika": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:25.443983+00:00",
+      "fragment_status": "Auction",
+      "project": "tika",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "tike": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:43.146134+00:00",
@@ -43224,6 +43296,14 @@
       "score": 94,
       "source": "GitHub Topic (llm)"
     },
+    "vosk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:25.095978+00:00",
+      "fragment_status": "Auction",
+      "project": "vosk",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "vote": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:21.654409+00:00",
@@ -45031,6 +45111,14 @@
       "project": "xleak",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xlib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-14T15:33:25.267495+00:00",
+      "fragment_status": "Auction",
+      "project": "xlib",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "xllm": {
       "cache_version": 16,
