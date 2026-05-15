@@ -784,6 +784,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "aimx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:18.893102+00:00",
+      "fragment_status": "Auction",
+      "project": "AIMX",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ainee": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:37.967573+00:00",
@@ -13424,6 +13432,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "flwr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:20.430468+00:00",
+      "fragment_status": "Auction",
+      "project": "flwr",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "foal": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:11.290661+00:00",
@@ -14199,6 +14215,14 @@
       "project": "fyke",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gabm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:20.048646+00:00",
+      "fragment_status": "Auction",
+      "project": "gabm",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "gabs": {
       "cache_version": 16,
@@ -28800,6 +28824,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "odht": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:20.620746+00:00",
+      "fragment_status": "Auction",
+      "project": "odht",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "odic": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:40.215324+00:00",
@@ -32784,6 +32816,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "pwlf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:20.238916+00:00",
+      "fragment_status": "Auction",
+      "project": "pwlf",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pxfm": {
       "cache_version": 16,
       "checked_at": "2026-05-12T16:58:20.872825+00:00",
@@ -34855,6 +34895,14 @@
       "project": "room",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "roop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:19.085482+00:00",
+      "fragment_status": "Auction",
+      "project": "roop",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "root": {
       "cache_version": 16,
@@ -38463,6 +38511,14 @@
       "project": "spur",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "spyx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:19.469706+00:00",
+      "fragment_status": "Auction",
+      "project": "spyx",
+      "score": 77,
+      "source": "GitHub Topic (ai)"
     },
     "sqlit": {
       "cache_version": 14,
@@ -44384,6 +44440,14 @@
       "score": 88,
       "source": "GitHub Topic (llm)"
     },
+    "wdoc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:19.851116+00:00",
+      "fragment_status": "Auction",
+      "project": "wdoc",
+      "score": 97,
+      "source": "GitHub Topic (llm)"
+    },
     "weak": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:38.949823+00:00",
@@ -44423,6 +44487,14 @@
       "project": "webob",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "webp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:20.997350+00:00",
+      "fragment_status": "Auction",
+      "project": "webp",
+      "score": 90,
+      "source": "Crates.io"
     },
     "webr": {
       "cache_version": 16,
@@ -45552,6 +45624,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "xgen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:19.659319+00:00",
+      "fragment_status": "Auction",
+      "project": "xgen",
+      "score": 100,
+      "source": "GitHub Topic (llm)"
+    },
     "xget": {
       "cache_version": 16,
       "checked_at": "2026-05-12T01:17:01.607691+00:00",
@@ -45671,6 +45751,14 @@
       "project": "xtalk",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "xwin": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:20.809514+00:00",
+      "fragment_status": "Auction",
+      "project": "xwin",
+      "score": 90,
+      "source": "Crates.io"
     },
     "xyops": {
       "cache_version": 14,
@@ -46007,6 +46095,14 @@
       "project": "yaws",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yayi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T08:16:19.279497+00:00",
+      "fragment_status": "Auction",
+      "project": "YAYI",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yays": {
       "cache_version": 16,
