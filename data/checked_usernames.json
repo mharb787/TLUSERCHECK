@@ -6640,6 +6640,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "chdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:32.021278+00:00",
+      "fragment_status": "Auction",
+      "project": "chdb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cheb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:58.516016+00:00",
@@ -21616,6 +21624,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "kitt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:32.220360+00:00",
+      "fragment_status": "Auction",
+      "project": "kitt",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
+    },
     "kiva": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:54.231716+00:00",
@@ -25583,6 +25599,14 @@
       "project": "mbak\u00e9",
       "score": 93,
       "source": "City Names"
+    },
+    "mbox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:32.819282+00:00",
+      "fragment_status": "Auction",
+      "project": "mbox",
+      "score": 89,
+      "source": "Crates.io"
     },
     "mcap": {
       "cache_version": 16,
@@ -35280,6 +35304,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "romm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:31.628693+00:00",
+      "fragment_status": "Auction",
+      "project": "romm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "romp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:06.334649+00:00",
@@ -42424,6 +42456,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tulp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:32.420614+00:00",
+      "fragment_status": "Auction",
+      "project": "tulp",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
+    },
     "tulu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:56.571535+00:00",
@@ -44656,6 +44696,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "waku": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:31.825578+00:00",
+      "fragment_status": "Auction",
+      "project": "waku",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wale": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:25.830204+00:00",
@@ -46175,6 +46223,14 @@
       "project": "xDiT",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xdsl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T19:18:32.624250+00:00",
+      "fragment_status": "Auction",
+      "project": "xdsl",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "xgen": {
       "cache_version": 16,
