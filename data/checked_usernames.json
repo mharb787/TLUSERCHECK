@@ -720,6 +720,22 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "aify": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:56.790520+00:00",
+      "fragment_status": "Auction",
+      "project": "aify",
+      "score": 98,
+      "source": "GitHub Topic (llm)"
+    },
+    "aigc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:56.300781+00:00",
+      "fragment_status": "Auction",
+      "project": "aigc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "aigit": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:01.731325+00:00",
@@ -7959,6 +7975,14 @@
       "project": "crux",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cryo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:56.465011+00:00",
+      "fragment_status": "Auction",
+      "project": "cryo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "csrct": {
       "cache_version": 16,
@@ -20663,6 +20687,14 @@
       "project": "kbar",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kcli": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:57.116801+00:00",
+      "fragment_status": "Auction",
+      "project": "kcli",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "keas": {
       "cache_version": 16,
@@ -36480,6 +36512,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "shai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:56.628754+00:00",
+      "fragment_status": "Auction",
+      "project": "shai",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "sham": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:38.752315+00:00",
@@ -42264,6 +42304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "uhlc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:57.445668+00:00",
+      "fragment_status": "Auction",
+      "project": "uhlc",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "uhsr": {
       "cache_version": 16,
       "checked_at": "2026-05-14T00:17:05.773281+00:00",
@@ -45584,6 +45632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "yake": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:57.283077+00:00",
+      "fragment_status": "Auction",
+      "project": "yake",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "yako": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:19.390819+00:00",
@@ -46703,6 +46759,14 @@
       "project": "zhob",
       "score": 93,
       "source": "City Names"
+    },
+    "zhon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T01:27:56.955536+00:00",
+      "fragment_status": "Auction",
+      "project": "zhon",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "zibo": {
       "cache_version": 16,
