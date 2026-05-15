@@ -224,6 +224,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "aclm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:54.351815+00:00",
+      "fragment_status": "Auction",
+      "project": "ACLM",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
+    },
     "acme": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:04.784785+00:00",
@@ -2279,6 +2287,14 @@
       "project": "asci",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "asdf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:55.249745+00:00",
+      "fragment_status": "Auction",
+      "project": "asdf",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "asea": {
       "cache_version": 16,
@@ -9544,6 +9560,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "dify": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:54.010340+00:00",
+      "fragment_status": "Auction",
+      "project": "dify",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "digs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:10.881059+00:00",
@@ -11087,6 +11111,14 @@
       "project": "ecos",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "ecow": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:55.761957+00:00",
+      "fragment_status": "Auction",
+      "project": "ecow",
+      "score": 89,
+      "source": "Crates.io"
     },
     "ecru": {
       "cache_version": 16,
@@ -25880,6 +25912,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mico": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:54.714766+00:00",
+      "fragment_status": "Auction",
+      "project": "MiCo",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mideo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:51.390776+00:00",
@@ -26311,6 +26351,14 @@
       "project": "mjlab",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mjml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:55.593094+00:00",
+      "fragment_status": "Auction",
+      "project": "mjml",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "mleap": {
       "cache_version": 16,
@@ -29103,6 +29151,14 @@
       "project": "ohms",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ohta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:54.891601+00:00",
+      "fragment_status": "Auction",
+      "project": "OHTA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "oils": {
       "cache_version": 16,
@@ -33256,6 +33312,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pyvo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:55.421328+00:00",
+      "fragment_status": "Auction",
+      "project": "pyvo",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "qaid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:43.786402+00:00",
@@ -33351,6 +33415,14 @@
       "project": "qrev",
       "score": 94,
       "source": "GitHub Topic (ai)"
+    },
+    "qroa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:55.077217+00:00",
+      "fragment_status": "Auction",
+      "project": "QROA",
+      "score": 87,
+      "source": "GitHub Topic (reinforcement-learning)"
     },
     "quad": {
       "cache_version": 16,
@@ -38680,6 +38752,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "sppo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:54.527399+00:00",
+      "fragment_status": "Auction",
+      "project": "SPPO",
+      "score": 98,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "sprs": {
       "cache_version": 16,
       "checked_at": "2026-05-14T11:28:51.921133+00:00",
@@ -40576,6 +40656,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "tgpt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:54.181741+00:00",
+      "fragment_status": "Auction",
+      "project": "tgpt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "thae": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:38.830968+00:00",
@@ -42023,6 +42111,14 @@
       "project": "tsks",
       "score": 83,
       "source": "English Dictionary"
+    },
+    "tstr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T14:40:55.937562+00:00",
+      "fragment_status": "Auction",
+      "project": "tstr",
+      "score": 77,
+      "source": "Crates.io"
     },
     "ttsc": {
       "cache_version": 16,
