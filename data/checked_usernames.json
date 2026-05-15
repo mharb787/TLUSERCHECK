@@ -9840,6 +9840,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "dlsc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:57.835458+00:00",
+      "fragment_status": "Auction",
+      "project": "DLSC",
+      "score": 75,
+      "source": "GitHub Topic (ml)"
+    },
     "dmsr": {
       "cache_version": 16,
       "checked_at": "2026-05-14T00:17:05.960470+00:00",
@@ -9895,6 +9903,14 @@
       "project": "docmd",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "docq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:57.460505+00:00",
+      "fragment_status": "Auction",
+      "project": "docq",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
     },
     "docs": {
       "cache_version": 16,
@@ -10583,6 +10599,14 @@
       "project": "dubs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ducc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:59.104959+00:00",
+      "fragment_status": "Auction",
+      "project": "ducc",
+      "score": 89,
+      "source": "Crates.io"
     },
     "duce": {
       "cache_version": 16,
@@ -11399,6 +11423,14 @@
       "project": "elhi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "elia": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:56.699735+00:00",
+      "fragment_status": "Auction",
+      "project": "elia",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "eliza": {
       "cache_version": 16,
@@ -13727,6 +13759,14 @@
       "project": "fort",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fory": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:56.501627+00:00",
+      "fragment_status": "Auction",
+      "project": "fory",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "foso": {
       "cache_version": 16,
@@ -16087,6 +16127,14 @@
       "project": "Grok - AI Chat & Video",
       "score": 100,
       "source": "App Store Top"
+    },
+    "gron": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:58.917707+00:00",
+      "fragment_status": "Auction",
+      "project": "gron",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "grot": {
       "cache_version": 16,
@@ -23688,6 +23736,14 @@
       "score": 92,
       "source": "GitHub Topic (ai)"
     },
+    "llmo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:57.644840+00:00",
+      "fragment_status": "Auction",
+      "project": "llmo",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "llmon": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:25:07.748571+00:00",
@@ -29624,6 +29680,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "orch": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:57.273757+00:00",
+      "fragment_status": "Auction",
+      "project": "orch",
+      "score": 91,
+      "source": "GitHub Topic (ai)"
+    },
     "orcs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:48.803314+00:00",
@@ -31600,6 +31664,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "pixi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:56.328337+00:00",
+      "fragment_status": "Auction",
+      "project": "pixi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pixy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:16.629927+00:00",
@@ -32247,6 +32319,14 @@
       "project": "pows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "poyo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:58.737189+00:00",
+      "fragment_status": "Auction",
+      "project": "poyo",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "pplx": {
       "cache_version": 16,
@@ -33191,6 +33271,14 @@
       "project": "qats",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "qeep": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:58.371531+00:00",
+      "fragment_status": "Auction",
+      "project": "qeep",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "qelm": {
       "cache_version": 16,
@@ -38856,6 +38944,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sthd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:58.010275+00:00",
+      "fragment_status": "Auction",
+      "project": "STHD",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "stim": {
       "cache_version": 16,
       "checked_at": "2026-05-14T22:45:07.140299+00:00",
@@ -39287,6 +39383,14 @@
       "project": "Surge",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "suri": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:58.559954+00:00",
+      "fragment_status": "Auction",
+      "project": "suri",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "suru": {
       "cache_version": 16,
@@ -41047,6 +41151,14 @@
       "project": "tltv",
       "score": 91,
       "source": "Hacker News Show HN"
+    },
+    "tmlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:58.190060+00:00",
+      "fragment_status": "Auction",
+      "project": "tmlp",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "tmux": {
       "cache_version": 16,
@@ -43343,6 +43455,14 @@
       "project": "veal",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vecs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:57.098496+00:00",
+      "fragment_status": "Auction",
+      "project": "vecs",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
     },
     "vectr": {
       "cache_version": 16,
@@ -46847,6 +46967,14 @@
       "project": "yurt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yutu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T12:20:56.892389+00:00",
+      "fragment_status": "Auction",
+      "project": "yutu",
+      "score": 96,
+      "source": "GitHub Topic (ai)"
     },
     "yutz": {
       "cache_version": 16,
