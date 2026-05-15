@@ -7992,6 +7992,14 @@
       "score": 90,
       "source": "Hacker News Show HN"
     },
+    "cstr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:07.215506+00:00",
+      "fragment_status": "Auction",
+      "project": "cstr",
+      "score": 78,
+      "source": "Crates.io"
+    },
     "csvw": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:33.166743+00:00",
@@ -8656,6 +8664,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "daqp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:06.494791+00:00",
+      "fragment_status": "Auction",
+      "project": "daqp",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "dara": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:49.867818+00:00",
@@ -8727,6 +8743,14 @@
       "project": "dash",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dasp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:06.973054+00:00",
+      "fragment_status": "Auction",
+      "project": "dasp",
+      "score": 90,
+      "source": "Crates.io"
     },
     "data": {
       "cache_version": 16,
@@ -11119,6 +11143,14 @@
       "project": "edsl",
       "score": 96,
       "source": "GitHub Topic (llm)"
+    },
+    "edux": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:05.525833+00:00",
+      "fragment_status": "Auction",
+      "project": "edux",
+      "score": 88,
+      "source": "GitHub Topic (ml)"
     },
     "eels": {
       "cache_version": 16,
@@ -15359,6 +15391,14 @@
       "project": "glum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "glur": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:04.919947+00:00",
+      "fragment_status": "Auction",
+      "project": "Glur",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "glut": {
       "cache_version": 16,
@@ -25248,6 +25288,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "mcst": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:06.254405+00:00",
+      "fragment_status": "Auction",
+      "project": "MCST",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mdcx": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:05.998205+00:00",
@@ -29320,6 +29368,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "opml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:05.289601+00:00",
+      "fragment_status": "Auction",
+      "project": "opml",
+      "score": 93,
+      "source": "GitHub Topic (ai)"
+    },
     "oppu": {
       "cache_version": 16,
       "checked_at": "2026-05-13T23:17:07.866801+00:00",
@@ -32871,6 +32927,14 @@
       "project": "pyker",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "pyld": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:06.735357+00:00",
+      "fragment_status": "Auction",
+      "project": "pyld",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "pymax": {
       "cache_version": 16,
@@ -38464,6 +38528,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "ssri": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:07.453000+00:00",
+      "fragment_status": "Auction",
+      "project": "ssri",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "ssui": {
       "cache_version": 16,
       "checked_at": "2026-05-11T21:19:34.254226+00:00",
@@ -41472,6 +41544,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "trex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:05.764685+00:00",
+      "fragment_status": "Auction",
+      "project": "trex",
+      "score": 92,
+      "source": "GitHub Topic (llm)"
+    },
     "trey": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:55.985812+00:00",
@@ -42503,6 +42583,14 @@
       "project": "undy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "unic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:06.016544+00:00",
+      "fragment_status": "Auction",
+      "project": "unic",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "unit": {
       "cache_version": 16,
@@ -45303,6 +45391,14 @@
       "project": "writ",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wstd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T05:10:07.692069+00:00",
+      "fragment_status": "Auction",
+      "project": "wstd",
+      "score": 78,
+      "source": "Crates.io"
     },
     "wterm": {
       "cache_version": 16,
