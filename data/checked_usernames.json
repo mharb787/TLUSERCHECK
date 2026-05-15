@@ -11168,6 +11168,14 @@
       "score": 89,
       "source": "Crates.io"
     },
+    "ecpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:30.073429+00:00",
+      "fragment_status": "Auction",
+      "project": "ecpy",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "ecru": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:28.710683+00:00",
@@ -12407,6 +12415,14 @@
       "project": "fads",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "faer": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:30.575286+00:00",
+      "fragment_status": "Auction",
+      "project": "faer",
+      "score": 89,
+      "source": "Crates.io"
     },
     "fafe": {
       "cache_version": 16,
@@ -18688,6 +18704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "iden": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:30.322211+00:00",
+      "fragment_status": "Auction",
+      "project": "iden",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "ides": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:24.092976+00:00",
@@ -18759,6 +18783,14 @@
       "project": "iftta",
       "score": 88,
       "source": "GitHub Topic (automation)"
+    },
+    "iggy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:29.149581+00:00",
+      "fragment_status": "Auction",
+      "project": "iggy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "iglu": {
       "cache_version": 16,
@@ -23808,6 +23840,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lkan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:29.596330+00:00",
+      "fragment_status": "Auction",
+      "project": "LKAN",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "lkml": {
       "cache_version": 16,
       "checked_at": "2026-05-12T20:22:41.612781+00:00",
@@ -26215,6 +26255,14 @@
       "project": "mine",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ming": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:29.379779+00:00",
+      "fragment_status": "Auction",
+      "project": "MING",
+      "score": 100,
+      "source": "GitHub Topic (llm)"
     },
     "mini": {
       "cache_version": 16,
@@ -29303,6 +29351,14 @@
       "project": "okay",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "okec": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T17:56:29.820561+00:00",
+      "fragment_status": "Auction",
+      "project": "okec",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "okeh": {
       "cache_version": 16,
