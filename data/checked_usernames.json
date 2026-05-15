@@ -7216,6 +7216,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "cner": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.138092+00:00",
+      "fragment_status": "Auction",
+      "project": "cner",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cnmsb": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:36.220780+00:00",
@@ -8087,6 +8095,14 @@
       "project": "Csrct",
       "score": 90,
       "source": "Hacker News Show HN"
+    },
+    "csta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.363102+00:00",
+      "fragment_status": "Auction",
+      "project": "CSTA",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cstr": {
       "cache_version": 16,
@@ -12399,6 +12415,14 @@
       "project": "eyry",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ezno": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:01.912610+00:00",
+      "fragment_status": "Auction",
+      "project": "ezno",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "face": {
       "cache_version": 16,
@@ -19048,6 +19072,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "imbl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:03.023792+00:00",
+      "fragment_status": "Auction",
+      "project": "imbl",
+      "score": 89,
+      "source": "Crates.io"
+    },
     "imid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:26.043998+00:00",
@@ -19471,6 +19503,14 @@
       "project": "isba",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "iseg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.471977+00:00",
+      "fragment_status": "Auction",
+      "project": "iSeg",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "isek": {
       "cache_version": 16,
@@ -25808,6 +25848,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mega": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.024815+00:00",
+      "fragment_status": "Auction",
+      "project": "mega",
+      "score": 96,
+      "source": "GitHub Topic (ai)"
+    },
     "meld": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:50.769078+00:00",
@@ -26079,6 +26127,14 @@
       "project": "mgrep",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mgrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.584106+00:00",
+      "fragment_status": "Auction",
+      "project": "mgrs",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "mhos": {
       "cache_version": 16,
@@ -26615,6 +26671,14 @@
       "project": "Mljar Studio",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "mlmw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.254275+00:00",
+      "fragment_status": "Auction",
+      "project": "mlmw",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mlop": {
       "cache_version": 16,
@@ -35416,6 +35480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "roma": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.806106+00:00",
+      "fragment_status": "Auction",
+      "project": "roma",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "rome": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:49.687971+00:00",
@@ -39064,6 +39136,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "sppm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.693369+00:00",
+      "fragment_status": "Auction",
+      "project": "sppm",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "sppo": {
       "cache_version": 16,
       "checked_at": "2026-05-15T14:40:54.527399+00:00",
@@ -40581,6 +40661,14 @@
       "checked_at": "2026-05-10T08:09:15.478344+00:00",
       "fragment_status": "Taken",
       "project": "tblib",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "tdda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:02.915711+00:00",
+      "fragment_status": "Auction",
+      "project": "tdda",
       "score": 88,
       "source": "PyPI Top"
     },
@@ -42175,6 +42263,14 @@
       "project": "TPGN",
       "score": 77,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "tqdm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:03.137401+00:00",
+      "fragment_status": "Auction",
+      "project": "tqdm",
+      "score": 77,
+      "source": "Crates.io"
     },
     "trad": {
       "cache_version": 16,
@@ -44471,6 +44567,14 @@
       "project": "VIZIO | WatchFree+",
       "score": 96,
       "source": "App Store Top"
+    },
+    "vllm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T21:38:01.806010+00:00",
+      "fragment_status": "Auction",
+      "project": "vllm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vlor": {
       "cache_version": 16,
