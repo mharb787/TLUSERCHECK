@@ -8664,6 +8664,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "dapr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:54.689086+00:00",
+      "fragment_status": "Auction",
+      "project": "dapr",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "daps": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:02.186775+00:00",
@@ -9319,6 +9327,14 @@
       "project": "desk",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "desp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:53.590141+00:00",
+      "fragment_status": "Auction",
+      "project": "desp",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "desto": {
       "cache_version": 16,
@@ -13344,6 +13360,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "flol": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:53.904470+00:00",
+      "fragment_status": "Auction",
+      "project": "FLOL",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "floop": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:12.356924+00:00",
@@ -15072,6 +15096,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gigl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:53.273768+00:00",
+      "fragment_status": "Auction",
+      "project": "GiGL",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "gigs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:28.787682+00:00",
@@ -15639,6 +15671,14 @@
       "project": "goku",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "golc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:52.647051+00:00",
+      "fragment_status": "Auction",
+      "project": "golc",
+      "score": 89,
+      "source": "GitHub Topic (ai)"
     },
     "gold": {
       "cache_version": 16,
@@ -18048,6 +18088,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "htcl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:53.432776+00:00",
+      "fragment_status": "Auction",
+      "project": "HTCL",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "htmz": {
       "cache_version": 16,
       "checked_at": "2026-05-13T19:18:57.715746+00:00",
@@ -18583,6 +18631,14 @@
       "project": "iglu",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "igor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:54.216572+00:00",
+      "fragment_status": "Auction",
+      "project": "IGOR",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "igra": {
       "cache_version": 16,
@@ -21040,6 +21096,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "kgpt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:52.962326+00:00",
+      "fragment_status": "Auction",
+      "project": "kgpt",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "khaf": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:48.576909+00:00",
@@ -22640,6 +22704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lber": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:55.011117+00:00",
+      "fragment_status": "Auction",
+      "project": "lber",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "lcme": {
       "cache_version": 16,
       "checked_at": "2026-05-11T16:14:57.029516+00:00",
@@ -23623,6 +23695,14 @@
       "project": "llmon",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "llmx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:53.118652+00:00",
+      "fragment_status": "Auction",
+      "project": "llmx",
+      "score": 76,
+      "source": "GitHub Topic (llm)"
     },
     "llrt": {
       "cache_version": 16,
@@ -28624,6 +28704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "oapt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:54.059892+00:00",
+      "fragment_status": "Auction",
+      "project": "OAPT",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "oars": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:37.741026+00:00",
@@ -29200,6 +29288,14 @@
       "score": 100,
       "source": "GitHub Trending (monthly)"
     },
+    "omni": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:52.805773+00:00",
+      "fragment_status": "Auction",
+      "project": "omni",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "omsk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:46.485247+00:00",
@@ -29383,6 +29479,14 @@
       "project": "opes",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "opik": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:52.178199+00:00",
+      "fragment_status": "Auction",
+      "project": "opik",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "opit": {
       "cache_version": 16,
@@ -33632,6 +33736,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "rasa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:54.374322+00:00",
+      "fragment_status": "Auction",
+      "project": "rasa",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "rase": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:50.737037+00:00",
@@ -36000,6 +36112,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sbpf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:54.854193+00:00",
+      "fragment_status": "Auction",
+      "project": "solana sbpf",
+      "score": 78,
+      "source": "Crates.io"
+    },
     "scab": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:22.214765+00:00",
@@ -38016,6 +38136,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "somo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:52.334065+00:00",
+      "fragment_status": "Auction",
+      "project": "somo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sone": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:00.722943+00:00",
@@ -38215,6 +38343,14 @@
       "project": "sous",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sowa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:53.746929+00:00",
+      "fragment_status": "Auction",
+      "project": "sowa",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "sown": {
       "cache_version": 16,
@@ -44480,6 +44616,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "webc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:55.168185+00:00",
+      "fragment_status": "Auction",
+      "project": "webc",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "webob": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:21.917369+00:00",
@@ -45728,6 +45872,14 @@
       "score": 88,
       "source": "GitHub Topic (vector-database)"
     },
+    "xorf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:55.325772+00:00",
+      "fragment_status": "Auction",
+      "project": "xorf",
+      "score": 90,
+      "source": "Crates.io"
+    },
     "xrag": {
       "cache_version": 16,
       "checked_at": "2026-05-12T16:58:19.666629+00:00",
@@ -45735,6 +45887,14 @@
       "project": "XRAG",
       "score": 89,
       "source": "GitHub Topic (llm)"
+    },
+    "xray": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:52.491893+00:00",
+      "fragment_status": "Auction",
+      "project": "Xray",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xsai": {
       "cache_version": 16,
@@ -46943,6 +47103,14 @@
       "project": "zeya",
       "score": 93,
       "source": "City Names"
+    },
+    "zfit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T10:38:54.529031+00:00",
+      "fragment_status": "Auction",
+      "project": "zfit",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "zhob": {
       "cache_version": 16,
