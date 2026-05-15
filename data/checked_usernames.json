@@ -1984,6 +1984,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "arcp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:15.882481+00:00",
+      "fragment_status": "Auction",
+      "project": "arcp",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "arcs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:18.457963+00:00",
@@ -8088,6 +8096,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "csec": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:15.550177+00:00",
+      "fragment_status": "Auction",
+      "project": "CSEC",
+      "score": 89,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "csrct": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:38.730346+00:00",
@@ -9960,6 +9976,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "dlpr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:15.384454+00:00",
+      "fragment_status": "Auction",
+      "project": "DLPR",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dlsc": {
       "cache_version": 16,
       "checked_at": "2026-05-15T12:20:57.835458+00:00",
@@ -9975,6 +9999,14 @@
       "project": "DMSR",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "dnrt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:15.201773+00:00",
+      "fragment_status": "Auction",
+      "project": "DNRT",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "doat": {
       "cache_version": 16,
@@ -19088,6 +19120,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "imml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:14.882368+00:00",
+      "fragment_status": "Auction",
+      "project": "imml",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "immy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:26.161168+00:00",
@@ -19863,6 +19903,14 @@
       "project": "jazz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jbly": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:14.558821+00:00",
+      "fragment_status": "Auction",
+      "project": "JBLY",
+      "score": 76,
+      "source": "GitHub Topic (ai)"
     },
     "jcode": {
       "cache_version": 14,
@@ -25752,6 +25800,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mctf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:15.710405+00:00",
+      "fragment_status": "Auction",
+      "project": "MCTF",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "mdcx": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:05.998205+00:00",
@@ -26767,6 +26823,14 @@
       "project": "MoBA",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mobc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:16.042530+00:00",
+      "fragment_status": "Auction",
+      "project": "mobc",
+      "score": 89,
+      "source": "Crates.io"
     },
     "mobs": {
       "cache_version": 16,
@@ -31160,6 +31224,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pdll": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:15.041415+00:00",
+      "fragment_status": "Auction",
+      "project": "pdll",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "pdoc": {
       "cache_version": 16,
       "checked_at": "2026-05-11T23:31:29.518650+00:00",
@@ -32295,6 +32367,14 @@
       "project": "pocs",
       "score": 88,
       "source": "GitHub Trending (daily)"
+    },
+    "podd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:14.720726+00:00",
+      "fragment_status": "Auction",
+      "project": "PoDD",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pods": {
       "cache_version": 16,
@@ -35791,6 +35871,14 @@
       "project": "rtree",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "rtvc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T22:34:14.396024+00:00",
+      "fragment_status": "Auction",
+      "project": "rtvc",
+      "score": 76,
+      "source": "GitHub Topic (ai)"
     },
     "rube": {
       "cache_version": 16,
