@@ -6568,6 +6568,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cgpt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:10.369360+00:00",
+      "fragment_status": "Auction",
+      "project": "cgpt",
+      "score": 75,
+      "source": "GitHub Topic (llm)"
+    },
     "chad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:27.998101+00:00",
@@ -7519,6 +7527,14 @@
       "project": "conan",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "conc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:09.436679+00:00",
+      "fragment_status": "Auction",
+      "project": "conc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cone": {
       "cache_version": 16,
@@ -9528,6 +9544,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dgdm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:10.612928+00:00",
+      "fragment_status": "Auction",
+      "project": "dgdm",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dgpw": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:44.857266+00:00",
@@ -10696,6 +10720,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "dspy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:09.205636+00:00",
+      "fragment_status": "Auction",
+      "project": "dspy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dtctl": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:37.778194+00:00",
@@ -10975,6 +11007,14 @@
       "project": "dupe",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dupl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:10.844744+00:00",
+      "fragment_status": "Auction",
+      "project": "DuPL",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "dups": {
       "cache_version": 16,
@@ -22280,6 +22320,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kubb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:09.902491+00:00",
+      "fragment_status": "Auction",
+      "project": "kubb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kube": {
       "cache_version": 16,
       "checked_at": "2026-05-12T04:49:01.938787+00:00",
@@ -28648,6 +28696,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "nnse": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:10.134535+00:00",
+      "fragment_status": "Auction",
+      "project": "nnse",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "nobs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:23.975391+00:00",
@@ -28695,6 +28751,14 @@
       "project": "nodi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nodl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:09.669276+00:00",
+      "fragment_status": "Auction",
+      "project": "nodl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nods": {
       "cache_version": 16,
@@ -36952,6 +37016,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "seco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:11.083312+00:00",
+      "fragment_status": "Auction",
+      "project": "SeCo",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "secs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:25.811309+00:00",
@@ -40752,6 +40824,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "tcod": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:11.551800+00:00",
+      "fragment_status": "Auction",
+      "project": "tcod",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "tdda": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:02.915711+00:00",
@@ -43760,6 +43840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ustr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:11.782262+00:00",
+      "fragment_status": "Auction",
+      "project": "ustr",
+      "score": 89,
+      "source": "Crates.io"
+    },
     "usvg": {
       "cache_version": 16,
       "checked_at": "2026-05-12T23:43:06.364494+00:00",
@@ -43927,6 +44015,14 @@
       "project": "vang",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vanp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-15T23:31:11.319142+00:00",
+      "fragment_status": "Auction",
+      "project": "VANP",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "vans": {
       "cache_version": 16,
