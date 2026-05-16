@@ -2224,6 +2224,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "arpl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:42.241252+00:00",
+      "fragment_status": "Auction",
+      "project": "arpl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "arse": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:19.490928+00:00",
@@ -8264,6 +8272,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "ctag": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:42.789813+00:00",
+      "fragment_status": "Auction",
+      "project": "ctag",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "ctor": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:32.312356+00:00",
@@ -10840,6 +10856,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "drsm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:42.962402+00:00",
+      "fragment_status": "Auction",
+      "project": "DRSM",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "drub": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:21.581834+00:00",
@@ -11767,6 +11791,14 @@
       "project": "eket",
       "score": 93,
       "source": "City Names"
+    },
+    "ekyc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:43.468963+00:00",
+      "fragment_status": "Auction",
+      "project": "eKYC",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "elan": {
       "cache_version": 16,
@@ -13959,6 +13991,14 @@
       "project": "Fluiq",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "flup": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:43.823364+00:00",
+      "fragment_status": "Auction",
+      "project": "flup",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "flus": {
       "cache_version": 16,
@@ -23528,6 +23568,14 @@
       "score": 87,
       "source": "GitHub Topic (neural-network)"
     },
+    "lcpr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:43.118582+00:00",
+      "fragment_status": "Auction",
+      "project": "LCPR",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lddc": {
       "cache_version": 16,
       "checked_at": "2026-05-13T20:57:32.339520+00:00",
@@ -32464,6 +32512,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "piet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:44.019990+00:00",
+      "fragment_status": "Auction",
+      "project": "piet",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "pigs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:11.819548+00:00",
@@ -36600,6 +36656,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "rspc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:42.611635+00:00",
+      "fragment_status": "Auction",
+      "project": "rspc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rsta": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:49.038760+00:00",
@@ -38159,6 +38223,14 @@
       "project": "sgqlc",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "shab": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:43.647328+00:00",
+      "fragment_status": "Auction",
+      "project": "Shab-e-Barat",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "shad": {
       "cache_version": 16,
@@ -40391,6 +40463,14 @@
       "project": "STHD",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "sthn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:43.285296+00:00",
+      "fragment_status": "Auction",
+      "project": "STHN",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "stim": {
       "cache_version": 16,
@@ -47735,6 +47815,14 @@
       "project": "xllm",
       "score": 83,
       "source": "GitHub Topic (llm)"
+    },
+    "xlog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T19:41:42.416350+00:00",
+      "fragment_status": "Auction",
+      "project": "xLog",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xmem": {
       "cache_version": 16,
