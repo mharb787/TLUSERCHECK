@@ -13416,6 +13416,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fing": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:42.678925+00:00",
+      "fragment_status": "Auction",
+      "project": "fing",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "fink": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:06.217984+00:00",
@@ -24424,6 +24432,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "llms": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:43.027492+00:00",
+      "fragment_status": "Auction",
+      "project": "Finance LLMs",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "llmx": {
       "cache_version": 16,
       "checked_at": "2026-05-15T10:38:53.118652+00:00",
@@ -27167,6 +27183,14 @@
       "project": "MMaDA",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mmca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:43.377297+00:00",
+      "fragment_status": "Auction",
+      "project": "MMCA",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
     },
     "mmcif": {
       "cache_version": 16,
@@ -32440,6 +32464,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pims": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:43.562965+00:00",
+      "fragment_status": "Auction",
+      "project": "pims",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "pina": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:13.492159+00:00",
@@ -34327,6 +34359,14 @@
       "project": "Qbot",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "qcms": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:43.904876+00:00",
+      "fragment_status": "Auction",
+      "project": "qcms",
+      "score": 76,
+      "source": "Crates.io"
     },
     "qeep": {
       "cache_version": 16,
@@ -37655,6 +37695,14 @@
       "project": "seer",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "seev": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:43.201944+00:00",
+      "fragment_status": "Auction",
+      "project": "seeV",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "sego": {
       "cache_version": 16,
@@ -41447,6 +41495,14 @@
       "project": "tdda",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "tdrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:42.505587+00:00",
+      "fragment_status": "Auction",
+      "project": "TDRS",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
     },
     "teak": {
       "cache_version": 16,
@@ -45672,6 +45728,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "wabt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:43.730858+00:00",
+      "fragment_status": "Auction",
+      "project": "wabt",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "wabu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:10.263444+00:00",
@@ -47503,6 +47567,14 @@
       "project": "xorf",
       "score": 90,
       "source": "Crates.io"
+    },
+    "xorq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T16:35:42.854589+00:00",
+      "fragment_status": "Auction",
+      "project": "xorq",
+      "score": 97,
+      "source": "GitHub Topic (machine-learning)"
     },
     "xrag": {
       "cache_version": 16,
