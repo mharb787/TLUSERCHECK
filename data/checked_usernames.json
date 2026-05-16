@@ -1304,6 +1304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.700200+00:00",
+      "fragment_status": "Auction",
+      "project": "alpm",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "alpr": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:49.601075+00:00",
@@ -15392,6 +15400,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ggml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.369867+00:00",
+      "fragment_status": "Auction",
+      "project": "ggml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gguf": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.324885+00:00",
@@ -18568,6 +18584,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "htpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.591328+00:00",
+      "fragment_status": "Auction",
+      "project": "htpy",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "http": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:27.204573+00:00",
@@ -20631,6 +20655,14 @@
       "project": "jona",
       "score": 93,
       "source": "City Names"
+    },
+    "jooq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.258510+00:00",
+      "fragment_status": "Auction",
+      "project": "JOOQ",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "jora": {
       "cache_version": 16,
@@ -35360,6 +35392,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "reth": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.480039+00:00",
+      "fragment_status": "Auction",
+      "project": "reth",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rets": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:58.280465+00:00",
@@ -38327,6 +38367,14 @@
       "project": "sima",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "simd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.150508+00:00",
+      "fragment_status": "Auction",
+      "project": "SIMD",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "simp": {
       "cache_version": 16,
@@ -42079,6 +42127,14 @@
       "project": "time",
       "score": 100,
       "source": "Crates.io"
+    },
+    "tina": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T13:53:12.041352+00:00",
+      "fragment_status": "Auction",
+      "project": "Tina",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "tine": {
       "cache_version": 16,
