@@ -224,6 +224,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "acli": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T08:52:29.703164+00:00",
+      "fragment_status": "Auction",
+      "project": "acli",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "aclm": {
       "cache_version": 16,
       "checked_at": "2026-05-15T14:40:54.351815+00:00",
@@ -26856,6 +26864,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "mlgb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T08:52:29.880001+00:00",
+      "fragment_status": "Auction",
+      "project": "mlgb",
+      "score": 92,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlhp": {
       "cache_version": 16,
       "checked_at": "2026-05-12T14:47:42.394293+00:00",
@@ -39456,6 +39472,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "spmc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T08:52:30.227832+00:00",
+      "fragment_status": "Auction",
+      "project": "spmc",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "spot": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:07.161319+00:00",
@@ -43784,6 +43808,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "undb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T08:52:29.517168+00:00",
+      "fragment_status": "Auction",
+      "project": "undb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "unde": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:07.345868+00:00",
@@ -45471,6 +45503,14 @@
       "project": "waps",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "warc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T08:52:30.053877+00:00",
+      "fragment_status": "Auction",
+      "project": "warc",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ward": {
       "cache_version": 16,
