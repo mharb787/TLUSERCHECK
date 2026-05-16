@@ -6760,6 +6760,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cher": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.571887+00:00",
+      "fragment_status": "Auction",
+      "project": "Cher",
+      "score": 88,
+      "source": "Wikipedia Trending"
+    },
     "chess": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:26.788382+00:00",
@@ -8591,6 +8599,14 @@
       "project": "cyan",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cyfs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.108627+00:00",
+      "fragment_status": "Auction",
+      "project": "CYFS",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cyma": {
       "cache_version": 16,
@@ -12728,6 +12744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ezkl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.224062+00:00",
+      "fragment_status": "Auction",
+      "project": "ezkl",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
+    },
     "ezno": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:01.912610+00:00",
@@ -15272,6 +15296,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gcdp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.455440+00:00",
+      "fragment_status": "Auction",
+      "project": "GCDP",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "gcop": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.441391+00:00",
@@ -16807,6 +16839,14 @@
       "project": "gtts",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "guac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:24.992400+00:00",
+      "fragment_status": "Auction",
+      "project": "guac",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "guan": {
       "cache_version": 16,
@@ -18744,6 +18784,14 @@
       "score": 92,
       "source": "Crates.io"
     },
+    "hrms": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:24.759150+00:00",
+      "fragment_status": "Auction",
+      "project": "hrms",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hrtx": {
       "cache_version": 16,
       "checked_at": "2026-05-14T15:33:24.749722+00:00",
@@ -20655,6 +20703,14 @@
       "project": "jimp",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jina": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.804640+00:00",
+      "fragment_status": "Auction",
+      "project": "jina",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "jink": {
       "cache_version": 16,
@@ -29776,6 +29832,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "nvim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:24.875894+00:00",
+      "fragment_status": "Auction",
+      "project": "Launch.nvim",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nvtx": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.801090+00:00",
@@ -31887,6 +31951,14 @@
       "project": "PCBai",
       "score": 97,
       "source": "GitHub Topic (automation)"
+    },
+    "pcsc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:26.038867+00:00",
+      "fragment_status": "Auction",
+      "project": "pcsc",
+      "score": 76,
+      "source": "Crates.io"
     },
     "pdbp": {
       "cache_version": 16,
@@ -34304,6 +34376,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pydo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.923053+00:00",
+      "fragment_status": "Auction",
+      "project": "pydo",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "pydot": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.541959+00:00",
@@ -34406,6 +34486,14 @@
       "fragment_status": "Auction",
       "project": "pymc",
       "score": 76,
+      "source": "PyPI Top"
+    },
+    "pyop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.689227+00:00",
+      "fragment_status": "Auction",
+      "project": "pyop",
+      "score": 88,
       "source": "PyPI Top"
     },
     "pyotp": {
@@ -37015,6 +37103,14 @@
       "project": "ruwa",
       "score": 93,
       "source": "City Names"
+    },
+    "rvld": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T20:26:25.339961+00:00",
+      "fragment_status": "Auction",
+      "project": "RVLD",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "rwkv": {
       "cache_version": 16,
