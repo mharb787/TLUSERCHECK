@@ -8744,6 +8744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "damm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:10.999335+00:00",
+      "fragment_status": "Auction",
+      "project": "DAMM",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "damn": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:01.605912+00:00",
@@ -11719,6 +11727,14 @@
       "project": "elmy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "elog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:10.322990+00:00",
+      "fragment_status": "Auction",
+      "project": "elog",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "eloy": {
       "cache_version": 16,
@@ -24216,6 +24232,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lmql": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:09.990220+00:00",
+      "fragment_status": "Auction",
+      "project": "lmql",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "load": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:21.961000+00:00",
@@ -27816,6 +27840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "myne": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:10.492807+00:00",
+      "fragment_status": "Auction",
+      "project": "Myne",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mysti": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:58.834289+00:00",
@@ -30440,6 +30472,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "osam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:10.832303+00:00",
+      "fragment_status": "Auction",
+      "project": "osam",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "osan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:09.598967+00:00",
@@ -31519,6 +31559,14 @@
       "project": "pees",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "peft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:09.649317+00:00",
+      "fragment_status": "Auction",
+      "project": "peft",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pegs": {
       "cache_version": 16,
@@ -33928,6 +33976,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "qbot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:09.824577+00:00",
+      "fragment_status": "Auction",
+      "project": "Qbot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qeep": {
       "cache_version": 16,
       "checked_at": "2026-05-15T12:20:58.371531+00:00",
@@ -33983,6 +34039,14 @@
       "project": "qllm",
       "score": 75,
       "source": "GitHub Topic (ai)"
+    },
+    "qlog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:11.341148+00:00",
+      "fragment_status": "Auction",
+      "project": "qlog",
+      "score": 88,
+      "source": "Crates.io"
     },
     "qods": {
       "cache_version": 16,
@@ -42656,6 +42720,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "tres": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:10.155913+00:00",
+      "fragment_status": "Auction",
+      "project": "tres",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tret": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:55.831563+00:00",
@@ -43488,6 +43560,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "uefi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:11.172303+00:00",
+      "fragment_status": "Auction",
+      "project": "uefi",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ufmt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.613415+00:00",
@@ -44023,6 +44103,14 @@
       "project": "utas",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "utca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T07:02:10.667401+00:00",
+      "fragment_status": "Auction",
+      "project": "utca",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "utoo": {
       "cache_version": 16,
