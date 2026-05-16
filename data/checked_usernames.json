@@ -1304,6 +1304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alpr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:49.601075+00:00",
+      "fragment_status": "Auction",
+      "project": "ALPR",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "alps": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:12.378822+00:00",
@@ -1855,6 +1863,14 @@
       "project": "ApiQ",
       "score": 87,
       "source": "GitHub Topic (llm)"
+    },
+    "aplr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:50.526428+00:00",
+      "fragment_status": "Auction",
+      "project": "aplr",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "apod": {
       "cache_version": 16,
@@ -7248,6 +7264,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "cnas": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:49.829734+00:00",
+      "fragment_status": "Auction",
+      "project": "CNAS",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "cner": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:02.138092+00:00",
@@ -9143,6 +9167,14 @@
       "project": "dcup",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "ddnm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:49.138917+00:00",
+      "fragment_status": "Auction",
+      "project": "DDNM",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dead": {
       "cache_version": 16,
@@ -11888,6 +11920,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "emot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:50.065080+00:00",
+      "fragment_status": "Auction",
+      "project": "emot",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "empy": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.367548+00:00",
@@ -11999,6 +12039,14 @@
       "project": "enow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ente": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:48.683264+00:00",
+      "fragment_status": "Auction",
+      "project": "ente",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "envs": {
       "cache_version": 16,
@@ -15031,6 +15079,14 @@
       "project": "gcovr",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "gcra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:51.485033+00:00",
+      "fragment_status": "Auction",
+      "project": "gcra",
+      "score": 88,
+      "source": "Crates.io"
     },
     "gdal": {
       "cache_version": 16,
@@ -28576,6 +28632,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "nias": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:51.028404+00:00",
+      "fragment_status": "Auction",
+      "project": "nias",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "nibs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:21.192469+00:00",
@@ -28615,6 +28679,22 @@
       "project": "nidi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "niet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:50.299987+00:00",
+      "fragment_status": "Auction",
+      "project": "niet",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "nifi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:49.365431+00:00",
+      "fragment_status": "Auction",
+      "project": "nifi",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
     },
     "nigg": {
       "cache_version": 16,
@@ -37072,6 +37152,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "scip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:51.258471+00:00",
+      "fragment_status": "Auction",
+      "project": "scip",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "scop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:23.583444+00:00",
@@ -37151,6 +37239,14 @@
       "project": "scut",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sdfc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:48.908884+00:00",
+      "fragment_status": "Auction",
+      "project": "SDFC",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sdfx": {
       "cache_version": 16,
@@ -42743,6 +42839,14 @@
       "project": "Trent",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "treq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T10:05:50.803071+00:00",
+      "fragment_status": "Auction",
+      "project": "treq",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "tres": {
       "cache_version": 16,
