@@ -12032,6 +12032,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "epiq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:30.727690+00:00",
+      "fragment_status": "Auction",
+      "project": "Epiq",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "eplb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:00.338018+00:00",
@@ -13743,6 +13751,14 @@
       "project": "flwr",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "fmat": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.081367+00:00",
+      "fragment_status": "Auction",
+      "project": "FMAT",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "foal": {
       "cache_version": 16,
@@ -20752,6 +20768,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "jynx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.191584+00:00",
+      "fragment_status": "Auction",
+      "project": "Jynx",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "jzon": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:05.491329+00:00",
@@ -25879,6 +25903,14 @@
       "project": "mdlib",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "mdml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.459771+00:00",
+      "fragment_status": "Auction",
+      "project": "mdml",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "mdxg": {
       "cache_version": 16,
@@ -31832,6 +31864,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pico": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:30.843409+00:00",
+      "fragment_status": "Auction",
+      "project": "Pico-intl",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "pics": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:11.158587+00:00",
@@ -32407,6 +32447,14 @@
       "project": "pnet",
       "score": 99,
       "source": "Crates.io"
+    },
+    "pnnx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.695296+00:00",
+      "fragment_status": "Auction",
+      "project": "pnnx",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "pock": {
       "cache_version": 16,
@@ -35896,6 +35944,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rtag": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.571478+00:00",
+      "fragment_status": "Auction",
+      "project": "rtag",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "rtcp": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:45.091256+00:00",
@@ -38527,6 +38583,14 @@
       "project": "smut",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "snac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.348090+00:00",
+      "fragment_status": "Auction",
+      "project": "snac",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
     },
     "snag": {
       "cache_version": 16,
@@ -41847,6 +41911,14 @@
       "project": "toba",
       "score": 93,
       "source": "City Names"
+    },
+    "tobj": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:31.806474+00:00",
+      "fragment_status": "Auction",
+      "project": "tobj",
+      "score": 88,
+      "source": "Crates.io"
     },
     "tobr": {
       "cache_version": 16,
@@ -48111,6 +48183,14 @@
       "project": "zink",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "zino": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T01:16:30.969452+00:00",
+      "fragment_status": "Auction",
+      "project": "zino",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zins": {
       "cache_version": 16,
