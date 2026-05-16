@@ -2592,6 +2592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "atra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:58.872736+00:00",
+      "fragment_status": "Auction",
+      "project": "atra",
+      "score": 87,
+      "source": "GitHub Topic (llm)"
+    },
     "attr": {
       "cache_version": 16,
       "checked_at": "2026-05-14T13:14:49.619627+00:00",
@@ -2719,6 +2727,14 @@
       "project": "avid",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "avit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:59.308372+00:00",
+      "fragment_status": "Auction",
+      "project": "AViT",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "avnac": {
       "cache_version": 16,
@@ -11079,6 +11095,14 @@
       "project": "duff",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dufs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:58.762575+00:00",
+      "fragment_status": "Auction",
+      "project": "dufs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dugs": {
       "cache_version": 16,
@@ -28768,6 +28792,14 @@
       "score": 83,
       "source": "GitHub Topic (computer-vision)"
     },
+    "ndif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:59.091221+00:00",
+      "fragment_status": "Auction",
+      "project": "ndif",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "ndop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:42.250606+00:00",
@@ -28904,6 +28936,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nemf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:59.199507+00:00",
+      "fragment_status": "Auction",
+      "project": "NeMF",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "nemo": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:07.525190+00:00",
@@ -28911,6 +28951,14 @@
       "project": "NeMO",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "nenv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:59.416892+00:00",
+      "fragment_status": "Auction",
+      "project": "NEnv",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "neon": {
       "cache_version": 16,
@@ -31551,6 +31599,14 @@
       "project": "pale",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pali": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T21:08:58.983339+00:00",
+      "fragment_status": "Auction",
+      "project": "PALI",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pall": {
       "cache_version": 16,
