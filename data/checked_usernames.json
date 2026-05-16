@@ -7176,6 +7176,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "clio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.472938+00:00",
+      "fragment_status": "Auction",
+      "project": "clio",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "clip": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:32.452485+00:00",
@@ -7287,6 +7295,14 @@
       "project": "cmake",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "cmdk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:22.575287+00:00",
+      "fragment_status": "Auction",
+      "project": "cmdk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cmov": {
       "cache_version": 16,
@@ -10104,6 +10120,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "djot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:22.688392+00:00",
+      "fragment_status": "Auction",
+      "project": "djot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dlib": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:08.314732+00:00",
@@ -11639,6 +11663,14 @@
       "project": "eggy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "egic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.137785+00:00",
+      "fragment_status": "Auction",
+      "project": "EGIC",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "egis": {
       "cache_version": 16,
@@ -21080,6 +21112,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "jyso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:22.799236+00:00",
+      "fragment_status": "Auction",
+      "project": "JYso",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jzon": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:05.491329+00:00",
@@ -27616,6 +27656,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mopa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.699693+00:00",
+      "fragment_status": "Auction",
+      "project": "mopa",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "mope": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:06.148006+00:00",
@@ -27823,6 +27871,14 @@
       "project": "mozo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mpid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:22.911066+00:00",
+      "fragment_status": "Auction",
+      "project": "MPID",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "mpire": {
       "cache_version": 16,
@@ -34368,6 +34424,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pyts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.249467+00:00",
+      "fragment_status": "Auction",
+      "project": "pyts",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pyusb": {
       "cache_version": 16,
       "checked_at": "2026-05-10T22:08:02.010866+00:00",
@@ -38896,6 +38960,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "skpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.023213+00:00",
+      "fragment_status": "Auction",
+      "project": "skpm",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "skua": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:50.195851+00:00",
@@ -41574,6 +41646,14 @@
       "fragment_status": "Auction",
       "project": "tdda",
       "score": 88,
+      "source": "PyPI Top"
+    },
+    "tdqm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.360851+00:00",
+      "fragment_status": "Auction",
+      "project": "tdqm",
+      "score": 76,
       "source": "PyPI Top"
     },
     "tdrs": {
@@ -47703,6 +47783,14 @@
       "project": "xsai",
       "score": 100,
       "source": "GitHub Topic (ai)"
+    },
+    "xsum": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T18:33:23.590593+00:00",
+      "fragment_status": "Auction",
+      "project": "xsum",
+      "score": 88,
+      "source": "Crates.io"
     },
     "xtalk": {
       "cache_version": 16,
