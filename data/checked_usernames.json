@@ -7328,6 +7328,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "cmap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.513986+00:00",
+      "fragment_status": "Auction",
+      "project": "cmap",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "cmdk": {
       "cache_version": 16,
       "checked_at": "2026-05-16T18:33:22.575287+00:00",
@@ -11776,6 +11784,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "eido": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.162293+00:00",
+      "fragment_status": "Auction",
+      "project": "eido",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "eino": {
       "cache_version": 16,
       "checked_at": "2026-05-11T22:30:48.336631+00:00",
@@ -12423,6 +12439,14 @@
       "project": "erst",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "esda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.043195+00:00",
+      "fragment_status": "Auction",
+      "project": "esda",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "esik": {
       "cache_version": 16,
@@ -19224,6 +19248,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ical": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.632253+00:00",
+      "fragment_status": "Auction",
+      "project": "ical",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "iced": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:23.265737+00:00",
@@ -23768,6 +23800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "leci": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:38.681191+00:00",
+      "fragment_status": "Auction",
+      "project": "LECI",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lede": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:18.580100+00:00",
@@ -25224,6 +25264,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ltmp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:38.797661+00:00",
+      "fragment_status": "Auction",
+      "project": "ltmp",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "luau": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:33.958400+00:00",
@@ -26047,6 +26095,14 @@
       "project": "mapo",
       "score": 93,
       "source": "City Names"
+    },
+    "mapr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.747425+00:00",
+      "fragment_status": "Auction",
+      "project": "mapr",
+      "score": 88,
+      "source": "Crates.io"
     },
     "maps": {
       "cache_version": 16,
@@ -32007,6 +32063,14 @@
       "project": "PCBai",
       "score": 97,
       "source": "GitHub Topic (automation)"
+    },
+    "pccm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.279236+00:00",
+      "fragment_status": "Auction",
+      "project": "pccm",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "pcsc": {
       "cache_version": 16,
@@ -41864,6 +41928,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "tbtc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:38.925836+00:00",
+      "fragment_status": "Auction",
+      "project": "TBTC",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "tcod": {
       "cache_version": 16,
       "checked_at": "2026-05-15T23:31:11.551800+00:00",
@@ -49519,6 +49591,14 @@
       "project": "zoos",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zope": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:01:39.392901+00:00",
+      "fragment_status": "Auction",
+      "project": "zope",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "zori": {
       "cache_version": 16,
