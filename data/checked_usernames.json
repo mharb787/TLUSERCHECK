@@ -6448,6 +6448,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cbam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:20.483882+00:00",
+      "fragment_status": "Auction",
+      "project": "CBAM",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "cbor": {
       "cache_version": 16,
       "checked_at": "2026-05-12T22:46:22.471361+00:00",
@@ -6472,6 +6480,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "ccml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:20.656178+00:00",
+      "fragment_status": "Auction",
+      "project": "ccml",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "cctv": {
       "cache_version": 16,
       "checked_at": "2026-05-13T08:09:11.772590+00:00",
@@ -6479,6 +6495,14 @@
       "project": "CCTV",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "cdan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:20.823652+00:00",
+      "fragment_status": "Auction",
+      "project": "CDAN",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "cdktf": {
       "cache_version": 16,
@@ -9304,6 +9328,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ddpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:20.314044+00:00",
+      "fragment_status": "Auction",
+      "project": "ddpm",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:04.344235+00:00",
@@ -9655,6 +9687,14 @@
       "project": "derm",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dery": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:19.974433+00:00",
+      "fragment_status": "Taken",
+      "project": "DeRy",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
     },
     "desk": {
       "cache_version": 16,
@@ -15680,6 +15720,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ghdl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:20.995383+00:00",
+      "fragment_status": "Auction",
+      "project": "ghdl",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "ghee": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:27.573036+00:00",
@@ -20287,6 +20335,14 @@
       "project": "jake",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jakt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:19.412907+00:00",
+      "fragment_status": "Auction",
+      "project": "jakt",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jamb": {
       "cache_version": 16,
@@ -27416,6 +27472,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "mlir": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:19.234682+00:00",
+      "fragment_status": "Auction",
+      "project": "MLIR",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "mljar": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:17.700188+00:00",
@@ -27456,6 +27520,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "mmap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:21.336023+00:00",
+      "fragment_status": "Auction",
+      "project": "mmap",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "mmca": {
       "cache_version": 16,
       "checked_at": "2026-05-16T16:35:43.377297+00:00",
@@ -27487,6 +27559,14 @@
       "project": "MMOS",
       "score": 88,
       "source": "GitHub Topic (llm)"
+    },
+    "mmrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:19.588565+00:00",
+      "fragment_status": "Auction",
+      "project": "MMRL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mmtb": {
       "cache_version": 16,
@@ -30775,6 +30855,14 @@
       "project": "opal",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "opda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:20.144183+00:00",
+      "fragment_status": "Auction",
+      "project": "opda",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "oped": {
       "cache_version": 16,
@@ -39127,6 +39215,14 @@
       "project": "skald",
       "score": 98,
       "source": "GitHub Topic (ai)"
+    },
+    "skan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:21.167376+00:00",
+      "fragment_status": "Auction",
+      "project": "skan",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "skar": {
       "cache_version": 16,
@@ -47767,6 +47863,14 @@
       "project": "wren",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wreq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T22:54:21.503601+00:00",
+      "fragment_status": "Auction",
+      "project": "wreq",
+      "score": 88,
+      "source": "Crates.io"
     },
     "writ": {
       "cache_version": 16,
