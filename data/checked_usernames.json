@@ -13544,6 +13544,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "flad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T14:45:06.734197+00:00",
+      "fragment_status": "Auction",
+      "project": "FLAD",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
+    },
     "flag": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:07.970080+00:00",
@@ -15943,6 +15951,14 @@
       "project": "gmsh",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "gnap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T14:45:06.252502+00:00",
+      "fragment_status": "Auction",
+      "project": "GNAP",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "gnar": {
       "cache_version": 16,
@@ -19527,6 +19543,14 @@
       "project": "into",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "intr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T14:45:06.893647+00:00",
+      "fragment_status": "Auction",
+      "project": "INTR",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "invio": {
       "cache_version": 16,
@@ -27647,6 +27671,14 @@
       "project": "moyo",
       "score": 93,
       "source": "City Names"
+    },
+    "moyu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T14:45:06.575534+00:00",
+      "fragment_status": "Auction",
+      "project": "moyu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mozo": {
       "cache_version": 16,
@@ -43895,6 +43927,14 @@
       "project": "uefi",
       "score": 88,
       "source": "Crates.io"
+    },
+    "uevr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T14:45:06.413588+00:00",
+      "fragment_status": "Auction",
+      "project": "UEVR",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ufmt": {
       "cache_version": 16,
