@@ -6928,6 +6928,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cini": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T12:04:52.007757+00:00",
+      "fragment_status": "Auction",
+      "project": "cini",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "cint": {
       "cache_version": 16,
       "checked_at": "2026-05-12T16:58:20.538841+00:00",
@@ -22104,6 +22112,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "knip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T12:04:51.640780+00:00",
+      "fragment_status": "Auction",
+      "project": "knip",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "knit": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:55.272940+00:00",
@@ -35816,6 +35832,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rnbw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T12:04:51.878707+00:00",
+      "fragment_status": "Auction",
+      "project": "rnbw",
+      "score": 76,
+      "source": "GitHub Topic (ai)"
+    },
     "rnet": {
       "cache_version": 16,
       "checked_at": "2026-05-13T20:57:33.420545+00:00",
@@ -43040,6 +43064,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "trlx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T12:04:51.761111+00:00",
+      "fragment_status": "Auction",
+      "project": "trlx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "trod": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:56.619205+00:00",
@@ -43607,6 +43639,14 @@
       "project": "tyne",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tynm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-16T12:04:52.120128+00:00",
+      "fragment_status": "Auction",
+      "project": "tynm",
+      "score": 76,
+      "source": "Crates.io"
     },
     "type": {
       "cache_version": 16,
