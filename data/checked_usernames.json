@@ -10144,6 +10144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dhrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:29.208014+00:00",
+      "fragment_status": "Auction",
+      "project": "dhrl official",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dial": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:09.727211+00:00",
@@ -11352,6 +11360,14 @@
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
     },
+    "dtls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:29.561841+00:00",
+      "fragment_status": "Auction",
+      "project": "dtls",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "dtoa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T21:19:35.097007+00:00",
@@ -12127,6 +12143,14 @@
       "project": "eger",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eget": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:28.881042+00:00",
+      "fragment_status": "Auction",
+      "project": "eget",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "eggs": {
       "cache_version": 16,
@@ -22719,6 +22743,14 @@
       "project": "khis",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "khoj": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:28.769679+00:00",
+      "fragment_status": "Auction",
+      "project": "khoj",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kibe": {
       "cache_version": 16,
@@ -40264,6 +40296,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "siwe": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:29.446881+00:00",
+      "fragment_status": "Auction",
+      "project": "siwe",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "sixos": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:39.514216+00:00",
@@ -41615,6 +41655,14 @@
       "project": "SPPO",
       "score": 98,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "spqr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:28.989526+00:00",
+      "fragment_status": "Auction",
+      "project": "spqr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sprs": {
       "cache_version": 16,
@@ -49600,6 +49648,14 @@
       "score": 91,
       "source": "GitHub Topic (ai)"
     },
+    "xtra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:29.314759+00:00",
+      "fragment_status": "Auction",
+      "project": "XTRA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "xwin": {
       "cache_version": 16,
       "checked_at": "2026-05-15T08:16:20.809514+00:00",
@@ -51127,6 +51183,14 @@
       "project": "zugl\u00f3",
       "score": 93,
       "source": "City Names"
+    },
+    "zuko": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T23:07:29.100013+00:00",
+      "fragment_status": "Auction",
+      "project": "zuko",
+      "score": 96,
+      "source": "GitHub Topic (deep-learning)"
     },
     "zuru": {
       "cache_version": 16,
