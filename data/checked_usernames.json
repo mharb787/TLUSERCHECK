@@ -640,6 +640,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "agnt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:29.942369+00:00",
+      "fragment_status": "Auction",
+      "project": "Agnt",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "agog": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:07.708267+00:00",
@@ -1880,6 +1888,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "apax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.671485+00:00",
+      "fragment_status": "Auction",
+      "project": "apax",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "aped": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:17.179776+00:00",
@@ -2767,6 +2783,14 @@
       "project": "ausa",
       "score": 93,
       "source": "City Names"
+    },
+    "auth": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.448052+00:00",
+      "fragment_status": "Taken",
+      "project": "auth",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "auto": {
       "cache_version": 16,
@@ -19360,6 +19384,14 @@
       "score": 76,
       "source": "GitHub Topic (machine-learning)"
     },
+    "htmd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:31.138702+00:00",
+      "fragment_status": "Auction",
+      "project": "htmd",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "htmz": {
       "cache_version": 16,
       "checked_at": "2026-05-13T19:18:57.715746+00:00",
@@ -21423,6 +21455,14 @@
       "project": "jjui",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "jmdc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.792358+00:00",
+      "fragment_status": "Auction",
+      "project": "JMDC",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "joal": {
       "cache_version": 16,
@@ -26943,6 +26983,14 @@
       "project": "matt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "matx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.057321+00:00",
+      "fragment_status": "Auction",
+      "project": "MatX",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "maua": {
       "cache_version": 16,
@@ -35704,6 +35752,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pyzk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.909780+00:00",
+      "fragment_status": "Auction",
+      "project": "pyzk",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "qaap": {
       "cache_version": 16,
       "checked_at": "2026-05-17T05:08:47.452486+00:00",
@@ -41896,6 +41952,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "sttr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.165932+00:00",
+      "fragment_status": "Auction",
+      "project": "sttr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "stub": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:10.929241+00:00",
@@ -48040,6 +48104,14 @@
       "score": 100,
       "source": "GitHub Trending (monthly)"
     },
+    "wcap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:30.562872+00:00",
+      "fragment_status": "Auction",
+      "project": "wcap",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wcgw": {
       "cache_version": 16,
       "checked_at": "2026-05-12T14:47:42.149326+00:00",
@@ -49119,6 +49191,14 @@
       "project": "writ",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wsme": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T21:12:31.022899+00:00",
+      "fragment_status": "Auction",
+      "project": "wsme",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "wstd": {
       "cache_version": 16,
