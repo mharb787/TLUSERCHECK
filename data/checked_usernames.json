@@ -936,6 +936,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "aisp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T10:45:52.678427+00:00",
+      "fragment_status": "Auction",
+      "project": "aisp",
+      "score": 97,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "aist": {
       "cache_version": 16,
       "checked_at": "2026-05-15T16:23:34.067873+00:00",
@@ -1888,6 +1896,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "apko": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T10:45:52.460485+00:00",
+      "fragment_status": "Auction",
+      "project": "apko",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "aplr": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:50.526428+00:00",
@@ -2583,6 +2599,14 @@
       "project": "atma",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "atme": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T10:45:52.788902+00:00",
+      "fragment_status": "Auction",
+      "project": "atme",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "atob": {
       "cache_version": 16,
@@ -4311,6 +4335,14 @@
       "project": "bint",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bioc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T10:45:52.898533+00:00",
+      "fragment_status": "Auction",
+      "project": "bioc",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "bios": {
       "cache_version": 16,
@@ -8151,6 +8183,14 @@
       "project": "cpal",
       "score": 100,
       "source": "Crates.io"
+    },
+    "cpdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T10:45:52.569124+00:00",
+      "fragment_status": "Auction",
+      "project": "CPDB",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cpio": {
       "cache_version": 16,
@@ -40975,6 +41015,14 @@
       "project": "SSHG",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "sshx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T10:45:52.353403+00:00",
+      "fragment_status": "Auction",
+      "project": "sshx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ssri": {
       "cache_version": 16,
