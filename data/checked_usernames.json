@@ -496,6 +496,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "agca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.506473+00:00",
+      "fragment_status": "Auction",
+      "project": "AGCA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "agde": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:17.097325+00:00",
@@ -2663,6 +2671,14 @@
       "project": "attr",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "attu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:58.966123+00:00",
+      "fragment_status": "Auction",
+      "project": "attu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "atty": {
       "cache_version": 16,
@@ -18920,6 +18936,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hono": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:58.796963+00:00",
+      "fragment_status": "Auction",
+      "project": "hono",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hons": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:16.496862+00:00",
@@ -19407,6 +19431,14 @@
       "project": "huts",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hvae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.396456+00:00",
+      "fragment_status": "Auction",
+      "project": "HVAE",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "hwan": {
       "cache_version": 16,
@@ -22975,6 +23007,14 @@
       "project": "koine",
       "score": 88,
       "source": "GitHub Topic (llm)"
+    },
+    "koji": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.724905+00:00",
+      "fragment_status": "Auction",
+      "project": "koji",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "kola": {
       "cache_version": 16,
@@ -27832,6 +27872,14 @@
       "score": 91,
       "source": "Crates.io"
     },
+    "mlxu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.289327+00:00",
+      "fragment_status": "Auction",
+      "project": "mlxu",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mmada": {
       "cache_version": 16,
       "checked_at": "2026-05-11T00:01:24.420025+00:00",
@@ -27879,6 +27927,14 @@
       "project": "MMGL",
       "score": 76,
       "source": "GitHub Topic (llm)"
+    },
+    "mmgp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.617728+00:00",
+      "fragment_status": "Auction",
+      "project": "mmgp",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "mmit": {
       "cache_version": 16,
@@ -29023,6 +29079,14 @@
       "project": "naka",
       "score": 93,
       "source": "City Names"
+    },
+    "nala": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.178887+00:00",
+      "fragment_status": "Auction",
+      "project": "nala",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "name": {
       "cache_version": 16,
@@ -43415,6 +43479,14 @@
       "project": "tile",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tilg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T15:14:59.073655+00:00",
+      "fragment_status": "Auction",
+      "project": "tilg",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "till": {
       "cache_version": 16,
