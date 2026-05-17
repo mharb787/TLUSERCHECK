@@ -376,6 +376,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "adop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:43.704608+00:00",
+      "fragment_status": "Auction",
+      "project": "ADOP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ados": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.725591+00:00",
@@ -7136,6 +7144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cidp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:45.189056+00:00",
+      "fragment_status": "Auction",
+      "project": "cidp",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "cidr": {
       "cache_version": 16,
       "checked_at": "2026-05-12T18:54:04.405063+00:00",
@@ -9512,6 +9528,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "dcai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:44.437100+00:00",
+      "fragment_status": "Auction",
+      "project": "dcai lab",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dccm": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:05.063574+00:00",
@@ -9999,6 +10023,14 @@
       "project": "deys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dfdx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:43.948237+00:00",
+      "fragment_status": "Auction",
+      "project": "dfdx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dgdm": {
       "cache_version": 16,
@@ -11159,6 +11191,14 @@
       "project": "drip",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "drml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:44.682221+00:00",
+      "fragment_status": "Auction",
+      "project": "drml",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "drop": {
       "cache_version": 16,
@@ -13695,6 +13735,14 @@
       "project": "feus",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ffcv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:43.443395+00:00",
+      "fragment_status": "Auction",
+      "project": "ffcv",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ffmpy": {
       "cache_version": 16,
@@ -24488,6 +24536,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lerp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:45.676209+00:00",
+      "fragment_status": "Auction",
+      "project": "lerp",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "less": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:12.766742+00:00",
@@ -28696,6 +28752,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "msml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:44.192455+00:00",
+      "fragment_status": "Auction",
+      "project": "MSML",
+      "score": 78,
+      "source": "GitHub Topic (ml)"
+    },
     "mteb": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:03.512888+00:00",
@@ -30472,6 +30536,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "ntfy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:42.696836+00:00",
+      "fragment_status": "Auction",
+      "project": "ntfy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nthw": {
       "cache_version": 16,
       "checked_at": "2026-05-13T22:06:42.425221+00:00",
@@ -31863,6 +31935,14 @@
       "project": "osar",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "oscp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:43.196484+00:00",
+      "fragment_status": "Auction",
+      "project": "OSCP",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "oses": {
       "cache_version": 16,
@@ -33640,6 +33720,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pipa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:44.942913+00:00",
+      "fragment_status": "Auction",
+      "project": "PiPa",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "pipe": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:14.819895+00:00",
@@ -35183,6 +35271,14 @@
       "project": "pwlf",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "pwru": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:42.945831+00:00",
+      "fragment_status": "Auction",
+      "project": "pwru",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pxfm": {
       "cache_version": 16,
@@ -49047,6 +49143,14 @@
       "project": "xbot",
       "score": 89,
       "source": "GitHub Topic (ai)"
+    },
+    "xcap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T19:33:45.436035+00:00",
+      "fragment_status": "Auction",
+      "project": "xcap",
+      "score": 88,
+      "source": "Crates.io"
     },
     "xdis": {
       "cache_version": 16,
