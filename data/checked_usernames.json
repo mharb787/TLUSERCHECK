@@ -6552,6 +6552,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "cbda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.379221+00:00",
+      "fragment_status": "Auction",
+      "project": "CBDA",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cbor": {
       "cache_version": 16,
       "checked_at": "2026-05-12T22:46:22.471361+00:00",
@@ -12855,6 +12863,14 @@
       "project": "evil",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "evnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.606750+00:00",
+      "fragment_status": "Auction",
+      "project": "EvNN",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
     },
     "evoke": {
       "cache_version": 16,
@@ -23152,6 +23168,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ksni": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:23.069354+00:00",
+      "fragment_status": "Auction",
+      "project": "ksni",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "kspec": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:38.660066+00:00",
@@ -28488,6 +28512,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "msad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.033577+00:00",
+      "fragment_status": "Auction",
+      "project": "MSAD",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "msae": {
       "cache_version": 16,
       "checked_at": "2026-05-13T12:31:05.606126+00:00",
@@ -28567,6 +28599,14 @@
       "project": "mudu",
       "score": 93,
       "source": "City Names"
+    },
+    "mufc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.147423+00:00",
+      "fragment_status": "Auction",
+      "project": "mufc",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "muff": {
       "cache_version": 16,
@@ -30607,6 +30647,14 @@
       "project": "OCDT",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "ocpp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.952909+00:00",
+      "fragment_status": "Auction",
+      "project": "ocpp",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "ocrs": {
       "cache_version": 16,
@@ -36920,6 +36968,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "rlhf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.493533+00:00",
+      "fragment_status": "Auction",
+      "project": "RLHF",
+      "score": 80,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "rlinf": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:40.154685+00:00",
@@ -38335,6 +38391,14 @@
       "project": "sawn",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sawp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:23.181879+00:00",
+      "fragment_status": "Auction",
+      "project": "sawp",
+      "score": 88,
+      "source": "Crates.io"
     },
     "saws": {
       "cache_version": 16,
@@ -41103,6 +41167,14 @@
       "project": "Srtly",
       "score": 76,
       "source": "GitHub Topic (automation)"
+    },
+    "sscp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.265784+00:00",
+      "fragment_status": "Auction",
+      "project": "SSCP",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "sshai": {
       "cache_version": 16,
@@ -44520,6 +44592,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "tsdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.838851+00:00",
+      "fragment_status": "Auction",
+      "project": "tsdb",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "tsds": {
       "cache_version": 16,
       "checked_at": "2026-05-12T10:07:58.984549+00:00",
@@ -44631,6 +44711,14 @@
       "project": "tugs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tuic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:21.920332+00:00",
+      "fragment_status": "Auction",
+      "project": "tuic",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tuios": {
       "cache_version": 16,
@@ -45135,6 +45223,14 @@
       "project": "UAPS",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "uavm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T14:09:22.722763+00:00",
+      "fragment_status": "Auction",
+      "project": "uavm",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "ubat": {
       "cache_version": 16,
