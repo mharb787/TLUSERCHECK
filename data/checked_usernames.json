@@ -2136,6 +2136,14 @@
       "score": 90,
       "source": "GitHub Topic (cli)"
     },
+    "argv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T09:23:40.420445+00:00",
+      "fragment_status": "Auction",
+      "project": "argv",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "aria": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:18.918046+00:00",
@@ -9343,6 +9351,14 @@
       "project": "dBase",
       "score": 100,
       "source": "Lobsters"
+    },
+    "dbgf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T09:23:40.786489+00:00",
+      "fragment_status": "Auction",
+      "project": "dbgf",
+      "score": 76,
+      "source": "Crates.io"
     },
     "dbnd": {
       "cache_version": 16,
@@ -30104,6 +30120,14 @@
       "score": 75,
       "source": "GitHub Topic (ml)"
     },
+    "ntex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T09:23:40.599349+00:00",
+      "fragment_status": "Auction",
+      "project": "ntex",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "nthw": {
       "cache_version": 16,
       "checked_at": "2026-05-13T22:06:42.425221+00:00",
@@ -34919,6 +34943,14 @@
       "project": "Pyinc",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "pyjq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T09:23:40.244303+00:00",
+      "fragment_status": "Auction",
+      "project": "pyjq",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "pykd": {
       "cache_version": 16,
@@ -49391,6 +49423,14 @@
       "project": "york",
       "score": 93,
       "source": "City Names"
+    },
+    "yorm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T09:23:40.056804+00:00",
+      "fragment_status": "Auction",
+      "project": "yorm",
+      "score": 87,
+      "source": "GitHub Topic (database)"
     },
     "yoro": {
       "cache_version": 16,
