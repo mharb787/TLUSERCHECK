@@ -264,6 +264,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "acpi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T18:09:48.691948+00:00",
+      "fragment_status": "Auction",
+      "project": "acpi",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "acre": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.013992+00:00",
@@ -4031,6 +4039,14 @@
       "project": "bent",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bepb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T18:09:47.733171+00:00",
+      "fragment_status": "Auction",
+      "project": "BEPb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "bera": {
       "cache_version": 16,
@@ -19232,6 +19248,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "htag": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T18:09:48.489698+00:00",
+      "fragment_status": "Auction",
+      "project": "htag",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "htcl": {
       "cache_version": 16,
       "checked_at": "2026-05-15T10:38:53.432776+00:00",
@@ -29832,6 +29856,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nids": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T18:09:47.919349+00:00",
+      "fragment_status": "Auction",
+      "project": "NIDS",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "niet": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:50.299987+00:00",
@@ -38920,6 +38952,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "seeq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T18:09:48.116880+00:00",
+      "fragment_status": "Auction",
+      "project": "seeq",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "seer": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:28.484572+00:00",
@@ -41143,6 +41183,14 @@
       "project": "spez",
       "score": 90,
       "source": "Crates.io"
+    },
+    "sphn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T18:09:48.309814+00:00",
+      "fragment_status": "Auction",
+      "project": "sphn",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "spic": {
       "cache_version": 16,
