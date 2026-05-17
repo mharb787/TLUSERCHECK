@@ -4032,6 +4032,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bgca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.305513+00:00",
+      "fragment_status": "Auction",
+      "project": "BGCA",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "bhan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:39.157964+00:00",
@@ -4343,6 +4351,14 @@
       "project": "bisk",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bitb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:46.856729+00:00",
+      "fragment_status": "Auction",
+      "project": "BITB",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "bite": {
       "cache_version": 16,
@@ -8110,6 +8126,14 @@
       "fragment_status": "Auction",
       "project": "cpal",
       "score": 100,
+      "source": "Crates.io"
+    },
+    "cpio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.918940+00:00",
+      "fragment_status": "Auction",
+      "project": "cpio",
+      "score": 88,
       "source": "Crates.io"
     },
     "cppy": {
@@ -20168,6 +20192,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "iroh": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:46.640470+00:00",
+      "fragment_status": "Auction",
+      "project": "iroh",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "iron": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:28.761728+00:00",
@@ -23823,6 +23855,14 @@
       "project": "lcme",
       "score": 87,
       "source": "GitHub Topic (neural-network)"
+    },
+    "lcov": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:48.029827+00:00",
+      "fragment_status": "Auction",
+      "project": "lcov",
+      "score": 88,
+      "source": "Crates.io"
     },
     "lcpr": {
       "cache_version": 16,
@@ -27648,6 +27688,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "mmcv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.689027+00:00",
+      "fragment_status": "Auction",
+      "project": "mmcv",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "mmgl": {
       "cache_version": 16,
       "checked_at": "2026-05-14T17:22:22.565046+00:00",
@@ -27655,6 +27703,14 @@
       "project": "MMGL",
       "score": 76,
       "source": "GitHub Topic (llm)"
+    },
+    "mmit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.080459+00:00",
+      "fragment_status": "Auction",
+      "project": "mmit",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mmos": {
       "cache_version": 16,
@@ -30343,6 +30399,14 @@
       "project": "obra",
       "score": 93,
       "source": "City Names"
+    },
+    "ocap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:46.970817+00:00",
+      "fragment_status": "Auction",
+      "project": "ocap",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "ocas": {
       "cache_version": 16,
@@ -34952,6 +35016,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "qaap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.452486+00:00",
+      "fragment_status": "Auction",
+      "project": "qaap",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "qaid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:43.786402+00:00",
@@ -35039,6 +35111,14 @@
       "project": "qkan",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "qldb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:48.143167+00:00",
+      "fragment_status": "Auction",
+      "project": "qldb",
+      "score": 76,
+      "source": "Crates.io"
     },
     "qllm": {
       "cache_version": 16,
@@ -38680,6 +38760,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "sgrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.191998+00:00",
+      "fragment_status": "Auction",
+      "project": "SGRL",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "shab": {
       "cache_version": 16,
       "checked_at": "2026-05-16T19:41:43.647328+00:00",
@@ -39759,6 +39847,14 @@
       "project": "Slyde",
       "score": 75,
       "source": "GitHub Topic (cli)"
+    },
+    "smap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:46.748893+00:00",
+      "fragment_status": "Auction",
+      "project": "Smap",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "smda": {
       "cache_version": 16,
@@ -43576,6 +43672,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "tooz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.577648+00:00",
+      "fragment_status": "Auction",
+      "project": "tooz",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "tope": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:50.658599+00:00",
@@ -45567,6 +45671,14 @@
       "project": "vars",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vart": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T05:08:47.799939+00:00",
+      "fragment_status": "Auction",
+      "project": "vart",
+      "score": 88,
+      "source": "Crates.io"
     },
     "vary": {
       "cache_version": 16,
