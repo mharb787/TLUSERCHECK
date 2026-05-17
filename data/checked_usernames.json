@@ -4472,6 +4472,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bitm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:21.469070+00:00",
+      "fragment_status": "Auction",
+      "project": "bitm",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "bits": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:48.696970+00:00",
@@ -7496,6 +7504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "clvm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:21.084593+00:00",
+      "fragment_status": "Auction",
+      "project": "clvm",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "cmac": {
       "cache_version": 16,
       "checked_at": "2026-05-12T23:43:06.482967+00:00",
@@ -8519,6 +8535,14 @@
       "project": "ctag",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "ctkd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.649767+00:00",
+      "fragment_status": "Auction",
+      "project": "CTKD",
+      "score": 78,
+      "source": "GitHub Topic (computer-vision)"
     },
     "ctor": {
       "cache_version": 16,
@@ -10087,6 +10111,14 @@
       "project": "dial",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "diam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.863705+00:00",
+      "fragment_status": "Auction",
+      "project": "DIaM",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "dibs": {
       "cache_version": 16,
@@ -15848,6 +15880,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "geff": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.222216+00:00",
+      "fragment_status": "Auction",
+      "project": "GEFF",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "gela": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:49.023948+00:00",
@@ -19288,6 +19328,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "hsan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.115071+00:00",
+      "fragment_status": "Auction",
+      "project": "HSAN",
+      "score": 91,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "hstr": {
       "cache_version": 16,
       "checked_at": "2026-05-12T20:22:42.165321+00:00",
@@ -19711,6 +19759,14 @@
       "project": "ibex",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ibig": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:21.576907+00:00",
+      "fragment_status": "Auction",
+      "project": "ibig",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ibis": {
       "cache_version": 16,
@@ -20200,6 +20256,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "indy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:21.255672+00:00",
+      "fragment_status": "Auction",
+      "project": "indy",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "infd": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:04.778373+00:00",
@@ -20439,6 +20503,14 @@
       "project": "ippy",
       "score": 93,
       "source": "City Names"
+    },
+    "ipst": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.541914+00:00",
+      "fragment_status": "Auction",
+      "project": "IPST",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "iptv": {
       "cache_version": 16,
@@ -28024,12 +28096,28 @@
       "score": 94,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlqd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.329052+00:00",
+      "fragment_status": "Auction",
+      "project": "MLQD",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlsa": {
       "cache_version": 16,
       "checked_at": "2026-05-16T23:38:12.583094+00:00",
       "fragment_status": "Auction",
       "project": "mlsa",
       "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "mltu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.004465+00:00",
+      "fragment_status": "Auction",
+      "project": "mltu",
+      "score": 92,
       "source": "GitHub Topic (machine-learning)"
     },
     "mlua": {
@@ -30663,6 +30751,14 @@
       "project": "nurl",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nusb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:21.362408+00:00",
+      "fragment_status": "Auction",
+      "project": "nusb",
+      "score": 88,
+      "source": "Crates.io"
     },
     "nuts": {
       "cache_version": 16,
@@ -34128,6 +34224,14 @@
       "score": 88,
       "source": "GitHub Trending (daily)"
     },
+    "poda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.435193+00:00",
+      "fragment_status": "Auction",
+      "project": "PODA",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "podd": {
       "cache_version": 16,
       "checked_at": "2026-05-15T22:34:14.720726+00:00",
@@ -34735,6 +34839,14 @@
       "project": "proa",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "prob": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.757803+00:00",
+      "fragment_status": "Auction",
+      "project": "PROB",
+      "score": 90,
+      "source": "GitHub Topic (computer-vision)"
     },
     "probe": {
       "cache_version": 16,
@@ -42974,6 +43086,14 @@
       "fragment_status": "Auction",
       "project": "TBTC",
       "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
+    "tcil": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T20:26:20.970847+00:00",
+      "fragment_status": "Auction",
+      "project": "TCIL",
+      "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
     "tcod": {
