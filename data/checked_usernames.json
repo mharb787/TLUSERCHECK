@@ -712,6 +712,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "aias": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.651552+00:00",
+      "fragment_status": "Auction",
+      "project": "AIAS",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "aiaw": {
       "cache_version": 16,
       "checked_at": "2026-05-12T14:47:41.675346+00:00",
@@ -3671,6 +3679,14 @@
       "project": "baza",
       "score": 93,
       "source": "City Names"
+    },
+    "bbot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.143419+00:00",
+      "fragment_status": "Auction",
+      "project": "bbot",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "bead": {
       "cache_version": 16,
@@ -10079,6 +10095,14 @@
       "project": "dink",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dino": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.257987+00:00",
+      "fragment_status": "Auction",
+      "project": "DINO",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dins": {
       "cache_version": 16,
@@ -19032,6 +19056,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "httm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.489315+00:00",
+      "fragment_status": "Auction",
+      "project": "httm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "http": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:27.204573+00:00",
@@ -26671,6 +26703,14 @@
       "project": "MCTF",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "mctx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.373481+00:00",
+      "fragment_status": "Auction",
+      "project": "mctx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mdcx": {
       "cache_version": 16,
@@ -34880,6 +34920,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "pykd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:38.113778+00:00",
+      "fragment_status": "Auction",
+      "project": "pykd",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pyker": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:56.599857+00:00",
@@ -40728,6 +40776,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "sppa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.999178+00:00",
+      "fragment_status": "Auction",
+      "project": "sppa",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "sppl": {
       "cache_version": 16,
       "checked_at": "2026-05-14T07:22:09.407162+00:00",
@@ -42295,6 +42351,14 @@
       "project": "tcod",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "tcow": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.766079+00:00",
+      "fragment_status": "Auction",
+      "project": "tcow",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "tdda": {
       "cache_version": 16,
@@ -44847,6 +44911,14 @@
       "project": "uapi",
       "score": 88,
       "source": "Crates.io"
+    },
+    "uaps": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T07:42:37.882064+00:00",
+      "fragment_status": "Auction",
+      "project": "UAPS",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ubat": {
       "cache_version": 16,
