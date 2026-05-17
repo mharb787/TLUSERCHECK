@@ -6672,6 +6672,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ccse": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T22:08:02.097128+00:00",
+      "fragment_status": "Auction",
+      "project": "CCSE",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "cctv": {
       "cache_version": 16,
       "checked_at": "2026-05-13T08:09:11.772590+00:00",
@@ -8983,6 +8991,14 @@
       "project": "dadAI",
       "score": 97,
       "source": "GitHub Topic (llm)"
+    },
+    "dadb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T22:08:01.921566+00:00",
+      "fragment_status": "Auction",
+      "project": "dadb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dade": {
       "cache_version": 16,
@@ -11639,6 +11655,14 @@
       "project": "dure",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "durf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T22:08:02.266003+00:00",
+      "fragment_status": "Auction",
+      "project": "durf",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "durg": {
       "cache_version": 16,
@@ -18311,6 +18335,14 @@
       "project": "hebi",
       "score": 93,
       "source": "City Names"
+    },
+    "hebo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T22:08:01.741147+00:00",
+      "fragment_status": "Auction",
+      "project": "HEBO",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "heck": {
       "cache_version": 16,
@@ -35496,6 +35528,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pycg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T22:08:02.439389+00:00",
+      "fragment_status": "Auction",
+      "project": "pycg",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "pycnn": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:50.602595+00:00",
@@ -35741,6 +35781,14 @@
       "checked_at": "2026-05-10T22:08:02.010866+00:00",
       "fragment_status": "Taken",
       "project": "pyusb",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "pyvi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T22:08:02.615344+00:00",
+      "fragment_status": "Auction",
+      "project": "pyvi",
       "score": 88,
       "source": "PyPI Top"
     },
