@@ -6600,6 +6600,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "ccls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:46.325285+00:00",
+      "fragment_status": "Auction",
+      "project": "Ccls",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "ccml": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.656178+00:00",
@@ -15096,6 +15104,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fuso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:46.557769+00:00",
+      "fragment_status": "Auction",
+      "project": "fuso",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fuss": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:18.995362+00:00",
@@ -15655,6 +15671,14 @@
       "project": "gdown",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "gdsr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:47.023466+00:00",
+      "fragment_status": "Auction",
+      "project": "gdsr",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
     },
     "gear": {
       "cache_version": 16,
@@ -16343,6 +16367,14 @@
       "project": "glim",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "glip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:46.442221+00:00",
+      "fragment_status": "Auction",
+      "project": "GLIP",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "glnc": {
       "cache_version": 16,
@@ -30288,6 +30320,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "novu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:47.257406+00:00",
+      "fragment_status": "Auction",
+      "project": "novu",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "nows": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:33.387314+00:00",
@@ -33015,6 +33055,14 @@
       "project": "peso",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pesq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:47.142361+00:00",
+      "fragment_status": "Auction",
+      "project": "pesq",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "pest": {
       "cache_version": 16,
@@ -41264,6 +41312,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "sspi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:47.485254+00:00",
+      "fragment_status": "Auction",
+      "project": "sspi",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ssri": {
       "cache_version": 16,
       "checked_at": "2026-05-15T05:10:07.453000+00:00",
@@ -42767,6 +42823,14 @@
       "project": "teat",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "teco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:46.795276+00:00",
+      "fragment_status": "Auction",
+      "project": "teco",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "teds": {
       "cache_version": 16,
@@ -44392,6 +44456,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "trak": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:46.674496+00:00",
+      "fragment_status": "Auction",
+      "project": "trak",
+      "score": 91,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "tram": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:54.884590+00:00",
@@ -45695,6 +45767,14 @@
       "project": "unty",
       "score": 100,
       "source": "Crates.io"
+    },
+    "unyt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:47.372376+00:00",
+      "fragment_status": "Auction",
+      "project": "unyt",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "uozu": {
       "cache_version": 16,
@@ -48974,6 +49054,14 @@
       "fragment_status": "Auction",
       "project": "xorq",
       "score": 97,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "xper": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T16:11:46.910273+00:00",
+      "fragment_status": "Auction",
+      "project": "XPER",
+      "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
     "xrag": {
