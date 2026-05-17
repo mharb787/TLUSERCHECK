@@ -56,6 +56,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abcd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.453102+00:00",
+      "fragment_status": "Auction",
+      "project": "ABCD",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "abed": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:03.155794+00:00",
@@ -8824,6 +8832,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "daal": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.676275+00:00",
+      "fragment_status": "Auction",
+      "project": "daal",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "dabs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:59.814672+00:00",
@@ -9223,6 +9239,14 @@
       "project": "dasp",
       "score": 90,
       "source": "Crates.io"
+    },
+    "dass": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.128581+00:00",
+      "fragment_status": "Auction",
+      "project": "DaSS",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "data": {
       "cache_version": 16,
@@ -23992,6 +24016,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ldpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.783131+00:00",
+      "fragment_status": "Auction",
+      "project": "ldpc",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "ldrs": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:03.721874+00:00",
@@ -29048,6 +29080,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "napr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:33.914012+00:00",
+      "fragment_status": "Auction",
+      "project": "napr",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
+    },
     "naps": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:15.889043+00:00",
@@ -30216,6 +30256,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "nubo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.234176+00:00",
+      "fragment_status": "Auction",
+      "project": "nubo",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "nubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:34.376201+00:00",
@@ -30639,6 +30687,14 @@
       "project": "odino",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "odis": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.022657+00:00",
+      "fragment_status": "Auction",
+      "project": "ODIS",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "odor": {
       "cache_version": 16,
@@ -31743,6 +31799,14 @@
       "project": "Ovis",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "oviz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.563265+00:00",
+      "fragment_status": "Auction",
+      "project": "Oviz",
+      "score": 90,
+      "source": "GitHub Topic (computer-vision)"
     },
     "ovld": {
       "cache_version": 16,
@@ -42279,6 +42343,14 @@
       "project": "TapFi",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "tapp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-17T12:40:34.342027+00:00",
+      "fragment_status": "Auction",
+      "project": "TAPP",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "taps": {
       "cache_version": 16,
