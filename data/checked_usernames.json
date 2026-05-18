@@ -5648,6 +5648,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "btop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:27.766734+00:00",
+      "fragment_status": "Auction",
+      "project": "btop",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bubo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:07.706042+00:00",
@@ -6742,6 +6750,14 @@
       "fragment_status": "Auction",
       "project": "ccml",
       "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "ccpl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:28.233837+00:00",
+      "fragment_status": "Auction",
+      "project": "CCPL",
+      "score": 79,
       "source": "GitHub Topic (deep-learning)"
     },
     "ccse": {
@@ -15920,6 +15936,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gato": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:29.311958+00:00",
+      "fragment_status": "Auction",
+      "project": "gato",
+      "score": 91,
+      "source": "GitHub Topic (neural-network)"
+    },
     "gats": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:23.898195+00:00",
@@ -16871,6 +16895,14 @@
       "project": "glpk",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "glsl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:29.993076+00:00",
+      "fragment_status": "Auction",
+      "project": "glsl",
+      "score": 76,
+      "source": "Crates.io"
     },
     "gltf": {
       "cache_version": 16,
@@ -21095,6 +21127,14 @@
       "project": "itoa",
       "score": 100,
       "source": "Crates.io"
+    },
+    "itra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:28.857852+00:00",
+      "fragment_status": "Auction",
+      "project": "ITRA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "itzam": {
       "cache_version": 16,
@@ -31312,6 +31352,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "nvui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:28.004364+00:00",
+      "fragment_status": "Auction",
+      "project": "nvui",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nybl": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.140959+00:00",
@@ -32503,6 +32551,14 @@
       "project": "orsk",
       "score": 93,
       "source": "City Names"
+    },
+    "orso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:29.751626+00:00",
+      "fragment_status": "Auction",
+      "project": "orso",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "orts": {
       "cache_version": 16,
@@ -34808,6 +34864,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "poer": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:29.076348+00:00",
+      "fragment_status": "Auction",
+      "project": "PoER",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "poet": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:20.129015+00:00",
@@ -36285,6 +36349,14 @@
       "checked_at": "2026-05-15T14:40:55.421328+00:00",
       "fragment_status": "Auction",
       "project": "pyvo",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "pywa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:29.533247+00:00",
+      "fragment_status": "Auction",
+      "project": "pywa",
       "score": 88,
       "source": "PyPI Top"
     },
@@ -50927,6 +50999,14 @@
       "project": "ylem",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ynet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T20:48:28.470361+00:00",
+      "fragment_status": "Auction",
+      "project": "ynet",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "ynode": {
       "cache_version": 14,
