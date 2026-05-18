@@ -1784,6 +1784,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ansi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.890064+00:00",
+      "fragment_status": "Auction",
+      "project": "ansi",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "anta": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:16.680848+00:00",
@@ -5400,6 +5408,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "brax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.490282+00:00",
+      "fragment_status": "Auction",
+      "project": "brax",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bray": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:05.838483+00:00",
@@ -6919,6 +6935,14 @@
       "project": "cfnew",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "cfsm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.295760+00:00",
+      "fragment_status": "Auction",
+      "project": "CFSM",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
     },
     "cgpt": {
       "cache_version": 16,
@@ -13255,6 +13279,14 @@
       "project": "exes",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "exif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.648440+00:00",
+      "fragment_status": "Auction",
+      "project": "exif",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "exit": {
       "cache_version": 16,
@@ -24984,6 +25016,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "lert": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.416499+00:00",
+      "fragment_status": "Auction",
+      "project": "LERT",
+      "score": 91,
+      "source": "GitHub Topic (nlp)"
+    },
     "less": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:12.766742+00:00",
@@ -27336,6 +27376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "maui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.612861+00:00",
+      "fragment_status": "Auction",
+      "project": "Maui",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "maul": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:47.775529+00:00",
@@ -28448,6 +28496,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "mlim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.841391+00:00",
+      "fragment_status": "Auction",
+      "project": "mlim",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlir": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:19.234682+00:00",
@@ -28607,6 +28663,14 @@
       "project": "MMTB",
       "score": 75,
       "source": "Hacker News New"
+    },
+    "mmvr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.955039+00:00",
+      "fragment_status": "Auction",
+      "project": "MMVR",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "moan": {
       "cache_version": 16,
@@ -29224,6 +29288,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mscl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.182727+00:00",
+      "fragment_status": "Auction",
+      "project": "MSCL",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "msml": {
       "cache_version": 16,
       "checked_at": "2026-05-17T19:33:44.192455+00:00",
@@ -29631,6 +29703,14 @@
       "project": "nabs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nacl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:53.109777+00:00",
+      "fragment_status": "Auction",
+      "project": "nacl",
+      "score": 88,
+      "source": "Crates.io"
     },
     "nada": {
       "cache_version": 16,
@@ -31567,6 +31647,14 @@
       "project": "ogee",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ogen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.727529+00:00",
+      "fragment_status": "Auction",
+      "project": "ogen",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "oghi": {
       "cache_version": 16,
@@ -35375,6 +35463,14 @@
       "project": "prql",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "prtm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.066509+00:00",
+      "fragment_status": "Auction",
+      "project": "prtm",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "psis": {
       "cache_version": 16,
@@ -40040,6 +40136,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "shaq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.999238+00:00",
+      "fragment_status": "Auction",
+      "project": "shaq",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "shat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:38.916845+00:00",
@@ -44656,6 +44760,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "tlds": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.765658+00:00",
+      "fragment_status": "Auction",
+      "project": "tlds",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "tldx": {
       "cache_version": 16,
       "checked_at": "2026-05-13T08:09:12.263527+00:00",
@@ -47824,6 +47936,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "vits": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.246636+00:00",
+      "fragment_status": "Auction",
+      "project": "vits",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "viva": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:20.714779+00:00",
@@ -50064,6 +50184,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "xuan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:51.377385+00:00",
+      "fragment_status": "Auction",
+      "project": "XUAN",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "xwin": {
       "cache_version": 16,
       "checked_at": "2026-05-15T08:16:20.809514+00:00",
@@ -50343,6 +50471,14 @@
       "project": "yasb",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "yash": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T17:48:52.538491+00:00",
+      "fragment_status": "Auction",
+      "project": "Yash (actor)",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "yasna": {
       "cache_version": 16,
