@@ -9936,6 +9936,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "deno": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:58.342844+00:00",
+      "fragment_status": "Auction",
+      "project": "deno",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "dens": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:07.921251+00:00",
@@ -11927,6 +11935,14 @@
       "project": "echo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "econ": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:57.961879+00:00",
+      "fragment_status": "Auction",
+      "project": "ECON",
+      "score": 100,
+      "source": "GitHub Topic (computer-vision)"
     },
     "ecos": {
       "cache_version": 16,
@@ -15624,6 +15640,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gann": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:57.206049+00:00",
+      "fragment_status": "Taken",
+      "project": "GANN",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "gaol": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:22.632061+00:00",
@@ -16143,6 +16167,14 @@
       "project": "geum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ggez": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:58.166040+00:00",
+      "fragment_status": "Auction",
+      "project": "ggez",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ggml": {
       "cache_version": 16,
@@ -28160,6 +28192,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "mlff": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:57.583670+00:00",
+      "fragment_status": "Auction",
+      "project": "mlff",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlgb": {
       "cache_version": 16,
       "checked_at": "2026-05-16T08:52:29.880001+00:00",
@@ -28967,6 +29007,14 @@
       "project": "mteb",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mtkd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:57.782475+00:00",
+      "fragment_status": "Auction",
+      "project": "MTKD",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "muan": {
       "cache_version": 16,
@@ -41759,6 +41807,14 @@
       "project": "squix",
       "score": 91,
       "source": "GitHub Topic (cli)"
+    },
+    "srai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T00:07:57.401515+00:00",
+      "fragment_status": "Auction",
+      "project": "srai",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "sris": {
       "cache_version": 16,
