@@ -5032,6 +5032,14 @@
       "score": 87,
       "source": "Wikipedia Trending"
     },
+    "boml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:36.574026+00:00",
+      "fragment_status": "Auction",
+      "project": "boml",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "bond": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:01.026405+00:00",
@@ -6295,6 +6303,14 @@
       "project": "calp",
       "score": 93,
       "source": "City Names"
+    },
+    "cals": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:35.987513+00:00",
+      "fragment_status": "Auction",
+      "project": "CALS",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "calw": {
       "cache_version": 16,
@@ -9639,6 +9655,14 @@
       "project": "dcai lab",
       "score": 100,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "dcam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:36.100540+00:00",
+      "fragment_status": "Auction",
+      "project": "dCAM",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dccm": {
       "cache_version": 16,
@@ -20384,6 +20408,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "imkg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:36.213131+00:00",
+      "fragment_status": "Auction",
+      "project": "imkg",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "imml": {
       "cache_version": 16,
       "checked_at": "2026-05-15T22:34:14.882368+00:00",
@@ -21911,6 +21943,14 @@
       "project": "json",
       "score": 100,
       "source": "Crates.io"
+    },
+    "jsql": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:36.333388+00:00",
+      "fragment_status": "Auction",
+      "project": "jsql",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "jsrip": {
       "cache_version": 16,
@@ -33264,6 +33304,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "pcae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:35.874231+00:00",
+      "fragment_status": "Auction",
+      "project": "PCAE",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "pcap": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.710184+00:00",
@@ -35950,6 +35998,14 @@
       "fragment_status": "Auction",
       "project": "pypd",
       "score": 76,
+      "source": "PyPI Top"
+    },
+    "pypi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:36.456665+00:00",
+      "fragment_status": "Auction",
+      "project": "pypi",
+      "score": 88,
       "source": "PyPI Top"
     },
     "pypng": {
@@ -40655,6 +40711,14 @@
       "project": "skep",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sket": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:35.647545+00:00",
+      "fragment_status": "Auction",
+      "project": "sket",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
     },
     "skew": {
       "cache_version": 16,
@@ -49696,6 +49760,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "wzcq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:35.535231+00:00",
+      "fragment_status": "Auction",
+      "project": "WZCQ",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "xbot": {
       "cache_version": 16,
       "checked_at": "2026-05-13T22:06:42.535782+00:00",
@@ -49848,6 +49920,14 @@
       "score": 88,
       "source": "GitHub Topic (vector-database)"
     },
+    "xone": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:35.419584+00:00",
+      "fragment_status": "Auction",
+      "project": "xone",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "xorf": {
       "cache_version": 16,
       "checked_at": "2026-05-15T10:38:55.325772+00:00",
@@ -49991,6 +50071,14 @@
       "project": "yagi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yaib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T12:01:35.759992+00:00",
+      "fragment_status": "Auction",
+      "project": "YAIB",
+      "score": 98,
+      "source": "GitHub Topic (machine-learning)"
     },
     "yake": {
       "cache_version": 16,
