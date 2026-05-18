@@ -312,6 +312,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "adan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:31.972102+00:00",
+      "fragment_status": "Auction",
+      "project": "Adan",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "adca": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:49.366781+00:00",
@@ -6704,6 +6712,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "cddl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.536907+00:00",
+      "fragment_status": "Auction",
+      "project": "cddl",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "cdktf": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:26.843771+00:00",
@@ -6911,6 +6927,14 @@
       "project": "cham",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "chan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:33.204296+00:00",
+      "fragment_status": "Auction",
+      "project": "chan",
+      "score": 88,
+      "source": "Crates.io"
     },
     "chao": {
       "cache_version": 16,
@@ -7279,6 +7303,14 @@
       "project": "cirq",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "ciss": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.193481+00:00",
+      "fragment_status": "Auction",
+      "project": "CISS",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cist": {
       "cache_version": 16,
@@ -12264,6 +12296,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "eipy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:31.859021+00:00",
+      "fragment_status": "Auction",
+      "project": "eipy",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "ejae": {
       "cache_version": 16,
       "checked_at": "2026-05-13T17:31:34.648052+00:00",
@@ -16112,6 +16152,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "genv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.082623+00:00",
+      "fragment_status": "Auction",
+      "project": "genv",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "geopy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.217884+00:00",
@@ -16119,6 +16167,14 @@
       "project": "geopy",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "geos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.870484+00:00",
+      "fragment_status": "Auction",
+      "project": "geos",
+      "score": 88,
+      "source": "Crates.io"
     },
     "gera": {
       "cache_version": 16,
@@ -20928,6 +20984,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ixai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:31.745599+00:00",
+      "fragment_status": "Auction",
+      "project": "iXAI",
+      "score": 98,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "ixia": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:29.574671+00:00",
@@ -21295,6 +21359,14 @@
       "project": "jelly",
       "score": 89,
       "source": "GitHub Topic (cli)"
+    },
+    "jelu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.420921+00:00",
+      "fragment_status": "Auction",
+      "project": "jelu",
+      "score": 100,
+      "source": "GitHub Topic (kotlin)"
     },
     "jena": {
       "cache_version": 16,
@@ -22007,6 +22079,14 @@
       "project": "juye",
       "score": 93,
       "source": "City Names"
+    },
+    "jwtk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:33.093323+00:00",
+      "fragment_status": "Auction",
+      "project": "jwtk",
+      "score": 76,
+      "source": "Crates.io"
     },
     "jynx": {
       "cache_version": 16,
@@ -31176,6 +31256,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "obkv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.650150+00:00",
+      "fragment_status": "Auction",
+      "project": "obkv",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "oboe": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:39.211270+00:00",
@@ -35112,6 +35200,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "proj": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.980931+00:00",
+      "fragment_status": "Auction",
+      "project": "proj",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "prom": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:35.135891+00:00",
@@ -38152,6 +38248,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "rsen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.308832+00:00",
+      "fragment_status": "Auction",
+      "project": "RSEN",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "rspc": {
       "cache_version": 16,
       "checked_at": "2026-05-16T19:41:42.611635+00:00",
@@ -38183,6 +38287,14 @@
       "project": "rtcp",
       "score": 79,
       "source": "Crates.io"
+    },
+    "rten": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:31.626863+00:00",
+      "fragment_status": "Auction",
+      "project": "rten",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
     },
     "rtest": {
       "cache_version": 16,
@@ -38607,6 +38719,14 @@
       "project": "ryot",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rzup": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T08:34:32.759355+00:00",
+      "fragment_status": "Auction",
+      "project": "rzup",
+      "score": 88,
+      "source": "Crates.io"
     },
     "sabe": {
       "cache_version": 16,
