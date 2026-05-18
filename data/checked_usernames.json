@@ -4392,6 +4392,14 @@
       "score": 100,
       "source": "YC Companies"
     },
+    "binn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:25.221671+00:00",
+      "fragment_status": "Auction",
+      "project": "BINN",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "bins": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:43.925497+00:00",
@@ -12952,6 +12960,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "etag": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:27.156061+00:00",
+      "fragment_status": "Auction",
+      "project": "etag",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "etah": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:41.566459+00:00",
@@ -18328,6 +18344,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "hdrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:26.915497+00:00",
+      "fragment_status": "Auction",
+      "project": "hdrs",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "head": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:06.766213+00:00",
@@ -19448,6 +19472,14 @@
       "score": 91,
       "source": "GitHub Topic (machine-learning)"
     },
+    "hsms": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:26.188890+00:00",
+      "fragment_status": "Auction",
+      "project": "hsms",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "hstr": {
       "cache_version": 16,
       "checked_at": "2026-05-12T20:22:42.165321+00:00",
@@ -19863,6 +19895,14 @@
       "project": "iati",
       "score": 93,
       "source": "City Names"
+    },
+    "iban": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:27.402074+00:00",
+      "fragment_status": "Auction",
+      "project": "iban",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ibat": {
       "cache_version": 16,
@@ -21784,6 +21824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jseg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:25.459751+00:00",
+      "fragment_status": "Auction",
+      "project": "JSeg",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "json": {
       "cache_version": 16,
       "checked_at": "2026-05-12T18:54:04.160346+00:00",
@@ -22711,6 +22759,14 @@
       "project": "keto",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "keyd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:24.741731+00:00",
+      "fragment_status": "Auction",
+      "project": "keyd",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "keys": {
       "cache_version": 16,
@@ -24719,6 +24775,14 @@
       "project": "lent",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "leon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:26.673842+00:00",
+      "fragment_status": "Auction",
+      "project": "leon",
+      "score": 88,
+      "source": "Crates.io"
     },
     "lepe": {
       "cache_version": 16,
@@ -39824,6 +39888,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "shgp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:25.706166+00:00",
+      "fragment_status": "Auction",
+      "project": "SHGP",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "shifu": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:41.381775+00:00",
@@ -40199,6 +40271,14 @@
       "project": "silt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "silx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:26.428232+00:00",
+      "fragment_status": "Auction",
+      "project": "silx",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "sima": {
       "cache_version": 16,
@@ -42063,6 +42143,14 @@
       "project": "stir",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "stix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:25.947711+00:00",
+      "fragment_status": "Auction",
+      "project": "stix",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "stoa": {
       "cache_version": 16,
@@ -50423,6 +50511,14 @@
       "project": "yogi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yoha": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T04:38:24.981019+00:00",
+      "fragment_status": "Auction",
+      "project": "yoha",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yoke": {
       "cache_version": 16,
