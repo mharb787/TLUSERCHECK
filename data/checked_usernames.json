@@ -9760,6 +9760,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "ddgs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:27.688389+00:00",
+      "fragment_status": "Auction",
+      "project": "ddgs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ddnm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:49.138917+00:00",
@@ -11352,6 +11360,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "drea": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:27.146093+00:00",
+      "fragment_status": "Auction",
+      "project": "drea",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "dree": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:20.776447+00:00",
@@ -12551,6 +12567,14 @@
       "project": "ells",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "elmo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:27.322023+00:00",
+      "fragment_status": "Auction",
+      "project": "Elmo (Open Source AEO)",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "elms": {
       "cache_version": 16,
@@ -19120,6 +19144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hipt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:28.043877+00:00",
+      "fragment_status": "Auction",
+      "project": "HIPT",
+      "score": 99,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "hire": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:12.711293+00:00",
@@ -21383,6 +21415,14 @@
       "project": "java",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "javy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:27.504909+00:00",
+      "fragment_status": "Auction",
+      "project": "javy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jawi": {
       "cache_version": 16,
@@ -28016,6 +28056,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "mhca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:28.766399+00:00",
+      "fragment_status": "Auction",
+      "project": "MHCA",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mhos": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:54.633087+00:00",
@@ -30807,6 +30855,14 @@
       "project": "nnse",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "noah": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:28.226468+00:00",
+      "fragment_status": "Auction",
+      "project": "NOAH",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
     },
     "nobs": {
       "cache_version": 16,
@@ -35848,6 +35904,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "punq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:28.947514+00:00",
+      "fragment_status": "Auction",
+      "project": "punq",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "puns": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:40.545526+00:00",
@@ -37287,6 +37351,14 @@
       "project": "reck",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "reco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:28.588858+00:00",
+      "fragment_status": "Auction",
+      "project": "reco",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "recs": {
       "cache_version": 16,
@@ -41616,6 +41688,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "soco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:29.128538+00:00",
+      "fragment_status": "Auction",
+      "project": "soco",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "soda": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:58.273837+00:00",
@@ -43383,6 +43463,14 @@
       "project": "tack",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tacl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:28.408506+00:00",
+      "fragment_status": "Auction",
+      "project": "TACL",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "taco": {
       "cache_version": 16,
@@ -48111,6 +48199,14 @@
       "project": "VIZIO | WatchFree+",
       "score": 96,
       "source": "App Store Top"
+    },
+    "vkit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T21:53:27.868495+00:00",
+      "fragment_status": "Auction",
+      "project": "vkit",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "vllm": {
       "cache_version": 16,
