@@ -3648,6 +3648,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "basq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:00.794084+00:00",
+      "fragment_status": "Auction",
+      "project": "BASQ",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "bass": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:29.935988+00:00",
@@ -12176,6 +12184,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "efel": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:01.250937+00:00",
+      "fragment_status": "Auction",
+      "project": "efel",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "effs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:30.035248+00:00",
@@ -15208,6 +15224,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "ftdi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:01.364292+00:00",
+      "fragment_status": "Auction",
+      "project": "ftdi",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "fubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:16.875002+00:00",
@@ -15479,6 +15503,14 @@
       "project": "fyke",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fypp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:01.138582+00:00",
+      "fragment_status": "Auction",
+      "project": "fypp",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "gabm": {
       "cache_version": 16,
@@ -17552,6 +17584,14 @@
       "score": 89,
       "source": "GitHub Topic (machine-learning)"
     },
+    "gssc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:01.022749+00:00",
+      "fragment_status": "Auction",
+      "project": "gssc",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "gtts": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:07.976153+00:00",
@@ -19535,6 +19575,14 @@
       "project": "hrms",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "hrtf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:01.594402+00:00",
+      "fragment_status": "Auction",
+      "project": "hrtf",
+      "score": 76,
+      "source": "Crates.io"
     },
     "hrtx": {
       "cache_version": 16,
@@ -37608,6 +37656,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "riju": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:00.679734+00:00",
+      "fragment_status": "Auction",
+      "project": "riju",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rile": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:01.338309+00:00",
@@ -48600,6 +48656,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "webm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:01.474240+00:00",
+      "fragment_status": "Auction",
+      "project": "webm",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "webob": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:21.917369+00:00",
@@ -51239,6 +51303,14 @@
       "project": "zett",
       "score": 89,
       "source": "GitHub Topic (llm)"
+    },
+    "zeus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T15:43:00.905204+00:00",
+      "fragment_status": "Auction",
+      "project": "zeus",
+      "score": 94,
+      "source": "GitHub Topic (deep-learning)"
     },
     "zeya": {
       "cache_version": 16,
