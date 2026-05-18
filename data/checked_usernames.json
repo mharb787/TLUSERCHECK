@@ -4608,6 +4608,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "blas": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.819702+00:00",
+      "fragment_status": "Auction",
+      "project": "blas",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "blat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:52.149210+00:00",
@@ -6631,6 +6639,14 @@
       "project": "catu",
       "score": 93,
       "source": "City Names"
+    },
+    "catx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.365619+00:00",
+      "fragment_status": "Auction",
+      "project": "catx",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "caul": {
       "cache_version": 16,
@@ -14712,6 +14728,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "fmhy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:27.899767+00:00",
+      "fragment_status": "Auction",
+      "project": "FMHY",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fmpy": {
       "cache_version": 16,
       "checked_at": "2026-05-16T11:12:41.832769+00:00",
@@ -16463,6 +16487,14 @@
       "project": "gies",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gifs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.478824+00:00",
+      "fragment_status": "Auction",
+      "project": "gifs",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "gift": {
       "cache_version": 16,
@@ -29680,6 +29712,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "mytt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.015523+00:00",
+      "fragment_status": "Auction",
+      "project": "MyTT",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "naas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:25.999225+00:00",
@@ -33472,6 +33512,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pcfa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.703518+00:00",
+      "fragment_status": "Auction",
+      "project": "PCFA",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "pcsc": {
       "cache_version": 16,
       "checked_at": "2026-05-16T20:26:26.038867+00:00",
@@ -36560,6 +36608,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "qwik": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:27.783407+00:00",
+      "fragment_status": "Auction",
+      "project": "qwik",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qwix": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.257576+00:00",
@@ -38495,6 +38551,14 @@
       "project": "rtcp",
       "score": 79,
       "source": "Crates.io"
+    },
+    "rtdl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.249622+00:00",
+      "fragment_status": "Auction",
+      "project": "rtdl",
+      "score": 93,
+      "source": "GitHub Topic (ai)"
     },
     "rten": {
       "cache_version": 16,
@@ -42247,6 +42311,14 @@
       "project": "sris",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "srpo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.593163+00:00",
+      "fragment_status": "Auction",
+      "project": "SRPO",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "srsly": {
       "cache_version": 14,
@@ -51463,6 +51535,14 @@
       "project": "zfit",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "zfoo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-18T19:17:28.133104+00:00",
+      "fragment_status": "Auction",
+      "project": "zfoo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zhob": {
       "cache_version": 16,
