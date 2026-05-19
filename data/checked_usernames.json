@@ -2848,6 +2848,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "avat": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.461698+00:00",
+      "fragment_status": "Auction",
+      "project": "AVAT",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "aver": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:21.973653+00:00",
@@ -7144,6 +7152,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "chem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.602633+00:00",
+      "fragment_status": "Auction",
+      "project": "chem",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "cher": {
       "cache_version": 16,
       "checked_at": "2026-05-16T20:26:25.571887+00:00",
@@ -7743,6 +7759,14 @@
       "project": "cmov",
       "score": 95,
       "source": "Crates.io"
+    },
+    "cmpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.117436+00:00",
+      "fragment_status": "Auction",
+      "project": "CMPC",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cmpr": {
       "cache_version": 16,
@@ -10400,6 +10424,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dict": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.492652+00:00",
+      "fragment_status": "Auction",
+      "project": "dict",
+      "score": 88,
+      "source": "GitHub Topic (nlp)"
+    },
     "dicta": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:25:07.593003+00:00",
@@ -11560,6 +11592,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "dsec": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.385845+00:00",
+      "fragment_status": "Auction",
+      "project": "DSEC",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "dspy": {
       "cache_version": 16,
       "checked_at": "2026-05-15T23:31:09.205636+00:00",
@@ -11984,6 +12024,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dxos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.349431+00:00",
+      "fragment_status": "Auction",
+      "project": "dxos",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "dyad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:21.651638+00:00",
@@ -12200,6 +12248,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "ecrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.008972+00:00",
+      "fragment_status": "Auction",
+      "project": "ECRS",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ecru": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:28.710683+00:00",
@@ -12303,6 +12359,14 @@
       "project": "Edits: Video Editor",
       "score": 88,
       "source": "App Store Top"
+    },
+    "edrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.128047+00:00",
+      "fragment_status": "Auction",
+      "project": "EDRs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "edsl": {
       "cache_version": 16,
@@ -13087,6 +13151,14 @@
       "project": "erci\u015f",
       "score": 93,
       "source": "City Names"
+    },
+    "erda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.022253+00:00",
+      "fragment_status": "Auction",
+      "project": "erda",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ergo": {
       "cache_version": 16,
@@ -20984,6 +21056,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ipfn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.713467+00:00",
+      "fragment_status": "Auction",
+      "project": "ipfn",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "ipia": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:26.435149+00:00",
@@ -24975,6 +25055,14 @@
       "project": "leal",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "leam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.793384+00:00",
+      "fragment_status": "Auction",
+      "project": "LEAM",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "lean": {
       "cache_version": 16,
@@ -29687,6 +29775,14 @@
       "project": "muhe",
       "score": 93,
       "source": "City Names"
+    },
+    "mukg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.569447+00:00",
+      "fragment_status": "Auction",
+      "project": "muKG",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "mukh": {
       "cache_version": 16,
@@ -38280,6 +38376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "rita": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.679842+00:00",
+      "fragment_status": "Auction",
+      "project": "RITA",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "rite": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:03.416805+00:00",
@@ -41560,6 +41664,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "slsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.237299+00:00",
+      "fragment_status": "Auction",
+      "project": "slsa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "slub": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:53.354488+00:00",
@@ -43391,6 +43503,14 @@
       "project": "svgl",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "svhn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:12.901308+00:00",
+      "fragment_status": "Auction",
+      "project": "svhn",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "svix": {
       "cache_version": 16,
@@ -47944,6 +48064,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "veni": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:13.225153+00:00",
+      "fragment_status": "Auction",
+      "project": "veni",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "venmo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:55.979614+00:00",
@@ -50271,6 +50399,14 @@
       "project": "writ",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wslg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T01:49:11.913629+00:00",
+      "fragment_status": "Auction",
+      "project": "wslg",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "wsme": {
       "cache_version": 16,
