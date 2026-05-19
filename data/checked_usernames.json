@@ -2368,6 +2368,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "arpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.824312+00:00",
+      "fragment_status": "Auction",
+      "project": "arpy",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "arse": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:19.490928+00:00",
@@ -6199,6 +6207,14 @@
       "project": "cabs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "caco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.352929+00:00",
+      "fragment_status": "Auction",
+      "project": "CaCo",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "cadam": {
       "cache_version": 16,
@@ -10695,6 +10711,14 @@
       "project": "dipt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dipy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.509356+00:00",
+      "fragment_status": "Auction",
+      "project": "dipy",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "dire": {
       "cache_version": 16,
@@ -20296,6 +20320,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hylo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:55.420224+00:00",
+      "fragment_status": "Auction",
+      "project": "hylo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hymn": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:22.280275+00:00",
@@ -27768,6 +27800,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "matr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.040984+00:00",
+      "fragment_status": "Auction",
+      "project": "MATR",
+      "score": 89,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "mats": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:47.279091+00:00",
@@ -28375,6 +28415,14 @@
       "project": "meze",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mgfn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:55.732180+00:00",
+      "fragment_status": "Auction",
+      "project": "MGFN.",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "mgrep": {
       "cache_version": 16,
@@ -30576,6 +30624,14 @@
       "score": 83,
       "source": "GitHub Topic (computer-vision)"
     },
+    "ncls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.662723+00:00",
+      "fragment_status": "Auction",
+      "project": "ncls",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "nddm": {
       "cache_version": 16,
       "checked_at": "2026-05-19T05:52:13.131471+00:00",
@@ -31055,6 +31111,14 @@
       "project": "nine",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nino": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:55.575540+00:00",
+      "fragment_status": "Auction",
+      "project": "nino",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "nipa": {
       "cache_version": 16,
@@ -31559,6 +31623,14 @@
       "project": "NPOI",
       "score": 97,
       "source": "NuGet"
+    },
+    "npsn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:55.885890+00:00",
+      "fragment_status": "Auction",
+      "project": "NPSN",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "npyz": {
       "cache_version": 16,
@@ -42936,6 +43008,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "ssdp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.980090+00:00",
+      "fragment_status": "Auction",
+      "project": "ssdp",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "sshai": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:41.456328+00:00",
@@ -44151,6 +44231,14 @@
       "project": "tamu",
       "score": 93,
       "source": "City Names"
+    },
+    "tane": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:56.197384+00:00",
+      "fragment_status": "Auction",
+      "project": "TANE",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "tang": {
       "cache_version": 16,
@@ -48512,6 +48600,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "vike": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:55.105412+00:00",
+      "fragment_status": "Auction",
+      "project": "vike",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vila": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:09.131520+00:00",
@@ -50925,6 +51021,14 @@
       "checked_at": "2026-05-19T05:52:12.197329+00:00",
       "fragment_status": "Auction",
       "project": "xplr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "xpra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T11:48:55.265272+00:00",
+      "fragment_status": "Auction",
+      "project": "xpra",
       "score": 100,
       "source": "GitHub New Repos"
     },
