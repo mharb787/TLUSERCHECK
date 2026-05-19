@@ -1784,6 +1784,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "anls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.994823+00:00",
+      "fragment_status": "Auction",
+      "project": "anls",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "anlu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:51.290844+00:00",
@@ -2207,6 +2215,14 @@
       "project": "arfs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "argd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.661537+00:00",
+      "fragment_status": "Auction",
+      "project": "ARGD",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "argh": {
       "cache_version": 16,
@@ -9112,6 +9128,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cust": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:35.448859+00:00",
+      "fragment_status": "Auction",
+      "project": "cust",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "cute": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:58.190609+00:00",
@@ -9655,6 +9679,14 @@
       "project": "dash",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dasm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:35.108090+00:00",
+      "fragment_status": "Auction",
+      "project": "ethereum dasm",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "dasp": {
       "cache_version": 16,
@@ -10991,6 +11023,14 @@
       "project": "DNRT",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "dnsx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.306140+00:00",
+      "fragment_status": "Auction",
+      "project": "dnsx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "doat": {
       "cache_version": 16,
@@ -12575,6 +12615,14 @@
       "project": "eger",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eges": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.541560+00:00",
+      "fragment_status": "Auction",
+      "project": "EGES",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "eget": {
       "cache_version": 16,
@@ -19008,6 +19056,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "hecs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:35.337232+00:00",
+      "fragment_status": "Auction",
+      "project": "hecs",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "hede": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:48.461663+00:00",
@@ -20127,6 +20183,14 @@
       "project": "htpy",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "htsf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.771653+00:00",
+      "fragment_status": "Auction",
+      "project": "htsf",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "httm": {
       "cache_version": 16,
@@ -27479,6 +27543,14 @@
       "project": "mads",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "maec": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.885105+00:00",
+      "fragment_status": "Auction",
+      "project": "maec",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "maes": {
       "cache_version": 16,
@@ -37015,6 +37087,14 @@
       "project": "pyker",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "pykx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:35.222874+00:00",
+      "fragment_status": "Auction",
+      "project": "pykx",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "pyld": {
       "cache_version": 16,
@@ -47648,6 +47728,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ufbx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:35.561092+00:00",
+      "fragment_status": "Auction",
+      "project": "ufbx",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ufmt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.613415+00:00",
@@ -51406,6 +51494,14 @@
       "fragment_status": "Auction",
       "project": "xorq",
       "score": 97,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "xpag": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T22:02:34.424647+00:00",
+      "fragment_status": "Auction",
+      "project": "xpag",
+      "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
     "xper": {
