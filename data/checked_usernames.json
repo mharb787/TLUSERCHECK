@@ -928,6 +928,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "aips": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.249682+00:00",
+      "fragment_status": "Auction",
+      "project": "AIPS",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aipt": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.208588+00:00",
@@ -5480,6 +5488,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "braq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.911473+00:00",
+      "fragment_status": "Auction",
+      "project": "braq",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "bras": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:05.472760+00:00",
@@ -8632,6 +8648,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "cpsl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.257408+00:00",
+      "fragment_status": "Auction",
+      "project": "cpsl",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "cptx": {
       "cache_version": 16,
       "checked_at": "2026-05-15T16:23:34.243590+00:00",
@@ -10469,6 +10493,14 @@
       "checked_at": "2026-05-15T23:31:10.612928+00:00",
       "fragment_status": "Auction",
       "project": "dgdm",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "dgms": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.686887+00:00",
+      "fragment_status": "Auction",
+      "project": "DGMS",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
@@ -12343,6 +12375,14 @@
       "project": "ebon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ecco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.468099+00:00",
+      "fragment_status": "Auction",
+      "project": "ecco",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ecct": {
       "cache_version": 16,
@@ -16768,6 +16808,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "ggus": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.366879+00:00",
+      "fragment_status": "Auction",
+      "project": "ggus",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ghac": {
       "cache_version": 16,
       "checked_at": "2026-05-16T17:33:06.335151+00:00",
@@ -20136,6 +20184,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "hsrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.357447+00:00",
+      "fragment_status": "Auction",
+      "project": "Hsrs",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "hstr": {
       "cache_version": 16,
       "checked_at": "2026-05-12T20:22:42.165321+00:00",
@@ -21287,6 +21343,14 @@
       "project": "INTR",
       "score": 88,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "intx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.474339+00:00",
+      "fragment_status": "Auction",
+      "project": "intx",
+      "score": 88,
+      "source": "Crates.io"
     },
     "invio": {
       "cache_version": 16,
@@ -35616,6 +35680,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pmgt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.578407+00:00",
+      "fragment_status": "Auction",
+      "project": "PMGT",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "pmrf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:44.972319+00:00",
@@ -39592,6 +39664,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "rtcc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.692963+00:00",
+      "fragment_status": "Auction",
+      "project": "rtcc",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "rtcp": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:45.091256+00:00",
@@ -41493,6 +41573,14 @@
       "checked_at": "2026-05-10T23:03:42.757039+00:00",
       "fragment_status": "Taken",
       "project": "shtab",
+      "score": 88,
+      "source": "PyPI Top"
+    },
+    "shub": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.019084+00:00",
+      "fragment_status": "Auction",
+      "project": "shub",
       "score": 88,
       "source": "PyPI Top"
     },
@@ -45376,6 +45464,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "tfhe": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.582183+00:00",
+      "fragment_status": "Auction",
+      "project": "tfhe",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "tgcf": {
       "cache_version": 16,
       "checked_at": "2026-05-19T20:53:45.958409+00:00",
@@ -48704,6 +48800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "vega": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:48.132835+00:00",
+      "fragment_status": "Auction",
+      "project": "vega",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "veil": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:14.901787+00:00",
@@ -49495,6 +49599,14 @@
       "project": "vura",
       "score": 93,
       "source": "City Names"
+    },
+    "vviz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T23:12:47.799874+00:00",
+      "fragment_status": "Auction",
+      "project": "vviz",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "vybn": {
       "cache_version": 16,
