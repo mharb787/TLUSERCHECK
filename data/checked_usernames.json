@@ -10128,6 +10128,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "deit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:28.947161+00:00",
+      "fragment_status": "Auction",
+      "project": "deit",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "deke": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:06.715060+00:00",
@@ -15589,6 +15597,14 @@
       "checked_at": "2026-05-18T15:43:01.364292+00:00",
       "fragment_status": "Auction",
       "project": "ftdi",
+      "score": 88,
+      "source": "Crates.io"
+    },
+    "ftoa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:29.427505+00:00",
+      "fragment_status": "Auction",
+      "project": "ftoa",
       "score": 88,
       "source": "Crates.io"
     },
@@ -28144,6 +28160,14 @@
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mdut": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:29.057913+00:00",
+      "fragment_status": "Auction",
+      "project": "MDUT",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mdxg": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:31.630577+00:00",
@@ -31712,6 +31736,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "npmx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:28.833548+00:00",
+      "fragment_status": "Auction",
+      "project": "Npmx",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "npoi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:32.788912+00:00",
@@ -31967,6 +31999,14 @@
       "project": "nysa",
       "score": 93,
       "source": "City Names"
+    },
+    "nyse": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:28.723417+00:00",
+      "fragment_status": "Auction",
+      "project": "NYSE",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "oafs": {
       "cache_version": 16,
@@ -37216,6 +37256,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "qubx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:29.318042+00:00",
+      "fragment_status": "Auction",
+      "project": "qubx",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "quest": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:04.249990+00:00",
@@ -38927,6 +38975,14 @@
       "project": "rode",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rodi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T17:19:29.208437+00:00",
+      "fragment_status": "Auction",
+      "project": "rodi",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "rods": {
       "cache_version": 16,
