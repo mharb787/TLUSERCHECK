@@ -7464,6 +7464,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cira": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:04.078713+00:00",
+      "fragment_status": "Auction",
+      "project": "cira",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "cire": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:31.056381+00:00",
@@ -7639,6 +7647,14 @@
       "project": "clew",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "clfd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:03.511384+00:00",
+      "fragment_status": "Auction",
+      "project": "clfd",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cligj": {
       "cache_version": 16,
@@ -24672,6 +24688,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ladb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:03.398721+00:00",
+      "fragment_status": "Auction",
+      "project": "LADB",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lade": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:01.308238+00:00",
@@ -28160,6 +28184,14 @@
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mdns": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:04.303093+00:00",
+      "fragment_status": "Auction",
+      "project": "mdns",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "mdut": {
       "cache_version": 16,
       "checked_at": "2026-05-19T17:19:29.057913+00:00",
@@ -28327,6 +28359,14 @@
       "project": "mems",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "memx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:04.192855+00:00",
+      "fragment_status": "Auction",
+      "project": "memx",
+      "score": 88,
+      "source": "Crates.io"
     },
     "mena": {
       "cache_version": 16,
@@ -30079,6 +30119,14 @@
       "project": "mula",
       "score": 93,
       "source": "City Names"
+    },
+    "muld": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:03.961151+00:00",
+      "fragment_status": "Auction",
+      "project": "muld",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "mule": {
       "cache_version": 16,
@@ -33616,6 +33664,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "paad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:03.846314+00:00",
+      "fragment_status": "Auction",
+      "project": "PAAD",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "paca": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:54.870901+00:00",
@@ -34671,6 +34727,14 @@
       "project": "pgrx",
       "score": 76,
       "source": "Crates.io"
+    },
+    "phar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:03.622157+00:00",
+      "fragment_status": "Auction",
+      "project": "phar",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
     },
     "phat": {
       "cache_version": 16,
@@ -47480,6 +47544,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "ugcn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:03.735368+00:00",
+      "fragment_status": "Auction",
+      "project": "UGCN",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ugep": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:19.419508+00:00",
@@ -49551,6 +49623,14 @@
       "project": "ware",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "warg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T19:20:04.413846+00:00",
+      "fragment_status": "Auction",
+      "project": "warg protocol",
+      "score": 88,
+      "source": "Crates.io"
     },
     "wark": {
       "cache_version": 16,
