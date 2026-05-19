@@ -1376,6 +1376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alpa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.310790+00:00",
+      "fragment_status": "Auction",
+      "project": "alpa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "alpm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T13:53:12.700200+00:00",
@@ -14328,6 +14336,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fifo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.275536+00:00",
+      "fragment_status": "Auction",
+      "project": "fifo",
+      "score": 89,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "figs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:05.292272+00:00",
@@ -20072,6 +20088,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hulc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.785727+00:00",
+      "fragment_status": "Auction",
+      "project": "hulc",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "hulk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:20.385266+00:00",
@@ -21272,6 +21296,14 @@
       "score": 98,
       "source": "GitHub Topic (ai)"
     },
+    "iset": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.856331+00:00",
+      "fragment_status": "Auction",
+      "project": "iset",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ishop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:01.715816+00:00",
@@ -21679,6 +21711,14 @@
       "project": "jdcal",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "jdll": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.014096+00:00",
+      "fragment_status": "Auction",
+      "project": "JDLL",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "jean": {
       "cache_version": 16,
@@ -24856,6 +24896,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "latr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.899454+00:00",
+      "fragment_status": "Auction",
+      "project": "latr",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lats": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:06.629105+00:00",
@@ -25663,6 +25711,14 @@
       "project": "lihe",
       "score": 93,
       "source": "City Names"
+    },
+    "lihq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.662586+00:00",
+      "fragment_status": "Auction",
+      "project": "LIHQ",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
     },
     "liji": {
       "cache_version": 16,
@@ -27904,6 +27960,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "mdka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.741502+00:00",
+      "fragment_status": "Auction",
+      "project": "mdka",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "mdlib": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:02.658687+00:00",
@@ -28127,6 +28191,14 @@
       "project": "meow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mera": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.546171+00:00",
+      "fragment_status": "Auction",
+      "project": "mera",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mere": {
       "cache_version": 16,
@@ -30464,6 +30536,14 @@
       "score": 83,
       "source": "GitHub Topic (computer-vision)"
     },
+    "nddm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.131471+00:00",
+      "fragment_status": "Auction",
+      "project": "NDDM",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ndif": {
       "cache_version": 16,
       "checked_at": "2026-05-16T21:08:59.091221+00:00",
@@ -32351,6 +32431,14 @@
       "project": "omlx",
       "score": 100,
       "source": "GitHub Trending (monthly)"
+    },
+    "ommx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.617629+00:00",
+      "fragment_status": "Auction",
+      "project": "ommx",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "omni": {
       "cache_version": 16,
@@ -43720,6 +43808,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "sysz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.427687+00:00",
+      "fragment_status": "Auction",
+      "project": "sysz",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "taal": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:26.162230+00:00",
@@ -47544,6 +47640,14 @@
       "score": 89,
       "source": "Crates.io"
     },
+    "usea": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.504197+00:00",
+      "fragment_status": "Auction",
+      "project": "usea",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "used": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:10.046805+00:00",
@@ -48599,6 +48703,14 @@
       "project": "voes",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "voge": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:13.389267+00:00",
+      "fragment_status": "Auction",
+      "project": "VoGE",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "voice": {
       "cache_version": 16,
@@ -50751,6 +50863,14 @@
       "project": "XPER",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "xplr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T05:52:12.197329+00:00",
+      "fragment_status": "Auction",
+      "project": "xplr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xrag": {
       "cache_version": 16,
