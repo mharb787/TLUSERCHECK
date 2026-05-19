@@ -4032,6 +4032,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "beir": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:42.151145+00:00",
+      "fragment_status": "Auction",
+      "project": "beir",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "beja": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:41.861296+00:00",
@@ -4207,6 +4215,14 @@
       "project": "bets",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bevt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:43.032646+00:00",
+      "fragment_status": "Auction",
+      "project": "BEVT",
+      "score": 90,
+      "source": "GitHub Topic (deep-learning)"
     },
     "bevy": {
       "cache_version": 16,
@@ -6872,6 +6888,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "cdgp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:42.691418+00:00",
+      "fragment_status": "Auction",
+      "project": "CDGP",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cdktf": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:26.843771+00:00",
@@ -8559,6 +8583,14 @@
       "project": "cpio",
       "score": 88,
       "source": "Crates.io"
+    },
+    "cppf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:43.373929+00:00",
+      "fragment_status": "Auction",
+      "project": "CPPF",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cppy": {
       "cache_version": 16,
@@ -14008,6 +14040,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fbnc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:44.259659+00:00",
+      "fragment_status": "Auction",
+      "project": "fbnc",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "fdnpy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:00.973853+00:00",
@@ -17223,6 +17263,14 @@
       "project": "Gmail - Email by Google",
       "score": 100,
       "source": "App Store Top"
+    },
+    "gmat": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:42.855803+00:00",
+      "fragment_status": "Auction",
+      "project": "GMAT",
+      "score": 90,
+      "source": "GitHub Topic (deep-learning)"
     },
     "gmml": {
       "cache_version": 16,
@@ -20632,6 +20680,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ifsl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:43.195782+00:00",
+      "fragment_status": "Auction",
+      "project": "ifsl",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "iftta": {
       "cache_version": 16,
       "checked_at": "2026-05-10T19:46:56.825726+00:00",
@@ -20847,6 +20903,14 @@
       "project": "imbl",
       "score": 89,
       "source": "Crates.io"
+    },
+    "imfp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:43.724349+00:00",
+      "fragment_status": "Auction",
+      "project": "imfp",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "imid": {
       "cache_version": 16,
@@ -26232,6 +26296,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "lmdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:44.601838+00:00",
+      "fragment_status": "Auction",
+      "project": "lmdb",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "lmnr": {
       "cache_version": 16,
       "checked_at": "2026-05-12T14:47:41.437713+00:00",
@@ -28016,6 +28088,14 @@
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
     },
+    "mcts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:42.340516+00:00",
+      "fragment_status": "Auction",
+      "project": "mcts",
+      "score": 75,
+      "source": "GitHub Topic (ml)"
+    },
     "mctx": {
       "cache_version": 16,
       "checked_at": "2026-05-17T07:42:37.373481+00:00",
@@ -28319,6 +28399,14 @@
       "project": "mesa",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mesc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:44.094471+00:00",
+      "fragment_status": "Auction",
+      "project": "mesc",
+      "score": 88,
+      "source": "Crates.io"
     },
     "mesh": {
       "cache_version": 16,
@@ -29053,6 +29141,14 @@
       "checked_at": "2026-05-16T23:38:12.583094+00:00",
       "fragment_status": "Auction",
       "project": "mlsa",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "mlte": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:42.506329+00:00",
+      "fragment_status": "Auction",
+      "project": "mlte",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
@@ -37520,6 +37616,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ranx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:43.908784+00:00",
+      "fragment_status": "Auction",
+      "project": "ranx",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "rape": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:50.094372+00:00",
@@ -37751,6 +37855,14 @@
       "project": "RBust",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "rdev": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:44.439516+00:00",
+      "fragment_status": "Auction",
+      "project": "rdev",
+      "score": 88,
+      "source": "Crates.io"
     },
     "rdkit": {
       "cache_version": 16,
@@ -39000,6 +39112,14 @@
       "score": 100,
       "source": "GitHub Topic (ai)"
     },
+    "rosc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:44.780048+00:00",
+      "fragment_status": "Auction",
+      "project": "rosc",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "rose": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.011987+00:00",
@@ -39158,6 +39278,14 @@
       "fragment_status": "Auction",
       "project": "RSEN",
       "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "rskp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-19T14:19:43.538483+00:00",
+      "fragment_status": "Auction",
+      "project": "RSKP",
+      "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
     "rspc": {
