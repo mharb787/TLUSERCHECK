@@ -9976,6 +9976,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "dcrn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:51.068370+00:00",
+      "fragment_status": "Auction",
+      "project": "DCRN",
+      "score": 78,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dcup": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:31.942779+00:00",
@@ -10999,6 +11007,14 @@
       "project": "dlib",
       "score": 100,
       "source": "Crates.io"
+    },
+    "dlkp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:50.956724+00:00",
+      "fragment_status": "Auction",
+      "project": "dlkp",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "dlkt": {
       "cache_version": 16,
@@ -19432,6 +19448,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "hgvs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:51.180876+00:00",
+      "fragment_status": "Auction",
+      "project": "hgvs",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "hick": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:11.190609+00:00",
@@ -20224,6 +20248,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "html": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:50.519182+00:00",
+      "fragment_status": "Auction",
+      "project": "HTML",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "htmz": {
       "cache_version": 16,
       "checked_at": "2026-05-13T19:18:57.715746+00:00",
@@ -20911,6 +20943,14 @@
       "project": "igua\u00ed",
       "score": 93,
       "source": "City Names"
+    },
+    "igvm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:51.504704+00:00",
+      "fragment_status": "Auction",
+      "project": "igvm",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ihex": {
       "cache_version": 16,
@@ -24831,6 +24871,14 @@
       "project": "lacs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lact": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:50.740589+00:00",
+      "fragment_status": "Auction",
+      "project": "LACT",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lacy": {
       "cache_version": 16,
@@ -30016,6 +30064,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "moti": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:50.848297+00:00",
+      "fragment_status": "Auction",
+      "project": "moti",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "motor": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:42.329668+00:00",
@@ -33951,6 +34007,14 @@
       "project": "pads",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pafy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:51.288854+00:00",
+      "fragment_status": "Auction",
+      "project": "pafy",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "page": {
       "cache_version": 16,
@@ -49560,6 +49624,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "vsts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:51.396318+00:00",
+      "fragment_status": "Auction",
+      "project": "vsts",
+      "score": 76,
+      "source": "PyPI Top"
+    },
     "vsync": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:11.357958+00:00",
@@ -49751,6 +49823,14 @@
       "project": "wags",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "waha": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T00:17:50.629434+00:00",
+      "fragment_status": "Auction",
+      "project": "waha",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "waif": {
       "cache_version": 16,
