@@ -3912,6 +3912,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "bclm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:00.640794+00:00",
+      "fragment_status": "Auction",
+      "project": "bclm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:31.060853+00:00",
@@ -6607,6 +6615,14 @@
       "project": "Canva: AI Video & Photo Editor",
       "score": 99,
       "source": "App Store Top"
+    },
+    "capa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:00.083743+00:00",
+      "fragment_status": "Auction",
+      "project": "capa",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cape": {
       "cache_version": 16,
@@ -9736,6 +9752,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dari": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:52:59.901975+00:00",
+      "fragment_status": "Auction",
+      "project": "Dari-docs",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "dark": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:02.526447+00:00",
@@ -10279,6 +10303,14 @@
       "project": "defy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "deic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:02.288191+00:00",
+      "fragment_status": "Auction",
+      "project": "deic",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "deil": {
       "cache_version": 16,
@@ -10839,6 +10871,14 @@
       "project": "dime",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "diml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:01.919293+00:00",
+      "fragment_status": "Auction",
+      "project": "DIML",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dims": {
       "cache_version": 16,
@@ -15935,6 +15975,14 @@
       "project": "fsml",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "fsrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:03.182974+00:00",
+      "fragment_status": "Auction",
+      "project": "fsrs",
+      "score": 76,
+      "source": "Crates.io"
     },
     "fsst": {
       "cache_version": 16,
@@ -22008,6 +22056,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "isar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:00.270718+00:00",
+      "fragment_status": "Auction",
+      "project": "isar",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "isba": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:28.882214+00:00",
@@ -22463,6 +22519,14 @@
       "project": "jdcal",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "jdet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:01.381036+00:00",
+      "fragment_status": "Auction",
+      "project": "JDet",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
     },
     "jdll": {
       "cache_version": 16,
@@ -26096,6 +26160,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lemo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:01.563070+00:00",
+      "fragment_status": "Auction",
+      "project": "LEMO",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lend": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:11.894019+00:00",
@@ -27039,6 +27111,14 @@
       "project": "Local-first long-term memory engine",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "loce": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:02.652821+00:00",
+      "fragment_status": "Auction",
+      "project": "LOCE",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "loch": {
       "cache_version": 16,
@@ -28079,6 +28159,14 @@
       "project": "maec",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "maed": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:01.187442+00:00",
+      "fragment_status": "Auction",
+      "project": "maed",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
     },
     "maes": {
       "cache_version": 16,
@@ -30072,6 +30160,14 @@
       "score": 89,
       "source": "Crates.io"
     },
+    "mobi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:03.375607+00:00",
+      "fragment_status": "Auction",
+      "project": "mobi",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "mobs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:01.325823+00:00",
@@ -31032,6 +31128,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "mvtn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:01.742453+00:00",
+      "fragment_status": "Auction",
+      "project": "MVTN",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "myai": {
       "cache_version": 16,
       "checked_at": "2026-05-16T11:12:39.646411+00:00",
@@ -31535,6 +31639,14 @@
       "project": "ncps",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ncvx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:00.994429+00:00",
+      "fragment_status": "Auction",
+      "project": "NCVX",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "nddm": {
       "cache_version": 16,
@@ -36144,6 +36256,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "plad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:02.102909+00:00",
+      "fragment_status": "Auction",
+      "project": "PLAD",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "plan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:16.803711+00:00",
@@ -40312,6 +40432,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "rsdp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:03.002562+00:00",
+      "fragment_status": "Auction",
+      "project": "rsdp",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "rsen": {
       "cache_version": 16,
       "checked_at": "2026-05-18T08:34:32.308832+00:00",
@@ -40631,6 +40759,14 @@
       "project": "rung",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "runo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:52:59.724286+00:00",
+      "fragment_status": "Auction",
+      "project": "Runo",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "runs": {
       "cache_version": 16,
@@ -45320,6 +45456,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tagu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:02.825711+00:00",
+      "fragment_status": "Auction",
+      "project": "tagu",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "tahe": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:52.920103+00:00",
@@ -47191,6 +47335,14 @@
       "project": "tony",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tood": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:02.462401+00:00",
+      "fragment_status": "Auction",
+      "project": "TOOD",
+      "score": 93,
+      "source": "GitHub Topic (computer-vision)"
     },
     "took": {
       "cache_version": 16,
@@ -52168,6 +52320,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "wwdc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:00.813925+00:00",
+      "fragment_status": "Auction",
+      "project": "wwdc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wych": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:56.602059+00:00",
@@ -52783,6 +52943,14 @@
       "project": "yarn",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yarr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T23:53:00.443893+00:00",
+      "fragment_status": "Auction",
+      "project": "yarr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yasb": {
       "cache_version": 16,
