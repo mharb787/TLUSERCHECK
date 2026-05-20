@@ -10800,6 +10800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dijo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.251900+00:00",
+      "fragment_status": "Auction",
+      "project": "dijo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dike": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:11.000102+00:00",
@@ -14368,6 +14376,14 @@
       "score": 75,
       "source": "GitHub Topic (api)"
     },
+    "fdsm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.845983+00:00",
+      "fragment_status": "Auction",
+      "project": "fdsm",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "fdta": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:07.638136+00:00",
@@ -14983,6 +14999,14 @@
       "project": "fixt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fixy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.717338+00:00",
+      "fragment_status": "Auction",
+      "project": "fixy",
+      "score": 91,
+      "source": "GitHub Topic (ai)"
     },
     "fizz": {
       "cache_version": 16,
@@ -15711,6 +15735,14 @@
       "project": "fozy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fpga": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.124327+00:00",
+      "fragment_status": "Auction",
+      "project": "FPGA",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fqdn": {
       "cache_version": 16,
@@ -19991,6 +20023,14 @@
       "project": "HMAR",
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "hmni": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.600429+00:00",
+      "fragment_status": "Auction",
+      "project": "hmni",
+      "score": 92,
+      "source": "GitHub Topic (ai)"
     },
     "hndr": {
       "cache_version": 16,
@@ -52656,6 +52696,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "yaof": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.368456+00:00",
+      "fragment_status": "Auction",
+      "project": "YAOF",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "yappi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:25.860668+00:00",
@@ -53261,6 +53309,14 @@
       "checked_at": "2026-05-13T15:25:40.035013+00:00",
       "fragment_status": "Auction",
       "project": "YOLO",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "yomo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T22:41:12.482991+00:00",
+      "fragment_status": "Auction",
+      "project": "yomo",
       "score": 100,
       "source": "GitHub New Repos"
     },
