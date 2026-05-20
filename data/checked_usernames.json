@@ -11768,6 +11768,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "drft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.876891+00:00",
+      "fragment_status": "Auction",
+      "project": "DRFT",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "drib": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:21.233536+00:00",
@@ -13079,6 +13087,14 @@
       "project": "eman",
       "score": 93,
       "source": "City Names"
+    },
+    "emba": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.088852+00:00",
+      "fragment_status": "Auction",
+      "project": "emba",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "embi": {
       "cache_version": 16,
@@ -16000,6 +16016,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "furo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:54.921515+00:00",
+      "fragment_status": "Auction",
+      "project": "furo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "furs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:18.645169+00:00",
@@ -17591,6 +17615,14 @@
       "project": "gnaw",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gnca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.537281+00:00",
+      "fragment_status": "Auction",
+      "project": "GNCA",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "gnus": {
       "cache_version": 16,
@@ -21063,6 +21095,14 @@
       "project": "iftta",
       "score": 88,
       "source": "GitHub Topic (automation)"
+    },
+    "igel": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.199387+00:00",
+      "fragment_status": "Auction",
+      "project": "igel",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "iggy": {
       "cache_version": 16,
@@ -26848,6 +26888,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "locs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.762371+00:00",
+      "fragment_status": "Auction",
+      "project": "locs",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lode": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:24.041267+00:00",
@@ -31264,6 +31312,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "ncps": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.312363+00:00",
+      "fragment_status": "Auction",
+      "project": "ncps",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nddm": {
       "cache_version": 16,
       "checked_at": "2026-05-19T05:52:13.131471+00:00",
@@ -31583,6 +31639,14 @@
       "project": "nexus",
       "score": 90,
       "source": "GitHub Topic (api)"
+    },
+    "nfgp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.424584+00:00",
+      "fragment_status": "Auction",
+      "project": "NFGP",
+      "score": 79,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ngpt": {
       "cache_version": 16,
@@ -32310,6 +32374,14 @@
       "fragment_status": "Auction",
       "project": "ntex",
       "score": 88,
+      "source": "Crates.io"
+    },
+    "ntfs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:56.120615+00:00",
+      "fragment_status": "Auction",
+      "project": "ntfs",
+      "score": 76,
       "source": "Crates.io"
     },
     "ntfy": {
@@ -34471,6 +34543,14 @@
       "project": "para",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "parc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:55.649418+00:00",
+      "fragment_status": "Auction",
+      "project": "parc",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pard": {
       "cache_version": 16,
@@ -40055,6 +40135,14 @@
       "project": "rtfde",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "rtic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T13:47:56.007623+00:00",
+      "fragment_status": "Auction",
+      "project": "rtic",
+      "score": 88,
+      "source": "Crates.io"
     },
     "rtrb": {
       "cache_version": 16,
