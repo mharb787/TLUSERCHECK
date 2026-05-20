@@ -16,6 +16,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "aarc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:05.087320+00:00",
+      "fragment_status": "Auction",
+      "project": "aarc",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "abac": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:43.337516+00:00",
@@ -5304,6 +5312,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bork": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.840473+00:00",
+      "fragment_status": "Auction",
+      "project": "bork",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "born": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:02.639846+00:00",
@@ -10528,6 +10544,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "dgnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.019176+00:00",
+      "fragment_status": "Auction",
+      "project": "dgnn",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dgpw": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:44.857266+00:00",
@@ -12295,6 +12319,14 @@
       "project": "dyke",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dync": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.968713+00:00",
+      "fragment_status": "Auction",
+      "project": "dync",
+      "score": 76,
+      "source": "Crates.io"
     },
     "dyne": {
       "cache_version": 16,
@@ -15744,6 +15776,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "fstr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:05.204456+00:00",
+      "fragment_status": "Auction",
+      "project": "fstr",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "ftdi": {
       "cache_version": 16,
       "checked_at": "2026-05-18T15:43:01.364292+00:00",
@@ -16535,6 +16575,14 @@
       "project": "gcra",
       "score": 88,
       "source": "Crates.io"
+    },
+    "gcsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.483121+00:00",
+      "fragment_status": "Auction",
+      "project": "gcsa",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "gdal": {
       "cache_version": 16,
@@ -19672,6 +19720,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hiro": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.364031+00:00",
+      "fragment_status": "Auction",
+      "project": "Hiro",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "hisn": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:12.828669+00:00",
@@ -20407,6 +20463,14 @@
       "project": "huge",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hugr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.599237+00:00",
+      "fragment_status": "Auction",
+      "project": "hugr",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "hugs": {
       "cache_version": 16,
@@ -21813,6 +21877,14 @@
       "checked_at": "2026-05-18T20:48:28.857852+00:00",
       "fragment_status": "Auction",
       "project": "ITRA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "itsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.133563+00:00",
+      "fragment_status": "Auction",
+      "project": "ITSA",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
@@ -35840,6 +35912,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pmdm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.247986+00:00",
+      "fragment_status": "Auction",
+      "project": "pmdm",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
+    },
     "pmgt": {
       "cache_version": 16,
       "checked_at": "2026-05-19T23:12:47.578407+00:00",
@@ -36695,6 +36775,14 @@
       "project": "psis",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "psla": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:03.902606+00:00",
+      "fragment_status": "Auction",
+      "project": "psla",
+      "score": 90,
+      "source": "GitHub Topic (deep-learning)"
     },
     "psmux": {
       "cache_version": 16,
@@ -39799,6 +39887,14 @@
       "project": "RSEN",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "rsix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T08:04:04.719466+00:00",
+      "fragment_status": "Auction",
+      "project": "rsix",
+      "score": 88,
+      "source": "Crates.io"
     },
     "rskp": {
       "cache_version": 16,
