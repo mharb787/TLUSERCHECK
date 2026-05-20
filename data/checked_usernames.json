@@ -512,6 +512,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "afem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:07:00.620188+00:00",
+      "fragment_status": "Auction",
+      "project": "afem",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "afif": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:47.884568+00:00",
@@ -6344,6 +6352,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "caer": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:06:59.642879+00:00",
+      "fragment_status": "Auction",
+      "project": "caer",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
+    },
     "caet": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:29.307139+00:00",
@@ -7135,6 +7151,14 @@
       "project": "cete",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cfie": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:07:00.130693+00:00",
+      "fragment_status": "Auction",
+      "project": "CFIE",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cfnew": {
       "cache_version": 16,
@@ -10608,6 +10632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dhap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:06:59.965039+00:00",
+      "fragment_status": "Auction",
+      "project": "DHAP",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dhat": {
       "cache_version": 16,
       "checked_at": "2026-05-13T23:17:09.004101+00:00",
@@ -12855,6 +12887,14 @@
       "project": "egos",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "egpo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:06:59.803211+00:00",
+      "fragment_status": "Auction",
+      "project": "EGPO",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "egra": {
       "cache_version": 16,
@@ -19664,6 +19704,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "hfgi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:07:00.459627+00:00",
+      "fragment_status": "Auction",
+      "project": "HFGI",
+      "score": 96,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "hfmf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.034169+00:00",
@@ -24079,6 +24127,14 @@
       "project": "kick",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kics": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:06:59.477182+00:00",
+      "fragment_status": "Auction",
+      "project": "kics",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kids": {
       "cache_version": 16,
@@ -31144,6 +31200,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nali": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:06:59.315071+00:00",
+      "fragment_status": "Auction",
+      "project": "nali",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "name": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:15.075484+00:00",
@@ -37607,6 +37671,14 @@
       "project": "pydot",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "pydt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:07:00.292680+00:00",
+      "fragment_status": "Auction",
+      "project": "PyDT",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pydub": {
       "cache_version": 14,
@@ -47672,6 +47744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "trpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:06:59.154186+00:00",
+      "fragment_status": "Auction",
+      "project": "trpc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "true": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:57.401130+00:00",
@@ -53503,6 +53583,14 @@
       "project": "zarf",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zart": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T21:07:00.783641+00:00",
+      "fragment_status": "Auction",
+      "project": "zart",
+      "score": 100,
+      "source": "GitHub Topic (ios)"
     },
     "zaxo": {
       "cache_version": 16,
