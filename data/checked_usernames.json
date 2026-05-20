@@ -3872,6 +3872,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "bbgo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.182388+00:00",
+      "fragment_status": "Auction",
+      "project": "bbgo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bbot": {
       "cache_version": 16,
       "checked_at": "2026-05-17T07:42:37.143419+00:00",
@@ -10000,6 +10008,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ddim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.070701+00:00",
+      "fragment_status": "Auction",
+      "project": "ddim",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ddnm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:49.138917+00:00",
@@ -11480,6 +11496,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dota": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.979898+00:00",
+      "fragment_status": "Auction",
+      "project": "dota",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dote": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:18.614322+00:00",
@@ -12279,6 +12303,14 @@
       "project": "dyne",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dysk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:55.957884+00:00",
+      "fragment_status": "Auction",
+      "project": "dysk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "each": {
       "cache_version": 16,
@@ -15975,6 +16007,14 @@
       "project": "fuzz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fvgp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.752569+00:00",
+      "fragment_status": "Auction",
+      "project": "fvGP",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "fyce": {
       "cache_version": 16,
@@ -19711,6 +19751,14 @@
       "project": "HMAR",
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "hndr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.521950+00:00",
+      "fragment_status": "Auction",
+      "project": "HNDR",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "hnsw": {
       "cache_version": 16,
@@ -28312,6 +28360,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "mbls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.864438+00:00",
+      "fragment_status": "Auction",
+      "project": "MbLS",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mbox": {
       "cache_version": 16,
       "checked_at": "2026-05-15T19:18:32.819282+00:00",
@@ -30175,6 +30231,14 @@
       "project": "mpire",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "mpsx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:57.206412+00:00",
+      "fragment_status": "Auction",
+      "project": "MPSX",
+      "score": 76,
+      "source": "GitHub Topic (neural-network)"
     },
     "mpvex": {
       "cache_version": 16,
@@ -32215,6 +32279,14 @@
       "project": "numrs",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "nums": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:57.595818+00:00",
+      "fragment_status": "Auction",
+      "project": "nums",
+      "score": 88,
+      "source": "Crates.io"
     },
     "nuns": {
       "cache_version": 16,
@@ -34512,6 +34584,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "pcan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:57.371574+00:00",
+      "fragment_status": "Auction",
+      "project": "pcan",
+      "score": 94,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "pcap": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.710184+00:00",
@@ -34975,6 +35055,14 @@
       "project": "pgdb",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "pgdf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:57.096067+00:00",
+      "fragment_status": "Auction",
+      "project": "PGDF",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "pgmcp": {
       "cache_version": 16,
@@ -35727,6 +35815,14 @@
       "project": "plum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "plur": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.295474+00:00",
+      "fragment_status": "Auction",
+      "project": "plur",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "plus": {
       "cache_version": 16,
@@ -37255,6 +37351,14 @@
       "project": "pymc",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "pyml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.407439+00:00",
+      "fragment_status": "Auction",
+      "project": "PyML",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pyop": {
       "cache_version": 16,
@@ -43864,6 +43968,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "stua": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:57.484908+00:00",
+      "fragment_status": "Auction",
+      "project": "stua",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "stub": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:10.929241+00:00",
@@ -45535,6 +45647,14 @@
       "project": "tfhe",
       "score": 88,
       "source": "Crates.io"
+    },
+    "tfkg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T04:38:56.639422+00:00",
+      "fragment_status": "Auction",
+      "project": "tfkg",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "tgcf": {
       "cache_version": 16,
