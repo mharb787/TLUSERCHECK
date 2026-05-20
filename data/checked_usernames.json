@@ -12208,6 +12208,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dupi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:13.383488+00:00",
+      "fragment_status": "Auction",
+      "project": "dupi",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "dupl": {
       "cache_version": 16,
       "checked_at": "2026-05-15T23:31:10.844744+00:00",
@@ -17343,6 +17351,14 @@
       "project": "giza",
       "score": 93,
       "source": "City Names"
+    },
+    "glab": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:12.883035+00:00",
+      "fragment_status": "Auction",
+      "project": "glab",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "glad": {
       "cache_version": 16,
@@ -30568,6 +30584,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mset": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:13.876718+00:00",
+      "fragment_status": "Auction",
+      "project": "mset",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "msml": {
       "cache_version": 16,
       "checked_at": "2026-05-17T19:33:44.192455+00:00",
@@ -31607,6 +31631,14 @@
       "project": "nerd",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nerf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:13.217697+00:00",
+      "fragment_status": "Auction",
+      "project": "NeRF",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "nesa": {
       "cache_version": 16,
@@ -38136,6 +38168,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "quil": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:13.547330+00:00",
+      "fragment_status": "Auction",
+      "project": "quil",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "quin": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:45.232146+00:00",
@@ -41415,6 +41455,14 @@
       "project": "SeCo",
       "score": 88,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "secp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:13.713217+00:00",
+      "fragment_status": "Auction",
+      "project": "secp",
+      "score": 88,
+      "source": "Crates.io"
     },
     "secs": {
       "cache_version": 16,
@@ -45584,6 +45632,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "taze": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:12.721103+00:00",
+      "fragment_status": "Auction",
+      "project": "taze",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tblib": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:15.478344+00:00",
@@ -49023,6 +49079,14 @@
       "project": "utoo",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "utpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T19:06:13.048853+00:00",
+      "fragment_status": "Auction",
+      "project": "UTPM",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "uuid": {
       "cache_version": 16,
