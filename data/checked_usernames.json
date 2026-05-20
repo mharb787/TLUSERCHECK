@@ -5416,6 +5416,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "botw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:46.720786+00:00",
+      "fragment_status": "Auction",
+      "project": "botw",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bout": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:04.131748+00:00",
@@ -8080,6 +8088,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cofo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:47.283886+00:00",
+      "fragment_status": "Auction",
+      "project": "CoFo",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "coft": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:35.005980+00:00",
@@ -8759,6 +8775,14 @@
       "project": "CRDR",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "crds": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:47.673032+00:00",
+      "fragment_status": "Auction",
+      "project": "crds",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "crew": {
       "cache_version": 16,
@@ -11664,6 +11688,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "dpfm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:47.093841+00:00",
+      "fragment_status": "Auction",
+      "project": "DPFM",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dpkt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.382026+00:00",
@@ -12295,6 +12327,14 @@
       "project": "dxos",
       "score": 97,
       "source": "GitHub Topic (ai)"
+    },
+    "dxpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:47.862694+00:00",
+      "fragment_status": "Auction",
+      "project": "dxpy",
+      "score": 76,
+      "source": "PyPI Top"
     },
     "dyad": {
       "cache_version": 16,
@@ -20448,6 +20488,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "htop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:45.772720+00:00",
+      "fragment_status": "Auction",
+      "project": "htop",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "htpy": {
       "cache_version": 16,
       "checked_at": "2026-05-16T13:53:12.591328+00:00",
@@ -21328,6 +21376,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "imia": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:47.478224+00:00",
+      "fragment_status": "Auction",
+      "project": "imia",
+      "score": 88,
+      "source": "PyPI Top"
+    },
     "imid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:26.043998+00:00",
@@ -21407,6 +21463,14 @@
       "project": "inaj\u00e1",
       "score": 93,
       "source": "City Names"
+    },
+    "inbq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:48.055749+00:00",
+      "fragment_status": "Auction",
+      "project": "inbq",
+      "score": 88,
+      "source": "PyPI Top"
     },
     "inby": {
       "cache_version": 16,
@@ -24607,6 +24671,14 @@
       "project": "konz",
       "score": 93,
       "source": "City Names"
+    },
+    "koom": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:46.339899+00:00",
+      "fragment_status": "Auction",
+      "project": "KOOM",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kopf": {
       "cache_version": 16,
@@ -27904,6 +27976,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mafs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:46.149007+00:00",
+      "fragment_status": "Auction",
+      "project": "mafs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "maga": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:41.593041+00:00",
@@ -29615,6 +29695,14 @@
       "project": "mleap",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "mlem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:46.895982+00:00",
+      "fragment_status": "Auction",
+      "project": "mlem",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mlff": {
       "cache_version": 16,
@@ -33024,6 +33112,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "oicq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:46.541518+00:00",
+      "fragment_status": "Auction",
+      "project": "oicq",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "oils": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:42.187277+00:00",
@@ -34648,6 +34744,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "paru": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:45.601118+00:00",
+      "fragment_status": "Auction",
+      "project": "paru",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pasa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:31.715403+00:00",
@@ -35479,6 +35583,14 @@
       "project": "picu\u00ed",
       "score": 93,
       "source": "City Names"
+    },
+    "picx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:45.960541+00:00",
+      "fragment_status": "Auction",
+      "project": "picx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pied": {
       "cache_version": 16,
@@ -37871,6 +37983,14 @@
       "project": "qldb",
       "score": 76,
       "source": "Crates.io"
+    },
+    "qlib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:45.420569+00:00",
+      "fragment_status": "Auction",
+      "project": "qlib",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "qllm": {
       "cache_version": 16,
@@ -47591,6 +47711,14 @@
       "project": "TTAC",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "ttaw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-20T16:40:48.238394+00:00",
+      "fragment_status": "Auction",
+      "project": "ttaw",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ttsc": {
       "cache_version": 16,
