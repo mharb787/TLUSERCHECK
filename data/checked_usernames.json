@@ -11544,6 +11544,14 @@
       "score": 87,
       "source": "GitHub Topic (api)"
     },
+    "doku": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:21.097227+00:00",
+      "fragment_status": "Auction",
+      "project": "doku",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "dole": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:15.693239+00:00",
@@ -28976,6 +28984,14 @@
       "score": 87,
       "source": "GitHub Topic (api)"
     },
+    "masr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.637096+00:00",
+      "fragment_status": "Auction",
+      "project": "masr",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mass": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:46.612922+00:00",
@@ -30357,6 +30373,14 @@
       "checked_at": "2026-05-17T20:26:20.329052+00:00",
       "fragment_status": "Auction",
       "project": "MLQD",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "mlrc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.175590+00:00",
+      "fragment_status": "Auction",
+      "project": "MLRC",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
@@ -32023,6 +32047,14 @@
       "project": "nbgv",
       "score": 76,
       "source": "NuGet"
+    },
+    "nbio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:19.832604+00:00",
+      "fragment_status": "Auction",
+      "project": "nbio",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nbox": {
       "cache_version": 16,
@@ -40944,6 +40976,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "rppg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.406652+00:00",
+      "fragment_status": "Auction",
+      "project": "rppg",
+      "score": 81,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "rpyc": {
       "cache_version": 16,
       "checked_at": "2026-05-12T18:54:03.242701+00:00",
@@ -40951,6 +40991,14 @@
       "project": "rpyc",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "rscd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.983535+00:00",
+      "fragment_status": "Auction",
+      "project": "RSCD",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "rsdp": {
       "cache_version": 16,
@@ -40991,6 +41039,14 @@
       "project": "rspc",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "rssn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:21.217866+00:00",
+      "fragment_status": "Auction",
+      "project": "rssn",
+      "score": 76,
+      "source": "Crates.io"
     },
     "rsta": {
       "cache_version": 16,
@@ -42247,6 +42303,14 @@
       "project": "sect",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sede": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.753910+00:00",
+      "fragment_status": "Auction",
+      "project": "sede",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "seeb": {
       "cache_version": 16,
@@ -44696,6 +44760,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "spml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.873437+00:00",
+      "fragment_status": "Auction",
+      "project": "SPML",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "spmp": {
       "cache_version": 16,
       "checked_at": "2026-05-16T15:41:44.690275+00:00",
@@ -45768,6 +45840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "swrv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:19.946594+00:00",
+      "fragment_status": "Auction",
+      "project": "swrv",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "swum": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:18.137788+00:00",
@@ -46623,6 +46703,14 @@
       "project": "tees",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "teex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.296811+00:00",
+      "fragment_status": "Auction",
+      "project": "teex",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "teff": {
       "cache_version": 16,
@@ -48535,6 +48623,14 @@
       "project": "TruVi",
       "score": 87,
       "source": "Hacker News Who Is Hiring"
+    },
+    "tsad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.057777+00:00",
+      "fragment_status": "Auction",
+      "project": "tsad",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "tsar": {
       "cache_version": 16,
@@ -53343,6 +53439,14 @@
       "project": "XUAN",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xvfi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T23:39:20.518622+00:00",
+      "fragment_status": "Auction",
+      "project": "XVFI",
+      "score": 93,
+      "source": "GitHub Topic (deep-learning)"
     },
     "xwin": {
       "cache_version": 16,
