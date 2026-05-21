@@ -1936,6 +1936,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "aoda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:20.267094+00:00",
+      "fragment_status": "Auction",
+      "project": "AODA",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "aora": {
       "cache_version": 16,
       "checked_at": "2026-05-13T10:40:34.858884+00:00",
@@ -2199,6 +2207,14 @@
       "project": "arbs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "arca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:21.011151+00:00",
+      "fragment_status": "Auction",
+      "project": "arca",
+      "score": 88,
+      "source": "Crates.io"
     },
     "arch": {
       "cache_version": 16,
@@ -5839,6 +5855,14 @@
       "project": "btop",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "bttr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:20.027359+00:00",
+      "fragment_status": "Auction",
+      "project": "BTTR",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
     },
     "bubo": {
       "cache_version": 16,
@@ -23192,6 +23216,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "jnix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:20.761100+00:00",
+      "fragment_status": "Auction",
+      "project": "jnix",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "joal": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:49.700455+00:00",
@@ -31143,6 +31175,14 @@
       "project": "mteb",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mtfm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:20.510413+00:00",
+      "fragment_status": "Auction",
+      "project": "MTFM",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "mtkd": {
       "cache_version": 16,
@@ -40536,6 +40576,14 @@
       "score": 97,
       "source": "Crates.io"
     },
+    "rofi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:19.540618+00:00",
+      "fragment_status": "Auction",
+      "project": "rofi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rogue": {
       "cache_version": 16,
       "checked_at": "2026-05-11T03:54:45.026220+00:00",
@@ -49543,6 +49591,14 @@
       "project": "unyt",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "uosc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T21:13:19.784934+00:00",
+      "fragment_status": "Auction",
+      "project": "uosc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "uozu": {
       "cache_version": 16,
