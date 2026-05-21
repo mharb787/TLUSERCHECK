@@ -11344,6 +11344,14 @@
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
     },
+    "dnlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.976165+00:00",
+      "fragment_status": "Auction",
+      "project": "dnlp",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
+    },
     "dnnr": {
       "cache_version": 16,
       "checked_at": "2026-05-18T23:46:15.954484+00:00",
@@ -18336,6 +18344,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gost": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.137644+00:00",
+      "fragment_status": "Auction",
+      "project": "gost",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gotun": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:42.831764+00:00",
@@ -19975,6 +19991,14 @@
       "project": "heth",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "heti": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.244171+00:00",
+      "fragment_status": "Auction",
+      "project": "heti",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "hets": {
       "cache_version": 16,
@@ -24495,6 +24519,14 @@
       "project": "kibe",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kibi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.684373+00:00",
+      "fragment_status": "Auction",
+      "project": "kibi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kibo": {
       "cache_version": 16,
@@ -32712,6 +32744,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "nnga": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.790453+00:00",
+      "fragment_status": "Auction",
+      "project": "nnGA",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "nnli": {
       "cache_version": 16,
       "checked_at": "2026-05-14T11:28:50.758622+00:00",
@@ -38736,6 +38776,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "qorb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:12.197713+00:00",
+      "fragment_status": "Auction",
+      "project": "qorb",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "qrev": {
       "cache_version": 16,
       "checked_at": "2026-05-13T12:31:04.618778+00:00",
@@ -42583,6 +42631,14 @@
       "project": "Sfera",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "sfml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:12.087450+00:00",
+      "fragment_status": "Auction",
+      "project": "sfml",
+      "score": 76,
+      "source": "Crates.io"
     },
     "sgqlc": {
       "cache_version": 16,
@@ -48912,6 +48968,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tweb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.573262+00:00",
+      "fragment_status": "Auction",
+      "project": "tweb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "twee": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:02.128411+00:00",
@@ -50701,6 +50765,14 @@
       "checked_at": "2026-05-11T10:35:00.581985+00:00",
       "fragment_status": "Taken",
       "project": "ViMax",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "vime": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.462766+00:00",
+      "fragment_status": "Auction",
+      "project": "vime",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -53039,6 +53111,14 @@
       "project": "xdsl",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "xemu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T22:41:11.354951+00:00",
+      "fragment_status": "Auction",
+      "project": "xemu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xgen": {
       "cache_version": 16,
