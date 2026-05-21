@@ -384,6 +384,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "adni": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.647723+00:00",
+      "fragment_status": "Auction",
+      "project": "ADNI",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
+    },
     "adola": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:04.740885+00:00",
@@ -8952,6 +8960,14 @@
       "score": 90,
       "source": "Hacker News Show HN"
     },
+    "cssr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:20.981945+00:00",
+      "fragment_status": "Auction",
+      "project": "CSSR",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "csta": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:02.363102+00:00",
@@ -10055,6 +10071,14 @@
       "project": "dCAM",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "dcbo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.092516+00:00",
+      "fragment_status": "Auction",
+      "project": "DCBO",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "dccm": {
       "cache_version": 16,
@@ -11176,6 +11200,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "dlac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.201835+00:00",
+      "fragment_status": "Auction",
+      "project": "DLAC",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dlib": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:08.314732+00:00",
@@ -11600,6 +11632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "doro": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.313634+00:00",
+      "fragment_status": "Auction",
+      "project": "doro",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dorp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:17.738968+00:00",
@@ -11887,6 +11927,14 @@
       "project": "dreg",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "drei": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:20.761574+00:00",
+      "fragment_status": "Auction",
+      "project": "drei",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "drek": {
       "cache_version": 16,
@@ -12855,6 +12903,14 @@
       "project": "eery",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eetf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.757808+00:00",
+      "fragment_status": "Auction",
+      "project": "eetf",
+      "score": 88,
+      "source": "Crates.io"
     },
     "efel": {
       "cache_version": 16,
@@ -27264,6 +27320,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lofi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:20.872809+00:00",
+      "fragment_status": "Auction",
+      "project": "Lofi",
+      "score": 96,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "loft": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:24.214793+00:00",
@@ -31768,6 +31832,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ndic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.537985+00:00",
+      "fragment_status": "Auction",
+      "project": "NDIC",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ndif": {
       "cache_version": 16,
       "checked_at": "2026-05-16T21:08:59.091221+00:00",
@@ -31951,6 +32023,14 @@
       "project": "neon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "neps": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T12:14:21.425610+00:00",
+      "fragment_status": "Auction",
+      "project": "neps",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "nerd": {
       "cache_version": 16,
