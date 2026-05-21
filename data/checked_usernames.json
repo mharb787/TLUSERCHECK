@@ -10544,6 +10544,14 @@
       "score": 89,
       "source": "GitHub Topic (cli)"
     },
+    "detr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T05:56:45.957766+00:00",
+      "fragment_status": "Auction",
+      "project": "detr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "deva": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:08.694517+00:00",
@@ -13367,6 +13375,14 @@
       "project": "emus",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "emvd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T05:56:46.298117+00:00",
+      "fragment_status": "Auction",
+      "project": "EMVD",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "emyd": {
       "cache_version": 16,
@@ -19767,6 +19783,14 @@
       "project": "hets",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hetu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T05:56:46.468685+00:00",
+      "fragment_status": "Auction",
+      "project": "Hetu",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "hewn": {
       "cache_version": 16,
@@ -27967,6 +27991,14 @@
       "project": "lviv",
       "score": 93,
       "source": "City Names"
+    },
+    "lwcc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T05:56:46.128369+00:00",
+      "fragment_status": "Auction",
+      "project": "lwcc",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lwei": {
       "cache_version": 16,
@@ -50543,6 +50575,14 @@
       "project": "vPIN",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "vpns": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T05:56:45.783719+00:00",
+      "fragment_status": "Auction",
+      "project": "VPNs",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "vrow": {
       "cache_version": 16,
