@@ -10088,6 +10088,14 @@
       "score": 78,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dcsr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:52.097951+00:00",
+      "fragment_status": "Auction",
+      "project": "DCSR",
+      "score": 78,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dcup": {
       "cache_version": 16,
       "checked_at": "2026-05-11T20:00:31.942779+00:00",
@@ -22904,6 +22912,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jiti": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:51.590723+00:00",
+      "fragment_status": "Auction",
+      "project": "jiti",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jive": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:36.163633+00:00",
@@ -25920,6 +25936,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ldtk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:51.420336+00:00",
+      "fragment_status": "Auction",
+      "project": "ldtk",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:08.383650+00:00",
@@ -28031,6 +28055,14 @@
       "project": "lyse",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lzss": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:52.433645+00:00",
+      "fragment_status": "Auction",
+      "project": "lzss",
+      "score": 76,
+      "source": "Crates.io"
     },
     "lzxd": {
       "cache_version": 16,
@@ -31607,6 +31639,14 @@
       "project": "nbgv",
       "score": 76,
       "source": "NuGet"
+    },
+    "nbox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:51.759105+00:00",
+      "fragment_status": "Auction",
+      "project": "nbox",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "nbqa": {
       "cache_version": 16,
@@ -49224,6 +49264,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ursr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:52.265197+00:00",
+      "fragment_status": "Auction",
+      "project": "ursr",
+      "score": 87,
+      "source": "GitHub Topic (speech-recognition)"
+    },
     "urus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:09.893758+00:00",
@@ -50368,6 +50416,14 @@
       "score": 98,
       "source": "PyPI Top"
     },
+    "vnlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:51.927524+00:00",
+      "fragment_status": "Auction",
+      "project": "vnlp",
+      "score": 80,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "vocs": {
       "cache_version": 16,
       "checked_at": "2026-05-14T13:14:47.494433+00:00",
@@ -51127,6 +51183,14 @@
       "project": "wcap",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "wcgi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T01:50:52.601607+00:00",
+      "fragment_status": "Auction",
+      "project": "wcgi",
+      "score": 88,
+      "source": "Crates.io"
     },
     "wcgw": {
       "cache_version": 16,
