@@ -10120,6 +10120,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ddks": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:28.941883+00:00",
+      "fragment_status": "Auction",
+      "project": "DDKS",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "ddnm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:49.138917+00:00",
@@ -11999,6 +12007,14 @@
       "project": "dspy",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "dsta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:29.315036+00:00",
+      "fragment_status": "Auction",
+      "project": "DSTA",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dstp": {
       "cache_version": 16,
@@ -17143,6 +17159,14 @@
       "project": "ggez",
       "score": 88,
       "source": "Crates.io"
+    },
+    "gghl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:29.130871+00:00",
+      "fragment_status": "Auction",
+      "project": "GGHL",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "ggml": {
       "cache_version": 16,
@@ -22864,6 +22888,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "jimi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:29.684643+00:00",
+      "fragment_status": "Auction",
+      "project": "jimi",
+      "score": 90,
+      "source": "GitHub Topic (monitoring)"
+    },
     "jimo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:47.809933+00:00",
@@ -27703,6 +27735,14 @@
       "project": "luck",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "luda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:28.754168+00:00",
+      "fragment_status": "Auction",
+      "project": "luda",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lude": {
       "cache_version": 16,
@@ -32911,6 +32951,14 @@
       "project": "nuns",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nuqs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:28.379166+00:00",
+      "fragment_status": "Auction",
+      "project": "nuqs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nurd": {
       "cache_version": 16,
@@ -44480,6 +44528,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "ssht": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:29.499735+00:00",
+      "fragment_status": "Auction",
+      "project": "SSHT",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "sshx": {
       "cache_version": 16,
       "checked_at": "2026-05-17T10:45:52.353403+00:00",
@@ -45319,6 +45375,14 @@
       "project": "syce",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "syft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:28.562055+00:00",
+      "fragment_status": "Auction",
+      "project": "syft",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "syftr": {
       "cache_version": 16,
@@ -53967,6 +54031,14 @@
       "project": "zeds",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zeed": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T08:59:29.868495+00:00",
+      "fragment_status": "Auction",
+      "project": "zeed",
+      "score": 87,
+      "source": "GitHub Topic (logging)"
     },
     "zees": {
       "cache_version": 16,
