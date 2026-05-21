@@ -10432,6 +10432,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "delu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.126321+00:00",
+      "fragment_status": "Auction",
+      "project": "delu",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "deme": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:07.455245+00:00",
@@ -10543,6 +10551,14 @@
       "project": "derm",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "derp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.789983+00:00",
+      "fragment_status": "Auction",
+      "project": "derp",
+      "score": 88,
+      "source": "Crates.io"
     },
     "dery": {
       "cache_version": 16,
@@ -12695,6 +12711,14 @@
       "project": "ECCT",
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "ecgn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.233379+00:00",
+      "fragment_status": "Auction",
+      "project": "ecgn",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "eche": {
       "cache_version": 16,
@@ -17568,6 +17592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gixy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:45.456625+00:00",
+      "fragment_status": "Auction",
+      "project": "Gixy",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "giza": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:05.702219+00:00",
@@ -20743,6 +20775,14 @@
       "project": "HTML",
       "score": 75,
       "source": "Hacker News New"
+    },
+    "htmx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:45.781152+00:00",
+      "fragment_status": "Auction",
+      "project": "htmx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "htmz": {
       "cache_version": 16,
@@ -25365,6 +25405,14 @@
       "checked_at": "2026-05-16T17:33:03.804804+00:00",
       "fragment_status": "Auction",
       "project": "kwok",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "kwrt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:45.900562+00:00",
+      "fragment_status": "Auction",
+      "project": "Kwrt",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -33816,6 +33864,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "omlt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.560234+00:00",
+      "fragment_status": "Auction",
+      "project": "OMLT",
+      "score": 93,
+      "source": "GitHub Topic (neural-network)"
+    },
     "omlx": {
       "cache_version": 16,
       "checked_at": "2026-05-11T13:24:18.622552+00:00",
@@ -36775,6 +36831,14 @@
       "project": "pogy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "poha": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:45.674057+00:00",
+      "fragment_status": "Auction",
+      "project": "POHA",
+      "score": 87,
+      "source": "GitHub Trending (daily)"
     },
     "point": {
       "cache_version": 16,
@@ -40168,6 +40232,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "rmux": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:45.564564+00:00",
+      "fragment_status": "Auction",
+      "project": "rmux",
+      "score": 90,
+      "source": "GitHub Trending (daily)"
+    },
     "rnak": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:54.464411+00:00",
@@ -42992,6 +43064,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sish": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.450448+00:00",
+      "fragment_status": "Auction",
+      "project": "SISH",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "site": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:47.181468+00:00",
@@ -44703,6 +44783,14 @@
       "project": "stay",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "stcn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.342502+00:00",
+      "fragment_status": "Auction",
+      "project": "STCN",
+      "score": 86,
+      "source": "GitHub Topic (deep-learning)"
     },
     "stebz": {
       "cache_version": 16,
@@ -49488,6 +49576,14 @@
       "score": 87,
       "source": "GitHub Topic (nlp)"
     },
+    "useb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.670409+00:00",
+      "fragment_status": "Auction",
+      "project": "useb",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "used": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:10.046805+00:00",
@@ -51728,6 +51824,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "wgcf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.011647+00:00",
+      "fragment_status": "Auction",
+      "project": "wgcf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wgpt": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:04.443797+00:00",
@@ -53279,6 +53383,14 @@
       "project": "yawa",
       "score": 93,
       "source": "City Names"
+    },
+    "yawc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-21T15:51:46.901605+00:00",
+      "fragment_status": "Auction",
+      "project": "yawc",
+      "score": 88,
+      "source": "Crates.io"
     },
     "yawl": {
       "cache_version": 16,
