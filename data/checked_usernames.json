@@ -296,6 +296,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "acto": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:07.022315+00:00",
+      "fragment_status": "Auction",
+      "project": "acto",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "acts": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.247939+00:00",
@@ -7584,6 +7592,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "chwp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:06.799322+00:00",
+      "fragment_status": "Auction",
+      "project": "chwp",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "ciao": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:30.703514+00:00",
@@ -7647,6 +7663,14 @@
       "project": "cion",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cips": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:06.128836+00:00",
+      "fragment_status": "Auction",
+      "project": "CIPS",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cira": {
       "cache_version": 16,
@@ -32840,6 +32864,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "nnue": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:05.682302+00:00",
+      "fragment_status": "Auction",
+      "project": "NNUE",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "noah": {
       "cache_version": 16,
       "checked_at": "2026-05-18T21:53:28.226468+00:00",
@@ -37519,6 +37551,14 @@
       "project": "poyo",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "ppet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:05.457544+00:00",
+      "fragment_status": "Auction",
+      "project": "PPet",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pphc": {
       "cache_version": 16,
@@ -46336,6 +46376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tanl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:06.350396+00:00",
+      "fragment_status": "Auction",
+      "project": "tanl",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "tans": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:23.431569+00:00",
@@ -48351,6 +48399,14 @@
       "project": "tpcp",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "tpdg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:06.576201+00:00",
+      "fragment_status": "Auction",
+      "project": "TPDG",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
     },
     "tpgn": {
       "cache_version": 16,
@@ -51639,6 +51695,14 @@
       "project": "wani",
       "score": 93,
       "source": "City Names"
+    },
+    "wann": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T05:45:05.905577+00:00",
+      "fragment_status": "Auction",
+      "project": "wann",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "wans": {
       "cache_version": 16,
