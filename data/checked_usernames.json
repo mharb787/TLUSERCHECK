@@ -18728,6 +18728,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "grex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T19:57:59.130277+00:00",
+      "fragment_status": "Auction",
+      "project": "grex",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "grey": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:44.229647+00:00",
@@ -20215,6 +20223,14 @@
       "project": "hews",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hexf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T19:57:59.480948+00:00",
+      "fragment_status": "Auction",
+      "project": "hexf",
+      "score": 88,
+      "source": "Crates.io"
     },
     "heze": {
       "cache_version": 16,
@@ -40312,6 +40328,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "ress": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T19:57:59.308250+00:00",
+      "fragment_status": "Auction",
+      "project": "ress",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "rest": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:57.942334+00:00",
@@ -48775,6 +48799,14 @@
       "project": "trat",
       "score": 93,
       "source": "City Names"
+    },
+    "trax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T19:57:58.958615+00:00",
+      "fragment_status": "Auction",
+      "project": "trax",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tray": {
       "cache_version": 16,
