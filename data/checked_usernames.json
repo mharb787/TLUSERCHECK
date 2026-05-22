@@ -144,6 +144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abow": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T18:02:24.003305+00:00",
+      "fragment_status": "Auction",
+      "project": "abow",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "abri": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:03.727324+00:00",
@@ -319,6 +327,14 @@
       "project": "ACVC",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "acwj": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T18:02:23.213461+00:00",
+      "fragment_status": "Auction",
+      "project": "acwj",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "acyl": {
       "cache_version": 16,
@@ -12512,6 +12528,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dumi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T18:02:23.408204+00:00",
+      "fragment_status": "Auction",
+      "project": "dumi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dump": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:24.378461+00:00",
@@ -20216,6 +20240,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "hfta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T18:02:23.811462+00:00",
+      "fragment_status": "Auction",
+      "project": "hfta",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "hgvs": {
       "cache_version": 16,
       "checked_at": "2026-05-20T00:17:51.180876+00:00",
@@ -27103,6 +27135,14 @@
       "project": "LIHQ",
       "score": 92,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "liif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T18:02:23.604964+00:00",
+      "fragment_status": "Auction",
+      "project": "liif",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "liji": {
       "cache_version": 16,
@@ -50167,6 +50207,14 @@
       "project": "upet",
       "score": 91,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "uplc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T18:02:24.200764+00:00",
+      "fragment_status": "Auction",
+      "project": "uplc",
+      "score": 88,
+      "source": "Crates.io"
     },
     "upon": {
       "cache_version": 16,
