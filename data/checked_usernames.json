@@ -1848,6 +1848,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "anml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T01:33:57.919300+00:00",
+      "fragment_status": "Auction",
+      "project": "ANML",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "anoa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:16.340729+00:00",
@@ -3952,6 +3960,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "bcdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T01:33:58.690468+00:00",
+      "fragment_status": "Auction",
+      "project": "BCDB",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "bclm": {
       "cache_version": 16,
       "checked_at": "2026-05-20T23:53:00.640794+00:00",
@@ -5143,6 +5159,14 @@
       "project": "bokeh",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "boku": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T01:33:58.102320+00:00",
+      "fragment_status": "Auction",
+      "project": "Boku",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "bola": {
       "cache_version": 16,
@@ -10224,6 +10248,14 @@
       "score": 77,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ddsp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T01:33:58.493073+00:00",
+      "fragment_status": "Auction",
+      "project": "ddsp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:04.344235+00:00",
@@ -10335,6 +10367,14 @@
       "project": "deedo",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "deej": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T01:33:58.305652+00:00",
+      "fragment_status": "Auction",
+      "project": "deej",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "deem": {
       "cache_version": 16,
@@ -50055,6 +50095,14 @@
       "project": "utca",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "utfx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T01:33:58.890019+00:00",
+      "fragment_status": "Auction",
+      "project": "utfx",
+      "score": 88,
+      "source": "Crates.io"
     },
     "utoo": {
       "cache_version": 16,
