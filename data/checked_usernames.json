@@ -9024,6 +9024,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "crmf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T23:20:04.721546+00:00",
+      "fragment_status": "Auction",
+      "project": "crmf",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "croc": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:43.272704+00:00",
@@ -12927,6 +12935,14 @@
       "project": "ebon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ebpf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T23:20:04.207118+00:00",
+      "fragment_status": "Auction",
+      "project": "ebpf",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ecco": {
       "cache_version": 16,
@@ -19247,6 +19263,14 @@
       "project": "GVAR",
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "gvdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T23:20:04.891979+00:00",
+      "fragment_status": "Auction",
+      "project": "gvdb",
+      "score": 76,
+      "source": "Crates.io"
     },
     "gwcs": {
       "cache_version": 16,
@@ -33800,6 +33824,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nvsx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T23:20:04.038051+00:00",
+      "fragment_status": "Auction",
+      "project": "NVSX",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "nvtx": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.801090+00:00",
@@ -36565,6 +36597,14 @@
       "checked_at": "2026-05-20T04:38:57.096067+00:00",
       "fragment_status": "Auction",
       "project": "PGDF",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "pgdl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T23:20:04.549704+00:00",
+      "fragment_status": "Auction",
+      "project": "pgdl",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
@@ -41447,6 +41487,14 @@
       "project": "rows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rowy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T23:20:04.374684+00:00",
+      "fragment_status": "Auction",
+      "project": "rowy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rpds": {
       "cache_version": 16,
