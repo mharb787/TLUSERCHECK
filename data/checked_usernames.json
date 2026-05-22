@@ -4056,6 +4056,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "beas": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.244607+00:00",
+      "fragment_status": "Auction",
+      "project": "BEAS",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "beat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:31.626840+00:00",
@@ -13680,6 +13688,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "emps": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.701811+00:00",
+      "fragment_status": "Auction",
+      "project": "emps",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "empy": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.367548+00:00",
@@ -13976,6 +13992,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "eris": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:04.911228+00:00",
+      "fragment_status": "Auction",
+      "project": "eris",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "erke": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:57.334852+00:00",
@@ -14255,6 +14279,14 @@
       "project": "evox",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "evtx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.818809+00:00",
+      "fragment_status": "Auction",
+      "project": "evtx",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ewer": {
       "cache_version": 16,
@@ -16008,6 +16040,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "forc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.931295+00:00",
+      "fragment_status": "Auction",
+      "project": "forc",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ford": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:13.758972+00:00",
@@ -16199,6 +16239,14 @@
       "project": "fraim",
       "score": 100,
       "source": "GitHub Topic (ai)"
+    },
+    "fran": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.470711+00:00",
+      "fragment_status": "Auction",
+      "project": "FRAN",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "frap": {
       "cache_version": 16,
@@ -22496,6 +22544,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "iree": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:04.798742+00:00",
+      "fragment_status": "Auction",
+      "project": "iree",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "iref": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.824375+00:00",
@@ -24207,6 +24263,14 @@
       "project": "kaon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kaos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.021791+00:00",
+      "fragment_status": "Auction",
+      "project": "kaos",
+      "score": 88,
+      "source": "GitHub Topic (ml)"
     },
     "kapa": {
       "cache_version": 16,
@@ -28975,6 +29039,14 @@
       "project": "mako",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "maks": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.586272+00:00",
+      "fragment_status": "Auction",
+      "project": "maks",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "mala": {
       "cache_version": 16,
@@ -38024,6 +38096,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "prml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.132899+00:00",
+      "fragment_status": "Auction",
+      "project": "PRML",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "prnu": {
       "cache_version": 16,
       "checked_at": "2026-05-20T11:16:31.848492+00:00",
@@ -40495,6 +40575,14 @@
       "project": "rhyl",
       "score": 81,
       "source": "City Names"
+    },
+    "riad": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T22:15:05.356933+00:00",
+      "fragment_status": "Auction",
+      "project": "RIAD",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "rial": {
       "cache_version": 16,
