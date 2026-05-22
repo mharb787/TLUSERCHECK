@@ -904,6 +904,14 @@
       "score": 97,
       "source": "GitHub Topic (llm)"
     },
+    "aimf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:48.810821+00:00",
+      "fragment_status": "Auction",
+      "project": "AIMF",
+      "score": 97,
+      "source": "Hacker News New"
+    },
     "aimi": {
       "cache_version": 16,
       "checked_at": "2026-05-14T13:14:47.734115+00:00",
@@ -7848,6 +7856,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cleo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:49.898385+00:00",
+      "fragment_status": "Auction",
+      "project": "Cleo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "clew": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:32.335709+00:00",
@@ -9535,6 +9551,14 @@
       "project": "dace",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dacl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:49.590390+00:00",
+      "fragment_status": "Auction",
+      "project": "dacl",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dadai": {
       "cache_version": 16,
@@ -12215,6 +12239,14 @@
       "project": "DSEC",
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "dsit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:49.279054+00:00",
+      "fragment_status": "Auction",
+      "project": "dsit",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dspy": {
       "cache_version": 16,
@@ -23920,6 +23952,14 @@
       "score": 97,
       "source": "GitHub Topic (machine-learning)"
     },
+    "kair": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:48.966471+00:00",
+      "fragment_status": "Auction",
+      "project": "KAIR",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kaki": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:41.819268+00:00",
@@ -30936,6 +30976,14 @@
       "score": 100,
       "source": "YC Companies"
     },
+    "moop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:49.745221+00:00",
+      "fragment_status": "Auction",
+      "project": "moop",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "moor": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:05.663946+00:00",
@@ -36607,6 +36655,14 @@
       "project": "pinme",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "pinn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:49.122107+00:00",
+      "fragment_status": "Auction",
+      "project": "PINN",
+      "score": 94,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pins": {
       "cache_version": 16,
@@ -51056,6 +51112,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "virt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:50.065434+00:00",
+      "fragment_status": "Auction",
+      "project": "virt",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "visa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:20.248092+00:00",
@@ -52807,6 +52871,14 @@
       "project": "wits",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "witw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T08:39:49.434211+00:00",
+      "fragment_status": "Auction",
+      "project": "WITW",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "witx": {
       "cache_version": 16,
