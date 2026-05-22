@@ -12720,6 +12720,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dvae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:05.722292+00:00",
+      "fragment_status": "Auction",
+      "project": "DVAE",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dxos": {
       "cache_version": 16,
       "checked_at": "2026-05-19T01:49:12.349431+00:00",
@@ -17504,6 +17512,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ggpo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:04.885142+00:00",
+      "fragment_status": "Auction",
+      "project": "ggpo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gguf": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.324885+00:00",
@@ -21047,6 +21063,14 @@
       "project": "hsms",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "hsom": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:05.323142+00:00",
+      "fragment_status": "Auction",
+      "project": "HSOM",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
     },
     "hsrs": {
       "cache_version": 16,
@@ -31776,6 +31800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "musc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:06.121284+00:00",
+      "fragment_status": "Auction",
+      "project": "musc",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "muse": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:12.426637+00:00",
@@ -41792,6 +41824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "rusp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:06.537606+00:00",
+      "fragment_status": "Auction",
+      "project": "rusp",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "rust": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:13.797016+00:00",
@@ -45464,6 +45504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "stak": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:06.336603+00:00",
+      "fragment_status": "Auction",
+      "project": "stak",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "star": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:08.601263+00:00",
@@ -46311,6 +46359,14 @@
       "project": "syli",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "symk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:05.518337+00:00",
+      "fragment_status": "Auction",
+      "project": "symk",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
     },
     "syna": {
       "cache_version": 16,
@@ -49056,6 +49112,14 @@
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
     },
+    "tsai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:04.687710+00:00",
+      "fragment_status": "Auction",
+      "project": "tsai",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tsar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:57.715899+00:00",
@@ -49839,6 +49903,14 @@
       "project": "udos",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "udvd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:05.921670+00:00",
+      "fragment_status": "Auction",
+      "project": "udvd",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "ueda": {
       "cache_version": 16,
@@ -55559,6 +55631,14 @@
       "project": "zori",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zpan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-22T21:06:05.080674+00:00",
+      "fragment_status": "Auction",
+      "project": "zpan",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zrok": {
       "cache_version": 16,
