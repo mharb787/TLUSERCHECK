@@ -1344,6 +1344,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "algo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:39.534687+00:00",
+      "fragment_status": "Auction",
+      "project": "algo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "alice": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:54.002348+00:00",
@@ -1543,6 +1551,14 @@
       "project": "alum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "alvr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:39.423670+00:00",
+      "fragment_status": "Auction",
+      "project": "ALVR",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "amah": {
       "cache_version": 16,
@@ -9120,6 +9136,14 @@
       "score": 89,
       "source": "GitHub Topic (computer-vision)"
     },
+    "csle": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:40.103468+00:00",
+      "fragment_status": "Auction",
+      "project": "csle",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "csrct": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:38.730346+00:00",
@@ -9463,6 +9487,14 @@
       "project": "cuvs",
       "score": 100,
       "source": "GitHub Topic (llm)"
+    },
+    "cvnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:39.766422+00:00",
+      "fragment_status": "Auction",
+      "project": "cvnn",
+      "score": 78,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cvss": {
       "cache_version": 16,
@@ -10325,6 +10357,14 @@
       "checked_at": "2026-05-21T08:59:28.941883+00:00",
       "fragment_status": "Auction",
       "project": "DDKS",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "ddml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:39.988859+00:00",
+      "fragment_status": "Auction",
+      "project": "ddml",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
@@ -12311,6 +12351,14 @@
       "project": "DSTA",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "dstc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:39.878651+00:00",
+      "fragment_status": "Auction",
+      "project": "dstc",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "dstp": {
       "cache_version": 16,
@@ -38784,6 +38832,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "puyi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:40.239298+00:00",
+      "fragment_status": "Auction",
+      "project": "Puyi",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "puyo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:04.072632+00:00",
@@ -55183,6 +55239,14 @@
       "project": "yows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ytop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T06:43:39.653220+00:00",
+      "fragment_status": "Auction",
+      "project": "ytop",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yuan": {
       "cache_version": 16,
