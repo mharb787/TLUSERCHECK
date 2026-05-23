@@ -9624,6 +9624,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "czsc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T11:37:32.840600+00:00",
+      "fragment_status": "Auction",
+      "project": "czsc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "daal": {
       "cache_version": 16,
       "checked_at": "2026-05-17T12:40:34.676275+00:00",
@@ -22720,6 +22728,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "irpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T11:37:33.514401+00:00",
+      "fragment_status": "Auction",
+      "project": "irpc",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "irtk": {
       "cache_version": 16,
       "checked_at": "2026-05-18T22:44:37.770836+00:00",
@@ -30904,6 +30920,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlsr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T11:37:33.171096+00:00",
+      "fragment_status": "Auction",
+      "project": "MLSR",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mlte": {
       "cache_version": 16,
       "checked_at": "2026-05-19T14:19:42.506329+00:00",
@@ -37568,6 +37592,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pmac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T11:37:33.350118+00:00",
+      "fragment_status": "Auction",
+      "project": "pmac",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "pmdm": {
       "cache_version": 16,
       "checked_at": "2026-05-20T08:04:04.247986+00:00",
@@ -41173,6 +41205,14 @@
       "checked_at": "2026-05-16T17:33:06.835154+00:00",
       "fragment_status": "Auction",
       "project": "rlsf",
+      "score": 76,
+      "source": "Crates.io"
+    },
+    "rltk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T11:37:33.677446+00:00",
+      "fragment_status": "Auction",
+      "project": "rltk",
       "score": 76,
       "source": "Crates.io"
     },
@@ -50647,6 +50687,14 @@
       "project": "upet",
       "score": 91,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "upic": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T11:37:33.003932+00:00",
+      "fragment_status": "Auction",
+      "project": "uPic",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "upit": {
       "cache_version": 16,
