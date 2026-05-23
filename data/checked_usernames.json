@@ -1232,6 +1232,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "alac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:11.974023+00:00",
+      "fragment_status": "Auction",
+      "project": "alac",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "alae": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:09.823942+00:00",
@@ -1799,6 +1807,14 @@
       "project": "anbu",
       "score": 93,
       "source": "City Names"
+    },
+    "anci": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:10.304377+00:00",
+      "fragment_status": "Auction",
+      "project": "ANCI",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "anda": {
       "cache_version": 16,
@@ -7487,6 +7503,14 @@
       "project": "chaz",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "chbs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:11.641714+00:00",
+      "fragment_status": "Auction",
+      "project": "chbs",
+      "score": 76,
+      "source": "Crates.io"
     },
     "chdb": {
       "cache_version": 16,
@@ -15055,6 +15079,14 @@
       "project": "FCOS",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "fcot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:11.300354+00:00",
+      "fragment_status": "Auction",
+      "project": "FCOT",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "fdnpy": {
       "cache_version": 16,
@@ -24808,6 +24840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "keda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:10.470528+00:00",
+      "fragment_status": "Auction",
+      "project": "keda",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "keef": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:44.911894+00:00",
@@ -25087,6 +25127,14 @@
       "project": "keys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kfda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:10.804193+00:00",
+      "fragment_status": "Auction",
+      "project": "kfda",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "kgpt": {
       "cache_version": 16,
@@ -33168,6 +33216,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "neqo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:10.636135+00:00",
+      "fragment_status": "Auction",
+      "project": "neqo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nerd": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:19.202357+00:00",
@@ -38808,6 +38864,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "psbt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:12.139814+00:00",
+      "fragment_status": "Auction",
+      "project": "psbt",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "psis": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:37.000119+00:00",
@@ -40567,6 +40631,14 @@
       "project": "rbdc",
       "score": 76,
       "source": "Crates.io"
+    },
+    "rbhc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:10.968622+00:00",
+      "fragment_status": "Auction",
+      "project": "RBHC",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "rbpf": {
       "cache_version": 16,
@@ -50936,6 +51008,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "unet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:11.133823+00:00",
+      "fragment_status": "Auction",
+      "project": "unet",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "unic": {
       "cache_version": 16,
       "checked_at": "2026-05-15T05:10:06.016544+00:00",
@@ -52359,6 +52439,14 @@
       "project": "vllm",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "vlog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:11.810336+00:00",
+      "fragment_status": "Auction",
+      "project": "vlog",
+      "score": 88,
+      "source": "Crates.io"
     },
     "vlor": {
       "cache_version": 16,
@@ -54407,6 +54495,14 @@
       "project": "wuhu",
       "score": 93,
       "source": "City Names"
+    },
+    "wuji": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T21:26:11.469774+00:00",
+      "fragment_status": "Auction",
+      "project": "wuji",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "wuma": {
       "cache_version": 16,
