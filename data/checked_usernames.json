@@ -880,6 +880,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "aifi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T10:18:15.339896+00:00",
+      "fragment_status": "Auction",
+      "project": "aiFi",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "aify": {
       "cache_version": 16,
       "checked_at": "2026-05-15T01:27:56.790520+00:00",
@@ -4005,6 +4013,14 @@
       "checked_at": "2026-05-17T07:42:37.143419+00:00",
       "fragment_status": "Auction",
       "project": "bbot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "bbtz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T10:18:15.107855+00:00",
+      "fragment_status": "Auction",
+      "project": "BBTz",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -45632,6 +45648,14 @@
       "score": 77,
       "source": "GitHub Topic (ai)"
     },
+    "sqlc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T10:18:14.996056+00:00",
+      "fragment_status": "Auction",
+      "project": "sqlc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sqle": {
       "cache_version": 16,
       "checked_at": "2026-05-19T20:53:46.167700+00:00",
@@ -50624,6 +50648,14 @@
       "score": 91,
       "source": "GitHub Topic (machine-learning)"
     },
+    "upit": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T10:18:15.477337+00:00",
+      "fragment_status": "Auction",
+      "project": "UPIT",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "uplc": {
       "cache_version": 16,
       "checked_at": "2026-05-22T18:02:24.200764+00:00",
@@ -51943,6 +51975,14 @@
       "project": "vnlp",
       "score": 80,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "voco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T10:18:15.218759+00:00",
+      "fragment_status": "Auction",
+      "project": "voco",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
     },
     "vocs": {
       "cache_version": 16,
