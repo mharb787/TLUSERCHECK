@@ -7160,6 +7160,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "cdrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T18:12:11.873048+00:00",
+      "fragment_status": "Auction",
+      "project": "cdrs",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "ceca": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:26.242604+00:00",
@@ -10280,6 +10288,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "dbml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T18:12:11.640248+00:00",
+      "fragment_status": "Auction",
+      "project": "dbml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dbnd": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:06.182889+00:00",
@@ -11135,6 +11151,14 @@
       "project": "diel",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "diem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T18:12:11.526346+00:00",
+      "fragment_status": "Auction",
+      "project": "diem",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dies": {
       "cache_version": 16,
@@ -35351,6 +35375,14 @@
       "project": "orly",
       "score": 93,
       "source": "City Names"
+    },
+    "ormb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T18:12:11.753133+00:00",
+      "fragment_status": "Auction",
+      "project": "ormb",
+      "score": 96,
+      "source": "GitHub Topic (machine-learning)"
     },
     "orml": {
       "cache_version": 16,
