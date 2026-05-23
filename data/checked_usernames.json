@@ -25976,6 +25976,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kyoo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T04:10:09.865603+00:00",
+      "fragment_status": "Auction",
+      "project": "Kyoo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kyte": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:00.428298+00:00",
@@ -35103,6 +35111,14 @@
       "project": "orly",
       "score": 93,
       "source": "City Names"
+    },
+    "orml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T04:10:10.027126+00:00",
+      "fragment_status": "Auction",
+      "project": "orml",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "orob": {
       "cache_version": 16,
