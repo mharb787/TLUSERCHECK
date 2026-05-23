@@ -9904,6 +9904,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "dann": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T08:53:35.301814+00:00",
+      "fragment_status": "Auction",
+      "project": "Dann",
+      "score": 95,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dano": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:20.205798+00:00",
@@ -10007,6 +10015,14 @@
       "project": "daro",
       "score": 93,
       "source": "City Names"
+    },
+    "darq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T08:53:34.896923+00:00",
+      "fragment_status": "Auction",
+      "project": "DarQ",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dart": {
       "cache_version": 16,
@@ -36848,6 +36864,14 @@
       "score": 76,
       "source": "GitHub Topic (machine-learning)"
     },
+    "piaf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T08:53:35.103925+00:00",
+      "fragment_status": "Auction",
+      "project": "piaf",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "pial": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:10.154028+00:00",
@@ -48416,6 +48440,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "tner": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T08:53:35.518478+00:00",
+      "fragment_status": "Auction",
+      "project": "tner",
+      "score": 94,
+      "source": "GitHub Topic (nlp)"
+    },
     "toad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:45.796404+00:00",
@@ -50951,6 +50983,14 @@
       "project": "valai",
       "score": 97,
       "source": "GitHub Topic (llm)"
+    },
+    "vald": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T08:53:34.702682+00:00",
+      "fragment_status": "Auction",
+      "project": "vald",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "valdi": {
       "cache_version": 16,
