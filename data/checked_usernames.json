@@ -12216,6 +12216,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "drac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T15:19:08.123643+00:00",
+      "fragment_status": "Auction",
+      "project": "DrAC",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "drag": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:20.208432+00:00",
@@ -30024,6 +30032,14 @@
       "score": 96,
       "source": "GitHub Topic (ai)"
     },
+    "meio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T15:19:08.456126+00:00",
+      "fragment_status": "Auction",
+      "project": "meio",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "meld": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:50.769078+00:00",
@@ -31799,6 +31815,14 @@
       "project": "mpxj",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "mqtt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T15:19:08.345091+00:00",
+      "fragment_status": "Auction",
+      "project": "mqtt protocol",
+      "score": 76,
+      "source": "Crates.io"
     },
     "mrag": {
       "cache_version": 16,
@@ -49080,6 +49104,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "torq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T15:19:08.001894+00:00",
+      "fragment_status": "Auction",
+      "project": "TorQ",
+      "score": 90,
+      "source": "Hacker News New"
+    },
     "torr": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:52.213461+00:00",
@@ -50255,6 +50287,14 @@
       "project": "tzfpy",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "tzif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T15:19:08.233648+00:00",
+      "fragment_status": "Auction",
+      "project": "tzif",
+      "score": 88,
+      "source": "Crates.io"
     },
     "tzst": {
       "cache_version": 16,
