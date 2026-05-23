@@ -11528,6 +11528,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dlow": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T12:40:10.875009+00:00",
+      "fragment_status": "Auction",
+      "project": "DLow",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dlpm": {
       "cache_version": 16,
       "checked_at": "2026-05-13T05:07:28.107457+00:00",
@@ -12407,6 +12415,14 @@
       "project": "dstp",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "dtcr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T12:40:10.988871+00:00",
+      "fragment_status": "Auction",
+      "project": "DTCR",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dtctl": {
       "cache_version": 14,
@@ -18815,6 +18831,14 @@
       "project": "grad",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "grae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T12:40:10.766680+00:00",
+      "fragment_status": "Auction",
+      "project": "GRAE",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "gram": {
       "cache_version": 16,
@@ -26687,6 +26711,14 @@
       "project": "LCPR",
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "ldbp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T12:40:10.656685+00:00",
+      "fragment_status": "Auction",
+      "project": "LDBP",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lddc": {
       "cache_version": 16,
@@ -38207,6 +38239,14 @@
       "project": "prao",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pras": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T12:40:11.098459+00:00",
+      "fragment_status": "Auction",
+      "project": "Pras",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "prat": {
       "cache_version": 16,
