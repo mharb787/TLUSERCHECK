@@ -360,6 +360,14 @@
       "score": 100,
       "source": "GitHub Topic (deep-learning)"
     },
+    "adax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:15.455298+00:00",
+      "fragment_status": "Auction",
+      "project": "AdaX",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "adca": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:49.366781+00:00",
@@ -4000,6 +4008,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "bbai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:15.203708+00:00",
+      "fragment_status": "Auction",
+      "project": "bbai",
+      "score": 98,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "bbgo": {
       "cache_version": 16,
       "checked_at": "2026-05-20T04:38:56.182388+00:00",
@@ -6503,6 +6519,14 @@
       "project": "cadi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cadm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:15.337294+00:00",
+      "fragment_status": "Auction",
+      "project": "CaDM",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cads": {
       "cache_version": 16,
@@ -16080,6 +16104,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "foca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:15.696819+00:00",
+      "fragment_status": "Auction",
+      "project": "foca",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "foci": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:11.645244+00:00",
@@ -17616,6 +17648,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "geni": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:15.083568+00:00",
+      "fragment_status": "Auction",
+      "project": "geni",
+      "score": 92,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "genie": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:50.719962+00:00",
@@ -18479,6 +18519,14 @@
       "project": "GNCA",
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "gnet": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:14.711026+00:00",
+      "fragment_status": "Auction",
+      "project": "gnet",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gnus": {
       "cache_version": 16,
@@ -32040,6 +32088,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "muav": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:15.574258+00:00",
+      "fragment_status": "Auction",
+      "project": "mUAV",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "mubi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:20.461766+00:00",
@@ -34327,6 +34383,14 @@
       "project": "oats",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "oban": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:14.951984+00:00",
+      "fragment_status": "Auction",
+      "project": "oban",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ober": {
       "cache_version": 16,
@@ -55951,6 +56015,14 @@
       "project": "zbus",
       "score": 100,
       "source": "Crates.io"
+    },
+    "zdog": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T20:29:14.832956+00:00",
+      "fragment_status": "Auction",
+      "project": "zdog",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zeal": {
       "cache_version": 16,
