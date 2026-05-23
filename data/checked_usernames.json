@@ -8112,6 +8112,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "cnbf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:33.444704+00:00",
+      "fragment_status": "Auction",
+      "project": "CNBF",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "cner": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:02.138092+00:00",
@@ -27112,6 +27120,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lica": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:33.254593+00:00",
+      "fragment_status": "Auction",
+      "project": "LICA",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "lice": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:14.701478+00:00",
@@ -27319,6 +27335,14 @@
       "project": "lilm",
       "score": 89,
       "source": "GitHub Topic (ai)"
+    },
+    "lilo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:32.556146+00:00",
+      "fragment_status": "Auction",
+      "project": "Lilo",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "lilt": {
       "cache_version": 16,
@@ -27679,6 +27703,14 @@
       "project": "llmx",
       "score": 76,
       "source": "GitHub Topic (llm)"
+    },
+    "llpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:33.619743+00:00",
+      "fragment_status": "Auction",
+      "project": "LLPC",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "llrt": {
       "cache_version": 16,
@@ -31544,6 +31576,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "mpmc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:33.977676+00:00",
+      "fragment_status": "Auction",
+      "project": "mpmc",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "mpsx": {
       "cache_version": 16,
       "checked_at": "2026-05-20T04:38:57.206412+00:00",
@@ -32007,6 +32047,14 @@
       "project": "myCar: Car Widgets & Dashboard",
       "score": 90,
       "source": "App Store Top"
+    },
+    "myco": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:32.720873+00:00",
+      "fragment_status": "Auction",
+      "project": "Myco",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "myip": {
       "cache_version": 16,
@@ -35159,6 +35207,14 @@
       "project": "osar",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "osas": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:33.785360+00:00",
+      "fragment_status": "Auction",
+      "project": "OSAS",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "oscp": {
       "cache_version": 16,
@@ -40047,6 +40103,14 @@
       "project": "RBust",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "rcps": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:32.912308+00:00",
+      "fragment_status": "Auction",
+      "project": "rcps",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "rdev": {
       "cache_version": 16,
@@ -50344,6 +50408,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "unif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:33.089889+00:00",
+      "fragment_status": "Auction",
+      "project": "unif",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "unit": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:07.828978+00:00",
@@ -53720,6 +53792,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "wuff": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:34.151573+00:00",
+      "fragment_status": "Auction",
+      "project": "wuff",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "wuhe": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:56.082259+00:00",
@@ -54471,6 +54551,14 @@
       "project": "yasu",
       "score": 93,
       "source": "City Names"
+    },
+    "yata": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T00:17:34.318604+00:00",
+      "fragment_status": "Auction",
+      "project": "yata",
+      "score": 88,
+      "source": "Crates.io"
     },
     "yate": {
       "cache_version": 16,
