@@ -6416,6 +6416,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "byol": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:53.908767+00:00",
+      "fragment_status": "Auction",
+      "project": "BYOL",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "byre": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:19.705209+00:00",
@@ -11504,6 +11512,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "dlfb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:54.135605+00:00",
+      "fragment_status": "Auction",
+      "project": "DLFB",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dlib": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:08.314732+00:00",
@@ -11551,6 +11567,14 @@
       "project": "DLPR",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "dlrm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:52.544499+00:00",
+      "fragment_status": "Auction",
+      "project": "dlrm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dlsc": {
       "cache_version": 16,
@@ -14935,6 +14959,14 @@
       "project": "fbnc",
       "score": 76,
       "source": "Crates.io"
+    },
+    "fcdd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:52.769947+00:00",
+      "fragment_status": "Auction",
+      "project": "fcdd",
+      "score": 79,
+      "source": "GitHub Topic (machine-learning)"
     },
     "fdnpy": {
       "cache_version": 16,
@@ -22024,6 +22056,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ignn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:53.675296+00:00",
+      "fragment_status": "Auction",
+      "project": "IGNN",
+      "score": 93,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "igor": {
       "cache_version": 16,
       "checked_at": "2026-05-15T10:38:54.216572+00:00",
@@ -26695,6 +26735,14 @@
       "project": "lcme",
       "score": 87,
       "source": "GitHub Topic (neural-network)"
+    },
+    "lcnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:54.355713+00:00",
+      "fragment_status": "Auction",
+      "project": "LCNN",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "lcov": {
       "cache_version": 16,
@@ -39120,6 +39168,14 @@
       "score": 75,
       "source": "GitHub Topic (automation)"
     },
+    "pygm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:52.990354+00:00",
+      "fragment_status": "Auction",
+      "project": "PyGM",
+      "score": 79,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "pyha": {
       "cache_version": 16,
       "checked_at": "2026-05-22T11:28:46.569355+00:00",
@@ -39383,6 +39439,14 @@
       "project": "pyxb",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "pyxu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:53.222476+00:00",
+      "fragment_status": "Auction",
+      "project": "pyxu",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pyzk": {
       "cache_version": 16,
@@ -52216,6 +52280,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "vsom": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:53.452506+00:00",
+      "fragment_status": "Auction",
+      "project": "VSOM",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "vsts": {
       "cache_version": 16,
       "checked_at": "2026-05-20T00:17:51.396318+00:00",
@@ -53199,6 +53271,14 @@
       "project": "weru",
       "score": 93,
       "source": "City Names"
+    },
+    "wesl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T14:12:54.591381+00:00",
+      "fragment_status": "Auction",
+      "project": "wesl",
+      "score": 88,
+      "source": "Crates.io"
     },
     "west": {
       "cache_version": 16,
