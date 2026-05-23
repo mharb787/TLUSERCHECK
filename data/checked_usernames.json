@@ -14976,6 +14976,14 @@
       "score": 79,
       "source": "GitHub Topic (machine-learning)"
     },
+    "fcos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T16:15:38.310353+00:00",
+      "fragment_status": "Auction",
+      "project": "FCOS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fdnpy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:00.973853+00:00",
@@ -18559,6 +18567,14 @@
       "project": "GOIS",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "gojq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T16:15:38.117146+00:00",
+      "fragment_status": "Auction",
+      "project": "gojq",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gokin": {
       "cache_version": 14,
@@ -28576,6 +28592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "luci": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T16:15:38.514924+00:00",
+      "fragment_status": "Auction",
+      "project": "Luci",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "luck": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:35.434686+00:00",
@@ -33095,6 +33119,14 @@
       "project": "nevi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "newb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T16:15:38.927675+00:00",
+      "fragment_status": "Auction",
+      "project": "NewB",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "news": {
       "cache_version": 16,
@@ -42752,6 +42784,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sams": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T16:15:38.710230+00:00",
+      "fragment_status": "Auction",
+      "project": "SAMS",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "sana": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:07.298822+00:00",
@@ -45863,6 +45903,14 @@
       "project": "srai",
       "score": 100,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "srec": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T16:15:39.125439+00:00",
+      "fragment_status": "Auction",
+      "project": "srec",
+      "score": 88,
+      "source": "Crates.io"
     },
     "sris": {
       "cache_version": 16,
