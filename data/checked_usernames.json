@@ -5768,6 +5768,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "brev": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:54.798204+00:00",
+      "fragment_status": "Auction",
+      "project": "Brev",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "brew": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:06.298094+00:00",
@@ -9800,6 +9808,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dain": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:54.927274+00:00",
+      "fragment_status": "Auction",
+      "project": "DAIN",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dais": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:01.003233+00:00",
@@ -12495,6 +12511,14 @@
       "project": "DTKD",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "dtln": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.583507+00:00",
+      "fragment_status": "Auction",
+      "project": "DTLN",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dtls": {
       "cache_version": 16,
@@ -16863,6 +16887,14 @@
       "project": "futz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fuxa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.185550+00:00",
+      "fragment_status": "Auction",
+      "project": "FUXA",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fuyu": {
       "cache_version": 16,
@@ -23560,6 +23592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jgan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.715072+00:00",
+      "fragment_status": "Auction",
+      "project": "JGAN",
+      "score": 90,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "jhol": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:38.171906+00:00",
@@ -26023,6 +26063,14 @@
       "project": "kulu",
       "score": 93,
       "source": "City Names"
+    },
+    "kuma": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.325278+00:00",
+      "fragment_status": "Auction",
+      "project": "kuma",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kumi": {
       "cache_version": 16,
@@ -28767,6 +28815,14 @@
       "project": "lumen",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "lumo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.847402+00:00",
+      "fragment_status": "Auction",
+      "project": "lumo",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "lump": {
       "cache_version": 16,
@@ -31936,6 +31992,14 @@
       "score": 78,
       "source": "GitHub Topic (ml)"
     },
+    "msql": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.454531+00:00",
+      "fragment_status": "Auction",
+      "project": "msql",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "mteb": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:03.512888+00:00",
@@ -34431,6 +34495,14 @@
       "project": "octo",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "odam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.978647+00:00",
+      "fragment_status": "Auction",
+      "project": "odam",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
     },
     "odbc": {
       "cache_version": 16,
@@ -37719,6 +37791,14 @@
       "project": "ploy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "plue": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:56.105594+00:00",
+      "fragment_status": "Auction",
+      "project": "PLUE",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "plug": {
       "cache_version": 16,
@@ -52447,6 +52527,14 @@
       "project": "vugs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vugu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-23T19:36:55.058603+00:00",
+      "fragment_status": "Auction",
+      "project": "vugu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vura": {
       "cache_version": 16,
