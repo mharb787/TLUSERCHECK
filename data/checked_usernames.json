@@ -7752,6 +7752,14 @@
       "score": 96,
       "source": "GitHub Topic (ai)"
     },
+    "chim": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:44.549872+00:00",
+      "fragment_status": "Auction",
+      "project": "CHIM",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "chime": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:12.289806+00:00",
@@ -9727,6 +9735,14 @@
       "project": "cuvs",
       "score": 100,
       "source": "GitHub Topic (llm)"
+    },
+    "cvat": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:44.103011+00:00",
+      "fragment_status": "Auction",
+      "project": "cvat",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cvnn": {
       "cache_version": 16,
@@ -19928,6 +19944,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "guyu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:44.997578+00:00",
+      "fragment_status": "Auction",
+      "project": "Guyu",
+      "score": 90,
+      "source": "GitHub Topic (nlp)"
+    },
     "gvar": {
       "cache_version": 16,
       "checked_at": "2026-05-22T13:43:00.857706+00:00",
@@ -22559,6 +22583,14 @@
       "project": "iffy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ifmt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:45.667889+00:00",
+      "fragment_status": "Auction",
+      "project": "ifmt",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ifsl": {
       "cache_version": 16,
@@ -30208,6 +30240,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "masc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:44.771306+00:00",
+      "fragment_status": "Auction",
+      "project": "masc",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mash": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:46.278196+00:00",
@@ -33792,6 +33832,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "neso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:45.446104+00:00",
+      "fragment_status": "Auction",
+      "project": "neso",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ness": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:19.368087+00:00",
@@ -35799,6 +35847,14 @@
       "project": "oohs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "oomd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:44.328594+00:00",
+      "fragment_status": "Auction",
+      "project": "oomd",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "oops": {
       "cache_version": 16,
@@ -42663,6 +42719,14 @@
       "project": "rope",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rops": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T21:36:45.223026+00:00",
+      "fragment_status": "Auction",
+      "project": "rops",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ropy": {
       "cache_version": 16,
