@@ -2080,6 +2080,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "anyq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:36.990977+00:00",
+      "fragment_status": "Auction",
+      "project": "AnyQ",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "anys": {
       "cache_version": 16,
       "checked_at": "2026-05-12T18:54:03.014267+00:00",
@@ -8368,6 +8376,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cnlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.212981+00:00",
+      "fragment_status": "Auction",
+      "project": "cnlp",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
+    },
     "cnmsb": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:36.220780+00:00",
@@ -9551,6 +9567,14 @@
       "project": "cunt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cupc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.319822+00:00",
+      "fragment_status": "Auction",
+      "project": "cupc",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cups": {
       "cache_version": 16,
@@ -14872,6 +14896,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "expr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:36.558784+00:00",
+      "fragment_status": "Auction",
+      "project": "expr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "eyas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:47.273439+00:00",
@@ -15319,6 +15351,14 @@
       "project": "fcdd",
       "score": 79,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "fcgf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.428760+00:00",
+      "fragment_status": "Auction",
+      "project": "FCGF",
+      "score": 89,
+      "source": "GitHub Topic (neural-network)"
     },
     "fcos": {
       "cache_version": 16,
@@ -24696,6 +24736,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "jwks": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.761399+00:00",
+      "fragment_status": "Auction",
+      "project": "jwks",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "jwtk": {
       "cache_version": 16,
       "checked_at": "2026-05-18T08:34:33.093323+00:00",
@@ -26367,6 +26415,14 @@
       "project": "Krawl",
       "score": 97,
       "source": "GitHub Topic (ai)"
+    },
+    "krew": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:36.666576+00:00",
+      "fragment_status": "Auction",
+      "project": "krew",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kris": {
       "cache_version": 16,
@@ -32303,6 +32359,14 @@
       "project": "mosk",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mosn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:36.776528+00:00",
+      "fragment_status": "Auction",
+      "project": "mosn",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "moss": {
       "cache_version": 16,
@@ -38544,6 +38608,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "pmst": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.541050+00:00",
+      "fragment_status": "Auction",
+      "project": "pmst",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "pncat": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:24.596444+00:00",
@@ -38823,6 +38895,14 @@
       "project": "pons",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pont": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:36.883801+00:00",
+      "fragment_status": "Auction",
+      "project": "pont",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pony": {
       "cache_version": 16,
@@ -43904,6 +43984,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sbcl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:36.446497+00:00",
+      "fragment_status": "Auction",
+      "project": "SBCL",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "sbpf": {
       "cache_version": 16,
       "checked_at": "2026-05-15T10:38:54.854193+00:00",
@@ -46199,6 +46287,14 @@
       "project": "solo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "solp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.650714+00:00",
+      "fragment_status": "Auction",
+      "project": "solp",
+      "score": 88,
+      "source": "Crates.io"
     },
     "sols": {
       "cache_version": 16,
@@ -49359,6 +49455,14 @@
       "project": "tifr\u0101",
       "score": 93,
       "source": "City Names"
+    },
+    "tigo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T20:39:37.102235+00:00",
+      "fragment_status": "Auction",
+      "project": "Tigo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tika": {
       "cache_version": 16,
