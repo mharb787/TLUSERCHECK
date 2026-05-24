@@ -248,6 +248,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "acir": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:55.505122+00:00",
+      "fragment_status": "Auction",
+      "project": "acir",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "acli": {
       "cache_version": 16,
       "checked_at": "2026-05-16T08:52:29.703164+00:00",
@@ -5135,6 +5143,14 @@
       "project": "bmssp",
       "score": 75,
       "source": "GitHub Topic (cli)"
+    },
+    "bnlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:55.138951+00:00",
+      "fragment_status": "Auction",
+      "project": "bnlp",
+      "score": 81,
+      "source": "GitHub Topic (nlp)"
     },
     "bnum": {
       "cache_version": 16,
@@ -15784,6 +15800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fisr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:54.916046+00:00",
+      "fragment_status": "Auction",
+      "project": "FISR",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "fist": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:07.284174+00:00",
@@ -18695,6 +18719,14 @@
       "project": "goad",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "goai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:54.303898+00:00",
+      "fragment_status": "Auction",
+      "project": "goai",
+      "score": 98,
+      "source": "GitHub Topic (ai)"
     },
     "goal": {
       "cache_version": 16,
@@ -32200,6 +32232,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mpcc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:54.190296+00:00",
+      "fragment_status": "Auction",
+      "project": "MPCC",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mpid": {
       "cache_version": 16,
       "checked_at": "2026-05-16T18:33:22.911066+00:00",
@@ -37888,6 +37928,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pipx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:54.072946+00:00",
+      "fragment_status": "Auction",
+      "project": "pipx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pipy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:15.147886+00:00",
@@ -40840,6 +40888,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "raui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:55.370964+00:00",
+      "fragment_status": "Auction",
+      "project": "raui",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "raur": {
       "cache_version": 16,
       "checked_at": "2026-05-16T17:33:05.812527+00:00",
@@ -41671,6 +41727,14 @@
       "project": "riga",
       "score": 93,
       "source": "City Names"
+    },
+    "rigl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:54.794944+00:00",
+      "fragment_status": "Auction",
+      "project": "rigl",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
     },
     "rigs": {
       "cache_version": 16,
@@ -44256,6 +44320,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "sgas": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:55.027814+00:00",
+      "fragment_status": "Auction",
+      "project": "sgas",
+      "score": 90,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "sgqlc": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:26.192784+00:00",
@@ -46704,6 +46776,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "stav": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:55.252419+00:00",
+      "fragment_status": "Auction",
+      "project": "stav",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "staw": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:09.011821+00:00",
@@ -47199,6 +47279,14 @@
       "project": "suns",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "suod": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T14:43:54.416976+00:00",
+      "fragment_status": "Auction",
+      "project": "SUOD",
+      "score": 94,
+      "source": "GitHub Topic (machine-learning)"
     },
     "supe": {
       "cache_version": 16,
