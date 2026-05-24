@@ -11712,6 +11712,14 @@
       "score": 75,
       "source": "GitHub Topic (ml)"
     },
+    "dltf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T10:55:49.195654+00:00",
+      "fragment_status": "Auction",
+      "project": "dltf",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dmsr": {
       "cache_version": 16,
       "checked_at": "2026-05-14T00:17:05.960470+00:00",
@@ -19391,6 +19399,14 @@
       "project": "gssc",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "gstd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T10:55:49.375326+00:00",
+      "fragment_status": "Auction",
+      "project": "gstd",
+      "score": 76,
+      "source": "Crates.io"
     },
     "gsys": {
       "cache_version": 16,
@@ -31214,6 +31230,14 @@
       "fragment_status": "Auction",
       "project": "mlab",
       "score": 97,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "mlbd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T10:55:48.833548+00:00",
+      "fragment_status": "Auction",
+      "project": "MLBD",
+      "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
     "mldm": {
@@ -43952,6 +43976,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "senn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T10:55:49.003670+00:00",
+      "fragment_status": "Auction",
+      "project": "SENN",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "sens": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:14.794000+00:00",
@@ -50703,6 +50735,14 @@
       "project": "txaio",
       "score": 98,
       "source": "PyPI Top"
+    },
+    "txqr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T10:55:48.646247+00:00",
+      "fragment_status": "Auction",
+      "project": "txqr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tyche": {
       "cache_version": 16,
