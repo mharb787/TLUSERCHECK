@@ -1040,6 +1040,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "aipw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T07:38:58.777744+00:00",
+      "fragment_status": "Auction",
+      "project": "AIPW",
+      "score": 97,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "aira": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:05.320052+00:00",
@@ -11920,6 +11928,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "dold": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T07:38:58.936169+00:00",
+      "fragment_status": "Auction",
+      "project": "dold",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dole": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:15.693239+00:00",
@@ -14223,6 +14239,14 @@
       "project": "epos",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "epub": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T07:38:59.260183+00:00",
+      "fragment_status": "Auction",
+      "project": "epub",
+      "score": 88,
+      "source": "Crates.io"
     },
     "epupp": {
       "cache_version": 16,
@@ -23103,6 +23127,14 @@
       "project": "isin",
       "score": 88,
       "source": "Crates.io"
+    },
+    "isky": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T07:38:58.619309+00:00",
+      "fragment_status": "Auction",
+      "project": "iSky",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
     },
     "isla": {
       "cache_version": 16,
@@ -40808,6 +40840,14 @@
       "score": 88,
       "source": "GitHub Topic (cli)"
     },
+    "rcnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T07:38:59.097845+00:00",
+      "fragment_status": "Auction",
+      "project": "RCNN",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "rcps": {
       "cache_version": 16,
       "checked_at": "2026-05-23T00:17:32.912308+00:00",
@@ -41335,6 +41375,14 @@
       "project": "rezh",
       "score": 93,
       "source": "City Names"
+    },
+    "rfcs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T07:38:58.459405+00:00",
+      "fragment_status": "Auction",
+      "project": "rfcs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rgos": {
       "cache_version": 16,
