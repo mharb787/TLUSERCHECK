@@ -14448,6 +14448,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ethr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T09:30:36.659536+00:00",
+      "fragment_status": "Auction",
+      "project": "ethr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "eths": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:39.122585+00:00",
@@ -19174,6 +19182,14 @@
       "fragment_status": "Auction",
       "project": "grep",
       "score": 90,
+      "source": "Crates.io"
+    },
+    "grev": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T09:30:36.773197+00:00",
+      "fragment_status": "Auction",
+      "project": "grev",
+      "score": 88,
       "source": "Crates.io"
     },
     "grew": {
