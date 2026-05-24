@@ -8144,6 +8144,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "clsx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:38.070177+00:00",
+      "fragment_status": "Auction",
+      "project": "clsx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "club": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:33.258192+00:00",
@@ -9999,6 +10007,14 @@
       "project": "dams",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dana": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:39.518743+00:00",
+      "fragment_status": "Auction",
+      "project": "dana",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dang": {
       "cache_version": 16,
@@ -31224,6 +31240,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "mllp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:38.554053+00:00",
+      "fragment_status": "Auction",
+      "project": "mllp",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlmw": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:02.254275+00:00",
@@ -33728,6 +33752,14 @@
       "score": 89,
       "source": "GitHub Topic (ai)"
     },
+    "nlns": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:38.798376+00:00",
+      "fragment_status": "Auction",
+      "project": "NLNS",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "nlog": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:27.927260+00:00",
@@ -33760,6 +33792,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nmea": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:40.007021+00:00",
+      "fragment_status": "Auction",
+      "project": "nmea",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "nncf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T11:28:51.570959+00:00",
@@ -33783,6 +33823,14 @@
       "project": "nnli",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "nnom": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:38.315285+00:00",
+      "fragment_status": "Auction",
+      "project": "nnom",
+      "score": 100,
+      "source": "GitHub Topic (ml)"
     },
     "nnse": {
       "cache_version": 16,
@@ -42744,6 +42792,14 @@
       "score": 76,
       "source": "GitHub Topic (computer-vision)"
     },
+    "rweb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:40.487262+00:00",
+      "fragment_status": "Auction",
+      "project": "rweb",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "rwkv": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:44.508429+00:00",
@@ -42927,6 +42983,14 @@
       "project": "safi",
       "score": 93,
       "source": "City Names"
+    },
+    "saft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:40.726961+00:00",
+      "fragment_status": "Auction",
+      "project": "saft",
+      "score": 88,
+      "source": "Crates.io"
     },
     "saga": {
       "cache_version": 16,
@@ -43959,6 +44023,14 @@
       "project": "sews",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sexp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:39.759902+00:00",
+      "fragment_status": "Auction",
+      "project": "sexp",
+      "score": 88,
+      "source": "Crates.io"
     },
     "sext": {
       "cache_version": 16,
@@ -46319,6 +46391,14 @@
       "project": "Srtly",
       "score": 76,
       "source": "GitHub Topic (automation)"
+    },
+    "srvp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:39.036226+00:00",
+      "fragment_status": "Auction",
+      "project": "srvp",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "sscp": {
       "cache_version": 16,
@@ -53296,6 +53376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "wasr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:39.271666+00:00",
+      "fragment_status": "Auction",
+      "project": "wasr network",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "wast": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:35.995133+00:00",
@@ -54951,6 +55039,14 @@
       "project": "xorq",
       "score": 97,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "xous": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T04:36:40.245765+00:00",
+      "fragment_status": "Auction",
+      "project": "xous",
+      "score": 88,
+      "source": "Crates.io"
     },
     "xpag": {
       "cache_version": 16,
