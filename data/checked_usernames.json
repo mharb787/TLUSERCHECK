@@ -920,6 +920,14 @@
       "score": 97,
       "source": "GitHub Topic (cli)"
     },
+    "aiid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T00:09:16.934409+00:00",
+      "fragment_status": "Auction",
+      "project": "aiid",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
+    },
     "ails": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:08.405040+00:00",
@@ -23072,6 +23080,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "isin": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T00:09:17.106638+00:00",
+      "fragment_status": "Auction",
+      "project": "isin",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "isla": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:16.569513+00:00",
@@ -28727,6 +28743,14 @@
       "project": "LSSA",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "lsts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T00:09:17.223742+00:00",
+      "fragment_status": "Auction",
+      "project": "lsts",
+      "score": 76,
+      "source": "Crates.io"
     },
     "ltew": {
       "cache_version": 16,
