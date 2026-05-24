@@ -1600,6 +1600,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "altv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.734436+00:00",
+      "fragment_status": "Auction",
+      "project": "altv",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "alum": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:12.832781+00:00",
@@ -9919,6 +9927,14 @@
       "project": "daft",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dage": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.617619+00:00",
+      "fragment_status": "Auction",
+      "project": "dage",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dago": {
       "cache_version": 16,
@@ -31456,6 +31472,14 @@
       "score": 97,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.395521+00:00",
+      "fragment_status": "Auction",
+      "project": "MLAI",
+      "score": 99,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlbd": {
       "cache_version": 16,
       "checked_at": "2026-05-24T10:55:48.833548+00:00",
@@ -31487,6 +31511,14 @@
       "project": "mlem",
       "score": 100,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "mles": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.976235+00:00",
+      "fragment_status": "Auction",
+      "project": "mles",
+      "score": 88,
+      "source": "Crates.io"
     },
     "mlff": {
       "cache_version": 16,
@@ -42752,6 +42784,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "rsip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.857317+00:00",
+      "fragment_status": "Auction",
+      "project": "rsip",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "rsix": {
       "cache_version": 16,
       "checked_at": "2026-05-20T08:04:04.719466+00:00",
@@ -48352,6 +48392,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "taso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.507781+00:00",
+      "fragment_status": "Auction",
+      "project": "TASO",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "tass": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:25.341273+00:00",
@@ -50431,6 +50479,14 @@
       "project": "trey",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "trfl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T18:46:59.282430+00:00",
+      "fragment_status": "Auction",
+      "project": "trfl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "triad": {
       "cache_version": 16,
