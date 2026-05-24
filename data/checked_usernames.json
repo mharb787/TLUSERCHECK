@@ -336,6 +336,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "acvm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:11.663432+00:00",
+      "fragment_status": "Auction",
+      "project": "acvm",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "acwj": {
       "cache_version": 16,
       "checked_at": "2026-05-22T18:02:23.213461+00:00",
@@ -12672,6 +12680,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "drln": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:11.052570+00:00",
+      "fragment_status": "Auction",
+      "project": "DRLN",
+      "score": 78,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "drml": {
       "cache_version": 16,
       "checked_at": "2026-05-17T19:33:44.682221+00:00",
@@ -14623,6 +14639,14 @@
       "project": "espy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "esrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:11.434292+00:00",
+      "fragment_status": "Auction",
+      "project": "esrs",
+      "score": 88,
+      "source": "Crates.io"
     },
     "este": {
       "cache_version": 16,
@@ -21032,6 +21056,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "hexx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:11.549914+00:00",
+      "fragment_status": "Auction",
+      "project": "hexx",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "heze": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:48.138089+00:00",
@@ -23543,6 +23575,14 @@
       "project": "Issue",
       "score": 100,
       "source": "Hacker News Top"
+    },
+    "istn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:11.171419+00:00",
+      "fragment_status": "Auction",
+      "project": "istn",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
     },
     "itag": {
       "cache_version": 16,
@@ -26463,6 +26503,14 @@
       "project": "kotu",
       "score": 93,
       "source": "City Names"
+    },
+    "kpam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:11.320697+00:00",
+      "fragment_status": "Auction",
+      "project": "kPAM",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "krawl": {
       "cache_version": 16,
@@ -31407,6 +31455,14 @@
       "project": "mink",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "minn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:10.819632+00:00",
+      "fragment_status": "Auction",
+      "project": "MINN",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mino": {
       "cache_version": 16,
@@ -51031,6 +51087,14 @@
       "project": "ttaw",
       "score": 88,
       "source": "Crates.io"
+    },
+    "ttps": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T23:39:10.930877+00:00",
+      "fragment_status": "Auction",
+      "project": "ttps",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ttsc": {
       "cache_version": 16,
