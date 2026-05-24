@@ -1232,6 +1232,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "akhq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.515381+00:00",
+      "fragment_status": "Auction",
+      "project": "akhq",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "akin": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:09.710381+00:00",
@@ -1751,6 +1759,14 @@
       "project": "amos",
       "score": 93,
       "source": "City Names"
+    },
+    "ampl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.753807+00:00",
+      "fragment_status": "Auction",
+      "project": "AMPL",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "amps": {
       "cache_version": 16,
@@ -4503,6 +4519,14 @@
       "project": "beys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bfid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.290419+00:00",
+      "fragment_status": "Auction",
+      "project": "BFId",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "bgca": {
       "cache_version": 16,
@@ -10023,6 +10047,14 @@
       "project": "dame",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "daml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.984157+00:00",
+      "fragment_status": "Auction",
+      "project": "DAML",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "damm": {
       "cache_version": 16,
@@ -31376,6 +31408,14 @@
       "score": 92,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlgw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.868859+00:00",
+      "fragment_status": "Auction",
+      "project": "MLGW",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlhp": {
       "cache_version": 16,
       "checked_at": "2026-05-12T14:47:42.394293+00:00",
@@ -31583,6 +31623,14 @@
       "project": "mmit",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "mmkv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.404349+00:00",
+      "fragment_status": "Auction",
+      "project": "MMKV",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mmos": {
       "cache_version": 16,
@@ -38864,6 +38912,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "pplm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:39.634902+00:00",
+      "fragment_status": "Auction",
+      "project": "PPLM",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "pplx": {
       "cache_version": 16,
       "checked_at": "2026-05-11T21:19:34.489774+00:00",
@@ -42215,6 +42271,14 @@
       "project": "roil",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rojo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T15:47:40.099759+00:00",
+      "fragment_status": "Auction",
+      "project": "rojo",
+      "score": 88,
+      "source": "Crates.io"
     },
     "role": {
       "cache_version": 16,
