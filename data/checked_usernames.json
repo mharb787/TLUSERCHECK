@@ -1616,6 +1616,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "alyx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.177681+00:00",
+      "fragment_status": "Auction",
+      "project": "Alyx",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "amah": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:12.947876+00:00",
@@ -11800,6 +11808,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dmgc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.947224+00:00",
+      "fragment_status": "Auction",
+      "project": "DMGC",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dmsr": {
       "cache_version": 16,
       "checked_at": "2026-05-14T00:17:05.960470+00:00",
@@ -12671,6 +12687,14 @@
       "project": "dstp",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "dtan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.829960+00:00",
+      "fragment_status": "Auction",
+      "project": "dtan",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dtcr": {
       "cache_version": 16,
@@ -14464,6 +14488,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "esem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.416415+00:00",
+      "fragment_status": "Auction",
+      "project": "ESEm",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "esik": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:10.923015+00:00",
@@ -15519,6 +15551,14 @@
       "project": "ffmpy",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "fftw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:52.073698+00:00",
+      "fragment_status": "Auction",
+      "project": "fftw",
+      "score": 76,
+      "source": "Crates.io"
     },
     "fgvc": {
       "cache_version": 16,
@@ -17200,6 +17240,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "gaai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.298086+00:00",
+      "fragment_status": "Auction",
+      "project": "gaai",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "gabm": {
       "cache_version": 16,
       "checked_at": "2026-05-15T08:16:20.048646+00:00",
@@ -18015,6 +18063,14 @@
       "project": "geum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gfmn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.707131+00:00",
+      "fragment_status": "Auction",
+      "project": "gfmn",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ggez": {
       "cache_version": 16,
@@ -25487,6 +25543,14 @@
       "project": "kics",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "kido": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T16:44:51.577049+00:00",
+      "fragment_status": "Auction",
+      "project": "kido",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "kids": {
       "cache_version": 16,
