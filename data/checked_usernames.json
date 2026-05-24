@@ -17008,6 +17008,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "fspy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.028408+00:00",
+      "fragment_status": "Auction",
+      "project": "fSpy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fsrs": {
       "cache_version": 16,
       "checked_at": "2026-05-20T23:53:03.182974+00:00",
@@ -18215,6 +18223,14 @@
       "project": "ggpo",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ggrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.683755+00:00",
+      "fragment_status": "Auction",
+      "project": "ggrs",
+      "score": 76,
+      "source": "Crates.io"
     },
     "gguf": {
       "cache_version": 16,
@@ -21183,6 +21199,14 @@
       "project": "himi",
       "score": 93,
       "source": "City Names"
+    },
+    "hina": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.578247+00:00",
+      "fragment_status": "Auction",
+      "project": "hina",
+      "score": 88,
+      "source": "Crates.io"
     },
     "hind": {
       "cache_version": 16,
@@ -27023,6 +27047,14 @@
       "project": "laky",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lale": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.255107+00:00",
+      "fragment_status": "Auction",
+      "project": "lale",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lama": {
       "cache_version": 16,
@@ -35496,6 +35528,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "okai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.135345+00:00",
+      "fragment_status": "Auction",
+      "project": "OKAI",
+      "score": 99,
+      "source": "GitHub Topic (ai)"
+    },
     "okas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:42.675144+00:00",
@@ -36759,6 +36799,14 @@
       "project": "pact",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pacu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:26.919101+00:00",
+      "fragment_status": "Auction",
+      "project": "pacu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "padi": {
       "cache_version": 16,
@@ -38887,6 +38935,14 @@
       "project": "poly",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "poma": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.362601+00:00",
+      "fragment_status": "Auction",
+      "project": "POMA",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "pome": {
       "cache_version": 16,
@@ -41375,6 +41431,14 @@
       "project": "RBust",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "rclc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.470177+00:00",
+      "fragment_status": "Auction",
+      "project": "rclc",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
     },
     "rcnn": {
       "cache_version": 16,
@@ -46367,6 +46431,14 @@
       "project": "sols",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "solv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T22:36:27.792579+00:00",
+      "fragment_status": "Auction",
+      "project": "solv",
+      "score": 88,
+      "source": "Crates.io"
     },
     "soma": {
       "cache_version": 16,
