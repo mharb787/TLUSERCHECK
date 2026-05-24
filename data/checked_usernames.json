@@ -1752,6 +1752,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "amqp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:01.794164+00:00",
+      "fragment_status": "Auction",
+      "project": "amqp",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "amrs": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:44.392562+00:00",
@@ -4431,6 +4439,14 @@
       "project": "bern",
       "score": 93,
       "source": "City Names"
+    },
+    "bert": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:00.485357+00:00",
+      "fragment_status": "Auction",
+      "project": "bert",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "best": {
       "cache_version": 16,
@@ -11072,6 +11088,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "dfst": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:01.125387+00:00",
+      "fragment_status": "Auction",
+      "project": "DFST",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dgbm": {
       "cache_version": 16,
       "checked_at": "2026-05-19T08:51:43.852732+00:00",
@@ -15448,6 +15472,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "fhdr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:01.566264+00:00",
+      "fragment_status": "Auction",
+      "project": "FHDR",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "fhevm": {
       "cache_version": 16,
       "checked_at": "2026-05-11T03:54:44.507941+00:00",
@@ -19168,6 +19200,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "grdf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:02.438806+00:00",
+      "fragment_status": "Auction",
+      "project": "grdf",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "gree": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:43.227941+00:00",
@@ -22223,6 +22263,14 @@
       "project": "ides",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "idgl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:01.340094+00:00",
+      "fragment_status": "Auction",
+      "project": "IDGL",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
     },
     "idhn": {
       "cache_version": 16,
@@ -28824,6 +28872,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "lstm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:00.699560+00:00",
+      "fragment_status": "Auction",
+      "project": "LSTM",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lsts": {
       "cache_version": 16,
       "checked_at": "2026-05-24T00:09:17.223742+00:00",
@@ -34447,6 +34503,14 @@
       "project": "nuns",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nuon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:02.224794+00:00",
+      "fragment_status": "Auction",
+      "project": "nuon",
+      "score": 88,
+      "source": "Crates.io"
     },
     "nuqs": {
       "cache_version": 16,
@@ -43024,6 +43088,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "sacp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:02.006927+00:00",
+      "fragment_status": "Auction",
+      "project": "sacp",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "sacs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:15.550643+00:00",
@@ -44079,6 +44151,14 @@
       "project": "seta",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "setl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-24T11:58:00.913801+00:00",
+      "fragment_status": "Auction",
+      "project": "setl",
+      "score": 90,
+      "source": "GitHub Topic (machine-learning)"
     },
     "seto": {
       "cache_version": 16,
