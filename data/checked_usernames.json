@@ -5200,6 +5200,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "bmil": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T06:06:56.770993+00:00",
+      "fragment_status": "Auction",
+      "project": "BMIL",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "bmssp": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:08.109521+00:00",
@@ -11415,6 +11423,14 @@
       "project": "dicta",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "didn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T06:06:56.615712+00:00",
+      "fragment_status": "Auction",
+      "project": "DIDN",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dido": {
       "cache_version": 16,
@@ -31880,6 +31896,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlsp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T06:06:56.460458+00:00",
+      "fragment_status": "Auction",
+      "project": "MLSP",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlsr": {
       "cache_version": 16,
       "checked_at": "2026-05-23T11:37:33.171096+00:00",
@@ -37207,6 +37231,14 @@
       "project": "park",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "parl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T06:06:56.304751+00:00",
+      "fragment_status": "Auction",
+      "project": "PARL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "parqv": {
       "cache_version": 16,
@@ -53471,6 +53503,14 @@
       "project": "vino",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vins": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T06:06:56.925752+00:00",
+      "fragment_status": "Auction",
+      "project": "VINS",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "viny": {
       "cache_version": 16,
