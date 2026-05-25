@@ -3208,6 +3208,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "avue": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T19:09:52.459552+00:00",
+      "fragment_status": "Auction",
+      "project": "avue",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "away": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:22.546105+00:00",
@@ -3303,6 +3311,14 @@
       "project": "awsui",
       "score": 89,
       "source": "GitHub Topic (cli)"
+    },
+    "awtk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T19:09:52.343932+00:00",
+      "fragment_status": "Auction",
+      "project": "awtk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "axal": {
       "cache_version": 16,
@@ -8279,6 +8295,14 @@
       "project": "cloy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "clrs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T19:09:52.219975+00:00",
+      "fragment_status": "Auction",
+      "project": "CLRS",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "clru": {
       "cache_version": 16,
@@ -26864,6 +26888,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kutt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T19:09:52.107806+00:00",
+      "fragment_status": "Auction",
+      "project": "kutt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kutu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:37.996017+00:00",
@@ -38743,6 +38775,14 @@
       "project": "pkgx",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "pkix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T19:09:52.577130+00:00",
+      "fragment_status": "Auction",
+      "project": "pkix",
+      "score": 88,
+      "source": "Crates.io"
     },
     "pktai": {
       "cache_version": 16,
