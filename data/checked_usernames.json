@@ -2040,6 +2040,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "anpr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.691239+00:00",
+      "fragment_status": "Auction",
+      "project": "ANPR",
+      "score": 94,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "ansa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:16.568378+00:00",
@@ -6656,6 +6664,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "byob": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.129429+00:00",
+      "fragment_status": "Auction",
+      "project": "byob",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "byok": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:56:58.483589+00:00",
@@ -9904,6 +9920,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "cyac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:53.146368+00:00",
+      "fragment_status": "Auction",
+      "project": "cyac",
+      "score": 88,
+      "source": "GitHub Topic (nlp)"
+    },
     "cyan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:59.205065+00:00",
@@ -11903,6 +11927,14 @@
       "project": "ditz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "diun": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.353885+00:00",
+      "fragment_status": "Auction",
+      "project": "diun",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "diva": {
       "cache_version": 16,
@@ -21967,6 +21999,14 @@
       "project": "hoop",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hooq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:53.259392+00:00",
+      "fragment_status": "Auction",
+      "project": "hooq",
+      "score": 88,
+      "source": "Crates.io"
     },
     "hoot": {
       "cache_version": 16,
@@ -37288,6 +37328,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pagy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.243442+00:00",
+      "fragment_status": "Auction",
+      "project": "pagy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "paid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:56.197537+00:00",
@@ -40616,6 +40664,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pycm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.468884+00:00",
+      "fragment_status": "Auction",
+      "project": "pycm",
+      "score": 93,
+      "source": "GitHub Topic (ai)"
+    },
     "pycnn": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:50.602595+00:00",
@@ -43080,6 +43136,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "robo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:53.028270+00:00",
+      "fragment_status": "Auction",
+      "project": "ROBO",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "robs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:04.726350+00:00",
@@ -44440,6 +44504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "samn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.917080+00:00",
+      "fragment_status": "Auction",
+      "project": "SAMN",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "samp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:19.128049+00:00",
@@ -44839,6 +44911,14 @@
       "project": "sdfx",
       "score": 83,
       "source": "GitHub Topic (ai)"
+    },
+    "seai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.579701+00:00",
+      "fragment_status": "Auction",
+      "project": "seai",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "seal": {
       "cache_version": 16,
@@ -52895,6 +52975,14 @@
       "project": "urds",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "urdu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T23:46:52.802967+00:00",
+      "fragment_status": "Auction",
+      "project": "Urdu",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "urea": {
       "cache_version": 16,
