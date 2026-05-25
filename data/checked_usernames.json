@@ -7416,6 +7416,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ceml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:30.401235+00:00",
+      "fragment_status": "Auction",
+      "project": "ceml",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cemu": {
       "cache_version": 16,
       "checked_at": "2026-05-16T15:41:44.336637+00:00",
@@ -9255,6 +9263,14 @@
       "project": "crds",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "cred": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:29.166249+00:00",
+      "fragment_status": "Taken",
+      "project": "CRED-1",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "crew": {
       "cache_version": 16,
@@ -18934,6 +18950,14 @@
       "fragment_status": "Auction",
       "project": "GNCA",
       "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "gnes": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:29.913485+00:00",
+      "fragment_status": "Auction",
+      "project": "gnes",
+      "score": 100,
       "source": "GitHub Topic (machine-learning)"
     },
     "gnet": {
@@ -30608,6 +30632,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "mcqa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:30.649520+00:00",
+      "fragment_status": "Auction",
+      "project": "mcQA",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mcse": {
       "cache_version": 16,
       "checked_at": "2026-05-21T17:47:42.180113+00:00",
@@ -38144,6 +38176,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "pigo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:29.424310+00:00",
+      "fragment_status": "Auction",
+      "project": "pigo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pigs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:11.819548+00:00",
@@ -42040,6 +42080,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rfml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:30.891418+00:00",
+      "fragment_status": "Auction",
+      "project": "rfml",
+      "score": 78,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "rgos": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:21.250653+00:00",
@@ -43207,6 +43255,14 @@
       "project": "rtree",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "rtrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:30.154085+00:00",
+      "fragment_status": "Auction",
+      "project": "rtrl",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "rtvc": {
       "cache_version": 16,
@@ -45351,6 +45407,14 @@
       "project": "sihu",
       "score": 93,
       "source": "City Names"
+    },
+    "siie": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:31.133221+00:00",
+      "fragment_status": "Auction",
+      "project": "SIIE",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "sika": {
       "cache_version": 16,
@@ -48824,6 +48888,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "tbls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:29.669933+00:00",
+      "fragment_status": "Auction",
+      "project": "tbls",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tbtc": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:01:38.925836+00:00",
@@ -51191,6 +51263,14 @@
       "project": "tuic",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tuie": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T01:36:28.665410+00:00",
+      "fragment_status": "Auction",
+      "project": "Tuie",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "tuios": {
       "cache_version": 16,
