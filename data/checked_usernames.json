@@ -5888,6 +5888,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "brdf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T17:53:38.579785+00:00",
+      "fragment_status": "Auction",
+      "project": "BRDF",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "brea": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:27:03.761201+00:00",
@@ -49551,6 +49559,14 @@
       "project": "tfhe",
       "score": 88,
       "source": "Crates.io"
+    },
+    "tfjs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T17:53:38.463062+00:00",
+      "fragment_status": "Auction",
+      "project": "tfjs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tfkg": {
       "cache_version": 16,
