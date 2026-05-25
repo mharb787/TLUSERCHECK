@@ -12056,6 +12056,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "docz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:58.183049+00:00",
+      "fragment_status": "Auction",
+      "project": "docz",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "doda": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:42.059875+00:00",
@@ -12791,6 +12799,14 @@
       "project": "DSEC",
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "dsin": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:59.644817+00:00",
+      "fragment_status": "Auction",
+      "project": "DSIN",
+      "score": 95,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dsit": {
       "cache_version": 16,
@@ -14367,6 +14383,14 @@
       "project": "enid",
       "score": 93,
       "source": "City Names"
+    },
+    "enmf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:59.808886+00:00",
+      "fragment_status": "Auction",
+      "project": "ENMF",
+      "score": 90,
+      "source": "GitHub Topic (deep-learning)"
     },
     "enna": {
       "cache_version": 16,
@@ -16391,6 +16415,14 @@
       "project": "flop",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "flor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:58.818169+00:00",
+      "fragment_status": "Auction",
+      "project": "flor",
+      "score": 90,
+      "source": "GitHub Topic (ml)"
     },
     "flow": {
       "cache_version": 16,
@@ -30376,6 +30408,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "marp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:58.341941+00:00",
+      "fragment_status": "Auction",
+      "project": "marp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mars": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:45.944278+00:00",
@@ -31664,6 +31704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mish": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:59.486145+00:00",
+      "fragment_status": "Auction",
+      "project": "Mish",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "miso": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:59.660439+00:00",
@@ -32896,6 +32944,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mtmr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:58.501364+00:00",
+      "fragment_status": "Auction",
+      "project": "MTMR",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "muan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:21.843653+00:00",
@@ -33223,6 +33279,14 @@
       "project": "mutt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mvae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:59.166556+00:00",
+      "fragment_status": "Auction",
+      "project": "mvae",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mvio": {
       "cache_version": 16,
@@ -48600,6 +48664,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "takg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:11:00.129375+00:00",
+      "fragment_status": "Auction",
+      "project": "TAKG",
+      "score": 90,
+      "source": "GitHub Topic (nlp)"
+    },
     "taku": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:04.991791+00:00",
@@ -51192,6 +51264,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "tscv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:58.977601+00:00",
+      "fragment_status": "Auction",
+      "project": "TSCV",
+      "score": 80,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "tsdb": {
       "cache_version": 16,
       "checked_at": "2026-05-17T14:09:22.838851+00:00",
@@ -52223,6 +52303,14 @@
       "project": "umix",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "umnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:59.970103+00:00",
+      "fragment_status": "Auction",
+      "project": "UMNN",
+      "score": 89,
+      "source": "GitHub Topic (neural-network)"
     },
     "umps": {
       "cache_version": 16,
@@ -56008,6 +56096,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "xgan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:59.324559+00:00",
+      "fragment_status": "Auction",
+      "project": "xgan",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "xgen": {
       "cache_version": 16,
       "checked_at": "2026-05-15T08:16:19.659319+00:00",
@@ -56223,6 +56319,14 @@
       "project": "xtalk",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "xtdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T16:10:58.658897+00:00",
+      "fragment_status": "Auction",
+      "project": "xtdb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xtra": {
       "cache_version": 16,
