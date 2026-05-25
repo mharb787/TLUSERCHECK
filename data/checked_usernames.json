@@ -11920,6 +11920,14 @@
       "score": 75,
       "source": "GitHub Topic (ml)"
     },
+    "dlsf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:19.396651+00:00",
+      "fragment_status": "Auction",
+      "project": "DLSF",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "dltf": {
       "cache_version": 16,
       "checked_at": "2026-05-24T10:55:49.195654+00:00",
@@ -12790,6 +12798,14 @@
       "fragment_status": "Auction",
       "project": "dsit",
       "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "dspn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:19.624274+00:00",
+      "fragment_status": "Auction",
+      "project": "dspn",
+      "score": 77,
       "source": "GitHub Topic (deep-learning)"
     },
     "dspy": {
@@ -21408,6 +21424,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "hlua": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:20.084734+00:00",
+      "fragment_status": "Auction",
+      "project": "hlua",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "hmac": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:02.461776+00:00",
@@ -28944,6 +28968,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "loki": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:18.240153+00:00",
+      "fragment_status": "Auction",
+      "project": "loki",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "loky": {
       "cache_version": 16,
       "checked_at": "2026-05-12T14:47:43.344378+00:00",
@@ -29256,6 +29288,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lrle": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:19.163547+00:00",
+      "fragment_status": "Auction",
+      "project": "lrle",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "lrpc": {
       "cache_version": 16,
       "checked_at": "2026-05-19T20:53:48.856613+00:00",
@@ -29271,6 +29311,14 @@
       "project": "lset",
       "score": 88,
       "source": "Crates.io"
+    },
+    "lsnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:18.698512+00:00",
+      "fragment_status": "Auction",
+      "project": "LSNN official",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lssa": {
       "cache_version": 16,
@@ -33584,6 +33632,14 @@
       "score": 100,
       "source": "Hacker News Top"
     },
+    "nasm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:18.470170+00:00",
+      "fragment_status": "Auction",
+      "project": "nasm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nasu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:03.987673+00:00",
@@ -36487,6 +36543,14 @@
       "project": "OSCP",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "osdt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:18.928587+00:00",
+      "fragment_status": "Auction",
+      "project": "OSDT",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "oses": {
       "cache_version": 16,
@@ -42511,6 +42575,14 @@
       "project": "river",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "rixx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T10:44:19.853632+00:00",
+      "fragment_status": "Auction",
+      "project": "Rixx",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "rize": {
       "cache_version": 16,
