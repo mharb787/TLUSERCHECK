@@ -1984,6 +1984,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "anlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:19.675295+00:00",
+      "fragment_status": "Auction",
+      "project": "anlp",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
+    },
     "anls": {
       "cache_version": 16,
       "checked_at": "2026-05-19T22:02:34.994823+00:00",
@@ -2191,6 +2199,14 @@
       "project": "apax",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "apca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:20.150989+00:00",
+      "fragment_status": "Auction",
+      "project": "apca",
+      "score": 88,
+      "source": "Crates.io"
     },
     "aped": {
       "cache_version": 16,
@@ -2831,6 +2847,14 @@
       "project": "asia",
       "score": 93,
       "source": "City Names"
+    },
+    "asis": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:19.443784+00:00",
+      "fragment_status": "Auction",
+      "project": "ASIS",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
     },
     "asks": {
       "cache_version": 16,
@@ -4599,6 +4623,14 @@
       "project": "beys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "bffl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:18.527692+00:00",
+      "fragment_status": "Auction",
+      "project": "BFFL",
+      "score": 75,
+      "source": "GitHub Topic (ai)"
     },
     "bfid": {
       "cache_version": 16,
@@ -8095,6 +8127,14 @@
       "project": "clad",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "claf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:19.919130+00:00",
+      "fragment_status": "Auction",
+      "project": "claf",
+      "score": 91,
+      "source": "GitHub Topic (nlp)"
     },
     "clag": {
       "cache_version": 16,
@@ -15848,6 +15888,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ffdl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:18.299080+00:00",
+      "fragment_status": "Auction",
+      "project": "FfDL",
+      "score": 88,
+      "source": "GitHub Topic (ai)"
+    },
     "ffmpy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:44.667757+00:00",
@@ -20543,6 +20591,14 @@
       "project": "hamm",
       "score": 93,
       "source": "City Names"
+    },
+    "hamr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:18.987013+00:00",
+      "fragment_status": "Auction",
+      "project": "HAMR",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "hams": {
       "cache_version": 16,
@@ -34368,6 +34424,14 @@
       "score": 79,
       "source": "GitHub Topic (machine-learning)"
     },
+    "nfpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:18.065506+00:00",
+      "fragment_status": "Auction",
+      "project": "nfpm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ngpt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:22.180053+00:00",
@@ -35543,6 +35607,14 @@
       "project": "obkv",
       "score": 88,
       "source": "Crates.io"
+    },
+    "obnb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:19.214687+00:00",
+      "fragment_status": "Auction",
+      "project": "obnb",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "oboe": {
       "cache_version": 16,
@@ -41080,6 +41152,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "qpga": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:18.757638+00:00",
+      "fragment_status": "Auction",
+      "project": "qpga",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "qqai": {
       "cache_version": 16,
       "checked_at": "2026-05-24T19:52:51.508127+00:00",
@@ -41087,6 +41167,14 @@
       "project": "qqai",
       "score": 98,
       "source": "GitHub Topic (ai)"
+    },
+    "qrcp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-25T22:46:17.835447+00:00",
+      "fragment_status": "Auction",
+      "project": "qrcp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "qrev": {
       "cache_version": 16,
