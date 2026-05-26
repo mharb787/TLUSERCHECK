@@ -9536,6 +9536,14 @@
       "score": 90,
       "source": "Hacker News Show HN"
     },
+    "csrf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:55.658280+00:00",
+      "fragment_status": "Auction",
+      "project": "csrf",
+      "score": 76,
+      "source": "Crates.io"
+    },
     "cssr": {
       "cache_version": 16,
       "checked_at": "2026-05-21T12:14:20.981945+00:00",
@@ -10719,6 +10727,14 @@
       "project": "dbos",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "dbrd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:55.268227+00:00",
+      "fragment_status": "Auction",
+      "project": "DBRD",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
     },
     "dbup": {
       "cache_version": 16,
@@ -19224,6 +19240,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gnir": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:55.853688+00:00",
+      "fragment_status": "Auction",
+      "project": "gnir",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "gnus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:32.917046+00:00",
@@ -26824,6 +26848,14 @@
       "score": 88,
       "source": "GitHub Topic (computer-vision)"
     },
+    "kpcn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:54.884886+00:00",
+      "fragment_status": "Auction",
+      "project": "kpcn",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "krawl": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:52.565967+00:00",
@@ -31647,6 +31679,14 @@
       "project": "mihe",
       "score": 93,
       "source": "City Names"
+    },
+    "miho": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:55.465934+00:00",
+      "fragment_status": "Auction",
+      "project": "miho",
+      "score": 88,
+      "source": "Crates.io"
     },
     "mike": {
       "cache_version": 16,
@@ -45192,6 +45232,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "sema": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:54.691560+00:00",
+      "fragment_status": "Auction",
+      "project": "sema",
+      "score": 90,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "seme": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:32.365316+00:00",
@@ -52424,6 +52472,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "udar": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:55.077367+00:00",
+      "fragment_status": "Auction",
+      "project": "udar",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "uden": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:23.997747+00:00",
@@ -53215,6 +53271,14 @@
       "project": "uuid",
       "score": 100,
       "source": "Crates.io"
+    },
+    "uuta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:54.302638+00:00",
+      "fragment_status": "Auction",
+      "project": "UUTA",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "uvea": {
       "cache_version": 16,
@@ -56655,6 +56719,14 @@
       "project": "xpag",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "xpay": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T01:31:54.499757+00:00",
+      "fragment_status": "Auction",
+      "project": "xpay",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xper": {
       "cache_version": 16,
