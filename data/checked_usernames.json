@@ -416,6 +416,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "adhd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:40.044504+00:00",
+      "fragment_status": "Auction",
+      "project": "adhd",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "adit": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.601272+00:00",
@@ -9167,6 +9175,14 @@
       "project": "cote",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cotk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:41.433624+00:00",
+      "fragment_status": "Auction",
+      "project": "cotk",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cots": {
       "cache_version": 16,
@@ -21296,6 +21312,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "heml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:41.040543+00:00",
+      "fragment_status": "Auction",
+      "project": "heml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hemp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:09.180075+00:00",
@@ -25127,6 +25151,14 @@
       "project": "JSeg",
       "score": 91,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "jsii": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:41.235060+00:00",
+      "fragment_status": "Auction",
+      "project": "jsii",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "json": {
       "cache_version": 16,
@@ -39312,6 +39344,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "plex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:40.459109+00:00",
+      "fragment_status": "Taken",
+      "project": "plex",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "plezy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T14:03:50.205716+00:00",
@@ -41087,6 +41127,14 @@
       "project": "PyML",
       "score": 76,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "pyod": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:40.652202+00:00",
+      "fragment_status": "Auction",
+      "project": "pyod",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pyop": {
       "cache_version": 16,
@@ -48983,6 +49031,14 @@
       "project": "swum",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "swup": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T19:46:40.850741+00:00",
+      "fragment_status": "Auction",
+      "project": "swup",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "syara": {
       "cache_version": 14,
