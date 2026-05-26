@@ -6192,6 +6192,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "brpc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:44.458745+00:00",
+      "fragment_status": "Auction",
+      "project": "brpc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bruin": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:25.097740+00:00",
@@ -10830,6 +10838,14 @@
       "fragment_status": "Auction",
       "project": "dCAM",
       "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "dcbh": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:45.185174+00:00",
+      "fragment_status": "Auction",
+      "project": "DCBH",
+      "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
     "dcbo": {
@@ -17984,6 +18000,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gaml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:44.938515+00:00",
+      "fragment_status": "Auction",
+      "project": "GAML",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "gamp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:22.066839+00:00",
@@ -21880,6 +21904,14 @@
       "score": 92,
       "source": "GitHub Topic (ai)"
     },
+    "hmtl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:45.429783+00:00",
+      "fragment_status": "Auction",
+      "project": "hmtl",
+      "score": 93,
+      "source": "GitHub Topic (nlp)"
+    },
     "hndr": {
       "cache_version": 16,
       "checked_at": "2026-05-20T04:38:56.521950+00:00",
@@ -24935,6 +24967,14 @@
       "project": "jnix",
       "score": 88,
       "source": "Crates.io"
+    },
+    "jnqd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:45.062579+00:00",
+      "fragment_status": "Auction",
+      "project": "JNQD",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
     },
     "joal": {
       "cache_version": 16,
@@ -32496,6 +32536,14 @@
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mltb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:44.821474+00:00",
+      "fragment_status": "Auction",
+      "project": "mltb",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlte": {
       "cache_version": 16,
       "checked_at": "2026-05-19T14:19:42.506329+00:00",
@@ -36624,6 +36672,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "onnx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:44.314495+00:00",
+      "fragment_status": "Auction",
+      "project": "onnx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "onto": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:45.642526+00:00",
@@ -36927,6 +36983,14 @@
       "project": "ordo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ordq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:45.548071+00:00",
+      "fragment_status": "Auction",
+      "project": "ordq",
+      "score": 88,
+      "source": "Crates.io"
     },
     "ordu": {
       "cache_version": 16,
@@ -46248,6 +46312,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sihr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:45.310665+00:00",
+      "fragment_status": "Auction",
+      "project": "SIHR",
+      "score": 89,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "sihu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:45.516665+00:00",
@@ -48933,6 +49005,14 @@
       "checked_at": "2026-05-17T11:45:37.919681+00:00",
       "fragment_status": "Auction",
       "project": "svgl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "svgr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:44.576958+00:00",
+      "fragment_status": "Auction",
+      "project": "svgr",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -53583,6 +53663,14 @@
       "project": "utfx",
       "score": 88,
       "source": "Crates.io"
+    },
+    "utls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T22:45:44.701574+00:00",
+      "fragment_status": "Auction",
+      "project": "utls",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "utoo": {
       "cache_version": 16,
