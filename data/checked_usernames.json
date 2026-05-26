@@ -9536,6 +9536,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "crun": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T21:20:48.373406+00:00",
+      "fragment_status": "Auction",
+      "project": "crun",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "crus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:45.221559+00:00",
@@ -14447,6 +14455,14 @@
       "project": "embu",
       "score": 93,
       "source": "City Names"
+    },
+    "emel": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T21:20:48.814216+00:00",
+      "fragment_status": "Auction",
+      "project": "emel",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "emes": {
       "cache_version": 16,
@@ -23079,6 +23095,14 @@
       "project": "idle",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "idli": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T21:20:49.257776+00:00",
+      "fragment_status": "Auction",
+      "project": "Idli",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "idly": {
       "cache_version": 16,
@@ -32711,6 +32735,14 @@
       "project": "moco",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mocr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T21:20:49.038356+00:00",
+      "fragment_status": "Auction",
+      "project": "mocr",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "mocs": {
       "cache_version": 16,
@@ -48015,6 +48047,14 @@
       "project": "spyx",
       "score": 77,
       "source": "GitHub Topic (ai)"
+    },
+    "sqip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T21:20:48.595154+00:00",
+      "fragment_status": "Auction",
+      "project": "sqip",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sqlc": {
       "cache_version": 16,
