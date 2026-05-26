@@ -6000,6 +6000,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bref": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T05:43:53.648582+00:00",
+      "fragment_status": "Auction",
+      "project": "bref",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bren": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:06.186011+00:00",
@@ -11320,6 +11328,14 @@
       "score": 92,
       "source": "GitHub Topic (ai)"
     },
+    "desc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T05:43:54.108722+00:00",
+      "fragment_status": "Auction",
+      "project": "desc",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "desk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:08.562991+00:00",
@@ -14879,6 +14895,14 @@
       "project": "esna",
       "score": 93,
       "source": "City Names"
+    },
+    "espn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T05:43:54.347464+00:00",
+      "fragment_status": "Auction",
+      "project": "ESPN: Live Sports & Scores",
+      "score": 88,
+      "source": "App Store Top"
     },
     "espy": {
       "cache_version": 16,
@@ -19351,6 +19375,14 @@
       "project": "goch",
       "score": 93,
       "source": "City Names"
+    },
+    "gocv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T05:43:53.879077+00:00",
+      "fragment_status": "Auction",
+      "project": "gocv",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
     },
     "gode": {
       "cache_version": 16,
@@ -35511,6 +35543,14 @@
       "project": "nvui",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "nxui": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T05:43:54.576034+00:00",
+      "fragment_status": "Auction",
+      "project": "nxui",
+      "score": 88,
+      "source": "Crates.io"
     },
     "nybl": {
       "cache_version": 16,
