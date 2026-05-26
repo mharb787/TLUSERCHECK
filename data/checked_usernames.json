@@ -9792,6 +9792,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cuml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:24.799044+00:00",
+      "fragment_status": "Auction",
+      "project": "cuml",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cunt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:51.627388+00:00",
@@ -23320,6 +23328,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ikbt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:24.691704+00:00",
+      "fragment_status": "Auction",
+      "project": "IKBT",
+      "score": 91,
+      "source": "GitHub Topic (ai)"
+    },
     "ikka": {
       "cache_version": 16,
       "checked_at": "2026-05-11T22:30:48.117544+00:00",
@@ -24855,6 +24871,14 @@
       "project": "jimp",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jimu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:24.582471+00:00",
+      "fragment_status": "Auction",
+      "project": "JIMU",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jina": {
       "cache_version": 16,
@@ -32400,6 +32424,14 @@
       "score": 77,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlft": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:25.024589+00:00",
+      "fragment_status": "Auction",
+      "project": "MLFT",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlgb": {
       "cache_version": 16,
       "checked_at": "2026-05-16T08:52:29.880001+00:00",
@@ -33463,6 +33495,14 @@
       "project": "msql",
       "score": 75,
       "source": "GitHub Topic (ai)"
+    },
+    "msrv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:25.142791+00:00",
+      "fragment_status": "Auction",
+      "project": "msrv",
+      "score": 76,
+      "source": "Crates.io"
     },
     "mteb": {
       "cache_version": 16,
@@ -43960,6 +44000,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "rrcf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:24.910288+00:00",
+      "fragment_status": "Auction",
+      "project": "rrcf",
+      "score": 85,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "rscd": {
       "cache_version": 16,
       "checked_at": "2026-05-21T23:39:20.983535+00:00",
@@ -50975,6 +51023,14 @@
       "project": "tits",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tivi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T23:49:24.469259+00:00",
+      "fragment_status": "Auction",
+      "project": "tivi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tivy": {
       "cache_version": 16,
