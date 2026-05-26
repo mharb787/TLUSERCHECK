@@ -1168,6 +1168,14 @@
       "score": 98,
       "source": "GitHub Topic (ml)"
     },
+    "aivo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:52.197198+00:00",
+      "fragment_status": "Auction",
+      "project": "aivo",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "aiway": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:42.668503+00:00",
@@ -15064,6 +15072,14 @@
       "score": 89,
       "source": "GitHub Topic (ai)"
     },
+    "evan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:53.271112+00:00",
+      "fragment_status": "Auction",
+      "project": "evan",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "evaz": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:48.339626+00:00",
@@ -19744,6 +19760,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "gpio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:53.701038+00:00",
+      "fragment_status": "Auction",
+      "project": "gpio",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "gptq": {
       "cache_version": 16,
       "checked_at": "2026-05-16T11:12:40.235255+00:00",
@@ -20992,6 +21016,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hbox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:51.983329+00:00",
+      "fragment_status": "Auction",
+      "project": "hbox",
+      "score": 100,
+      "source": "GitHub Topic (ai)"
+    },
     "hcgf": {
       "cache_version": 16,
       "checked_at": "2026-05-15T20:36:17.935022+00:00",
@@ -20999,6 +21031,14 @@
       "project": "hcgf",
       "score": 79,
       "source": "GitHub Topic (llm)"
+    },
+    "hcid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:53.487562+00:00",
+      "fragment_status": "Auction",
+      "project": "hcid",
+      "score": 88,
+      "source": "Crates.io"
     },
     "hdmf": {
       "cache_version": 16,
@@ -31031,6 +31071,14 @@
       "project": "mbox",
       "score": 89,
       "source": "Crates.io"
+    },
+    "mbtr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:53.058569+00:00",
+      "fragment_status": "Auction",
+      "project": "mbtr",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mcap": {
       "cache_version": 16,
@@ -43128,6 +43176,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "rltf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:52.624163+00:00",
+      "fragment_status": "Auction",
+      "project": "rltf",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "rltk": {
       "cache_version": 16,
       "checked_at": "2026-05-23T11:37:33.677446+00:00",
@@ -49584,6 +49640,14 @@
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
     },
+    "tcdf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:52.412993+00:00",
+      "fragment_status": "Auction",
+      "project": "TCDF",
+      "score": 85,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "tcil": {
       "cache_version": 16,
       "checked_at": "2026-05-17T20:26:20.970847+00:00",
@@ -54391,6 +54455,14 @@
       "project": "vllm",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "vlml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T14:32:52.835446+00:00",
+      "fragment_status": "Auction",
+      "project": "VLML",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "vlog": {
       "cache_version": 16,
