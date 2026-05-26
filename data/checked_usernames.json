@@ -1624,6 +1624,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alva": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:31.895353+00:00",
+      "fragment_status": "Auction",
+      "project": "alva",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "alvr": {
       "cache_version": 16,
       "checked_at": "2026-05-23T06:43:39.423670+00:00",
@@ -3255,6 +3263,14 @@
       "project": "avow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "avtr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:32.301462+00:00",
+      "fragment_status": "Auction",
+      "project": "AVTR",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "avue": {
       "cache_version": 16,
@@ -7439,6 +7455,14 @@
       "project": "cdktf",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "cdqa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:32.186945+00:00",
+      "fragment_status": "Auction",
+      "project": "cdQA",
+      "score": 99,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cdrs": {
       "cache_version": 16,
@@ -35768,6 +35792,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "obws": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:32.419701+00:00",
+      "fragment_status": "Auction",
+      "project": "obws",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "ocap": {
       "cache_version": 16,
       "checked_at": "2026-05-17T05:08:46.970817+00:00",
@@ -42496,6 +42528,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "reql": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:32.648135+00:00",
+      "fragment_status": "Auction",
+      "project": "reql",
+      "score": 88,
+      "source": "Crates.io"
+    },
     "resa": {
       "cache_version": 16,
       "checked_at": "2026-05-14T13:14:48.681920+00:00",
@@ -46743,6 +46783,14 @@
       "project": "Slyde",
       "score": 75,
       "source": "GitHub Topic (cli)"
+    },
+    "smac": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:32.074242+00:00",
+      "fragment_status": "Auction",
+      "project": "smac",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "smap": {
       "cache_version": 16,
@@ -54367,6 +54415,14 @@
       "project": "VLPD",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "vmap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T08:55:32.530862+00:00",
+      "fragment_status": "Auction",
+      "project": "vmap",
+      "score": 88,
+      "source": "Crates.io"
     },
     "vnai": {
       "cache_version": 16,
