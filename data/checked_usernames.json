@@ -12792,6 +12792,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "dpvs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:35.963822+00:00",
+      "fragment_status": "Auction",
+      "project": "dpvs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "drab": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:20.092551+00:00",
@@ -13543,6 +13551,14 @@
       "project": "dxpy",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "dxvk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:35.734336+00:00",
+      "fragment_status": "Auction",
+      "project": "dxvk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dyad": {
       "cache_version": 16,
@@ -21512,6 +21528,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "hgnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.525373+00:00",
+      "fragment_status": "Auction",
+      "project": "HGNN",
+      "score": 91,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "hgvs": {
       "cache_version": 16,
       "checked_at": "2026-05-20T00:17:51.180876+00:00",
@@ -22816,6 +22840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "iana": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:35.622928+00:00",
+      "fragment_status": "Auction",
+      "project": "Iana",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "iann": {
       "cache_version": 16,
       "checked_at": "2026-05-13T15:25:41.070480+00:00",
@@ -23231,6 +23263,14 @@
       "project": "ikon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ikos": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.075623+00:00",
+      "fragment_status": "Auction",
+      "project": "ikos",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ikvm": {
       "cache_version": 16,
@@ -23847,6 +23887,14 @@
       "project": "irks",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "irma": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.414567+00:00",
+      "fragment_status": "Auction",
+      "project": "irma",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "iroh": {
       "cache_version": 16,
@@ -29384,6 +29432,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lona": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:35.851541+00:00",
+      "fragment_status": "Auction",
+      "project": "Lona",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lone": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:25.280450+00:00",
@@ -33439,6 +33495,14 @@
       "project": "muhe",
       "score": 93,
       "source": "City Names"
+    },
+    "mujs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.754851+00:00",
+      "fragment_status": "Auction",
+      "project": "mujs",
+      "score": 88,
+      "source": "Crates.io"
     },
     "mukg": {
       "cache_version": 16,
@@ -45616,6 +45680,14 @@
       "score": 90,
       "source": "GitHub Topic (computer-vision)"
     },
+    "sgcn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.187203+00:00",
+      "fragment_status": "Auction",
+      "project": "SGCN",
+      "score": 80,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "sgqlc": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:26.192784+00:00",
@@ -48072,6 +48144,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "ssun": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.636678+00:00",
+      "fragment_status": "Auction",
+      "project": "SSUN",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "stab": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:08.280915+00:00",
@@ -49919,6 +49999,14 @@
       "project": "tend",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tene": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.301982+00:00",
+      "fragment_status": "Auction",
+      "project": "TENE",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "teni": {
       "cache_version": 16,
@@ -56502,6 +56590,14 @@
       "fragment_status": "Auction",
       "project": "wstd",
       "score": 78,
+      "source": "Crates.io"
+    },
+    "wsts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-26T17:45:36.868647+00:00",
+      "fragment_status": "Auction",
+      "project": "wsts",
+      "score": 76,
       "source": "Crates.io"
     },
     "wterm": {
