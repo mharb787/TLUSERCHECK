@@ -27088,6 +27088,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "koin": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T19:10:47.596613+00:00",
+      "fragment_status": "Auction",
+      "project": "koin",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "koine": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:53.326670+00:00",
@@ -30039,6 +30047,14 @@
       "project": "lset",
       "score": 88,
       "source": "Crates.io"
+    },
+    "lsix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T19:10:47.785173+00:00",
+      "fragment_status": "Auction",
+      "project": "lsix",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lsnn": {
       "cache_version": 16,
@@ -37127,6 +37143,14 @@
       "project": "OPPU",
       "score": 87,
       "source": "GitHub Topic (llm)"
+    },
+    "opra": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T19:10:48.178138+00:00",
+      "fragment_status": "Auction",
+      "project": "opra",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "opsy": {
       "cache_version": 16,
@@ -44240,6 +44264,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rpcs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T19:10:47.402434+00:00",
+      "fragment_status": "Auction",
+      "project": "RPCS",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "rpds": {
       "cache_version": 16,
       "checked_at": "2026-05-13T05:07:29.329796+00:00",
@@ -44455,6 +44487,14 @@
       "project": "rtrl",
       "score": 76,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "rtty": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T19:10:47.979965+00:00",
+      "fragment_status": "Auction",
+      "project": "rtty",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rtvc": {
       "cache_version": 16,
