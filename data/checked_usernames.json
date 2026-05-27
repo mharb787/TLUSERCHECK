@@ -320,6 +320,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "actr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:19.536998+00:00",
+      "fragment_status": "Auction",
+      "project": "actr",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "acts": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.247939+00:00",
@@ -12288,6 +12296,14 @@
       "score": 75,
       "source": "GitHub Topic (nlp)"
     },
+    "dnmp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:18.876279+00:00",
+      "fragment_status": "Auction",
+      "project": "dnmp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dnnr": {
       "cache_version": 16,
       "checked_at": "2026-05-18T23:46:15.954484+00:00",
@@ -21280,6 +21296,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "hcnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:19.374309+00:00",
+      "fragment_status": "Auction",
+      "project": "hCNN",
+      "score": 75,
+      "source": "GitHub Topic (neural-network)"
+    },
     "hdmf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:05.265882+00:00",
@@ -29271,6 +29295,14 @@
       "project": "lips",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lipy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:19.042139+00:00",
+      "fragment_status": "Auction",
+      "project": "lipy",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lira": {
       "cache_version": 16,
@@ -48984,6 +49016,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "stnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:19.207615+00:00",
+      "fragment_status": "Auction",
+      "project": "stnn",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "stoa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:10.282605+00:00",
@@ -54400,6 +54440,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "vant": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:18.546791+00:00",
+      "fragment_status": "Auction",
+      "project": "vant",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vapi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:45.536020+00:00",
@@ -57975,6 +58023,14 @@
       "project": "yala",
       "score": 93,
       "source": "City Names"
+    },
+    "yalc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T23:50:18.710349+00:00",
+      "fragment_status": "Auction",
+      "project": "yalc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yald": {
       "cache_version": 16,
