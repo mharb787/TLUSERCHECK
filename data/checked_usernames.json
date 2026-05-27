@@ -11392,6 +11392,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "deon": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:30.982769+00:00",
+      "fragment_status": "Auction",
+      "project": "deon",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "depop": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:55.756898+00:00",
@@ -12238,6 +12246,14 @@
       "fragment_status": "Auction",
       "project": "DMGC",
       "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "dmmn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:31.709624+00:00",
+      "fragment_status": "Auction",
+      "project": "DMMN",
+      "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
     "dmsr": {
@@ -21200,6 +21216,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hbmp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:31.959601+00:00",
+      "fragment_status": "Auction",
+      "project": "HBMP",
+      "score": 76,
+      "source": "GitHub Topic (nlp)"
+    },
     "hbox": {
       "cache_version": 16,
       "checked_at": "2026-05-26T14:32:51.983329+00:00",
@@ -24335,6 +24359,14 @@
       "project": "itzam",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "ivis": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:30.735085+00:00",
+      "fragment_status": "Auction",
+      "project": "ivis",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ivon": {
       "cache_version": 16,
@@ -30904,6 +30936,14 @@
       "score": 100,
       "source": "Hacker News Top"
     },
+    "maml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:30.497388+00:00",
+      "fragment_status": "Auction",
+      "project": "maml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mana": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:44.268409+00:00",
@@ -34302,6 +34342,14 @@
       "fragment_status": "Auction",
       "project": "nalp",
       "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "nalu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:31.216457+00:00",
+      "fragment_status": "Auction",
+      "project": "NALU",
+      "score": 89,
       "source": "GitHub Topic (machine-learning)"
     },
     "name": {
@@ -41544,6 +41592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pyro": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:30.009706+00:00",
+      "fragment_status": "Auction",
+      "project": "pyro",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pyrr": {
       "cache_version": 16,
       "checked_at": "2026-05-18T22:44:38.256722+00:00",
@@ -47776,6 +47832,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "solt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:31.467338+00:00",
+      "fragment_status": "Auction",
+      "project": "solt",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "solv": {
       "cache_version": 16,
       "checked_at": "2026-05-24T22:36:27.792579+00:00",
@@ -51319,6 +51383,14 @@
       "project": "tiwi",
       "score": 93,
       "source": "City Names"
+    },
+    "tixl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T16:54:30.248847+00:00",
+      "fragment_status": "Auction",
+      "project": "tixl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tkgc": {
       "cache_version": 16,
