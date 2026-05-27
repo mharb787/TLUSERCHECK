@@ -18904,6 +18904,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gino": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T06:05:39.119924+00:00",
+      "fragment_status": "Auction",
+      "project": "gino",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ginr": {
       "cache_version": 16,
       "checked_at": "2026-05-18T22:44:36.811237+00:00",
@@ -21087,6 +21095,14 @@
       "project": "haws",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "haxm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T06:05:38.706451+00:00",
+      "fragment_status": "Auction",
+      "project": "haxm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "hays": {
       "cache_version": 16,
@@ -32024,6 +32040,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mili": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T06:05:38.917837+00:00",
+      "fragment_status": "Auction",
+      "project": "mili",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "milk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:56.812299+00:00",
@@ -35655,6 +35679,14 @@
       "project": "NTHW",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ntsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T06:05:39.696411+00:00",
+      "fragment_status": "Auction",
+      "project": "ntsa",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "nubl": {
       "cache_version": 16,
@@ -48264,6 +48296,14 @@
       "score": 100,
       "source": "GitHub Topic (machine-learning)"
     },
+    "srdi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T06:05:39.324388+00:00",
+      "fragment_status": "Auction",
+      "project": "sRDI",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "srec": {
       "cache_version": 16,
       "checked_at": "2026-05-23T16:15:39.125439+00:00",
@@ -49463,6 +49503,14 @@
       "project": "tads",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tadw": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T06:05:39.510420+00:00",
+      "fragment_status": "Auction",
+      "project": "TADW",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "tael": {
       "cache_version": 16,
