@@ -7392,6 +7392,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cbir": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.898340+00:00",
+      "fragment_status": "Auction",
+      "project": "CBIR",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "cbor": {
       "cache_version": 16,
       "checked_at": "2026-05-12T22:46:22.471361+00:00",
@@ -8615,6 +8623,14 @@
       "project": "cnmsb",
       "score": 76,
       "source": "GitHub Topic (ai)"
+    },
+    "cnns": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.219467+00:00",
+      "fragment_status": "Auction",
+      "project": "cnns",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "coai": {
       "cache_version": 16,
@@ -14384,6 +14400,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "elio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:01.510066+00:00",
+      "fragment_status": "Auction",
+      "project": "elio",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "eliza": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:39.003703+00:00",
@@ -15247,6 +15271,14 @@
       "project": "evil",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "evio": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:01.859132+00:00",
+      "fragment_status": "Auction",
+      "project": "evio",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "evnn": {
       "cache_version": 16,
@@ -24240,6 +24272,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ital": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.448783+00:00",
+      "fragment_status": "Auction",
+      "project": "ITAL",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "itch": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:29.236931+00:00",
@@ -31064,6 +31104,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "maru": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.559896+00:00",
+      "fragment_status": "Auction",
+      "project": "maru",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
+    },
     "mary": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:53.476613+00:00",
@@ -34248,6 +34296,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nalp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.335394+00:00",
+      "fragment_status": "Auction",
+      "project": "nalp",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "name": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:15.075484+00:00",
@@ -35679,6 +35735,14 @@
       "project": "NPOI",
       "score": 97,
       "source": "NuGet"
+    },
+    "nprf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.671749+00:00",
+      "fragment_status": "Auction",
+      "project": "NPRF",
+      "score": 75,
+      "source": "GitHub Topic (neural-network)"
     },
     "npsn": {
       "cache_version": 16,
@@ -41135,6 +41199,14 @@
       "project": "puzi",
       "score": 93,
       "source": "City Names"
+    },
+    "pviz": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:01.624798+00:00",
+      "fragment_status": "Auction",
+      "project": "Pviz-parser",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "pwlf": {
       "cache_version": 16,
@@ -47408,6 +47480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sndb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.105764+00:00",
+      "fragment_status": "Auction",
+      "project": "SNDB",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "sned": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:55.655604+00:00",
@@ -50504,6 +50584,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "terp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:01.975583+00:00",
+      "fragment_status": "Auction",
+      "project": "terp",
+      "score": 87,
+      "source": "GitHub Topic (ml)"
+    },
     "tersa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:00.741086+00:00",
@@ -53376,6 +53464,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "umap": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:01.746378+00:00",
+      "fragment_status": "Auction",
+      "project": "umap",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "umbo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:06.244292+00:00",
@@ -55023,6 +55119,14 @@
       "project": "vnai",
       "score": 98,
       "source": "PyPI Top"
+    },
+    "vnla": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T13:50:02.788415+00:00",
+      "fragment_status": "Auction",
+      "project": "vnla",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "vnlp": {
       "cache_version": 16,
