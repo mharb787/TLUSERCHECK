@@ -7280,6 +7280,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "casl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:02.343704+00:00",
+      "fragment_status": "Auction",
+      "project": "casl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cass": {
       "cache_version": 16,
       "checked_at": "2026-05-18T23:46:16.316552+00:00",
@@ -8071,6 +8079,14 @@
       "project": "cidr",
       "score": 100,
       "source": "Crates.io"
+    },
+    "ciff": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:04.016183+00:00",
+      "fragment_status": "Auction",
+      "project": "ciff",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cija": {
       "cache_version": 16,
@@ -12816,6 +12832,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "dpdk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:03.066629+00:00",
+      "fragment_status": "Auction",
+      "project": "dpdk",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dpex": {
       "cache_version": 16,
       "checked_at": "2026-05-21T17:47:42.865764+00:00",
@@ -13023,6 +13047,14 @@
       "project": "drop",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "drqa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:02.823384+00:00",
+      "fragment_status": "Auction",
+      "project": "DrQA",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "drsm": {
       "cache_version": 16,
@@ -17031,6 +17063,14 @@
       "project": "fond",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fono": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:01.861069+00:00",
+      "fragment_status": "Auction",
+      "project": "Fono",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "fons": {
       "cache_version": 16,
@@ -25216,6 +25256,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jott": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:04.255256+00:00",
+      "fragment_status": "Auction",
+      "project": "Jott",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "jotty": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:40.320110+00:00",
@@ -26271,6 +26319,14 @@
       "project": "keys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "keyv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:03.305537+00:00",
+      "fragment_status": "Auction",
+      "project": "keyv",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kfda": {
       "cache_version": 16,
@@ -30552,6 +30608,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "madr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:03.778586+00:00",
+      "fragment_status": "Auction",
+      "project": "madr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mads": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:41.582618+00:00",
@@ -33415,6 +33479,14 @@
       "project": "MPCC",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mpee": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:01.625902+00:00",
+      "fragment_status": "Auction",
+      "project": "MPEE",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "mpid": {
       "cache_version": 16,
@@ -38576,6 +38648,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pell": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:02.107842+00:00",
+      "fragment_status": "Auction",
+      "project": "pell",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pelt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:06.126548+00:00",
@@ -40623,6 +40703,14 @@
       "project": "psmux",
       "score": 100,
       "source": "GitHub Topic (cli)"
+    },
+    "pspg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:03.541736+00:00",
+      "fragment_status": "Auction",
+      "project": "pspg",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pspy": {
       "cache_version": 16,
@@ -53815,6 +53903,14 @@
       "project": "utfx",
       "score": 88,
       "source": "Crates.io"
+    },
+    "util": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T10:16:02.579516+00:00",
+      "fragment_status": "Auction",
+      "project": "Util",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "utls": {
       "cache_version": 16,
