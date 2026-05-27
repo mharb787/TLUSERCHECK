@@ -9744,6 +9744,14 @@
       "score": 100,
       "source": "Hacker News New"
     },
+    "cudf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:37.260030+00:00",
+      "fragment_status": "Auction",
+      "project": "cudf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cuds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:47.511351+00:00",
@@ -16424,6 +16432,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "finn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:38.814710+00:00",
+      "fragment_status": "Auction",
+      "project": "finn",
+      "score": 100,
+      "source": "GitHub Topic (neural-network)"
+    },
     "fino": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:06.330222+00:00",
@@ -17549,6 +17565,14 @@
       "checked_at": "2026-05-24T22:36:27.028408+00:00",
       "fragment_status": "Auction",
       "project": "fSpy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "fsql": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:37.656817+00:00",
+      "fragment_status": "Auction",
+      "project": "fsql",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -31592,6 +31616,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "mdsr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:38.623364+00:00",
+      "fragment_status": "Auction",
+      "project": "MDSR",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mdut": {
       "cache_version": 16,
       "checked_at": "2026-05-19T17:19:29.057913+00:00",
@@ -34927,6 +34959,14 @@
       "project": "NeRF",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "nerv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:37.465148+00:00",
+      "fragment_status": "Auction",
+      "project": "nerv",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nesa": {
       "cache_version": 16,
@@ -41904,6 +41944,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "qmlt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:38.231894+00:00",
+      "fragment_status": "Auction",
+      "project": "QMLT",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "qnlp": {
       "cache_version": 16,
       "checked_at": "2026-05-23T23:10:07.131486+00:00",
@@ -46200,6 +46248,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "sgan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:38.424820+00:00",
+      "fragment_status": "Auction",
+      "project": "sgan",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "sgas": {
       "cache_version": 16,
       "checked_at": "2026-05-24T14:43:55.027814+00:00",
@@ -50327,6 +50383,14 @@
       "project": "TBTC",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "tcav": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:37.847877+00:00",
+      "fragment_status": "Auction",
+      "project": "tcav",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
     },
     "tcdf": {
       "cache_version": 16,
@@ -57527,6 +57591,14 @@
       "project": "xemu",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xfer": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T22:49:38.040402+00:00",
+      "fragment_status": "Auction",
+      "project": "xfer",
+      "score": 92,
+      "source": "GitHub Topic (machine-learning)"
     },
     "xgan": {
       "cache_version": 16,
