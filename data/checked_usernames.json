@@ -7472,6 +7472,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ccxt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.165786+00:00",
+      "fragment_status": "Auction",
+      "project": "ccxt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cdan": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.823652+00:00",
@@ -36096,6 +36104,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "nyaa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.745972+00:00",
+      "fragment_status": "Auction",
+      "project": "nyaa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nybl": {
       "cache_version": 16,
       "checked_at": "2026-05-14T09:42:07.140959+00:00",
@@ -50792,6 +50808,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "tfgo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.855302+00:00",
+      "fragment_status": "Auction",
+      "project": "tfgo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tfhe": {
       "cache_version": 16,
       "checked_at": "2026-05-19T23:12:48.582183+00:00",
@@ -55720,6 +55744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "walt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.519703+00:00",
+      "fragment_status": "Auction",
+      "project": "walt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "waly": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:27.465862+00:00",
@@ -56061,6 +56093,14 @@
       "checked_at": "2026-05-17T21:12:30.562872+00:00",
       "fragment_status": "Auction",
       "project": "wcap",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "wcdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.275643+00:00",
+      "fragment_status": "Auction",
+      "project": "wcdb",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -57224,6 +57264,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "wslu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.638892+00:00",
+      "fragment_status": "Auction",
+      "project": "wslu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wsme": {
       "cache_version": 16,
       "checked_at": "2026-05-17T21:12:31.022899+00:00",
@@ -57239,6 +57287,14 @@
       "project": "wstd",
       "score": 78,
       "source": "Crates.io"
+    },
+    "wstg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T21:08:32.383474+00:00",
+      "fragment_status": "Auction",
+      "project": "wstg",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "wsts": {
       "cache_version": 16,
