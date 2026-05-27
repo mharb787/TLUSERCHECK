@@ -7392,6 +7392,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "cbst": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T01:54:30.648839+00:00",
+      "fragment_status": "Auction",
+      "project": "CBST",
+      "score": 78,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ccae": {
       "cache_version": 16,
       "checked_at": "2026-05-16T15:41:45.878467+00:00",
@@ -20208,6 +20216,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "gtop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T01:54:30.419181+00:00",
+      "fragment_status": "Auction",
+      "project": "gtop",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gtts": {
       "cache_version": 16,
       "checked_at": "2026-05-12T07:33:07.976153+00:00",
@@ -32624,6 +32640,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "mmae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T01:54:30.866804+00:00",
+      "fragment_status": "Auction",
+      "project": "mmae",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "mmap": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:21.336023+00:00",
@@ -38375,6 +38399,14 @@
       "project": "peat",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "peax": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T01:54:30.757740+00:00",
+      "fragment_status": "Auction",
+      "project": "peax",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "pech": {
       "cache_version": 16,
@@ -46768,6 +46800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "skhd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T01:54:30.534734+00:00",
+      "fragment_status": "Auction",
+      "project": "skhd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "skid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:49.203271+00:00",
@@ -48575,6 +48615,14 @@
       "project": "stob",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "stof": {
+      "cache_version": 16,
+      "checked_at": "2026-05-27T01:54:30.978645+00:00",
+      "fragment_status": "Auction",
+      "project": "stof",
+      "score": 88,
+      "source": "Crates.io"
     },
     "stop": {
       "cache_version": 16,
