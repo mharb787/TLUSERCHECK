@@ -29232,6 +29232,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lilu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T12:40:31.029403+00:00",
+      "fragment_status": "Auction",
+      "project": "Lilu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lily": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:56:58.945246+00:00",
@@ -34847,6 +34855,14 @@
       "project": "nbqa",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "nccv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T12:40:31.725780+00:00",
+      "fragment_status": "Auction",
+      "project": "NCCV",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
     },
     "ncfm": {
       "cache_version": 16,
@@ -40696,6 +40712,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "poxi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T12:40:31.261003+00:00",
+      "fragment_status": "Auction",
+      "project": "poxi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "poyo": {
       "cache_version": 16,
       "checked_at": "2026-05-15T12:20:58.737189+00:00",
@@ -44655,6 +44679,14 @@
       "project": "rspc",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "rsrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T12:40:31.491791+00:00",
+      "fragment_status": "Auction",
+      "project": "rsrl",
+      "score": 79,
+      "source": "GitHub Topic (ai)"
     },
     "rssn": {
       "cache_version": 16,
@@ -57741,6 +57773,14 @@
       "checked_at": "2026-05-20T23:53:00.813925+00:00",
       "fragment_status": "Auction",
       "project": "wwdc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "wxpy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T12:40:30.800829+00:00",
+      "fragment_status": "Auction",
+      "project": "wxpy",
       "score": 100,
       "source": "GitHub New Repos"
     },
