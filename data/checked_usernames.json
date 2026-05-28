@@ -12608,6 +12608,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "domd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:20.755804+00:00",
+      "fragment_status": "Auction",
+      "project": "domd",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "dome": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:16.145666+00:00",
@@ -15397,6 +15405,14 @@
       "checked_at": "2026-05-16T17:33:04.302162+00:00",
       "fragment_status": "Auction",
       "project": "evox",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "evpp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:21.664119+00:00",
+      "fragment_status": "Auction",
+      "project": "evpp",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -21368,6 +21384,14 @@
       "score": 75,
       "source": "GitHub Topic (neural-network)"
     },
+    "hcsc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:22.121580+00:00",
+      "fragment_status": "Auction",
+      "project": "HCSC",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "hdmf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:05.265882+00:00",
@@ -21567,6 +21591,14 @@
       "project": "helix",
       "score": 87,
       "source": "GitHub Topic (llm)"
+    },
+    "helk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:21.435923+00:00",
+      "fragment_status": "Auction",
+      "project": "HELK",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "hell": {
       "cache_version": 16,
@@ -23159,6 +23191,14 @@
       "project": "hyufa",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "iago": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:22.576547+00:00",
+      "fragment_status": "Auction",
+      "project": "IaGo",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "iamb": {
       "cache_version": 16,
@@ -32848,6 +32888,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlmt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:22.801231+00:00",
+      "fragment_status": "Auction",
+      "project": "mlmt",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
+    },
     "mlmw": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:02.254275+00:00",
@@ -40127,6 +40175,14 @@
       "project": "pncat",
       "score": 91,
       "source": "GitHub Topic (cli)"
+    },
+    "pncc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:22.349353+00:00",
+      "fragment_status": "Auction",
+      "project": "PNCC",
+      "score": 76,
+      "source": "GitHub Topic (deep-learning)"
     },
     "pnet": {
       "cache_version": 16,
@@ -54320,6 +54376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "usql": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:21.212333+00:00",
+      "fragment_status": "Auction",
+      "project": "usql",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ustr": {
       "cache_version": 16,
       "checked_at": "2026-05-15T23:31:11.782262+00:00",
@@ -54735,6 +54799,14 @@
       "project": "VBeta",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "vbmc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:21.892792+00:00",
+      "fragment_status": "Auction",
+      "project": "vbmc",
+      "score": 79,
+      "source": "GitHub Topic (machine-learning)"
     },
     "vcrpy": {
       "cache_version": 16,
@@ -55383,6 +55455,14 @@
       "project": "visor",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "visx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T09:05:20.986202+00:00",
+      "fragment_status": "Auction",
+      "project": "visx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vita": {
       "cache_version": 16,
