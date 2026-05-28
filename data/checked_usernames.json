@@ -13224,6 +13224,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "drsa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:06.453288+00:00",
+      "fragment_status": "Auction",
+      "project": "DRSA",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "drsm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T19:41:42.962402+00:00",
@@ -14951,6 +14959,14 @@
       "project": "enow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "enso": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:05.768262+00:00",
+      "fragment_status": "Auction",
+      "project": "enso",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ente": {
       "cache_version": 16,
@@ -17711,6 +17727,14 @@
       "project": "frug",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fsfc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:06.631698+00:00",
+      "fragment_status": "Auction",
+      "project": "fsfc",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "fsio": {
       "cache_version": 16,
@@ -22968,6 +22992,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "hudi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:06.093800+00:00",
+      "fragment_status": "Auction",
+      "project": "hudi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hued": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:19.559684+00:00",
@@ -23687,6 +23719,14 @@
       "project": "iida",
       "score": 93,
       "source": "City Names"
+    },
+    "iina": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:05.393109+00:00",
+      "fragment_status": "Auction",
+      "project": "iina",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ijjs": {
       "cache_version": 16,
@@ -27391,6 +27431,14 @@
       "project": "koji",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "koka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:06.271261+00:00",
+      "fragment_status": "Auction",
+      "project": "koka",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kola": {
       "cache_version": 16,
@@ -57535,6 +57583,14 @@
       "project": "wive",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wled": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T23:57:05.588019+00:00",
+      "fragment_status": "Auction",
+      "project": "WLED",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "woad": {
       "cache_version": 16,
