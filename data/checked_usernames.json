@@ -4240,6 +4240,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "bbox": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:33.067043+00:00",
+      "fragment_status": "Auction",
+      "project": "bbox",
+      "score": 89,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "bbtz": {
       "cache_version": 16,
       "checked_at": "2026-05-23T10:18:15.107855+00:00",
@@ -10424,6 +10432,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "dama": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:32.295918+00:00",
+      "fragment_status": "Auction",
+      "project": "dama",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dame": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:01.489647+00:00",
@@ -12263,6 +12279,14 @@
       "project": "dltf",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "dltk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:32.100551+00:00",
+      "fragment_status": "Auction",
+      "project": "DLTK",
+      "score": 93,
+      "source": "GitHub Topic (ml)"
     },
     "dmgc": {
       "cache_version": 16,
@@ -20080,6 +20104,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "grav": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:31.892449+00:00",
+      "fragment_status": "Auction",
+      "project": "Grav",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gray": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:42.725231+00:00",
@@ -23863,6 +23895,14 @@
       "project": "inky",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "inlp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:33.253158+00:00",
+      "fragment_status": "Auction",
+      "project": "iNLP",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "inly": {
       "cache_version": 16,
@@ -34752,6 +34792,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ncrf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:32.661591+00:00",
+      "fragment_status": "Auction",
+      "project": "NCRF",
+      "score": 90,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ncvx": {
       "cache_version": 16,
       "checked_at": "2026-05-20T23:53:00.994429+00:00",
@@ -36215,6 +36263,14 @@
       "project": "NYSE",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "nyxt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:31.513645+00:00",
+      "fragment_status": "Auction",
+      "project": "nyxt",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "oafs": {
       "cache_version": 16,
@@ -38590,6 +38646,14 @@
       "fragment_status": "Auction",
       "project": "PCAE",
       "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "pcam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:32.856101+00:00",
+      "fragment_status": "Auction",
+      "project": "pcam",
+      "score": 97,
       "source": "GitHub Topic (deep-learning)"
     },
     "pcan": {
@@ -41696,6 +41760,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pyqt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:31.699247+00:00",
+      "fragment_status": "Auction",
+      "project": "PyQt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pyre": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:43.623032+00:00",
@@ -44095,6 +44167,14 @@
       "project": "roll",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rolx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T01:27:32.480988+00:00",
+      "fragment_status": "Auction",
+      "project": "RolX",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "roma": {
       "cache_version": 16,
