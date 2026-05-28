@@ -22736,6 +22736,14 @@
       "score": 92,
       "source": "Crates.io"
     },
+    "hred": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T21:24:09.510685+00:00",
+      "fragment_status": "Auction",
+      "project": "hred",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "hrms": {
       "cache_version": 16,
       "checked_at": "2026-05-16T20:26:24.759150+00:00",
@@ -26319,6 +26327,14 @@
       "project": "kcli",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "kdtf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T21:24:09.348223+00:00",
+      "fragment_status": "Auction",
+      "project": "kdtf",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
     },
     "keas": {
       "cache_version": 16,
@@ -46592,6 +46608,14 @@
       "score": 80,
       "source": "GitHub Topic (machine-learning)"
     },
+    "sgpp": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T21:24:09.185426+00:00",
+      "fragment_status": "Auction",
+      "project": "SGpp",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "sgqlc": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:30:26.192784+00:00",
@@ -48551,6 +48575,14 @@
       "project": "soys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sozu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T21:24:09.025116+00:00",
+      "fragment_status": "Auction",
+      "project": "sozu",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "spacy": {
       "cache_version": 14,
