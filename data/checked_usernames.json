@@ -448,6 +448,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "adnc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:35.608159+00:00",
+      "fragment_status": "Auction",
+      "project": "ADNC",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "adni": {
       "cache_version": 16,
       "checked_at": "2026-05-21T12:14:21.647723+00:00",
@@ -7592,6 +7600,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ceiq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:35.966973+00:00",
+      "fragment_status": "Auction",
+      "project": "CEIQ",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "ceja": {
       "cache_version": 16,
       "checked_at": "2026-05-15T16:23:35.975756+00:00",
@@ -14207,6 +14223,14 @@
       "project": "eetf",
       "score": 88,
       "source": "Crates.io"
+    },
+    "efak": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:35.261940+00:00",
+      "fragment_status": "Auction",
+      "project": "EFAK",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "efel": {
       "cache_version": 16,
@@ -28719,6 +28743,14 @@
       "project": "leku",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lelu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:35.089486+00:00",
+      "fragment_status": "Auction",
+      "project": "Lelu",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "leme": {
       "cache_version": 16,
@@ -51928,6 +51960,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tock": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:35.433533+00:00",
+      "fragment_status": "Auction",
+      "project": "tock",
+      "score": 99,
+      "source": "GitHub Topic (ai)"
+    },
     "todi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:49.351980+00:00",
@@ -54568,6 +54608,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "vaen": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:34.907222+00:00",
+      "fragment_status": "Auction",
+      "project": "VAEN",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "vagi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:11.160548+00:00",
@@ -54839,6 +54887,14 @@
       "project": "vbmc",
       "score": 79,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "vcnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T16:42:35.782928+00:00",
+      "fragment_status": "Auction",
+      "project": "vcnn",
+      "score": 75,
+      "source": "GitHub Topic (neural-network)"
     },
     "vcrpy": {
       "cache_version": 16,
