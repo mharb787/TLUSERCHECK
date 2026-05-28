@@ -3280,6 +3280,14 @@
       "score": 98,
       "source": "GitHub Trending (weekly)"
     },
+    "avod": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T22:49:30.076099+00:00",
+      "fragment_status": "Auction",
+      "project": "avod",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "avon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:16.432975+00:00",
@@ -9432,6 +9440,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cphb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T22:49:29.839723+00:00",
+      "fragment_status": "Auction",
+      "project": "cphb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cpio": {
       "cache_version": 16,
       "checked_at": "2026-05-17T05:08:47.918940+00:00",
@@ -9767,6 +9783,14 @@
       "project": "CTKD",
       "score": 78,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "ctop": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T22:49:29.367901+00:00",
+      "fragment_status": "Auction",
+      "project": "ctop",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ctor": {
       "cache_version": 16,
@@ -15663,6 +15687,14 @@
       "project": "ezpz",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "faas": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T22:49:29.126530+00:00",
+      "fragment_status": "Auction",
+      "project": "faas",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "faby": {
       "cache_version": 16,
@@ -48872,6 +48904,14 @@
       "score": 84,
       "source": "GitHub Topic (deep-learning)"
     },
+    "sptm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T22:49:30.321628+00:00",
+      "fragment_status": "Auction",
+      "project": "SPTM",
+      "score": 77,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "sptr": {
       "cache_version": 16,
       "checked_at": "2026-05-13T05:07:29.681884+00:00",
@@ -55879,6 +55919,14 @@
       "project": "vote",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vott": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T22:49:29.604274+00:00",
+      "fragment_status": "Auction",
+      "project": "VoTT",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vows": {
       "cache_version": 16,
