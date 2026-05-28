@@ -2048,6 +2048,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "annt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:08.612393+00:00",
+      "fragment_status": "Auction",
+      "project": "ANNT",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "anoa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:16.340729+00:00",
@@ -7743,6 +7751,14 @@
       "project": "CFSM",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "cgmm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:08.078056+00:00",
+      "fragment_status": "Auction",
+      "project": "CGMM",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "cgpt": {
       "cache_version": 16,
@@ -14864,6 +14880,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "entt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:07.344754+00:00",
+      "fragment_status": "Auction",
+      "project": "entt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "enum": {
       "cache_version": 16,
       "checked_at": "2026-05-22T13:43:01.603231+00:00",
@@ -20023,6 +20047,14 @@
       "project": "gpio",
       "score": 88,
       "source": "Crates.io"
+    },
+    "gpnd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:07.718780+00:00",
+      "fragment_status": "Auction",
+      "project": "GPND",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
     },
     "gptq": {
       "cache_version": 16,
@@ -36608,6 +36640,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "odmd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:07.535015+00:00",
+      "fragment_status": "Auction",
+      "project": "odmd",
+      "score": 87,
+      "source": "GitHub Topic (ai)"
+    },
     "odor": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:40.379497+00:00",
@@ -38695,6 +38735,14 @@
       "project": "PCFA",
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "pcnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:08.794066+00:00",
+      "fragment_status": "Auction",
+      "project": "PCNN",
+      "score": 76,
+      "source": "GitHub Topic (nlp)"
     },
     "pcsc": {
       "cache_version": 16,
@@ -48776,6 +48824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "srnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:08.260219+00:00",
+      "fragment_status": "Auction",
+      "project": "srnn",
+      "score": 84,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "srpc": {
       "cache_version": 16,
       "checked_at": "2026-05-20T11:16:30.284631+00:00",
@@ -49695,6 +49751,14 @@
       "project": "sway",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "swem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:08.433920+00:00",
+      "fragment_status": "Auction",
+      "project": "SWEM",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
     },
     "swig": {
       "cache_version": 16,
@@ -54871,6 +54935,14 @@
       "project": "verb",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "veri": {
+      "cache_version": 16,
+      "checked_at": "2026-05-28T05:44:07.891353+00:00",
+      "fragment_status": "Auction",
+      "project": "veri",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "veris": {
       "cache_version": 16,
