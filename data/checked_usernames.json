@@ -44448,6 +44448,14 @@
       "score": 76,
       "source": "GitHub Topic (llm)"
     },
+    "rmdl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T22:51:24.684450+00:00",
+      "fragment_status": "Auction",
+      "project": "RMDL",
+      "score": 83,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "rmpc": {
       "cache_version": 16,
       "checked_at": "2026-05-13T15:25:39.417112+00:00",
@@ -49359,6 +49367,14 @@
       "project": "srec",
       "score": 88,
       "source": "Crates.io"
+    },
+    "srez": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T22:51:24.572783+00:00",
+      "fragment_status": "Auction",
+      "project": "srez",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sris": {
       "cache_version": 16,
