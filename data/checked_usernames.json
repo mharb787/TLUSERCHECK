@@ -3240,6 +3240,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "avem": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T23:58:08.283366+00:00",
+      "fragment_status": "Auction",
+      "project": "Avem",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "aver": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:21.973653+00:00",
@@ -9727,6 +9735,14 @@
       "project": "cryo",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "csbd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T23:58:08.613874+00:00",
+      "fragment_status": "Auction",
+      "project": "csbd",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "csec": {
       "cache_version": 16,
@@ -49504,6 +49520,14 @@
       "score": 90,
       "source": "Crates.io"
     },
+    "ssrn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T23:58:08.777006+00:00",
+      "fragment_status": "Auction",
+      "project": "SSRN",
+      "score": 79,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ssui": {
       "cache_version": 16,
       "checked_at": "2026-05-11T21:19:34.254226+00:00",
@@ -51248,6 +51272,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tech": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T23:58:08.117306+00:00",
+      "fragment_status": "Auction",
+      "project": "tech",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "teco": {
       "cache_version": 16,
       "checked_at": "2026-05-17T16:11:46.795276+00:00",
@@ -51654,6 +51686,14 @@
       "fragment_status": "Auction",
       "project": "tfkg",
       "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "tgan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T23:58:08.449378+00:00",
+      "fragment_status": "Auction",
+      "project": "tgan",
+      "score": 88,
       "source": "GitHub Topic (machine-learning)"
     },
     "tgcf": {
