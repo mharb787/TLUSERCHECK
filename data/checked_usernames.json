@@ -11144,6 +11144,14 @@
       "score": 77,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ddrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:29.836302+00:00",
+      "fragment_status": "Auction",
+      "project": "ddrl",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ddsp": {
       "cache_version": 16,
       "checked_at": "2026-05-22T01:33:58.493073+00:00",
@@ -13310,6 +13318,14 @@
       "fragment_status": "Auction",
       "project": "dsit",
       "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "dsnt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:29.647814+00:00",
+      "fragment_status": "Auction",
+      "project": "dsnt",
+      "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
     "dspn": {
@@ -18400,6 +18416,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "gans": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:29.067721+00:00",
+      "fragment_status": "Auction",
+      "project": "GANs",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "gaol": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:22.632061+00:00",
@@ -20327,6 +20351,14 @@
       "project": "graz",
       "score": 93,
       "source": "City Names"
+    },
+    "grbl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:28.684266+00:00",
+      "fragment_status": "Auction",
+      "project": "grbl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "grda": {
       "cache_version": 16,
@@ -23520,6 +23552,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "icss": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:28.482425+00:00",
+      "fragment_status": "Auction",
+      "project": "iCSS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "idah": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:21.962048+00:00",
@@ -23671,6 +23711,14 @@
       "project": "iftta",
       "score": 88,
       "source": "GitHub Topic (automation)"
+    },
+    "igan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:28.876528+00:00",
+      "fragment_status": "Auction",
+      "project": "iGAN",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "igel": {
       "cache_version": 16,
@@ -32879,6 +32927,14 @@
       "project": "miry",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "misc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:29.258562+00:00",
+      "fragment_status": "Auction",
+      "project": "Misc",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mise": {
       "cache_version": 16,
@@ -46247,6 +46303,14 @@
       "project": "sdfx",
       "score": 83,
       "source": "GitHub Topic (ai)"
+    },
+    "sdks": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T19:37:29.458099+00:00",
+      "fragment_status": "Auction",
+      "project": "sdks",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "seai": {
       "cache_version": 16,
