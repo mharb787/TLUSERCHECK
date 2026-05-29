@@ -9960,6 +9960,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cupy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:19.942909+00:00",
+      "fragment_status": "Auction",
+      "project": "cupy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cura": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:22.997950+00:00",
@@ -19888,6 +19896,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "goja": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.210585+00:00",
+      "fragment_status": "Auction",
+      "project": "goja",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gojq": {
       "cache_version": 16,
       "checked_at": "2026-05-23T16:15:38.117146+00:00",
@@ -20023,6 +20039,14 @@
       "project": "goos",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gops": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.103277+00:00",
+      "fragment_status": "Auction",
+      "project": "gops",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gore": {
       "cache_version": 16,
@@ -26520,6 +26544,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "keka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.319139+00:00",
+      "fragment_status": "Auction",
+      "project": "Keka",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kele": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:10.478828+00:00",
@@ -30752,6 +30784,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "lura": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.430973+00:00",
+      "fragment_status": "Auction",
+      "project": "lura",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lure": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:38.325077+00:00",
@@ -32439,6 +32479,14 @@
       "project": "MiCo",
       "score": 89,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "mida": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.806590+00:00",
+      "fragment_status": "Auction",
+      "project": "mida",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mideo": {
       "cache_version": 16,
@@ -46736,6 +46784,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "sgsn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.655590+00:00",
+      "fragment_status": "Auction",
+      "project": "SGSN",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "sgxs": {
       "cache_version": 16,
       "checked_at": "2026-05-23T23:10:07.630183+00:00",
@@ -58119,6 +58175,14 @@
       "project": "wyns",
       "score": 83,
       "source": "English Dictionary"
+    },
+    "wyrm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T10:33:20.543686+00:00",
+      "fragment_status": "Auction",
+      "project": "wyrm",
+      "score": 78,
+      "source": "GitHub Topic (machine-learning)"
     },
     "wyte": {
       "cache_version": 16,
