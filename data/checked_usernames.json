@@ -5912,6 +5912,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "boxx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T17:02:48.150799+00:00",
+      "fragment_status": "Auction",
+      "project": "boxx",
+      "score": 97,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "boxy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:04.484804+00:00",
@@ -31840,6 +31848,14 @@
       "score": 89,
       "source": "Crates.io"
     },
+    "mbti": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T17:02:48.031927+00:00",
+      "fragment_status": "Auction",
+      "project": "MBTI",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mbtr": {
       "cache_version": 16,
       "checked_at": "2026-05-26T14:32:53.058569+00:00",
@@ -45432,6 +45448,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rxgo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T17:02:47.783959+00:00",
+      "fragment_status": "Auction",
+      "project": "RxGo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rxml": {
       "cache_version": 16,
       "checked_at": "2026-05-14T17:22:23.079854+00:00",
@@ -54055,6 +54079,14 @@
       "project": "uefi",
       "score": 88,
       "source": "Crates.io"
+    },
+    "ueli": {
+      "cache_version": 16,
+      "checked_at": "2026-05-29T17:02:47.909306+00:00",
+      "fragment_status": "Auction",
+      "project": "ueli",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "uevr": {
       "cache_version": 16,
