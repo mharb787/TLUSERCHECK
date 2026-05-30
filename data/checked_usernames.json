@@ -1432,6 +1432,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alfy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T08:37:50.371800+00:00",
+      "fragment_status": "Auction",
+      "project": "alfy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "alga": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:11.070941+00:00",
@@ -11128,6 +11136,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ddgr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T08:37:50.201938+00:00",
+      "fragment_status": "Auction",
+      "project": "ddgr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ddgs": {
       "cache_version": 16,
       "checked_at": "2026-05-18T21:53:27.688389+00:00",
@@ -13071,6 +13087,14 @@
       "project": "dpdk",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "dped": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T08:37:50.740355+00:00",
+      "fragment_status": "Auction",
+      "project": "DPED",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
     },
     "dpex": {
       "cache_version": 16,
@@ -30495,6 +30519,14 @@
       "project": "love",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lovr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T08:37:50.563387+00:00",
+      "fragment_status": "Auction",
+      "project": "lovr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lowe": {
       "cache_version": 16,
