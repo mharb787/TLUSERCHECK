@@ -7408,6 +7408,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "catt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:04.689233+00:00",
+      "fragment_status": "Auction",
+      "project": "catt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "catu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:27.768334+00:00",
@@ -7720,6 +7728,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ceng": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:05.042172+00:00",
+      "fragment_status": "Auction",
+      "project": "CENG",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cent": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:27.175729+00:00",
@@ -7791,6 +7807,14 @@
       "project": "cete",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cewl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:04.806372+00:00",
+      "fragment_status": "Auction",
+      "project": "CeWL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cfbi": {
       "cache_version": 16,
@@ -28840,6 +28864,14 @@
       "score": 90,
       "source": "Crates.io"
     },
+    "lbph": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:05.161286+00:00",
+      "fragment_status": "Auction",
+      "project": "lbph",
+      "score": 76,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "lcme": {
       "cache_version": 16,
       "checked_at": "2026-05-11T16:14:57.029516+00:00",
@@ -36024,6 +36056,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nivo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:04.459118+00:00",
+      "fragment_status": "Auction",
+      "project": "nivo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nixa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:27:01.116174+00:00",
@@ -42751,6 +42791,14 @@
       "project": "qlog",
       "score": 88,
       "source": "Crates.io"
+    },
+    "qmla": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:04.920547+00:00",
+      "fragment_status": "Auction",
+      "project": "QMLA",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "qmlt": {
       "cache_version": 16,
@@ -56623,6 +56671,14 @@
       "project": "vrow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vrtk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T15:40:04.577560+00:00",
+      "fragment_status": "Auction",
+      "project": "VRTK",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vsdb": {
       "cache_version": 16,
