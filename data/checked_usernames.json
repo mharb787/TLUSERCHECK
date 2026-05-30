@@ -11192,6 +11192,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ddns": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:49.487670+00:00",
+      "fragment_status": "Auction",
+      "project": "DDNS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ddpm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.314044+00:00",
@@ -15503,6 +15511,14 @@
       "project": "etui",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eufa": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:49.867097+00:00",
+      "fragment_status": "Auction",
+      "project": "Eufa",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "euro": {
       "cache_version": 16,
@@ -21639,6 +21655,14 @@
       "project": "hbox",
       "score": 100,
       "source": "GitHub Topic (ai)"
+    },
+    "hcbr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:50.235295+00:00",
+      "fragment_status": "Auction",
+      "project": "HCBR",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "hcgf": {
       "cache_version": 16,
@@ -31031,6 +31055,14 @@
       "project": "luxe",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lvgl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:49.305142+00:00",
+      "fragment_status": "Auction",
+      "project": "lvgl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lviv": {
       "cache_version": 16,
@@ -50464,6 +50496,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "swip": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:49.672979+00:00",
+      "fragment_status": "Auction",
+      "project": "swip",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "swob": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:17.669497+00:00",
@@ -54752,6 +54792,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "unix": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:48.929398+00:00",
+      "fragment_status": "Auction",
+      "project": "Unix",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "unna": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:59.161563+00:00",
@@ -54967,6 +55015,14 @@
       "project": "urla",
       "score": 93,
       "source": "City Names"
+    },
+    "urnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:50.052129+00:00",
+      "fragment_status": "Auction",
+      "project": "urnn",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "urns": {
       "cache_version": 16,
@@ -59141,6 +59197,14 @@
       "checked_at": "2026-05-20T22:41:12.368456+00:00",
       "fragment_status": "Auction",
       "project": "YAOF",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "yapi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T11:49:49.115136+00:00",
+      "fragment_status": "Auction",
+      "project": "yapi",
       "score": 100,
       "source": "GitHub New Repos"
     },
