@@ -12840,6 +12840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dopt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T12:51:47.015072+00:00",
+      "fragment_status": "Auction",
+      "project": "dopt",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dopy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:17.289080+00:00",
@@ -16351,6 +16359,14 @@
       "project": "feij\u00f3",
       "score": 93,
       "source": "City Names"
+    },
+    "fela": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T12:51:46.544772+00:00",
+      "fragment_status": "Taken",
+      "project": "fela",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fell": {
       "cache_version": 16,
@@ -40448,6 +40464,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "pksm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T12:51:46.656981+00:00",
+      "fragment_status": "Auction",
+      "project": "PKSM",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pktai": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:07.943151+00:00",
@@ -45111,6 +45135,14 @@
       "project": "RPCS",
       "score": 75,
       "source": "Hacker News New"
+    },
+    "rpcx": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T12:51:46.260305+00:00",
+      "fragment_status": "Auction",
+      "project": "rpcx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rpds": {
       "cache_version": 16,
@@ -53504,6 +53536,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "trpo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T12:51:46.896523+00:00",
+      "fragment_status": "Auction",
+      "project": "trpo",
+      "score": 94,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "true": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:57.401130+00:00",
@@ -60607,6 +60647,14 @@
       "project": "zoic",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zoid": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T12:51:46.773335+00:00",
+      "fragment_status": "Auction",
+      "project": "zoid",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zola": {
       "cache_version": 16,
