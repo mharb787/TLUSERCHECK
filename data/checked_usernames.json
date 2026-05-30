@@ -28168,6 +28168,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "kvae": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T17:42:09.797004+00:00",
+      "fragment_status": "Auction",
+      "project": "kvae",
+      "score": 89,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "kvas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:59.745742+00:00",
@@ -40168,6 +40176,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "piku": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T17:42:09.491678+00:00",
+      "fragment_status": "Auction",
+      "project": "piku",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pila": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:26.492622+00:00",
@@ -46639,6 +46655,14 @@
       "project": "sdks",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "sdrc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T17:42:09.923534+00:00",
+      "fragment_status": "Auction",
+      "project": "SDRC",
+      "score": 75,
+      "source": "GitHub Topic (computer-vision)"
     },
     "seai": {
       "cache_version": 16,
@@ -56528,6 +56552,14 @@
       "score": 80,
       "source": "GitHub Topic (deep-learning)"
     },
+    "voca": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T17:42:09.676243+00:00",
+      "fragment_status": "Auction",
+      "project": "voca",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "voco": {
       "cache_version": 16,
       "checked_at": "2026-05-23T10:18:15.218759+00:00",
@@ -56749,6 +56781,14 @@
       "checked_at": "2026-05-23T19:36:55.058603+00:00",
       "fragment_status": "Auction",
       "project": "vugu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "vuls": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T17:42:09.350410+00:00",
+      "fragment_status": "Auction",
+      "project": "vuls",
       "score": 100,
       "source": "GitHub New Repos"
     },
