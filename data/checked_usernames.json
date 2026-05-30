@@ -2528,6 +2528,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "arcv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:12.182360+00:00",
+      "fragment_status": "Auction",
+      "project": "ArcV",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "arden": {
       "cache_version": 16,
       "checked_at": "2026-05-10T15:03:19.079866+00:00",
@@ -8704,6 +8712,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "cmdb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:11.396360+00:00",
+      "fragment_status": "Auction",
+      "project": "cmdb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cmdk": {
       "cache_version": 16,
       "checked_at": "2026-05-16T18:33:22.575287+00:00",
@@ -14191,6 +14207,14 @@
       "project": "ebbs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ebnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:11.870085+00:00",
+      "fragment_status": "Auction",
+      "project": "ebnn",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
     },
     "ebon": {
       "cache_version": 16,
@@ -26512,6 +26536,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kann": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:11.709532+00:00",
+      "fragment_status": "Auction",
+      "project": "kann",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "kano": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:21.460183+00:00",
@@ -32752,6 +32784,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mgan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:11.555096+00:00",
+      "fragment_status": "Auction",
+      "project": "mgan",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mgfn": {
       "cache_version": 16,
       "checked_at": "2026-05-19T11:48:55.732180+00:00",
@@ -37551,6 +37591,14 @@
       "project": "oicq",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "oicr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:12.024911+00:00",
+      "fragment_status": "Auction",
+      "project": "oicr",
+      "score": 91,
+      "source": "GitHub Topic (computer-vision)"
     },
     "oidc": {
       "cache_version": 16,
@@ -52511,6 +52559,14 @@
       "project": "tiko",
       "score": 93,
       "source": "City Names"
+    },
+    "tikv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T23:38:11.239430+00:00",
+      "fragment_status": "Auction",
+      "project": "tikv",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tile": {
       "cache_version": 16,
