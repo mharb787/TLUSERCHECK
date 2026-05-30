@@ -208,6 +208,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "acer": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:06.340937+00:00",
+      "fragment_status": "Auction",
+      "project": "ACER",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "aces": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:04.316938+00:00",
@@ -21296,6 +21304,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "hain": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:05.993298+00:00",
+      "fragment_status": "Auction",
+      "project": "hain",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hair": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:02.308594+00:00",
@@ -26415,6 +26431,14 @@
       "project": "Kami",
       "score": 100,
       "source": "GitHub Trending (weekly)"
+    },
+    "kaml": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:06.224073+00:00",
+      "fragment_status": "Auction",
+      "project": "KAML",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "kamo": {
       "cache_version": 16,
@@ -36160,6 +36184,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nlvr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:06.109578+00:00",
+      "fragment_status": "Auction",
+      "project": "nlvr",
+      "score": 80,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "nlweb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T03:54:44.676757+00:00",
@@ -37743,6 +37775,14 @@
       "project": "omsk",
       "score": 93,
       "source": "City Names"
+    },
+    "onam": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:06.460107+00:00",
+      "fragment_status": "Auction",
+      "project": "Onam",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "once": {
       "cache_version": 16,
@@ -44831,6 +44871,14 @@
       "project": "rock",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rocm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:05.877480+00:00",
+      "fragment_status": "Auction",
+      "project": "ROCm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rocs": {
       "cache_version": 16,
@@ -57623,6 +57671,14 @@
       "project": "weet",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "weex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T18:46:05.765345+00:00",
+      "fragment_status": "Auction",
+      "project": "weex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "wefe": {
       "cache_version": 16,
