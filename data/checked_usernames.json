@@ -8128,6 +8128,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "choo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T14:20:26.003239+00:00",
+      "fragment_status": "Auction",
+      "project": "choo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "chop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:30.110306+00:00",
@@ -12456,6 +12464,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dmhs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T14:20:26.114190+00:00",
+      "fragment_status": "Auction",
+      "project": "dmhs",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dmmn": {
       "cache_version": 16,
       "checked_at": "2026-05-27T16:54:31.709624+00:00",
@@ -15175,6 +15191,14 @@
       "project": "eons",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eopy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T14:20:26.338153+00:00",
+      "fragment_status": "Auction",
+      "project": "eopy",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "eora": {
       "cache_version": 16,
@@ -50079,6 +50103,14 @@
       "project": "sudd",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sudl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T14:20:26.224675+00:00",
+      "fragment_status": "Auction",
+      "project": "SUDL",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
     },
     "sudo": {
       "cache_version": 16,
