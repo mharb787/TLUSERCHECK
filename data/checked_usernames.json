@@ -11024,6 +11024,14 @@
       "score": 100,
       "source": "Lobsters"
     },
+    "dbcv": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:58.964418+00:00",
+      "fragment_status": "Auction",
+      "project": "DBCV",
+      "score": 78,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dbgf": {
       "cache_version": 16,
       "checked_at": "2026-05-17T09:23:40.786489+00:00",
@@ -13303,6 +13311,14 @@
       "project": "drek",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dren": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:59.466688+00:00",
+      "fragment_status": "Auction",
+      "project": "DREN",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "drew": {
       "cache_version": 16,
@@ -16294,6 +16310,14 @@
       "fragment_status": "Auction",
       "project": "FCOT",
       "score": 88,
+      "source": "GitHub Topic (deep-learning)"
+    },
+    "fddb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:59.983659+00:00",
+      "fragment_status": "Auction",
+      "project": "FDDB",
+      "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
     "fdnpy": {
@@ -32304,6 +32328,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mdts": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:59.215378+00:00",
+      "fragment_status": "Auction",
+      "project": "MDTS",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mdui": {
       "cache_version": 16,
       "checked_at": "2026-05-30T06:03:03.367499+00:00",
@@ -34863,6 +34895,14 @@
       "project": "mutt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "muxy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:58.199143+00:00",
+      "fragment_status": "Auction",
+      "project": "Muxy",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "mvae": {
       "cache_version": 16,
@@ -40912,6 +40952,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pnpm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:58.455610+00:00",
+      "fragment_status": "Auction",
+      "project": "pnpm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pock": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:19.468921+00:00",
@@ -41855,6 +41903,14 @@
       "project": "psub",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "psyc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:59.721861+00:00",
+      "fragment_status": "Auction",
+      "project": "psyc",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ptec": {
       "cache_version": 16,
@@ -57847,6 +57903,14 @@
       "project": "were",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "werf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T21:40:58.712375+00:00",
+      "fragment_status": "Auction",
+      "project": "werf",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "werl": {
       "cache_version": 16,
