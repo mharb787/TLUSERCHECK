@@ -20328,6 +20328,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gota": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T20:43:08.655517+00:00",
+      "fragment_status": "Auction",
+      "project": "gota",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gotun": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:42.831764+00:00",
@@ -34880,6 +34888,14 @@
       "score": 77,
       "source": "GitHub Topic (deep-learning)"
     },
+    "mvzr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T20:43:08.327935+00:00",
+      "fragment_status": "Auction",
+      "project": "mvzr",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "myai": {
       "cache_version": 16,
       "checked_at": "2026-05-16T11:12:39.646411+00:00",
@@ -40351,6 +40367,14 @@
       "project": "PINN",
       "score": 94,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "pino": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T20:43:08.437602+00:00",
+      "fragment_status": "Auction",
+      "project": "pino",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pins": {
       "cache_version": 16,
@@ -56576,6 +56600,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "vmaf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T20:43:08.549126+00:00",
+      "fragment_status": "Auction",
+      "project": "vmaf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vmap": {
       "cache_version": 16,
       "checked_at": "2026-05-26T08:55:32.530862+00:00",
@@ -59551,6 +59583,14 @@
       "project": "yasb",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "yase": {
+      "cache_version": 16,
+      "checked_at": "2026-05-30T20:43:08.765471+00:00",
+      "fragment_status": "Auction",
+      "project": "yase",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "yash": {
       "cache_version": 16,
