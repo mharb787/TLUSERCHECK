@@ -648,6 +648,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "agda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.527099+00:00",
+      "fragment_status": "Auction",
+      "project": "agda",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "agde": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:17.097325+00:00",
@@ -4360,6 +4368,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "bcnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:04.166789+00:00",
+      "fragment_status": "Auction",
+      "project": "bcnn",
+      "score": 75,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "bdci": {
       "cache_version": 16,
       "checked_at": "2026-05-29T21:25:11.106743+00:00",
@@ -6367,6 +6383,14 @@
       "project": "bstr",
       "score": 93,
       "source": "Crates.io"
+    },
+    "btfs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.410563+00:00",
+      "fragment_status": "Auction",
+      "project": "btfs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "btoi": {
       "cache_version": 16,
@@ -8807,6 +8831,14 @@
       "project": "cmpr",
       "score": 75,
       "source": "GitHub Topic (llm)"
+    },
+    "cmux": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.640787+00:00",
+      "fragment_status": "Auction",
+      "project": "cmux",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cnas": {
       "cache_version": 16,
@@ -28272,6 +28304,14 @@
       "score": 88,
       "source": "GitHub Topic (automation)"
     },
+    "ktor": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.180789+00:00",
+      "fragment_status": "Auction",
+      "project": "ktor",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kuah": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:17.082038+00:00",
@@ -43448,6 +43488,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "qrec": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.993168+00:00",
+      "fragment_status": "Auction",
+      "project": "QRec",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "qrev": {
       "cache_version": 16,
       "checked_at": "2026-05-13T12:31:04.618778+00:00",
@@ -44511,6 +44559,14 @@
       "project": "\u0101reka",
       "score": 93,
       "source": "City Names"
+    },
+    "reko": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.871920+00:00",
+      "fragment_status": "Auction",
+      "project": "reko",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "reli": {
       "cache_version": 16,
@@ -52016,6 +52072,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "tbhm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.295131+00:00",
+      "fragment_status": "Auction",
+      "project": "tbhm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tblib": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:15.478344+00:00",
@@ -53943,6 +54007,14 @@
       "project": "towy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "toxy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T19:57:03.756046+00:00",
+      "fragment_status": "Auction",
+      "project": "toxy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "toyo": {
       "cache_version": 16,
