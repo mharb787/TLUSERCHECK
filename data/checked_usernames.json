@@ -16312,6 +16312,14 @@
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
+    "fbow": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T01:37:52.063329+00:00",
+      "fragment_status": "Auction",
+      "project": "fbow",
+      "score": 99,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "fcdd": {
       "cache_version": 16,
       "checked_at": "2026-05-23T14:12:52.769947+00:00",
@@ -32344,6 +32352,14 @@
       "score": 88,
       "source": "GitHub Topic (cli)"
     },
+    "mdlt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T01:37:51.563883+00:00",
+      "fragment_status": "Auction",
+      "project": "mdlt",
+      "score": 78,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mdml": {
       "cache_version": 16,
       "checked_at": "2026-05-16T01:16:31.459771+00:00",
@@ -35543,6 +35559,14 @@
       "project": "nbqa",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "nccg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T01:37:51.896882+00:00",
+      "fragment_status": "Auction",
+      "project": "nccg",
+      "score": 75,
+      "source": "GitHub Topic (neural-network)"
     },
     "nccv": {
       "cache_version": 16,
@@ -43064,6 +43088,14 @@
       "score": 89,
       "source": "GitHub Topic (machine-learning)"
     },
+    "qpth": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T01:37:51.378388+00:00",
+      "fragment_status": "Auction",
+      "project": "qpth",
+      "score": 90,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "qqai": {
       "cache_version": 16,
       "checked_at": "2026-05-24T19:52:51.508127+00:00",
@@ -48767,6 +48799,14 @@
       "project": "SMRD",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "smrt": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T01:37:51.730420+00:00",
+      "fragment_status": "Auction",
+      "project": "smrt",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
     },
     "smug": {
       "cache_version": 16,
@@ -55575,6 +55615,14 @@
       "project": "Util",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "utiq": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T01:37:51.213634+00:00",
+      "fragment_status": "Auction",
+      "project": "Utiq",
+      "score": 91,
+      "source": "Hacker News New"
     },
     "utls": {
       "cache_version": 16,
