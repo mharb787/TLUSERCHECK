@@ -14712,6 +14712,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "eips": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T12:04:58.854517+00:00",
+      "fragment_status": "Auction",
+      "project": "EIPs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "eipy": {
       "cache_version": 16,
       "checked_at": "2026-05-18T08:34:31.859021+00:00",
@@ -15367,6 +15375,14 @@
       "project": "epos",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "eppm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T12:04:59.276341+00:00",
+      "fragment_status": "Auction",
+      "project": "EPPM",
+      "score": 87,
+      "source": "GitHub Topic (computer-vision)"
     },
     "epub": {
       "cache_version": 16,
@@ -33720,6 +33736,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlsl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T12:04:59.155216+00:00",
+      "fragment_status": "Auction",
+      "project": "MLSL",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlsp": {
       "cache_version": 16,
       "checked_at": "2026-05-25T06:06:56.460458+00:00",
@@ -40247,6 +40271,14 @@
       "project": "pgrx",
       "score": 76,
       "source": "Crates.io"
+    },
+    "phan": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T12:04:58.968545+00:00",
+      "fragment_status": "Auction",
+      "project": "phan",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "phar": {
       "cache_version": 16,
