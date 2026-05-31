@@ -22848,6 +22848,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "hmcl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T22:40:45.454016+00:00",
+      "fragment_status": "Auction",
+      "project": "HMCL",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hmni": {
       "cache_version": 16,
       "checked_at": "2026-05-20T22:41:12.600429+00:00",
@@ -33840,6 +33848,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "mlib": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T22:40:45.929348+00:00",
+      "fragment_status": "Auction",
+      "project": "mLib",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlim": {
       "cache_version": 16,
       "checked_at": "2026-05-18T17:48:51.841391+00:00",
@@ -43328,6 +43344,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "qark": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T22:40:45.607208+00:00",
+      "fragment_status": "Auction",
+      "project": "qark",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qats": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:43.945018+00:00",
@@ -43439,6 +43463,14 @@
       "project": "qlog",
       "score": 88,
       "source": "Crates.io"
+    },
+    "qlty": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T22:40:45.765730+00:00",
+      "fragment_status": "Auction",
+      "project": "qlty",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "qmla": {
       "cache_version": 16,
