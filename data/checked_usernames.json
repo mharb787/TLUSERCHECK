@@ -3240,6 +3240,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "avai": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:46.825307+00:00",
+      "fragment_status": "Auction",
+      "project": "Avai",
+      "score": 97,
+      "source": "Hacker News New"
+    },
     "avan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:15.371717+00:00",
@@ -26088,6 +26096,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "jsqr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:47.053841+00:00",
+      "fragment_status": "Auction",
+      "project": "jsQR",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jsrip": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:41.783230+00:00",
@@ -26671,6 +26687,14 @@
       "project": "kata",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kate": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:47.525556+00:00",
+      "fragment_status": "Auction",
+      "project": "kate",
+      "score": 87,
+      "source": "GitHub Topic (docker)"
     },
     "kati": {
       "cache_version": 16,
@@ -30399,6 +30423,14 @@
       "project": "loge",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "logg": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:48.258397+00:00",
+      "fragment_status": "Auction",
+      "project": "Logg",
+      "score": 88,
+      "source": "GitHub Topic (logging)"
     },
     "logo": {
       "cache_version": 16,
@@ -36911,6 +36943,14 @@
       "project": "nuid",
       "score": 100,
       "source": "Crates.io"
+    },
+    "nuka": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:47.779438+00:00",
+      "fragment_status": "Auction",
+      "project": "nuka",
+      "score": 87,
+      "source": "GitHub Topic (docker)"
     },
     "nuke": {
       "cache_version": 16,
@@ -57920,6 +57960,14 @@
       "score": 99,
       "source": "GitHub Trending (weekly)"
     },
+    "wego": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:47.286893+00:00",
+      "fragment_status": "Auction",
+      "project": "wego",
+      "score": 97,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "weir": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:41.266440+00:00",
@@ -58351,6 +58399,14 @@
       "project": "wifui",
       "score": 88,
       "source": "GitHub Topic (cli)"
+    },
+    "wigo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T06:00:48.026009+00:00",
+      "fragment_status": "Auction",
+      "project": "wigo",
+      "score": 87,
+      "source": "GitHub Topic (monitoring)"
     },
     "wigs": {
       "cache_version": 16,
