@@ -3664,6 +3664,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "babo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:51.955352+00:00",
+      "fragment_status": "Auction",
+      "project": "Babo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "babu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:25.271807+00:00",
@@ -6495,6 +6503,14 @@
       "project": "buin",
       "score": 93,
       "source": "City Names"
+    },
+    "buku": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:52.307924+00:00",
+      "fragment_status": "Auction",
+      "project": "buku",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "bulb": {
       "cache_version": 16,
@@ -12559,6 +12575,14 @@
       "project": "DMSR",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "dmtk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:52.653984+00:00",
+      "fragment_status": "Auction",
+      "project": "DMTK",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dnlp": {
       "cache_version": 16,
@@ -27896,6 +27920,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "komi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:51.780381+00:00",
+      "fragment_status": "Auction",
+      "project": "Komi-learn",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "koml": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:22.238273+00:00",
@@ -35640,6 +35672,14 @@
       "score": 75,
       "source": "GitHub Topic (neural-network)"
     },
+    "nccl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:52.482451+00:00",
+      "fragment_status": "Auction",
+      "project": "nccl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nccv": {
       "cache_version": 16,
       "checked_at": "2026-05-28T12:40:31.725780+00:00",
@@ -37125,6 +37165,14 @@
       "checked_at": "2026-05-29T13:45:57.538100+00:00",
       "fragment_status": "Auction",
       "project": "nuxt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "nvda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:52.835058+00:00",
+      "fragment_status": "Auction",
+      "project": "nvda",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -53695,6 +53743,14 @@
       "project": "TPGN",
       "score": 77,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "tpot": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T10:48:52.123877+00:00",
+      "fragment_status": "Auction",
+      "project": "tpot",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tpsr": {
       "cache_version": 16,
