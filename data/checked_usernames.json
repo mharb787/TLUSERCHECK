@@ -8816,6 +8816,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cntk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:53.332065+00:00",
+      "fragment_status": "Auction",
+      "project": "CNTK",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "coai": {
       "cache_version": 16,
       "checked_at": "2026-05-14T22:45:05.840009+00:00",
@@ -18096,6 +18104,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "ftrl": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:53.688891+00:00",
+      "fragment_status": "Auction",
+      "project": "FTRL",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "fubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:16.875002+00:00",
@@ -21696,6 +21712,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hasy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:53.878523+00:00",
+      "fragment_status": "Auction",
+      "project": "HASY",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "hatch": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.322665+00:00",
@@ -23431,6 +23455,14 @@
       "project": "hull",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hulu": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:54.238242+00:00",
+      "fragment_status": "Auction",
+      "project": "Hulu: Stream TV shows & movies",
+      "score": 88,
+      "source": "App Store Top"
     },
     "huma": {
       "cache_version": 16,
@@ -30143,6 +30175,14 @@
       "project": "llaf",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "llda": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:54.049621+00:00",
+      "fragment_status": "Auction",
+      "project": "llda",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "llma": {
       "cache_version": 16,
@@ -36983,6 +37023,14 @@
       "project": "numen",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "numi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:53.510774+00:00",
+      "fragment_status": "Auction",
+      "project": "numi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "numrs": {
       "cache_version": 16,
@@ -55375,6 +55423,14 @@
       "project": "upon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "uppy": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T08:49:53.151595+00:00",
+      "fragment_status": "Auction",
+      "project": "uppy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "upsy": {
       "cache_version": 16,
