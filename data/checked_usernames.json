@@ -7496,6 +7496,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cavs": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:35.235267+00:00",
+      "fragment_status": "Auction",
+      "project": "Cavs",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "cavy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:25.907507+00:00",
@@ -8615,6 +8623,14 @@
       "project": "cllm",
       "score": 75,
       "source": "GitHub Topic (llm)"
+    },
+    "cloc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:33.546173+00:00",
+      "fragment_status": "Auction",
+      "project": "cloc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "clod": {
       "cache_version": 16,
@@ -17319,6 +17335,14 @@
       "project": "flic",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "flif": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:34.040101+00:00",
+      "fragment_status": "Auction",
+      "project": "FLIF",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "flint": {
       "cache_version": 16,
@@ -32304,6 +32328,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mavo": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:34.277587+00:00",
+      "fragment_status": "Auction",
+      "project": "mavo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mawn": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:48.268684+00:00",
@@ -33959,6 +33991,14 @@
       "project": "MMOS",
       "score": 88,
       "source": "GitHub Topic (llm)"
+    },
+    "mmpf": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:34.750845+00:00",
+      "fragment_status": "Auction",
+      "project": "mmpf",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "mmrl": {
       "cache_version": 16,
@@ -36391,6 +36431,14 @@
       "project": "nipa",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nipe": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:34.510150+00:00",
+      "fragment_status": "Auction",
+      "project": "nipe",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nips": {
       "cache_version": 16,
@@ -46264,6 +46312,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ruta": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:34.985014+00:00",
+      "fragment_status": "Auction",
+      "project": "ruta",
+      "score": 87,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ruth": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:13.955197+00:00",
@@ -52760,6 +52816,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tidb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:33.314437+00:00",
+      "fragment_status": "Auction",
+      "project": "tidb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tide": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:42.212590+00:00",
@@ -54975,6 +55039,14 @@
       "project": "tzst",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "uabe": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T16:39:33.788305+00:00",
+      "fragment_status": "Auction",
+      "project": "UABE",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "uamqp": {
       "cache_version": 16,
