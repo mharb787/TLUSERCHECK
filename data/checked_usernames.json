@@ -15992,6 +15992,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "exwm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:07.895498+00:00",
+      "fragment_status": "Auction",
+      "project": "exwm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "eyas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:47.273439+00:00",
@@ -19991,6 +19999,14 @@
       "project": "glow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "glpi": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:07.310603+00:00",
+      "fragment_status": "Auction",
+      "project": "glpi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "glpk": {
       "cache_version": 16,
@@ -24007,6 +24023,14 @@
       "project": "icky",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "icnn": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:08.096279+00:00",
+      "fragment_status": "Auction",
+      "project": "icnn",
+      "score": 93,
+      "source": "GitHub Topic (deep-learning)"
     },
     "icns": {
       "cache_version": 16,
@@ -49928,6 +49952,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "spdk": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:07.516309+00:00",
+      "fragment_status": "Auction",
+      "project": "spdk",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "spdl": {
       "cache_version": 16,
       "checked_at": "2026-05-12T23:43:06.017506+00:00",
@@ -57496,6 +57528,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "vuex": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:06.951234+00:00",
+      "fragment_status": "Auction",
+      "project": "vuex",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vugg": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:22.124471+00:00",
@@ -59224,6 +59264,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "wopr": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:07.709694+00:00",
+      "fragment_status": "Auction",
+      "project": "wopr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wops": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:54.118573+00:00",
@@ -60007,6 +60055,14 @@
       "project": "yada",
       "score": 99,
       "source": "Crates.io"
+    },
+    "yadm": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T20:52:07.126187+00:00",
+      "fragment_status": "Auction",
+      "project": "yadm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yaff": {
       "cache_version": 16,
