@@ -19136,6 +19136,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gedd": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T23:42:54.406301+00:00",
+      "fragment_status": "Auction",
+      "project": "GEDD",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "geds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:25.263678+00:00",
@@ -29503,6 +29511,14 @@
       "project": "left",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lego": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T23:42:54.649044+00:00",
+      "fragment_status": "Auction",
+      "project": "lego",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "legs": {
       "cache_version": 16,
@@ -46360,6 +46376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "runc": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T23:42:54.529988+00:00",
+      "fragment_status": "Auction",
+      "project": "runc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rune": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:12.617667+00:00",
@@ -51519,6 +51543,14 @@
       "project": "syne",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sypb": {
+      "cache_version": 16,
+      "checked_at": "2026-05-31T23:42:54.760825+00:00",
+      "fragment_status": "Auction",
+      "project": "SyPB",
+      "score": 76,
+      "source": "GitHub Topic (ai)"
     },
     "syph": {
       "cache_version": 16,
