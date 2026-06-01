@@ -5880,6 +5880,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "borg": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T06:59:43.039983+00:00",
+      "fragment_status": "Auction",
+      "project": "borg",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bork": {
       "cache_version": 16,
       "checked_at": "2026-05-20T08:04:04.840473+00:00",
@@ -6968,6 +6976,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cadl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T06:59:45.667375+00:00",
+      "fragment_status": "HTTP 500",
+      "project": "CADL",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cadm": {
       "cache_version": 16,
       "checked_at": "2026-05-23T20:29:15.337294+00:00",
@@ -7607,6 +7623,14 @@
       "project": "CCAE",
       "score": 88,
       "source": "GitHub Topic (nlp)"
+    },
+    "ccat": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T06:59:43.214543+00:00",
+      "fragment_status": "Auction",
+      "project": "ccat",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cclog": {
       "cache_version": 16,
@@ -9271,6 +9295,14 @@
       "project": "conv",
       "score": 100,
       "source": "Crates.io"
+    },
+    "conx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T06:59:45.843746+00:00",
+      "fragment_status": "Auction",
+      "project": "conx",
+      "score": 88,
+      "source": "GitHub Topic (deep-learning)"
     },
     "cony": {
       "cache_version": 16,
@@ -46160,6 +46192,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "rtop": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T06:59:43.405807+00:00",
+      "fragment_status": "Auction",
+      "project": "rtop",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rtrb": {
       "cache_version": 16,
       "checked_at": "2026-05-14T00:17:06.529175+00:00",
@@ -49839,6 +49879,14 @@
       "project": "\u0101sosa",
       "score": 93,
       "source": "City Names"
+    },
+    "sota": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T06:59:42.875616+00:00",
+      "fragment_status": "Auction",
+      "project": "SOTA",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "soth": {
       "cache_version": 16,
