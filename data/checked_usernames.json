@@ -10376,6 +10376,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "cvui": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T12:37:20.741022+00:00",
+      "fragment_status": "Auction",
+      "project": "cvui",
+      "score": 100,
+      "source": "GitHub Topic (computer-vision)"
+    },
     "cvxpy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:42.917976+00:00",
@@ -11295,6 +11303,14 @@
       "project": "dcor",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "dcpp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T12:37:20.506634+00:00",
+      "fragment_status": "Auction",
+      "project": "dCpp",
+      "score": 78,
+      "source": "GitHub Topic (machine-learning)"
     },
     "dcrn": {
       "cache_version": 16,
@@ -20373,6 +20389,14 @@
       "checked_at": "2026-05-14T11:28:50.294072+00:00",
       "fragment_status": "Auction",
       "project": "gofr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "goim": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T12:37:20.075237+00:00",
+      "fragment_status": "Auction",
+      "project": "goim",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -33960,6 +33984,14 @@
       "score": 94,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mlpb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T12:37:20.376773+00:00",
+      "fragment_status": "Auction",
+      "project": "MLPB",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "mlpp": {
       "cache_version": 16,
       "checked_at": "2026-05-21T17:47:41.285403+00:00",
@@ -34821,6 +34853,14 @@
       "checked_at": "2026-05-16T14:45:06.575534+00:00",
       "fragment_status": "Auction",
       "project": "moyu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "mozc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T12:37:20.221126+00:00",
+      "fragment_status": "Auction",
+      "project": "mozc",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -36823,6 +36863,14 @@
       "project": "NNUE",
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "nnvm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T12:37:20.624713+00:00",
+      "fragment_status": "Auction",
+      "project": "nnvm",
+      "score": 93,
+      "source": "GitHub Topic (deep-learning)"
     },
     "noah": {
       "cache_version": 16,
