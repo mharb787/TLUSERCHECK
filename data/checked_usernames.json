@@ -38968,6 +38968,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "osdn": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T02:00:27.444702+00:00",
+      "fragment_status": "Auction",
+      "project": "OSDN",
+      "score": 92,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "osdt": {
       "cache_version": 16,
       "checked_at": "2026-05-25T10:44:18.928587+00:00",
@@ -48351,6 +48359,14 @@
       "project": "sibb",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sibe": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T02:00:27.279972+00:00",
+      "fragment_status": "Auction",
+      "project": "sibe",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "sibi": {
       "cache_version": 16,
