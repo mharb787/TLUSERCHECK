@@ -11408,6 +11408,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ddpg": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T21:46:29.469877+00:00",
+      "fragment_status": "Auction",
+      "project": "ddpg",
+      "score": 79,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "ddpm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.314044+00:00",
@@ -18567,6 +18575,14 @@
       "project": "fvGP",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "fxgl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T21:46:29.229924+00:00",
+      "fragment_status": "Auction",
+      "project": "FXGL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fyce": {
       "cache_version": 16,
@@ -37144,6 +37160,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "noti": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T21:46:29.112129+00:00",
+      "fragment_status": "Auction",
+      "project": "noti",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "noto": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:48.858714+00:00",
@@ -47383,6 +47407,14 @@
       "project": "scat",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "scio": {
+      "cache_version": 16,
+      "checked_at": "2026-06-01T21:46:29.351746+00:00",
+      "fragment_status": "Auction",
+      "project": "scio",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "scip": {
       "cache_version": 16,
