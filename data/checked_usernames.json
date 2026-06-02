@@ -3040,6 +3040,14 @@
       "score": 91,
       "source": "GitHub Topic (ai)"
     },
+    "asys": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:45.519539+00:00",
+      "fragment_status": "Auction",
+      "project": "ASys",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "atac": {
       "cache_version": 16,
       "checked_at": "2026-05-13T20:57:32.166451+00:00",
@@ -10056,6 +10064,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "ctfd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:45.850308+00:00",
+      "fragment_status": "Auction",
+      "project": "CTFd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ctkd": {
       "cache_version": 16,
       "checked_at": "2026-05-17T20:26:20.649767+00:00",
@@ -11023,6 +11039,14 @@
       "project": "dash",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dask": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:45.739704+00:00",
+      "fragment_status": "Auction",
+      "project": "dask",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dasm": {
       "cache_version": 16,
@@ -23848,6 +23872,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "humm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:45.628054+00:00",
+      "fragment_status": "Auction",
+      "project": "Humm",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "hump": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:20.612718+00:00",
@@ -35616,6 +35648,14 @@
       "score": 75,
       "source": "Hacker News New"
     },
+    "mwdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:46.071223+00:00",
+      "fragment_status": "Auction",
+      "project": "mwDB",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "myai": {
       "cache_version": 16,
       "checked_at": "2026-05-16T11:12:39.646411+00:00",
@@ -41287,6 +41327,14 @@
       "project": "pipy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "piqc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:45.390413+00:00",
+      "fragment_status": "Auction",
+      "project": "Piqc",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "piqo": {
       "cache_version": 16,
@@ -60079,6 +60127,14 @@
       "project": "WZCQ",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xaon": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T18:25:45.962726+00:00",
+      "fragment_status": "Auction",
+      "project": "Xaon",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
     },
     "xbbg": {
       "cache_version": 16,
