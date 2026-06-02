@@ -27888,6 +27888,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "kios": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T21:27:45.210214+00:00",
+      "fragment_status": "Auction",
+      "project": "Kios",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "kips": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:52.663274+00:00",
@@ -56312,6 +56320,14 @@
       "score": 91,
       "source": "GitHub Topic (ai)"
     },
+    "uqlm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T21:27:45.322906+00:00",
+      "fragment_status": "Auction",
+      "project": "UQLM",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "uran": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:28.229105+00:00",
@@ -59095,6 +59111,14 @@
       "project": "wets",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "weui": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T21:27:45.440961+00:00",
+      "fragment_status": "Auction",
+      "project": "weui",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "wfdb": {
       "cache_version": 16,
