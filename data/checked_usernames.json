@@ -33392,6 +33392,14 @@
       "score": 89,
       "source": "GitHub Topic (machine-learning)"
     },
+    "mgba": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T23:14:47.028311+00:00",
+      "fragment_status": "Auction",
+      "project": "mgba",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mgfn": {
       "cache_version": 16,
       "checked_at": "2026-05-19T11:48:55.732180+00:00",
@@ -53853,6 +53861,14 @@
       "checked_at": "2026-05-17T11:45:38.024713+00:00",
       "fragment_status": "Auction",
       "project": "TMoe",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "tmsu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T23:14:47.223332+00:00",
+      "fragment_status": "Auction",
+      "project": "TMSU",
       "score": 100,
       "source": "GitHub New Repos"
     },
