@@ -8824,6 +8824,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "cmak": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T10:57:17.591796+00:00",
+      "fragment_status": "Auction",
+      "project": "CMAK",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cmake": {
       "cache_version": 16,
       "checked_at": "2026-05-10T11:37:57.005083+00:00",
@@ -20637,6 +20645,14 @@
       "checked_at": "2026-05-29T10:33:20.103277+00:00",
       "fragment_status": "Auction",
       "project": "gops",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "gopy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T10:57:17.848905+00:00",
+      "fragment_status": "Auction",
+      "project": "gopy",
       "score": 100,
       "source": "GitHub New Repos"
     },
