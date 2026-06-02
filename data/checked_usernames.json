@@ -1520,6 +1520,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alix": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T14:47:08.853108+00:00",
+      "fragment_status": "Auction",
+      "project": "alix",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
+    },
     "alkh": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:04.395673+00:00",
@@ -29007,6 +29015,14 @@
       "project": "lahr",
       "score": 93,
       "source": "City Names"
+    },
+    "laia": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T14:47:08.738635+00:00",
+      "fragment_status": "Auction",
+      "project": "Laia",
+      "score": 100,
+      "source": "GitHub Topic (deep-learning)"
     },
     "laic": {
       "cache_version": 16,
