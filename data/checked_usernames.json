@@ -16744,6 +16744,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "feng": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T01:38:36.293429+00:00",
+      "fragment_status": "Auction",
+      "project": "feng",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "feni": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:18.090027+00:00",
@@ -34960,6 +34968,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "mpdf": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T01:38:36.070053+00:00",
+      "fragment_status": "Auction",
+      "project": "mpdf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mpee": {
       "cache_version": 16,
       "checked_at": "2026-05-27T10:16:01.625902+00:00",
@@ -36047,6 +36063,14 @@
       "project": "NBER",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "nbfc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T01:38:36.179349+00:00",
+      "fragment_status": "Auction",
+      "project": "nbfc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nbgv": {
       "cache_version": 16,
@@ -57639,6 +57663,14 @@
       "project": "vnlp",
       "score": 80,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "vnpy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-02T01:38:35.959901+00:00",
+      "fragment_status": "Auction",
+      "project": "vnpy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "voca": {
       "cache_version": 16,
