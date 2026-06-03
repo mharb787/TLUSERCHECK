@@ -8008,6 +8008,14 @@
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
     },
+    "cgal": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T19:52:23.749203+00:00",
+      "fragment_status": "Auction",
+      "project": "cgal",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cglm": {
       "cache_version": 16,
       "checked_at": "2026-05-29T21:25:10.154427+00:00",
@@ -37184,6 +37192,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "nntl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T19:52:24.334771+00:00",
+      "fragment_status": "Auction",
+      "project": "nntl",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "nnue": {
       "cache_version": 16,
       "checked_at": "2026-05-22T05:45:05.682302+00:00",
@@ -47760,6 +47776,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "scdl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T19:52:23.944501+00:00",
+      "fragment_status": "Auction",
+      "project": "scdl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "scio": {
       "cache_version": 16,
       "checked_at": "2026-06-01T21:46:29.351746+00:00",
@@ -48415,6 +48439,14 @@
       "project": "sfml",
       "score": 76,
       "source": "Crates.io"
+    },
+    "sftp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T19:52:24.137949+00:00",
+      "fragment_status": "Auction",
+      "project": "sftp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sgan": {
       "cache_version": 16,
@@ -56839,6 +56871,14 @@
       "project": "VAEN",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "vaex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T19:52:23.557843+00:00",
+      "fragment_status": "Auction",
+      "project": "vaex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vagi": {
       "cache_version": 16,
