@@ -3032,6 +3032,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "asvs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T11:29:50.401547+00:00",
+      "fragment_status": "Auction",
+      "project": "ASVS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "asxiv": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:40.953771+00:00",
@@ -9512,6 +9520,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "cors": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T11:29:50.574540+00:00",
+      "fragment_status": "Auction",
+      "project": "cors",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cory": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:39.875028+00:00",
@@ -9911,6 +9927,14 @@
       "project": "crmf",
       "score": 76,
       "source": "Crates.io"
+    },
+    "crnn": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T11:29:50.752572+00:00",
+      "fragment_status": "Auction",
+      "project": "crnn",
+      "score": 93,
+      "source": "GitHub Topic (machine-learning)"
     },
     "croc": {
       "cache_version": 16,
@@ -11966,6 +11990,14 @@
       "fragment_status": "Auction",
       "project": "desp",
       "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
+    "dest": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T11:29:50.919956+00:00",
+      "fragment_status": "Auction",
+      "project": "dest",
+      "score": 92,
       "source": "GitHub Topic (machine-learning)"
     },
     "desto": {
@@ -18631,6 +18663,14 @@
       "project": "futf",
       "score": 100,
       "source": "Crates.io"
+    },
+    "futo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T11:29:50.226677+00:00",
+      "fragment_status": "Auction",
+      "project": "FUTO",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "futz": {
       "cache_version": 16,
