@@ -2072,6 +2072,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "anko": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:17.971513+00:00",
+      "fragment_status": "Auction",
+      "project": "anko",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "anlp": {
       "cache_version": 16,
       "checked_at": "2026-05-25T22:46:19.675295+00:00",
@@ -2901,6 +2909,14 @@
       "checked_at": "2026-05-11T16:14:56.392940+00:00",
       "fragment_status": "Auction",
       "project": "ASAP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "asar": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.308192+00:00",
+      "fragment_status": "Auction",
+      "project": "asar",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -9463,6 +9479,14 @@
       "project": "cops",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "copt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.875674+00:00",
+      "fragment_status": "Auction",
+      "project": "copt",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "copy": {
       "cache_version": 16,
@@ -25584,6 +25608,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ivre": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.198863+00:00",
+      "fragment_status": "Auction",
+      "project": "ivre",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "iwai": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:58.209387+00:00",
@@ -26333,6 +26365,14 @@
       "checked_at": "2026-05-12T12:08:01.999268+00:00",
       "fragment_status": "Auction",
       "project": "jjui",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "jjwt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.088263+00:00",
+      "fragment_status": "Auction",
+      "project": "jjwt",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -33184,6 +33224,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "meka": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.763702+00:00",
+      "fragment_status": "Auction",
+      "project": "meka",
+      "score": 91,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "meld": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:50.769078+00:00",
@@ -35319,6 +35367,14 @@
       "project": "mset",
       "score": 88,
       "source": "Crates.io"
+    },
+    "msgp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.643896+00:00",
+      "fragment_status": "Auction",
+      "project": "msgp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "msml": {
       "cache_version": 16,
@@ -38767,6 +38823,14 @@
       "project": "omni",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "ompi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.418590+00:00",
+      "fragment_status": "Auction",
+      "project": "ompi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "omsk": {
       "cache_version": 16,
@@ -50071,6 +50135,14 @@
       "project": "sods",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "soem": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T22:17:18.529720+00:00",
+      "fragment_status": "Auction",
+      "project": "SOEM",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sofa": {
       "cache_version": 16,
