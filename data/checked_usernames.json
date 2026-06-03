@@ -20832,6 +20832,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "goth": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T16:01:06.406747+00:00",
+      "fragment_status": "Auction",
+      "project": "goth",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gotun": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:42.831764+00:00",
@@ -29232,6 +29240,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "laml": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T16:01:06.666057+00:00",
+      "fragment_status": "Auction",
+      "project": "LAML",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "lamo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:16.404039+00:00",
@@ -29607,6 +29623,14 @@
       "project": "LCPR",
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "ldap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T16:01:06.522922+00:00",
+      "fragment_status": "Auction",
+      "project": "ldap",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ldbp": {
       "cache_version": 16,
@@ -53879,6 +53903,14 @@
       "project": "TKGC",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "tldc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T16:01:06.285022+00:00",
+      "fragment_status": "Auction",
+      "project": "$TLDC",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "tldd": {
       "cache_version": 16,
