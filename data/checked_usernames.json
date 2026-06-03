@@ -8016,6 +8016,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cgpm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T06:32:54.920102+00:00",
+      "fragment_status": "Auction",
+      "project": "cgpm",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "cgpt": {
       "cache_version": 16,
       "checked_at": "2026-05-15T23:31:10.369360+00:00",
@@ -31663,6 +31671,14 @@
       "project": "lums",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "lumx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-03T06:32:54.699986+00:00",
+      "fragment_status": "Auction",
+      "project": "lumX",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "luna": {
       "cache_version": 16,
