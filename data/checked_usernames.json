@@ -1216,6 +1216,14 @@
       "score": 98,
       "source": "GitHub Topic (ml)"
     },
+    "aiva": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T19:35:15.567602+00:00",
+      "fragment_status": "Auction",
+      "project": "aiva",
+      "score": 100,
+      "source": "GitHub Topic (nlp)"
+    },
     "aivo": {
       "cache_version": 16,
       "checked_at": "2026-05-26T14:32:52.197198+00:00",
@@ -24840,6 +24848,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "imba": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T19:35:15.327068+00:00",
+      "fragment_status": "Auction",
+      "project": "imba",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "imbl": {
       "cache_version": 16,
       "checked_at": "2026-05-15T21:38:03.023792+00:00",
@@ -30223,6 +30239,14 @@
       "project": "lezh\u00eb",
       "score": 93,
       "source": "City Names"
+    },
+    "lfda": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T19:35:15.448515+00:00",
+      "fragment_status": "Auction",
+      "project": "lfda",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "lgii": {
       "cache_version": 16,
@@ -40648,6 +40672,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pdfs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T19:35:15.096969+00:00",
+      "fragment_status": "Auction",
+      "project": "pdfs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pdll": {
       "cache_version": 16,
       "checked_at": "2026-05-15T22:34:15.041415+00:00",
@@ -40743,6 +40775,14 @@
       "project": "peck",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "peco": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T19:35:15.212633+00:00",
+      "fragment_status": "Auction",
+      "project": "peco",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pecs": {
       "cache_version": 16,
