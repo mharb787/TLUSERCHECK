@@ -10160,6 +10160,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "ctpl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T00:03:18.487821+00:00",
+      "fragment_status": "Auction",
+      "project": "CTPL",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cube": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:46.341520+00:00",
@@ -43975,6 +43983,14 @@
       "project": "qina",
       "score": 93,
       "source": "City Names"
+    },
+    "qira": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T00:03:18.374753+00:00",
+      "fragment_status": "Auction",
+      "project": "qira",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "qkan": {
       "cache_version": 16,
