@@ -6136,6 +6136,14 @@
       "score": 92,
       "source": "Crates.io"
     },
+    "bpkg": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T22:46:04.474493+00:00",
+      "fragment_status": "Auction",
+      "project": "bpkg",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "brad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:04.950710+00:00",
@@ -20904,6 +20912,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gosu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T22:46:04.062533+00:00",
+      "fragment_status": "Auction",
+      "project": "gosu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gota": {
       "cache_version": 16,
       "checked_at": "2026-05-30T20:43:08.655517+00:00",
@@ -22071,6 +22087,14 @@
       "project": "hams",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hana": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T22:46:04.664632+00:00",
+      "fragment_status": "Auction",
+      "project": "hana",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "hand": {
       "cache_version": 16,
@@ -38949,6 +38973,14 @@
       "checked_at": "2026-06-03T22:17:18.418590+00:00",
       "fragment_status": "Auction",
       "project": "ompi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "ompl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T22:46:04.255194+00:00",
+      "fragment_status": "Auction",
+      "project": "ompl",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -61151,6 +61183,14 @@
       "project": "yank",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yann": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T22:46:04.874675+00:00",
+      "fragment_status": "Auction",
+      "project": "yann",
+      "score": 87,
+      "source": "GitHub Topic (neural-network)"
     },
     "yaof": {
       "cache_version": 16,
