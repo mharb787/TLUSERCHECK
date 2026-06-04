@@ -1392,6 +1392,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "alda": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T04:57:54.525736+00:00",
+      "fragment_status": "Auction",
+      "project": "alda",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "alec": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:10.508203+00:00",
@@ -8567,6 +8575,14 @@
       "project": "cixi",
       "score": 93,
       "source": "City Names"
+    },
+    "ckan": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T04:57:54.864554+00:00",
+      "fragment_status": "Auction",
+      "project": "CKAN",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "clad": {
       "cache_version": 16,
@@ -18472,6 +18488,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "fubo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T04:57:55.042759+00:00",
+      "fragment_status": "Auction",
+      "project": "Fubo: Watch Live TV & Sports",
+      "score": 100,
+      "source": "App Store Top"
+    },
     "fubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:16.875002+00:00",
@@ -27392,6 +27416,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "kcon": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T04:57:54.696443+00:00",
+      "fragment_status": "Auction",
+      "project": "KCon",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kcws": {
       "cache_version": 16,
       "checked_at": "2026-05-31T15:25:24.989321+00:00",
@@ -35199,6 +35231,14 @@
       "project": "moxa",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "moya": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T04:57:54.358497+00:00",
+      "fragment_status": "Auction",
+      "project": "Moya",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "moyo": {
       "cache_version": 16,
