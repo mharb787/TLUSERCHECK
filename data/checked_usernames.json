@@ -58448,6 +58448,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "vtop": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T21:15:14.452095+00:00",
+      "fragment_status": "Auction",
+      "project": "vtop",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vuex": {
       "cache_version": 16,
       "checked_at": "2026-05-31T20:52:06.951234+00:00",
@@ -62535,6 +62543,14 @@
       "project": "ziya",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "zkui": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T21:15:14.687475+00:00",
+      "fragment_status": "Auction",
+      "project": "zkui",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zlist": {
       "cache_version": 14,
