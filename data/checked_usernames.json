@@ -1920,6 +1920,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "amud": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T23:52:35.471402+00:00",
+      "fragment_status": "Auction",
+      "project": "AMUD",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "amus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:15.073982+00:00",
@@ -20999,6 +21007,14 @@
       "project": "goys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gpac": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T23:52:35.819459+00:00",
+      "fragment_status": "Auction",
+      "project": "gpac",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gpax": {
       "cache_version": 16,
@@ -52351,6 +52367,14 @@
       "project": "syne",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "synx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T23:52:35.647485+00:00",
+      "fragment_status": "Auction",
+      "project": "synx",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sypb": {
       "cache_version": 16,
