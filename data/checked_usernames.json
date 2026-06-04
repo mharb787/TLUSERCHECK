@@ -25824,6 +25824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jank": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T17:25:13.968243+00:00",
+      "fragment_status": "Auction",
+      "project": "jank",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jape": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:31.041039+00:00",
@@ -32040,6 +32048,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lwip": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T17:25:14.209713+00:00",
+      "fragment_status": "Auction",
+      "project": "lwip",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lyes": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:39.932195+00:00",
@@ -34823,6 +34839,14 @@
       "project": "mojo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mojs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T17:25:13.512770+00:00",
+      "fragment_status": "Auction",
+      "project": "mojs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "moju": {
       "cache_version": 16,
@@ -44224,6 +44248,14 @@
       "score": 87,
       "source": "GitHub Topic (reinforcement-learning)"
     },
+    "qtox": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T17:25:13.744078+00:00",
+      "fragment_status": "Auction",
+      "project": "qTox",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "quad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:44.262705+00:00",
@@ -52063,6 +52095,14 @@
       "project": "sway",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "swdt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T17:25:14.441627+00:00",
+      "fragment_status": "Auction",
+      "project": "SWDT",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "swem": {
       "cache_version": 16,
