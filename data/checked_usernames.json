@@ -8816,6 +8816,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "clor": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T11:39:42.140925+00:00",
+      "fragment_status": "Auction",
+      "project": "Clor",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "clot": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:33.025261+00:00",
@@ -30935,6 +30943,14 @@
       "project": "llum",
       "score": 91,
       "source": "GitHub Topic (ai)"
+    },
+    "lmao": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T11:39:41.982381+00:00",
+      "fragment_status": "Auction",
+      "project": "LMAO",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "lmap": {
       "cache_version": 16,
@@ -57967,6 +57983,14 @@
       "project": "visor",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "visp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-04T11:39:42.305747+00:00",
+      "fragment_status": "Auction",
+      "project": "visp",
+      "score": 100,
+      "source": "GitHub Topic (computer-vision)"
     },
     "visx": {
       "cache_version": 16,
