@@ -5248,6 +5248,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bisq": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T13:26:10.518954+00:00",
+      "fragment_status": "Auction",
+      "project": "bisq",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bitb": {
       "cache_version": 16,
       "checked_at": "2026-05-17T05:08:46.856729+00:00",
@@ -17896,6 +17904,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "fnlp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T13:26:10.983646+00:00",
+      "fragment_status": "Auction",
+      "project": "fnlp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "foal": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:11.290661+00:00",
@@ -20701,6 +20717,14 @@
       "checked_at": "2026-05-29T10:33:20.210585+00:00",
       "fragment_status": "Auction",
       "project": "goja",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "goji": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T13:26:10.752563+00:00",
+      "fragment_status": "Auction",
+      "project": "goji",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -26687,6 +26711,14 @@
       "project": "jona",
       "score": 93,
       "source": "City Names"
+    },
+    "jool": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T13:26:11.218004+00:00",
+      "fragment_status": "Auction",
+      "project": "jOOL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jooq": {
       "cache_version": 16,
@@ -58088,6 +58120,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "vimr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T13:26:10.293701+00:00",
+      "fragment_status": "Auction",
+      "project": "vimr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vims": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:19.145072+00:00",
@@ -61271,6 +61311,14 @@
       "project": "Yames",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "yaml": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T13:26:10.063335+00:00",
+      "fragment_status": "Auction",
+      "project": "yaml",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yams": {
       "cache_version": 16,
