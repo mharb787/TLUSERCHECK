@@ -5376,6 +5376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bldc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:05.595701+00:00",
+      "fragment_status": "Auction",
+      "project": "bldc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bleb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:53.110584+00:00",
@@ -15248,6 +15256,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "elki": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:05.841495+00:00",
+      "fragment_status": "Auction",
+      "project": "elki",
+      "score": 100,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "elko": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:27:04.594329+00:00",
@@ -16280,6 +16296,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "exnn": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:06.306955+00:00",
+      "fragment_status": "Auction",
+      "project": "exnn",
+      "score": 88,
+      "source": "GitHub Topic (neural-network)"
+    },
     "exon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:46.227327+00:00",
@@ -17031,6 +17055,14 @@
       "project": "feod",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "feos": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:04.648795+00:00",
+      "fragment_status": "Auction",
+      "project": "FeOS",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "fere": {
       "cache_version": 16,
@@ -31175,6 +31207,14 @@
       "project": "lmdb",
       "score": 76,
       "source": "Crates.io"
+    },
+    "lmms": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:05.116725+00:00",
+      "fragment_status": "Auction",
+      "project": "lmms",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lmnr": {
       "cache_version": 16,
@@ -49368,6 +49408,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sicp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:05.352983+00:00",
+      "fragment_status": "Auction",
+      "project": "sicp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sics": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:43.377962+00:00",
@@ -49829,6 +49877,14 @@
       "checked_at": "2026-05-27T01:54:30.534734+00:00",
       "fragment_status": "Auction",
       "project": "skhd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "skia": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:04.884479+00:00",
+      "fragment_status": "Auction",
+      "project": "skia",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -61711,6 +61767,14 @@
       "project": "yazi",
       "score": 93,
       "source": "Crates.io"
+    },
+    "ycml": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T21:42:06.074105+00:00",
+      "fragment_status": "Auction",
+      "project": "YCML",
+      "score": 77,
+      "source": "GitHub Topic (machine-learning)"
     },
     "ydtr": {
       "cache_version": 16,
