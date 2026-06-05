@@ -20696,6 +20696,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gogs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T18:06:16.002660+00:00",
+      "fragment_status": "Auction",
+      "project": "gogs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "goim": {
       "cache_version": 16,
       "checked_at": "2026-06-01T12:37:20.075237+00:00",
@@ -25359,6 +25367,14 @@
       "project": "ipfn",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "ipfs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T18:06:16.128510+00:00",
+      "fragment_status": "Auction",
+      "project": "ipfs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ipia": {
       "cache_version": 16,
