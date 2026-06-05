@@ -11480,6 +11480,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dcol": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T06:13:50.089736+00:00",
+      "fragment_status": "Auction",
+      "project": "dcol",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "dcor": {
       "cache_version": 16,
       "checked_at": "2026-05-17T17:12:51.488003+00:00",
@@ -20688,6 +20696,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gojs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T06:13:48.869241+00:00",
+      "fragment_status": "Auction",
+      "project": "GoJS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gokin": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:09:10.149891+00:00",
@@ -22367,6 +22383,14 @@
       "project": "haws",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "haxl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T06:13:49.603063+00:00",
+      "fragment_status": "Auction",
+      "project": "Haxl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "haxm": {
       "cache_version": 16,
@@ -27495,6 +27519,14 @@
       "project": "kbar",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kcat": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T06:13:49.105344+00:00",
+      "fragment_status": "Auction",
+      "project": "kcat",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kcli": {
       "cache_version": 16,
@@ -35575,6 +35607,14 @@
       "project": "MSTA",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "mtcp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T06:13:49.834501+00:00",
+      "fragment_status": "Auction",
+      "project": "mtcp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mteb": {
       "cache_version": 16,
@@ -57453,6 +57493,14 @@
       "checked_at": "2026-05-29T02:34:47.801779+00:00",
       "fragment_status": "Auction",
       "project": "vbot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "vcmi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T06:13:49.356749+00:00",
+      "fragment_status": "Auction",
+      "project": "vcmi",
       "score": 100,
       "source": "GitHub New Repos"
     },
