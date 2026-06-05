@@ -1208,6 +1208,14 @@
       "score": 100,
       "source": "GitHub Topic (ai)"
     },
+    "aiur": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T10:16:14.401487+00:00",
+      "fragment_status": "Auction",
+      "project": "AIUR",
+      "score": 97,
+      "source": "GitHub Topic (ai)"
+    },
     "aius": {
       "cache_version": 16,
       "checked_at": "2026-05-12T21:44:51.928011+00:00",
@@ -7631,6 +7639,14 @@
       "project": "caul",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "cava": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T10:16:14.174277+00:00",
+      "fragment_status": "Auction",
+      "project": "cava",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cave": {
       "cache_version": 16,
@@ -30160,6 +30176,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "leni": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T10:16:14.511937+00:00",
+      "fragment_status": "Auction",
+      "project": "Leni",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "leno": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:12.069335+00:00",
@@ -38824,6 +38848,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "okio": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T10:16:14.063869+00:00",
+      "fragment_status": "Auction",
+      "project": "okio",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "oklo": {
       "cache_version": 16,
       "checked_at": "2026-05-14T15:33:24.233292+00:00",
@@ -45477,6 +45509,14 @@
       "checked_at": "2026-05-12T14:47:41.200484+00:00",
       "fragment_status": "Auction",
       "project": "ReMe",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "remi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T10:16:14.289827+00:00",
+      "fragment_status": "Auction",
+      "project": "remi",
       "score": 100,
       "source": "GitHub New Repos"
     },
