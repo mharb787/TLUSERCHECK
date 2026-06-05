@@ -8944,6 +8944,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cltk": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T23:50:43.458056+00:00",
+      "fragment_status": "Auction",
+      "project": "cltk",
+      "score": 93,
+      "source": "GitHub Topic (ai)"
+    },
     "club": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:33.258192+00:00",
@@ -9103,6 +9111,14 @@
       "project": "cnns",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "cnpm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T23:50:43.235383+00:00",
+      "fragment_status": "Auction",
+      "project": "cnpm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cntk": {
       "cache_version": 16,
@@ -20695,6 +20711,14 @@
       "project": "goby",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gocd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T23:50:43.123682+00:00",
+      "fragment_status": "Auction",
+      "project": "gocd",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "goch": {
       "cache_version": 16,
@@ -43128,6 +43152,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "prmd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T23:50:43.346193+00:00",
+      "fragment_status": "Auction",
+      "project": "prmd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "prml": {
       "cache_version": 16,
       "checked_at": "2026-05-22T22:15:05.132899+00:00",
@@ -54487,6 +54519,14 @@
       "project": "tldd",
       "score": 75,
       "source": "GitHub Topic (ai)"
+    },
+    "tldr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T23:50:43.012370+00:00",
+      "fragment_status": "Auction",
+      "project": "tldr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tlds": {
       "cache_version": 16,
