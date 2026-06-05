@@ -7032,6 +7032,14 @@
       "score": 89,
       "source": "GitHub Topic (deep-learning)"
     },
+    "bypy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T22:46:33.186150+00:00",
+      "fragment_status": "Auction",
+      "project": "bypy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "byre": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:19.705209+00:00",
@@ -35207,6 +35215,14 @@
       "project": "moms",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mona": {
+      "cache_version": 16,
+      "checked_at": "2026-06-05T22:46:33.302811+00:00",
+      "fragment_status": "Auction",
+      "project": "mona",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "monk": {
       "cache_version": 16,
