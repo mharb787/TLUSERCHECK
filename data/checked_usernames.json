@@ -21088,6 +21088,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gopm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T23:18:05.560480+00:00",
+      "fragment_status": "Auction",
+      "project": "gopm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gops": {
       "cache_version": 16,
       "checked_at": "2026-05-29T10:33:20.103277+00:00",
