@@ -856,6 +856,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "agyn": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T08:11:22.790996+00:00",
+      "fragment_status": "Auction",
+      "project": "Agyn",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ahar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:48.502678+00:00",
@@ -29040,6 +29048,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kryo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T08:11:22.953000+00:00",
+      "fragment_status": "Auction",
+      "project": "kryo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ksar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:15.570278+00:00",
@@ -42671,6 +42687,14 @@
       "project": "polo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "polr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T08:11:23.117592+00:00",
+      "fragment_status": "Auction",
+      "project": "polr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pols": {
       "cache_version": 16,
