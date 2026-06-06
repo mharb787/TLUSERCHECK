@@ -40024,6 +40024,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "osin": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T14:24:12.411287+00:00",
+      "fragment_status": "Auction",
+      "project": "osin",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "osint": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:02.379563+00:00",
@@ -46487,6 +46495,14 @@
       "project": "rkyv",
       "score": 93,
       "source": "Crates.io"
+    },
+    "rley": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T14:24:12.576079+00:00",
+      "fragment_status": "Auction",
+      "project": "Rley",
+      "score": 87,
+      "source": "GitHub Topic (nlp)"
     },
     "rlhf": {
       "cache_version": 16,
