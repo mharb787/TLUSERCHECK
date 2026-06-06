@@ -19920,6 +19920,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ggpy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T11:47:42.383627+00:00",
+      "fragment_status": "Auction",
+      "project": "ggpy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ggrs": {
       "cache_version": 16,
       "checked_at": "2026-05-24T22:36:27.683755+00:00",
@@ -26359,6 +26367,14 @@
       "project": "jehu",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jeju": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T11:47:42.271039+00:00",
+      "fragment_status": "Auction",
+      "project": "Jeju",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "jell": {
       "cache_version": 16,
