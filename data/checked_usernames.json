@@ -4232,6 +4232,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bart": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T20:07:04.726976+00:00",
+      "fragment_status": "Auction",
+      "project": "bart",
+      "score": 94,
+      "source": "GitHub Topic (deep-learning)"
+    },
     "base": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:29.590616+00:00",
@@ -34632,6 +34640,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "misu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T20:07:04.430717+00:00",
+      "fragment_status": "Auction",
+      "project": "Misu",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "misub": {
       "cache_version": 16,
       "checked_at": "2026-05-10T22:07:57.220924+00:00",
@@ -63119,6 +63135,14 @@
       "project": "zima",
       "score": 93,
       "source": "City Names"
+    },
+    "zimg": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T20:07:04.546029+00:00",
+      "fragment_status": "Auction",
+      "project": "zimg",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zinc": {
       "cache_version": 16,
