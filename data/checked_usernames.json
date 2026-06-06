@@ -12592,6 +12592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dind": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T15:45:37.455279+00:00",
+      "fragment_status": "Auction",
+      "project": "dind",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dine": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:11.501537+00:00",
@@ -28151,6 +28159,14 @@
       "project": "khaf",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "khal": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T15:45:37.290711+00:00",
+      "fragment_status": "Auction",
+      "project": "khal",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "khan": {
       "cache_version": 16,
