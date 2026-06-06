@@ -5192,6 +5192,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bips": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T05:42:13.203762+00:00",
+      "fragment_status": "Auction",
+      "project": "bips",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bird": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:45.401289+00:00",
@@ -7879,6 +7887,14 @@
       "project": "cdrs",
       "score": 76,
       "source": "Crates.io"
+    },
+    "cdto": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T05:42:13.669415+00:00",
+      "fragment_status": "Auction",
+      "project": "cdto",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ceca": {
       "cache_version": 16,
@@ -17696,6 +17712,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "flda": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T05:42:13.819327+00:00",
+      "fragment_status": "Auction",
+      "project": "flda",
+      "score": 87,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "flea": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:09.001834+00:00",
@@ -20781,6 +20805,14 @@
       "checked_at": "2026-05-14T11:28:50.294072+00:00",
       "fragment_status": "Auction",
       "project": "gofr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "gogh": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T05:42:13.358255+00:00",
+      "fragment_status": "Auction",
+      "project": "Gogh",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -32807,6 +32839,14 @@
       "project": "Malus",
       "score": 100,
       "source": "Hacker News Top"
+    },
+    "mame": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T05:42:13.517220+00:00",
+      "fragment_status": "Auction",
+      "project": "mame",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "maml": {
       "cache_version": 16,
@@ -60991,6 +61031,14 @@
       "project": "Xaon",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "xbar": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T05:42:13.049166+00:00",
+      "fragment_status": "Auction",
+      "project": "xbar",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xbbg": {
       "cache_version": 16,
