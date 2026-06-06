@@ -21056,6 +21056,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "gorm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T10:19:32.261867+00:00",
+      "fragment_status": "Auction",
+      "project": "gorm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gorp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:36.066864+00:00",
@@ -26984,6 +26992,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jphp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T10:19:32.995869+00:00",
+      "fragment_status": "Auction",
+      "project": "jphp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jsat": {
       "cache_version": 16,
       "checked_at": "2026-06-05T20:06:43.863997+00:00",
@@ -32400,6 +32416,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lxqt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T10:19:32.612365+00:00",
+      "fragment_status": "Auction",
+      "project": "lxqt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lyes": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:39.932195+00:00",
@@ -35775,6 +35799,14 @@
       "project": "mrml",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "mrpt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T10:19:32.437778+00:00",
+      "fragment_status": "Auction",
+      "project": "mrpt",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "msad": {
       "cache_version": 16,
@@ -45455,6 +45487,14 @@
       "project": "rdkit",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "rdpy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T10:19:32.796185+00:00",
+      "fragment_status": "Auction",
+      "project": "rdpy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rdst": {
       "cache_version": 16,
@@ -61087,6 +61127,14 @@
       "project": "xcap",
       "score": 88,
       "source": "Crates.io"
+    },
+    "xcsf": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T10:19:33.175242+00:00",
+      "fragment_status": "Auction",
+      "project": "xcsf",
+      "score": 75,
+      "source": "GitHub Topic (machine-learning)"
     },
     "xdet": {
       "cache_version": 16,
