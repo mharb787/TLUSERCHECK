@@ -11960,6 +11960,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "deis": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T17:52:37.964362+00:00",
+      "fragment_status": "Auction",
+      "project": "deis",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "deit": {
       "cache_version": 16,
       "checked_at": "2026-05-19T17:19:28.947161+00:00",
@@ -44464,6 +44472,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pywt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T17:52:38.157473+00:00",
+      "fragment_status": "Auction",
+      "project": "pywt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pyxb": {
       "cache_version": 16,
       "checked_at": "2026-05-18T23:46:16.555125+00:00",
@@ -55743,6 +55759,14 @@
       "project": "TRIS",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "trix": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T17:52:37.773570+00:00",
+      "fragment_status": "Auction",
+      "project": "trix",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "trjs": {
       "cache_version": 16,
