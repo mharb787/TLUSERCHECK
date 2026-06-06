@@ -14848,6 +14848,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "ecto": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T21:14:26.682185+00:00",
+      "fragment_status": "Auction",
+      "project": "ecto",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ecus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:28.825550+00:00",
@@ -38336,6 +38344,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ntsc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T21:14:26.906198+00:00",
+      "fragment_status": "Auction",
+      "project": "ntsc",
+      "score": 78,
+      "source": "Lobsters"
+    },
     "nubl": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:50.857073+00:00",
@@ -44199,6 +44215,14 @@
       "project": "pyes",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pyfa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T21:14:26.794289+00:00",
+      "fragment_status": "Auction",
+      "project": "Pyfa",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pygha": {
       "cache_version": 16,
