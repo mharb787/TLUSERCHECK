@@ -17480,6 +17480,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "fira": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T12:56:07.898522+00:00",
+      "fragment_status": "Auction",
+      "project": "Fira",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fire": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:06.593463+00:00",
