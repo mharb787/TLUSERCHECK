@@ -16632,6 +16632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fann": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T01:47:45.641789+00:00",
+      "fragment_status": "Auction",
+      "project": "fann",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fano": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:58.138368+00:00",
@@ -24136,6 +24144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hugo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T01:47:45.123334+00:00",
+      "fragment_status": "Auction",
+      "project": "hugo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hugr": {
       "cache_version": 16,
       "checked_at": "2026-05-20T08:04:04.599237+00:00",
@@ -28615,6 +28631,14 @@
       "project": "knur",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "knwl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T01:47:45.292258+00:00",
+      "fragment_status": "Auction",
+      "project": "Knwl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "koan": {
       "cache_version": 16,
@@ -49567,6 +49591,14 @@
       "project": "sild",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sile": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T01:47:45.460464+00:00",
+      "fragment_status": "Auction",
+      "project": "sile",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "siliv": {
       "cache_version": 16,
