@@ -144,6 +144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abot": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T16:48:06.697709+00:00",
+      "fragment_status": "Auction",
+      "project": "abot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "abow": {
       "cache_version": 16,
       "checked_at": "2026-05-22T18:02:24.003305+00:00",
@@ -6527,6 +6535,14 @@
       "project": "bstr",
       "score": 93,
       "source": "Crates.io"
+    },
+    "btcd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T16:48:06.533310+00:00",
+      "fragment_status": "Auction",
+      "project": "btcd",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "btfs": {
       "cache_version": 16,
@@ -24439,6 +24455,14 @@
       "project": "hwan",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hwrt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-06T16:48:06.862350+00:00",
+      "fragment_status": "Auction",
+      "project": "hwrt",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
     },
     "hyde": {
       "cache_version": 16,
