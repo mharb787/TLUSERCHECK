@@ -36712,6 +36712,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "mypy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T21:53:32.707727+00:00",
+      "fragment_status": "Auction",
+      "project": "mypy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mysti": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:58.834289+00:00",
@@ -44336,6 +44344,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "pwnc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T21:53:32.528214+00:00",
+      "fragment_status": "Auction",
+      "project": "PWNC",
+      "score": 91,
+      "source": "Hacker News Show HN"
+    },
     "pwru": {
       "cache_version": 16,
       "checked_at": "2026-05-17T19:33:42.945831+00:00",
@@ -44383,6 +44399,14 @@
       "project": "pyas",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pyav": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T21:53:32.880540+00:00",
+      "fragment_status": "Auction",
+      "project": "PyAV",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pyay": {
       "cache_version": 16,
