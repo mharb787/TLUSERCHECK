@@ -4368,6 +4368,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "baum": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:32.053209+00:00",
+      "fragment_status": "Auction",
+      "project": "baum",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bawd": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:30.721636+00:00",
@@ -7815,6 +7823,14 @@
       "project": "ccat",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ccgs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:31.590312+00:00",
+      "fragment_status": "Auction",
+      "project": "Ccgs",
+      "score": 91,
+      "source": "Hacker News Show HN"
     },
     "cclog": {
       "cache_version": 16,
@@ -14520,6 +14536,14 @@
       "score": 76,
       "source": "GitHub Trending (daily)"
     },
+    "dvwa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:31.820789+00:00",
+      "fragment_status": "Auction",
+      "project": "DVWA",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dxgi": {
       "cache_version": 16,
       "checked_at": "2026-05-25T20:41:52.013525+00:00",
@@ -21109,6 +21133,14 @@
       "checked_at": "2026-06-02T10:57:17.848905+00:00",
       "fragment_status": "Auction",
       "project": "gopy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "goqt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:32.164014+00:00",
+      "fragment_status": "Auction",
+      "project": "goqt",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -37165,6 +37197,14 @@
       "checked_at": "2026-05-13T10:40:35.100122+00:00",
       "fragment_status": "Auction",
       "project": "neco",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "nedb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:31.706482+00:00",
+      "fragment_status": "Auction",
+      "project": "nedb",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -59824,6 +59864,14 @@
       "score": 100,
       "source": "GitHub Trending (monthly)"
     },
+    "wcag": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:32.276263+00:00",
+      "fragment_status": "Auction",
+      "project": "wcag",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wcap": {
       "cache_version": 16,
       "checked_at": "2026-05-17T21:12:30.562872+00:00",
@@ -61535,6 +61583,14 @@
       "project": "xorf",
       "score": 90,
       "source": "Crates.io"
+    },
+    "xorm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T00:19:31.935891+00:00",
+      "fragment_status": "Auction",
+      "project": "xorm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xorq": {
       "cache_version": 16,
