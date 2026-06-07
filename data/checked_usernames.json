@@ -3032,6 +3032,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "asio": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:22.794601+00:00",
+      "fragment_status": "Auction",
+      "project": "asio",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "asis": {
       "cache_version": 16,
       "checked_at": "2026-05-25T22:46:19.443784+00:00",
@@ -35376,6 +35384,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "moby": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:21.934200+00:00",
+      "fragment_status": "Auction",
+      "project": "moby",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "moca": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:03.085049+00:00",
@@ -44768,6 +44784,14 @@
       "score": 89,
       "source": "GitHub Topic (machine-learning)"
     },
+    "pyzh": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:22.987888+00:00",
+      "fragment_status": "Auction",
+      "project": "PyZh",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pyzk": {
       "cache_version": 16,
       "checked_at": "2026-05-17T21:12:30.909780+00:00",
@@ -48920,6 +48944,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sddm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:22.610017+00:00",
+      "fragment_status": "Auction",
+      "project": "sddm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sdfc": {
       "cache_version": 16,
       "checked_at": "2026-05-16T10:05:48.908884+00:00",
@@ -52111,6 +52143,14 @@
       "project": "SSCP",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "ssdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:22.231318+00:00",
+      "fragment_status": "Auction",
+      "project": "ssdb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ssdp": {
       "cache_version": 16,
@@ -57856,6 +57896,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ussh": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:21.724239+00:00",
+      "fragment_status": "Auction",
+      "project": "USSH",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ustr": {
       "cache_version": 16,
       "checked_at": "2026-05-15T23:31:11.782262+00:00",
@@ -60525,6 +60573,14 @@
       "checked_at": "2026-05-21T15:51:46.011647+00:00",
       "fragment_status": "Auction",
       "project": "wgcf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "wger": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T18:01:22.424203+00:00",
+      "fragment_status": "Auction",
+      "project": "wger",
       "score": 100,
       "source": "GitHub New Repos"
     },
