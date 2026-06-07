@@ -2624,6 +2624,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "ardb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:38:00.508372+00:00",
+      "fragment_status": "Auction",
+      "project": "ardb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "arden": {
       "cache_version": 16,
       "checked_at": "2026-05-10T15:03:19.079866+00:00",
@@ -10319,6 +10327,14 @@
       "project": "ctag",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "ctci": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:37:59.372226+00:00",
+      "fragment_status": "Auction",
+      "project": "ctci",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ctfd": {
       "cache_version": 16,
@@ -20464,6 +20480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "glew": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:38:00.056764+00:00",
+      "fragment_status": "Auction",
+      "project": "glew",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gley": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:31.244313+00:00",
@@ -26160,6 +26184,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jadx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:37:59.148460+00:00",
+      "fragment_status": "Auction",
+      "project": "jadx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jaen": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:29.346784+00:00",
@@ -27191,6 +27223,14 @@
       "project": "json",
       "score": 100,
       "source": "Crates.io"
+    },
+    "jspm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:37:59.827118+00:00",
+      "fragment_status": "Auction",
+      "project": "jspm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jsql": {
       "cache_version": 16,
@@ -31541,6 +31581,14 @@
       "checked_at": "2026-05-16T07:02:09.990220+00:00",
       "fragment_status": "Auction",
       "project": "lmql",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "lnmp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:38:00.279369+00:00",
+      "fragment_status": "Auction",
+      "project": "lnmp",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -48007,6 +48055,14 @@
       "project": "rxml",
       "score": 79,
       "source": "Crates.io"
+    },
+    "rxpy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T10:37:59.599323+00:00",
+      "fragment_status": "Auction",
+      "project": "RxPY",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rxtui": {
       "cache_version": 16,
