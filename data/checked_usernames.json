@@ -35840,6 +35840,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "moto": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T14:18:20.996826+00:00",
+      "fragment_status": "Auction",
+      "project": "moto",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "motor": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:42.329668+00:00",
@@ -36999,6 +37007,14 @@
       "project": "nasu",
       "score": 93,
       "source": "City Names"
+    },
+    "nato": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T14:18:21.111826+00:00",
+      "fragment_status": "Auction",
+      "project": "NATO",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "nats": {
       "cache_version": 16,
