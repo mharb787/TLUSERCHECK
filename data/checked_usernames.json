@@ -25552,6 +25552,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "intl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T04:59:10.842772+00:00",
+      "fragment_status": "Auction",
+      "project": "intl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "into": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:27.840491+00:00",
@@ -30704,6 +30712,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "lexa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T04:59:10.487186+00:00",
+      "fragment_status": "Auction",
+      "project": "lexa",
+      "score": 87,
+      "source": "GitHub Trending (daily)"
+    },
     "leys": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:14.172966+00:00",
@@ -31288,6 +31304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lita": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T04:59:11.023850+00:00",
+      "fragment_status": "Auction",
+      "project": "lita",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "litai": {
       "cache_version": 16,
       "checked_at": "2026-05-10T21:24:50.253417+00:00",
@@ -31447,6 +31471,14 @@
       "project": "LLSA",
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "lltk": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T04:59:11.199810+00:00",
+      "fragment_status": "Auction",
+      "project": "lltk",
+      "score": 75,
+      "source": "GitHub Topic (nlp)"
     },
     "llum": {
       "cache_version": 16,
@@ -41271,6 +41303,14 @@
       "project": "pdll",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "pdns": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T04:59:10.665033+00:00",
+      "fragment_status": "Auction",
+      "project": "pdns",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pdoc": {
       "cache_version": 16,
