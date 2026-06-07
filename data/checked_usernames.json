@@ -19648,6 +19648,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gbdt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T22:50:32.220028+00:00",
+      "fragment_status": "Auction",
+      "project": "gbdt",
+      "score": 76,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "gcdp": {
       "cache_version": 16,
       "checked_at": "2026-05-16T20:26:25.455440+00:00",
@@ -42055,6 +42063,14 @@
       "project": "phot",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "phue": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T22:50:32.108529+00:00",
+      "fragment_status": "Auction",
+      "project": "phue",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "phut": {
       "cache_version": 16,
