@@ -9136,6 +9136,14 @@
       "score": 75,
       "source": "GitHub Topic (llm)"
     },
+    "cmus": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T19:39:10.211820+00:00",
+      "fragment_status": "Auction",
+      "project": "cmus",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cmux": {
       "cache_version": 16,
       "checked_at": "2026-05-31T19:57:03.640787+00:00",
@@ -28863,6 +28871,14 @@
       "project": "knew",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "knex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T19:39:10.035240+00:00",
+      "fragment_status": "Auction",
+      "project": "knex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "knip": {
       "cache_version": 16,
