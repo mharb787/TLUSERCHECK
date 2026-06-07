@@ -15536,6 +15536,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "emby": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T15:45:50.201023+00:00",
+      "fragment_status": "Auction",
+      "project": "Emby",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "emel": {
       "cache_version": 16,
       "checked_at": "2026-05-26T21:20:48.814216+00:00",
@@ -21335,6 +21343,14 @@
       "project": "gown",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "goxc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T15:45:50.851379+00:00",
+      "fragment_status": "Auction",
+      "project": "goxc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "goya": {
       "cache_version": 16,
@@ -34768,6 +34784,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "misp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T15:45:50.033313+00:00",
+      "fragment_status": "Auction",
+      "project": "MISP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "miss": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:59.837981+00:00",
@@ -37613,6 +37637,14 @@
       "checked_at": "2026-05-25T22:46:18.065506+00:00",
       "fragment_status": "Auction",
       "project": "nfpm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "ngbp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T15:45:50.363664+00:00",
+      "fragment_status": "Auction",
+      "project": "ngbp",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -49960,6 +49992,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sidr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T15:45:50.529585+00:00",
+      "fragment_status": "Auction",
+      "project": "sidr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sift": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:43.708768+00:00",
@@ -52175,6 +52215,14 @@
       "project": "stak",
       "score": 88,
       "source": "Crates.io"
+    },
+    "stan": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T15:45:50.691650+00:00",
+      "fragment_status": "Auction",
+      "project": "stan",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "star": {
       "cache_version": 16,
