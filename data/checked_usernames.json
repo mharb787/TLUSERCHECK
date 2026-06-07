@@ -26592,6 +26592,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "jenv": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T16:58:19.035436+00:00",
+      "fragment_status": "Auction",
+      "project": "jenv",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jeon": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:33.231620+00:00",
@@ -59296,6 +59304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "vots": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T16:58:19.390888+00:00",
+      "fragment_status": "Auction",
+      "project": "Vots",
+      "score": 88,
+      "source": "Wikipedia Trending"
+    },
     "vott": {
       "cache_version": 16,
       "checked_at": "2026-05-28T22:49:29.604274+00:00",
@@ -63559,6 +63575,14 @@
       "project": "zlist",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "zmap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-07T16:58:19.217891+00:00",
+      "fragment_status": "Auction",
+      "project": "zmap",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zmij": {
       "cache_version": 16,
