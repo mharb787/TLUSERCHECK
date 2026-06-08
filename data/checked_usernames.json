@@ -45072,6 +45072,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "qemu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T20:29:42.157247+00:00",
+      "fragment_status": "Auction",
+      "project": "qemu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qexo": {
       "cache_version": 16,
       "checked_at": "2026-05-17T17:12:49.718122+00:00",
