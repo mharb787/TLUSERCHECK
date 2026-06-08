@@ -42712,6 +42712,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pizx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T18:06:18.098434+00:00",
+      "fragment_status": "Auction",
+      "project": "Pizx",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "pjon": {
       "cache_version": 16,
       "checked_at": "2026-06-03T01:47:09.380546+00:00",
@@ -44103,6 +44111,14 @@
       "project": "puds",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "puer": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T18:06:18.460080+00:00",
+      "fragment_status": "Auction",
+      "project": "puer",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "puff": {
       "cache_version": 16,
@@ -53173,6 +53189,14 @@
       "checked_at": "2026-05-17T11:45:37.919681+00:00",
       "fragment_status": "Auction",
       "project": "svgl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "svgo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T18:06:18.305240+00:00",
+      "fragment_status": "Auction",
+      "project": "svgo",
       "score": 100,
       "source": "GitHub New Repos"
     },
