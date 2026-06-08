@@ -320,6 +320,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "acra": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:43.469252+00:00",
+      "fragment_status": "Auction",
+      "project": "acra",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "acre": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.013992+00:00",
@@ -14552,6 +14560,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "duti": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:44.592587+00:00",
+      "fragment_status": "Auction",
+      "project": "duti",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dutix": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:37.943152+00:00",
@@ -21808,6 +21824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gsap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:43.194070+00:00",
+      "fragment_status": "Auction",
+      "project": "GSAP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gsat": {
       "cache_version": 16,
       "checked_at": "2026-05-19T20:53:47.065699+00:00",
@@ -23343,6 +23367,14 @@
       "project": "hexf",
       "score": 88,
       "source": "Crates.io"
+    },
+    "hexo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:42.917258+00:00",
+      "fragment_status": "Auction",
+      "project": "hexo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "hexx": {
       "cache_version": 16,
@@ -51344,6 +51376,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sogo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:44.317414+00:00",
+      "fragment_status": "Auction",
+      "project": "sogo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "soho": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:18.599305+00:00",
@@ -53600,6 +53640,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "tair": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:44.021332+00:00",
+      "fragment_status": "Auction",
+      "project": "tair",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "taiz": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:27:06.429778+00:00",
@@ -54775,6 +54823,14 @@
       "project": "Thor",
       "score": 92,
       "source": "GitHub Topic (ai)"
+    },
+    "thot": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:44.888024+00:00",
+      "fragment_status": "Auction",
+      "project": "thot",
+      "score": 88,
+      "source": "GitHub Topic (machine-learning)"
     },
     "thoth": {
       "cache_version": 16,
@@ -63399,6 +63455,14 @@
       "project": "zaxo",
       "score": 93,
       "source": "City Names"
+    },
+    "zbar": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T11:50:43.745815+00:00",
+      "fragment_status": "Auction",
+      "project": "ZBar",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zbus": {
       "cache_version": 16,
