@@ -22848,6 +22848,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hazm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T15:03:17.132779+00:00",
+      "fragment_status": "Auction",
+      "project": "hazm",
+      "score": 100,
+      "source": "GitHub Topic (nlp)"
+    },
     "hazy": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:06.653052+00:00",
@@ -27095,6 +27103,14 @@
       "project": "joda",
       "score": 93,
       "source": "City Names"
+    },
+    "jodd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T15:03:16.768200+00:00",
+      "fragment_status": "Auction",
+      "project": "jodd",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "joes": {
       "cache_version": 16,
@@ -46584,6 +46600,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rfid": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T15:03:16.893477+00:00",
+      "fragment_status": "Auction",
+      "project": "rfid",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rfml": {
       "cache_version": 16,
       "checked_at": "2026-05-25T01:36:30.891418+00:00",
@@ -63439,6 +63463,14 @@
       "project": "zarf",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zarp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-08T15:03:17.012142+00:00",
+      "fragment_status": "Auction",
+      "project": "zarp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zart": {
       "cache_version": 16,
