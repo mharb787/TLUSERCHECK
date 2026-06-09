@@ -648,6 +648,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "agam": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T05:35:38.982303+00:00",
+      "fragment_status": "Auction",
+      "project": "Agam",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "agar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:06.435637+00:00",
@@ -32520,6 +32528,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lufa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T05:35:39.250975+00:00",
+      "fragment_status": "Auction",
+      "project": "lufa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "luff": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:36.521852+00:00",
@@ -36791,6 +36807,14 @@
       "project": "MyAi",
       "score": 97,
       "source": "Hacker News New"
+    },
+    "mybb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T05:35:39.101035+00:00",
+      "fragment_status": "Auction",
+      "project": "mybb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mycar": {
       "cache_version": 16,
