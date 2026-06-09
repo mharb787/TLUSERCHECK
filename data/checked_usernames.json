@@ -24968,6 +24968,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "icey": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T23:40:11.259026+00:00",
+      "fragment_status": "Auction",
+      "project": "icey",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ichi": {
       "cache_version": 16,
       "checked_at": "2026-05-12T01:17:03.171429+00:00",
@@ -49047,6 +49055,14 @@
       "project": "saps",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sara": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T23:40:11.377899+00:00",
+      "fragment_status": "Auction",
+      "project": "sara",
+      "score": 88,
+      "source": "GitHub Topic (computer-vision)"
     },
     "sard": {
       "cache_version": 16,
