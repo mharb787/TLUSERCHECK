@@ -8216,6 +8216,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cgdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T14:07:36.812529+00:00",
+      "fragment_status": "Auction",
+      "project": "cgdb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cglm": {
       "cache_version": 16,
       "checked_at": "2026-05-29T21:25:10.154427+00:00",
@@ -10575,6 +10583,14 @@
       "project": "cupc",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "cupp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T14:07:35.961387+00:00",
+      "fragment_status": "Auction",
+      "project": "cupp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cups": {
       "cache_version": 16,
@@ -15816,6 +15832,14 @@
       "score": 88,
       "source": "GitHub Topic (automation)"
     },
+    "enet": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T14:07:36.276055+00:00",
+      "fragment_status": "Auction",
+      "project": "enet",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "engs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:33.392447+00:00",
@@ -20231,6 +20255,14 @@
       "project": "gibe",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "gibo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T14:07:36.561882+00:00",
+      "fragment_status": "Auction",
+      "project": "gibo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gibs": {
       "cache_version": 16,
@@ -54853,6 +54885,14 @@
       "checked_at": "2026-05-15T14:40:54.181741+00:00",
       "fragment_status": "Auction",
       "project": "tgpt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "tgui": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T14:07:37.061501+00:00",
+      "fragment_status": "Auction",
+      "project": "TGUI",
       "score": 100,
       "source": "GitHub New Repos"
     },
