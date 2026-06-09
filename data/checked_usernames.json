@@ -27840,6 +27840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "kaku": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T16:41:12.114225+00:00",
+      "fragment_status": "Auction",
+      "project": "Kaku",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "kalb": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:14.393316+00:00",
@@ -45168,6 +45176,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "qcad": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T16:41:12.394205+00:00",
+      "fragment_status": "Auction",
+      "project": "qcad",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qcms": {
       "cache_version": 16,
       "checked_at": "2026-05-16T16:35:43.904876+00:00",
@@ -62469,6 +62485,14 @@
       "checked_at": "2026-05-15T20:36:17.321736+00:00",
       "fragment_status": "Auction",
       "project": "yaak",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "yaaw": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T16:41:12.238000+00:00",
+      "fragment_status": "Auction",
+      "project": "yaaw",
       "score": 100,
       "source": "GitHub New Repos"
     },
