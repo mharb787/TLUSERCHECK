@@ -4968,6 +4968,14 @@
       "score": 87,
       "source": "GitHub Topic (nlp)"
     },
+    "bgfx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T18:36:39.951575+00:00",
+      "fragment_status": "Auction",
+      "project": "bgfx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bhan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:39.157964+00:00",
@@ -31503,6 +31511,14 @@
       "project": "lino",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "linq": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T18:36:40.221815+00:00",
+      "fragment_status": "Auction",
+      "project": "linq",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lins": {
       "cache_version": 16,
