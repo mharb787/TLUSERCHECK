@@ -28776,6 +28776,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "kint": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T11:47:48.638791+00:00",
+      "fragment_status": "Auction",
+      "project": "kint",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kiorg": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:02:08.871589+00:00",
@@ -48832,6 +48840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sami": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T11:47:48.920235+00:00",
+      "fragment_status": "Auction",
+      "project": "Sami",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "samn": {
       "cache_version": 16,
       "checked_at": "2026-05-25T23:46:52.917080+00:00",
@@ -52336,6 +52352,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "sqli": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T11:47:48.514475+00:00",
+      "fragment_status": "Auction",
+      "project": "sqli labs",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sqlit": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:34.848811+00:00",
@@ -53613,6 +53637,14 @@
       "checked_at": "2026-05-19T05:52:12.427687+00:00",
       "fragment_status": "Auction",
       "project": "sysz",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "syte": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T11:47:48.761233+00:00",
+      "fragment_status": "Auction",
+      "project": "syte",
       "score": 100,
       "source": "GitHub New Repos"
     },
