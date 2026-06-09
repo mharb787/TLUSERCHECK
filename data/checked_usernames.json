@@ -2832,6 +2832,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "arol": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T01:25:01.776115+00:00",
+      "fragment_status": "Auction",
+      "project": "Arol",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "arpl": {
       "cache_version": 16,
       "checked_at": "2026-05-16T19:41:42.241252+00:00",
@@ -30895,6 +30903,14 @@
       "project": "leva",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "levi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T01:25:01.900584+00:00",
+      "fragment_status": "Auction",
+      "project": "Levi",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "levo": {
       "cache_version": 16,
@@ -63623,6 +63639,14 @@
       "project": "zeed",
       "score": 87,
       "source": "GitHub Topic (logging)"
+    },
+    "zeek": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T01:25:02.137342+00:00",
+      "fragment_status": "Auction",
+      "project": "zeek",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zees": {
       "cache_version": 16,
