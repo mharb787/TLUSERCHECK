@@ -27408,6 +27408,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "jrnl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T20:33:54.777942+00:00",
+      "fragment_status": "Auction",
+      "project": "jrnl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jsat": {
       "cache_version": 16,
       "checked_at": "2026-06-05T20:06:43.863997+00:00",
@@ -27511,6 +27519,14 @@
       "project": "jube",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "juce": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T20:33:54.657217+00:00",
+      "fragment_status": "Auction",
+      "project": "JUCE",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "judo": {
       "cache_version": 16,
@@ -42455,6 +42471,14 @@
       "project": "piet",
       "score": 88,
       "source": "Crates.io"
+    },
+    "pifs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T20:33:54.924502+00:00",
+      "fragment_status": "Auction",
+      "project": "pifs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pigo": {
       "cache_version": 16,
