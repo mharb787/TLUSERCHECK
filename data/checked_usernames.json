@@ -38320,6 +38320,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nmap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T22:10:03.353837+00:00",
+      "fragment_status": "Auction",
+      "project": "nmap",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nmea": {
       "cache_version": 16,
       "checked_at": "2026-05-24T04:36:40.007021+00:00",
@@ -62317,6 +62325,14 @@
       "checked_at": "2026-05-16T19:41:42.416350+00:00",
       "fragment_status": "Auction",
       "project": "xLog",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "xlrd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T22:10:03.479267+00:00",
+      "fragment_status": "Auction",
+      "project": "xlrd",
       "score": 100,
       "source": "GitHub New Repos"
     },
