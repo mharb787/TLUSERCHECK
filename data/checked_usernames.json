@@ -22272,6 +22272,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gzip": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T08:48:33.827148+00:00",
+      "fragment_status": "Auction",
+      "project": "GZIP",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "haaf": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:00.454792+00:00",
@@ -26304,6 +26312,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jaat": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T08:48:34.312441+00:00",
+      "fragment_status": "Auction",
+      "project": "Jaat (film)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "jabs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:29.808731+00:00",
@@ -27367,6 +27383,14 @@
       "project": "JSeg",
       "score": 91,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "jsep": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T08:48:33.974896+00:00",
+      "fragment_status": "Auction",
+      "project": "jsep",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jsii": {
       "cache_version": 16,
@@ -45280,6 +45304,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "qpdf": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T08:48:33.702275+00:00",
+      "fragment_status": "Auction",
+      "project": "qpdf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qpga": {
       "cache_version": 16,
       "checked_at": "2026-05-25T22:46:18.757638+00:00",
@@ -50839,6 +50871,14 @@
       "project": "skit",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "skll": {
+      "cache_version": 16,
+      "checked_at": "2026-06-09T08:48:34.103729+00:00",
+      "fragment_status": "Auction",
+      "project": "skll",
+      "score": 86,
+      "source": "GitHub Topic (machine-learning)"
     },
     "skops": {
       "cache_version": 16,
