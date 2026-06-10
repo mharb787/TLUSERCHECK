@@ -15416,6 +15416,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "elah": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T06:08:44.913964+00:00",
+      "fragment_status": "Auction",
+      "project": "Elah",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "elan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:31.404201+00:00",
@@ -31848,6 +31856,14 @@
       "score": 91,
       "source": "GitHub Topic (ai)"
     },
+    "llvm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T06:08:45.601804+00:00",
+      "fragment_status": "Auction",
+      "project": "llvm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lmao": {
       "cache_version": 16,
       "checked_at": "2026-06-04T11:39:41.982381+00:00",
@@ -32951,6 +32967,14 @@
       "project": "lviv",
       "score": 93,
       "source": "City Names"
+    },
+    "lwan": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T06:08:45.372282+00:00",
+      "fragment_status": "Auction",
+      "project": "lwan",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lwcc": {
       "cache_version": 16,
@@ -38719,6 +38743,14 @@
       "project": "nots\u00e9",
       "score": 93,
       "source": "City Names"
+    },
+    "noty": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T06:08:45.145223+00:00",
+      "fragment_status": "Auction",
+      "project": "noty",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "noun": {
       "cache_version": 16,
