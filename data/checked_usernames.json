@@ -24496,6 +24496,14 @@
       "score": 93,
       "source": "Crates.io"
     },
+    "httr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T23:10:30.080049+00:00",
+      "fragment_status": "Auction",
+      "project": "httr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:19.298585+00:00",
@@ -24551,6 +24559,14 @@
       "project": "hues",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "huey": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T23:10:29.538702+00:00",
+      "fragment_status": "Auction",
+      "project": "huey",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "huff": {
       "cache_version": 16,
@@ -31823,6 +31839,14 @@
       "project": "llda",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "llgo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T23:10:29.893176+00:00",
+      "fragment_status": "Auction",
+      "project": "llgo",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "llma": {
       "cache_version": 16,
@@ -51735,6 +51759,14 @@
       "project": "sobs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "soci": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T23:10:29.713941+00:00",
+      "fragment_status": "Auction",
+      "project": "soci",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sock": {
       "cache_version": 16,
