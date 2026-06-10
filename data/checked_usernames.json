@@ -38024,6 +38024,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "nexe": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T21:33:05.159900+00:00",
+      "fragment_status": "Auction",
+      "project": "nexe",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "next": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:21.030885+00:00",
@@ -45231,6 +45239,14 @@
       "project": "pyusb",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "pyuv": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T21:33:05.283343+00:00",
+      "fragment_status": "Auction",
+      "project": "pyuv",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pyvi": {
       "cache_version": 16,
