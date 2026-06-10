@@ -27472,6 +27472,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "jsos": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T01:51:04.406969+00:00",
+      "fragment_status": "Auction",
+      "project": "jsos",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jspm": {
       "cache_version": 16,
       "checked_at": "2026-06-07T10:37:59.827118+00:00",
@@ -40200,6 +40208,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "opam": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T01:51:04.216762+00:00",
+      "fragment_status": "Auction",
+      "project": "opam",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "opda": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.144183+00:00",
@@ -40663,6 +40679,14 @@
       "project": "oses",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "oshi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T01:51:03.832285+00:00",
+      "fragment_status": "Auction",
+      "project": "oshi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "osin": {
       "cache_version": 16,
@@ -62527,6 +62551,14 @@
       "project": "XVFI",
       "score": 93,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "xvim": {
+      "cache_version": 16,
+      "checked_at": "2026-06-10T01:51:04.027940+00:00",
+      "fragment_status": "Auction",
+      "project": "XVim",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xwin": {
       "cache_version": 16,
