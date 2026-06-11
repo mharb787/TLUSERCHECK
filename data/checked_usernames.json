@@ -22736,6 +22736,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "hapi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T22:09:52.962831+00:00",
+      "fragment_status": "Auction",
+      "project": "hapi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "happy": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:05.080837+00:00",
@@ -31215,6 +31223,14 @@
       "project": "lfda",
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "lftp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T22:09:53.131093+00:00",
+      "fragment_status": "Auction",
+      "project": "lftp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "lgii": {
       "cache_version": 16,
