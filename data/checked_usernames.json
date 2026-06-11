@@ -28344,6 +28344,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "kctx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T20:05:38.559741+00:00",
+      "fragment_status": "Auction",
+      "project": "Kctx",
+      "score": 91,
+      "source": "Hacker News Show HN"
+    },
     "kcws": {
       "cache_version": 16,
       "checked_at": "2026-05-31T15:25:24.989321+00:00",
@@ -41919,6 +41927,14 @@
       "project": "pcsc",
       "score": 76,
       "source": "Crates.io"
+    },
+    "pdal": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T20:05:38.811808+00:00",
+      "fragment_status": "Auction",
+      "project": "PDAL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pdbp": {
       "cache_version": 16,
