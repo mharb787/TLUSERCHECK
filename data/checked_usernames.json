@@ -43136,6 +43136,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "pjax": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T23:52:06.272120+00:00",
+      "fragment_status": "Auction",
+      "project": "pjax",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "pjon": {
       "cache_version": 16,
       "checked_at": "2026-06-03T01:47:09.380546+00:00",
