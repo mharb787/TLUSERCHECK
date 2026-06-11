@@ -7880,6 +7880,14 @@
       "score": 88,
       "source": "GitHub Topic (nlp)"
     },
+    "ccan": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T11:01:19.039354+00:00",
+      "fragment_status": "Auction",
+      "project": "ccan",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ccat": {
       "cache_version": 16,
       "checked_at": "2026-06-01T06:59:43.214543+00:00",
@@ -24992,6 +25000,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ibpy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T11:01:18.913436+00:00",
+      "fragment_status": "Auction",
+      "project": "IbPy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ical": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:01:39.632253+00:00",
@@ -27679,6 +27695,14 @@
       "project": "junk",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "juno": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T11:01:19.297958+00:00",
+      "fragment_status": "Auction",
+      "project": "Juno",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "jupe": {
       "cache_version": 16,
@@ -38823,6 +38847,14 @@
       "project": "noto",
       "score": 93,
       "source": "City Names"
+    },
+    "notp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T11:01:19.168463+00:00",
+      "fragment_status": "Auction",
+      "project": "notp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nots": {
       "cache_version": 16,
