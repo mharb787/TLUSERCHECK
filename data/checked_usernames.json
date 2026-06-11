@@ -8144,6 +8144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ceph": {
+      "cache_version": 16,
+      "checked_at": "2026-06-11T17:55:08.291689+00:00",
+      "fragment_status": "Auction",
+      "project": "ceph",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ceps": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:27.410561+00:00",
