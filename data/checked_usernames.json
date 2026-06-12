@@ -26120,6 +26120,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ipxe": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T22:09:58.490265+00:00",
+      "fragment_status": "Auction",
+      "project": "ipxe",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "iran": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.139043+00:00",
@@ -64263,6 +64271,14 @@
       "project": "zamo\u015b\u0107",
       "score": 93,
       "source": "City Names"
+    },
+    "zamp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T22:09:58.359684+00:00",
+      "fragment_status": "Auction",
+      "project": "Zamp",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "zany": {
       "cache_version": 16,
