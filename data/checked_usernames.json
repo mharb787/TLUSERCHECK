@@ -9304,6 +9304,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cnpy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T10:54:08.416307+00:00",
+      "fragment_status": "Auction",
+      "project": "cnpy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cntk": {
       "cache_version": 16,
       "checked_at": "2026-05-31T08:49:53.332065+00:00",
@@ -39296,6 +39304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nutz": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T10:54:08.114167+00:00",
+      "fragment_status": "Auction",
+      "project": "nutz",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nuuk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:20.420994+00:00",
@@ -43271,6 +43287,14 @@
       "project": "plat",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "plax": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T10:54:08.240710+00:00",
+      "fragment_status": "Auction",
+      "project": "plax",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "play": {
       "cache_version": 16,
@@ -55911,6 +55935,14 @@
       "project": "TKGC",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "tlcl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T10:54:07.998128+00:00",
+      "fragment_status": "Auction",
+      "project": "TLCL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tldc": {
       "cache_version": 16,
