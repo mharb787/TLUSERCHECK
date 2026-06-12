@@ -35360,6 +35360,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "mitk": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T16:37:55.964945+00:00",
+      "fragment_status": "Auction",
+      "project": "MITK",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "mito": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:02.332607+00:00",
@@ -37103,6 +37111,14 @@
       "project": "mvae",
       "score": 88,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "mvel": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T16:37:55.832263+00:00",
+      "fragment_status": "Auction",
+      "project": "mvel",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mvio": {
       "cache_version": 16,
