@@ -10368,6 +10368,14 @@
       "score": 89,
       "source": "GitHub Topic (computer-vision)"
     },
+    "csim": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T06:50:06.156682+00:00",
+      "fragment_status": "Auction",
+      "project": " CSIM ",
+      "score": 87,
+      "source": "GitHub Trending (daily)"
+    },
     "csle": {
       "cache_version": 16,
       "checked_at": "2026-05-23T06:43:40.103468+00:00",
@@ -19856,6 +19864,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "gddo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T06:50:06.505732+00:00",
+      "fragment_status": "Auction",
+      "project": "gddo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gdown": {
       "cache_version": 16,
       "checked_at": "2026-05-10T22:08:03.773540+00:00",
@@ -26303,6 +26319,14 @@
       "project": "Isonq",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "ispc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T06:50:06.386137+00:00",
+      "fragment_status": "Auction",
+      "project": "ispc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "isso": {
       "cache_version": 16,
@@ -62637,6 +62661,14 @@
       "checked_at": "2026-06-09T22:10:03.479267+00:00",
       "fragment_status": "Auction",
       "project": "xlrd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "xlsx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T06:50:06.272863+00:00",
+      "fragment_status": "Auction",
+      "project": "xlsx",
       "score": 100,
       "source": "GitHub New Repos"
     },
