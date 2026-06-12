@@ -8264,6 +8264,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cgeo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T02:02:40.297549+00:00",
+      "fragment_status": "Auction",
+      "project": "cgeo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cglm": {
       "cache_version": 16,
       "checked_at": "2026-05-29T21:25:10.154427+00:00",
@@ -28631,6 +28639,14 @@
       "project": "kerf",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kerl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T02:02:40.111175+00:00",
+      "fragment_status": "Auction",
+      "project": "kerl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kern": {
       "cache_version": 16,
@@ -57592,6 +57608,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "twui": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T02:02:39.926430+00:00",
+      "fragment_status": "Auction",
+      "project": "twui",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "txaio": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:21.431165+00:00",
@@ -64071,6 +64095,14 @@
       "project": "zart",
       "score": 100,
       "source": "GitHub Topic (ios)"
+    },
+    "zato": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T02:02:40.485771+00:00",
+      "fragment_status": "Auction",
+      "project": "zato",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zaxo": {
       "cache_version": 16,
