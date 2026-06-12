@@ -17680,6 +17680,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "fiji": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:59.211310+00:00",
+      "fragment_status": "Auction",
+      "project": "fiji",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fila": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:05.406807+00:00",
@@ -27629,6 +27637,14 @@
       "checked_at": "2026-05-26T19:46:41.235060+00:00",
       "fragment_status": "Auction",
       "project": "jsii",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "jsil": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:58.836574+00:00",
+      "fragment_status": "Auction",
+      "project": "JSIL",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -46064,6 +46080,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "rabl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:58.552363+00:00",
+      "fragment_status": "Auction",
+      "project": "rabl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "race": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:46.045247+00:00",
@@ -51024,6 +51048,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "simh": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:58.689998+00:00",
+      "fragment_status": "Auction",
+      "project": "simh",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "siml": {
       "cache_version": 16,
       "checked_at": "2026-05-22T16:09:41.973652+00:00",
@@ -51687,6 +51719,14 @@
       "project": "Slyde",
       "score": 75,
       "source": "GitHub Topic (cli)"
+    },
+    "smaa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:59.084135+00:00",
+      "fragment_status": "Auction",
+      "project": "smaa",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "smac": {
       "cache_version": 16,
@@ -54789,6 +54829,14 @@
       "checked_at": "2026-05-25T01:36:29.669933+00:00",
       "fragment_status": "Auction",
       "project": "tbls",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "tbox": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:58.386459+00:00",
+      "fragment_status": "Auction",
+      "project": "tbox",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -59301,6 +59349,14 @@
       "checked_at": "2026-05-29T02:34:47.801779+00:00",
       "fragment_status": "Auction",
       "project": "vbot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "vcap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T20:33:58.960491+00:00",
+      "fragment_status": "Auction",
+      "project": "vcap",
       "score": 100,
       "source": "GitHub New Repos"
     },
