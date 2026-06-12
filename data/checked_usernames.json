@@ -10520,6 +10520,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cuck": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T18:28:00.198293+00:00",
+      "fragment_status": "Auction",
+      "project": "Cuck (album)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "cuda": {
       "cache_version": 16,
       "checked_at": "2026-05-12T01:17:01.385327+00:00",
@@ -20616,6 +20624,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gitv": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T18:28:00.011065+00:00",
+      "fragment_status": "Auction",
+      "project": "gitv",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "give": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:30.559884+00:00",
@@ -25759,6 +25775,14 @@
       "project": "indi",
       "score": 93,
       "source": "City Names"
+    },
+    "indo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T18:28:00.375934+00:00",
+      "fragment_status": "Auction",
+      "project": "Indo-Pakistani wars and conflicts",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "indy": {
       "cache_version": 16,
@@ -45624,6 +45648,14 @@
       "score": 87,
       "source": "Hacker News Jobs"
     },
+    "qgis": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T18:27:59.428649+00:00",
+      "fragment_status": "Auction",
+      "project": "QGIS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qina": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:45.842467+00:00",
@@ -59304,6 +59336,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "vcsh": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T18:27:59.822220+00:00",
+      "fragment_status": "Auction",
+      "project": "vcsh",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vdiff": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:17.537873+00:00",
@@ -62863,6 +62903,14 @@
       "project": "xRBM",
       "score": 76,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "xrdp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T18:27:59.641027+00:00",
+      "fragment_status": "Auction",
+      "project": "xrdp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xsai": {
       "cache_version": 16,
