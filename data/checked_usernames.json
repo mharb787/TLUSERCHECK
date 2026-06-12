@@ -10968,6 +10968,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "czmq": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T23:45:16.969587+00:00",
+      "fragment_status": "Auction",
+      "project": "czmq",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "czna": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:39.994981+00:00",
@@ -18743,6 +18751,14 @@
       "project": "fqdn",
       "score": 76,
       "source": "Crates.io"
+    },
+    "frab": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T23:45:17.345772+00:00",
+      "fragment_status": "Auction",
+      "project": "frab",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "frae": {
       "cache_version": 16,
@@ -37023,6 +37039,14 @@
       "project": "muns",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "munt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T23:45:17.153699+00:00",
+      "fragment_status": "Auction",
+      "project": "munt",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "muon": {
       "cache_version": 16,
@@ -64175,6 +64199,14 @@
       "project": "Yumi",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "yupe": {
+      "cache_version": 16,
+      "checked_at": "2026-06-12T23:45:17.558612+00:00",
+      "fragment_status": "Auction",
+      "project": "yupe",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yups": {
       "cache_version": 16,
