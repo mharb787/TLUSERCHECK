@@ -13224,6 +13224,14 @@
       "score": 93,
       "source": "GitHub Topic (ml)"
     },
+    "dmca": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T11:28:22.117852+00:00",
+      "fragment_status": "Taken",
+      "project": "dmca",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dmgc": {
       "cache_version": 16,
       "checked_at": "2026-05-24T16:44:51.947224+00:00",
@@ -18280,6 +18288,14 @@
       "score": 90,
       "source": "GitHub Topic (ml)"
     },
+    "flot": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T11:28:22.240907+00:00",
+      "fragment_status": "Auction",
+      "project": "flot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "flow": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:10.488962+00:00",
@@ -22279,6 +22295,14 @@
       "project": "guml\u0101",
       "score": 93,
       "source": "City Names"
+    },
+    "gump": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T11:28:22.475181+00:00",
+      "fragment_status": "Auction",
+      "project": "GUMP",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gums": {
       "cache_version": 16,
@@ -27701,6 +27725,14 @@
       "checked_at": "2026-06-09T08:48:33.974896+00:00",
       "fragment_status": "Auction",
       "project": "jsep",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "jsfx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T11:28:22.586370+00:00",
+      "fragment_status": "Auction",
+      "project": "jsfx",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -54181,6 +54213,14 @@
       "checked_at": "2026-05-26T19:46:40.850741+00:00",
       "fragment_status": "Auction",
       "project": "swup",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "sxiv": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T11:28:22.355313+00:00",
+      "fragment_status": "Auction",
+      "project": "sxiv",
       "score": 100,
       "source": "GitHub New Repos"
     },
