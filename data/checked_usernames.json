@@ -12752,6 +12752,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "digg": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T01:53:15.891801+00:00",
+      "fragment_status": "Auction",
+      "project": "Digg",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "digs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:10.881059+00:00",
@@ -14231,6 +14239,14 @@
       "project": "dstc",
       "score": 76,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "dstk": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T01:53:16.127078+00:00",
+      "fragment_status": "Auction",
+      "project": "dstk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "dstp": {
       "cache_version": 16,
@@ -17087,6 +17103,14 @@
       "project": "fast",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fata": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T01:53:15.776756+00:00",
+      "fragment_status": "Auction",
+      "project": "Fata",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "fate": {
       "cache_version": 16,
@@ -63439,6 +63463,14 @@
       "project": "Yash (actor)",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "yasm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T01:53:16.008512+00:00",
+      "fragment_status": "Auction",
+      "project": "yasm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yasna": {
       "cache_version": 16,
