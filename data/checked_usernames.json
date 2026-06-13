@@ -33176,6 +33176,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lupa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T09:30:17.127118+00:00",
+      "fragment_status": "Auction",
+      "project": "lupa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "luqum": {
       "cache_version": 16,
       "checked_at": "2026-05-10T23:03:42.590688+00:00",
@@ -33309,6 +33317,14 @@
       "checked_at": "2026-06-04T17:25:14.209713+00:00",
       "fragment_status": "Auction",
       "project": "lwip",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "lxml": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T09:30:16.952946+00:00",
+      "fragment_status": "Auction",
+      "project": "lxml",
       "score": 100,
       "source": "GitHub New Repos"
     },
