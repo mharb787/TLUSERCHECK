@@ -16840,6 +16840,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "eywa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T23:46:12.557889+00:00",
+      "fragment_status": "Auction",
+      "project": "Eywa",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ezkl": {
       "cache_version": 16,
       "checked_at": "2026-05-16T20:26:25.224062+00:00",
@@ -26952,6 +26960,14 @@
       "score": 76,
       "source": "GitHub Topic (ai)"
     },
+    "jbpm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T23:46:12.747625+00:00",
+      "fragment_status": "Auction",
+      "project": "jbpm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jcode": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:35.180502+00:00",
@@ -29591,6 +29607,14 @@
       "project": "know",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "knox": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T23:46:12.929770+00:00",
+      "fragment_status": "Auction",
+      "project": "knox",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "knur": {
       "cache_version": 16,
