@@ -24496,6 +24496,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "hoxy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T17:50:07.830043+00:00",
+      "fragment_status": "Auction",
+      "project": "hoxy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hoya": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:19.071724+00:00",
@@ -26927,6 +26935,14 @@
       "project": "jcode",
       "score": 100,
       "source": "GitHub Topic (ai)"
+    },
+    "jcvi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T17:50:07.638465+00:00",
+      "fragment_status": "Auction",
+      "project": "jcvi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jdcal": {
       "cache_version": 16,
@@ -45744,6 +45760,14 @@
       "score": 93,
       "source": "GitHub Topic (ml)"
     },
+    "qaac": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T17:50:07.499963+00:00",
+      "fragment_status": "Auction",
+      "project": "qaac",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "qaap": {
       "cache_version": 16,
       "checked_at": "2026-05-17T05:08:47.452486+00:00",
@@ -56432,6 +56456,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "tobi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T17:50:08.118535+00:00",
+      "fragment_status": "Auction",
+      "project": "tobi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tobj": {
       "cache_version": 16,
       "checked_at": "2026-05-16T01:16:31.806474+00:00",
@@ -63223,6 +63255,14 @@
       "project": "xsai",
       "score": 100,
       "source": "GitHub Topic (ai)"
+    },
+    "xsel": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T17:50:07.977556+00:00",
+      "fragment_status": "Auction",
+      "project": "xsel",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xsum": {
       "cache_version": 16,
