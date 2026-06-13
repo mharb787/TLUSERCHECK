@@ -29368,6 +29368,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "klib": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T13:02:52.024274+00:00",
+      "fragment_status": "Auction",
+      "project": "klib",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "klin": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:44.499824+00:00",
@@ -36519,6 +36527,14 @@
       "project": "mort",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mosh": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T13:02:51.789609+00:00",
+      "fragment_status": "Auction",
+      "project": "mosh",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mosk": {
       "cache_version": 16,
@@ -56056,6 +56072,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "tinc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T13:02:52.275404+00:00",
+      "fragment_status": "Auction",
+      "project": "tinc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "tine": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:44.079879+00:00",
@@ -62807,6 +62831,14 @@
       "project": "xbbg",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "xbmc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T13:02:51.335028+00:00",
+      "fragment_status": "Auction",
+      "project": "xbmc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xbot": {
       "cache_version": 16,
