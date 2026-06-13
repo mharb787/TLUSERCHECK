@@ -4976,6 +4976,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "bfxr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:27.786765+00:00",
+      "fragment_status": "Auction",
+      "project": "bfxr",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bgca": {
       "cache_version": 16,
       "checked_at": "2026-05-17T05:08:47.305513+00:00",
@@ -10415,6 +10423,14 @@
       "project": "csrf",
       "score": 76,
       "source": "Crates.io"
+    },
+    "csso": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:27.021905+00:00",
+      "fragment_status": "Auction",
+      "project": "csso",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cssr": {
       "cache_version": 16,
@@ -24456,6 +24472,14 @@
       "score": 92,
       "source": "Crates.io"
     },
+    "hppc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:27.594640+00:00",
+      "fragment_status": "Auction",
+      "project": "hppc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hred": {
       "cache_version": 16,
       "checked_at": "2026-05-28T21:24:09.510685+00:00",
@@ -27751,6 +27775,14 @@
       "project": "jsrip",
       "score": 87,
       "source": "GitHub Topic (automation)"
+    },
+    "jsts": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:27.403070+00:00",
+      "fragment_status": "Auction",
+      "project": "jsts",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jsweb": {
       "cache_version": 16,
@@ -39808,6 +39840,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "odak": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:27.979690+00:00",
+      "fragment_status": "Auction",
+      "project": "odak",
+      "score": 91,
+      "source": "GitHub Topic (machine-learning)"
+    },
     "odam": {
       "cache_version": 16,
       "checked_at": "2026-05-23T19:36:55.978647+00:00",
@@ -47936,6 +47976,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "rocq": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:26.827296+00:00",
+      "fragment_status": "Auction",
+      "project": "rocq",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rocs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:05.048990+00:00",
@@ -48247,6 +48295,14 @@
       "project": "roto",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rotp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T06:04:27.213280+00:00",
+      "fragment_status": "Auction",
+      "project": "rotp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rots": {
       "cache_version": 16,
