@@ -32552,6 +32552,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "loic": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T22:43:39.082420+00:00",
+      "fragment_status": "Auction",
+      "project": "LOIC",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "loin": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:25.098100+00:00",
@@ -52767,6 +52775,14 @@
       "project": "soys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sozi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T22:43:39.264597+00:00",
+      "fragment_status": "Auction",
+      "project": "Sozi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "sozu": {
       "cache_version": 16,
