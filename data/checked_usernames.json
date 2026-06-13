@@ -7480,6 +7480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "camo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T19:00:45.397829+00:00",
+      "fragment_status": "Auction",
+      "project": "camo",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "camp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:22.588419+00:00",
@@ -19992,6 +20000,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "gdcm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T19:00:45.791716+00:00",
+      "fragment_status": "Auction",
+      "project": "GDCM",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gddo": {
       "cache_version": 16,
       "checked_at": "2026-06-12T06:50:06.505732+00:00",
@@ -27733,6 +27749,14 @@
       "checked_at": "2026-06-06T10:19:32.995869+00:00",
       "fragment_status": "Auction",
       "project": "jphp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "jpos": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T19:00:45.522986+00:00",
+      "fragment_status": "Auction",
+      "project": "jPOS",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -60781,6 +60805,14 @@
       "checked_at": "2026-05-30T17:42:09.350410+00:00",
       "fragment_status": "Auction",
       "project": "vuls",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "vumi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T19:00:45.643403+00:00",
+      "fragment_status": "Auction",
+      "project": "vumi",
       "score": 100,
       "source": "GitHub New Repos"
     },
