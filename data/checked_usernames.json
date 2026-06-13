@@ -7192,6 +7192,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "caat": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T16:25:08.961701+00:00",
+      "fragment_status": "Auction",
+      "project": "CAAT",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cabs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:20.095391+00:00",
@@ -7575,6 +7583,14 @@
       "project": "caps",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "capt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T16:25:09.077135+00:00",
+      "fragment_status": "Auction",
+      "project": "capt",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "capy": {
       "cache_version": 16,
