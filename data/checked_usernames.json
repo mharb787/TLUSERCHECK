@@ -21808,6 +21808,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "gqrx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T20:17:15.366155+00:00",
+      "fragment_status": "Auction",
+      "project": "gqrx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "grab": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:40.408492+00:00",
@@ -62391,6 +62399,14 @@
       "project": "WLED",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "wmux": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T20:17:15.233947+00:00",
+      "fragment_status": "Auction",
+      "project": "Wmux",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "woad": {
       "cache_version": 16,
