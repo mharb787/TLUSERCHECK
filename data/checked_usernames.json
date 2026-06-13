@@ -19928,6 +19928,14 @@
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
     },
+    "gcli": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T15:04:45.887051+00:00",
+      "fragment_status": "Auction",
+      "project": "gcli",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gcop": {
       "cache_version": 16,
       "checked_at": "2026-05-13T01:28:32.441391+00:00",
@@ -41528,6 +41536,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ozjs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T15:04:45.401999+00:00",
+      "fragment_status": "Auction",
+      "project": "OzJS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "paac": {
       "cache_version": 16,
       "checked_at": "2026-05-30T22:36:48.913061+00:00",
@@ -46831,6 +46847,14 @@
       "project": "rdkit",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "rdoc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T15:04:45.150244+00:00",
+      "fragment_status": "Auction",
+      "project": "rdoc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rdpy": {
       "cache_version": 16,
@@ -57719,6 +57743,14 @@
       "project": "tuna",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tund": {
+      "cache_version": 16,
+      "checked_at": "2026-06-13T15:04:45.643177+00:00",
+      "fragment_status": "Auction",
+      "project": "tund",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tune": {
       "cache_version": 16,
