@@ -10616,6 +10616,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cuba": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T21:37:44.681988+00:00",
+      "fragment_status": "Auction",
+      "project": "cuba",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cube": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:46.341520+00:00",
@@ -27816,6 +27824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "josm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T21:37:45.187475+00:00",
+      "fragment_status": "Auction",
+      "project": "josm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "joss": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:36.604029+00:00",
@@ -34848,6 +34864,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "meck": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T21:37:44.927022+00:00",
+      "fragment_status": "Auction",
+      "project": "meck",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "meda": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:50.185854+00:00",
@@ -38887,6 +38911,14 @@
       "project": "nips",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nipy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T21:37:45.437839+00:00",
+      "fragment_status": "Auction",
+      "project": "nipy",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "niri": {
       "cache_version": 16,
@@ -57631,6 +57663,14 @@
       "project": "TRiP",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "triq": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T21:37:45.709598+00:00",
+      "fragment_status": "Auction",
+      "project": "triq",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "tris": {
       "cache_version": 16,
