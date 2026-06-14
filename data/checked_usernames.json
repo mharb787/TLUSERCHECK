@@ -16272,6 +16272,14 @@
       "score": 87,
       "source": "GitHub Topic (llm)"
     },
+    "eper": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T22:47:40.968361+00:00",
+      "fragment_status": "Auction",
+      "project": "eper",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "epha": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:33.999857+00:00",
@@ -20877,6 +20885,14 @@
       "checked_at": "2026-06-12T18:28:00.011065+00:00",
       "fragment_status": "Auction",
       "project": "gitv",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "gity": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T22:47:41.086947+00:00",
+      "fragment_status": "Auction",
+      "project": "gity",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -47824,6 +47840,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "riak": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T22:47:40.679238+00:00",
+      "fragment_status": "Auction",
+      "project": "riak",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rial": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:59.096164+00:00",
@@ -57464,6 +57488,14 @@
       "score": 77,
       "source": "Crates.io"
     },
+    "trac": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T22:47:40.802003+00:00",
+      "fragment_status": "Auction",
+      "project": "trac",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "trad": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:54.723393+00:00",
@@ -64215,6 +64247,14 @@
       "project": "YCML",
       "score": 77,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "ycsb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T22:47:40.555289+00:00",
+      "fragment_status": "Auction",
+      "project": "YCSB",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ydtr": {
       "cache_version": 16,
