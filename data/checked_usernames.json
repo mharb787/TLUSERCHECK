@@ -11776,6 +11776,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "dbal": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T20:12:11.180821+00:00",
+      "fragment_status": "Auction",
+      "project": "dbal",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dbase": {
       "cache_version": 16,
       "checked_at": "2026-05-11T06:56:40.159753+00:00",
@@ -39231,6 +39239,14 @@
       "project": "nogs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nohm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T20:12:11.305018+00:00",
+      "fragment_status": "Auction",
+      "project": "nohm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "noil": {
       "cache_version": 16,
