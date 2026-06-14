@@ -4544,6 +4544,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "bcat": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T17:39:44.504846+00:00",
+      "fragment_status": "Auction",
+      "project": "bcat",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bcdb": {
       "cache_version": 16,
       "checked_at": "2026-05-22T01:33:58.690468+00:00",
@@ -9079,6 +9087,14 @@
       "project": "Clipd",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "cljr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T17:39:45.089876+00:00",
+      "fragment_status": "Auction",
+      "project": "cljr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cllm": {
       "cache_version": 16,
@@ -23903,6 +23919,14 @@
       "project": "hiji",
       "score": 93,
       "source": "City Names"
+    },
+    "hijs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T17:39:44.900547+00:00",
+      "fragment_status": "Auction",
+      "project": "hijs",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "hike": {
       "cache_version": 16,
@@ -46904,6 +46928,14 @@
       "score": 90,
       "source": "Lobsters"
     },
+    "raty": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T17:39:44.293615+00:00",
+      "fragment_status": "Auction",
+      "project": "raty",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "raub": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:17.246993+00:00",
@@ -64599,6 +64631,14 @@
       "project": "yuan",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "yuba": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T17:39:44.695167+00:00",
+      "fragment_status": "Auction",
+      "project": "Yuba",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yubal": {
       "cache_version": 14,
