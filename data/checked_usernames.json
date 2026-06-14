@@ -6216,6 +6216,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "boto": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T14:29:52.665256+00:00",
+      "fragment_status": "Auction",
+      "project": "boto",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bots": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:03.899083+00:00",
@@ -18471,6 +18479,14 @@
       "project": "FMAT",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "fmdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T14:29:52.428395+00:00",
+      "fragment_status": "Auction",
+      "project": "fmdb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "fmhy": {
       "cache_version": 16,
@@ -43455,6 +43471,14 @@
       "project": "Piqc",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "piqi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T14:29:52.923407+00:00",
+      "fragment_status": "Auction",
+      "project": "piqi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "piqo": {
       "cache_version": 16,
