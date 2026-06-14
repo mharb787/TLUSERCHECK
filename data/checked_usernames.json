@@ -6680,6 +6680,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "btpd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T12:16:10.560881+00:00",
+      "fragment_status": "Auction",
+      "project": "btpd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bttr": {
       "cache_version": 16,
       "checked_at": "2026-05-21T21:13:20.027359+00:00",
@@ -15775,6 +15783,14 @@
       "project": "elst",
       "score": 93,
       "source": "City Names"
+    },
+    "elua": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T12:16:10.183221+00:00",
+      "fragment_status": "Auction",
+      "project": "elua",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "eman": {
       "cache_version": 16,
@@ -27853,6 +27869,14 @@
       "checked_at": "2026-06-13T11:28:22.586370+00:00",
       "fragment_status": "Auction",
       "project": "jsfx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "jsgb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T12:16:10.360584+00:00",
+      "fragment_status": "Auction",
+      "project": "jsGB",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -44719,6 +44743,14 @@
       "project": "Probe",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "proc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T12:16:10.754323+00:00",
+      "fragment_status": "Auction",
+      "project": "pROC",
+      "score": 89,
+      "source": "GitHub Topic (machine-learning)"
     },
     "prod": {
       "cache_version": 16,
