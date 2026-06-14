@@ -64,6 +64,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abby": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T18:53:56.843144+00:00",
+      "fragment_status": "Auction",
+      "project": "Abby (The Last of Us)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "abcd": {
       "cache_version": 16,
       "checked_at": "2026-05-17T12:40:34.453102+00:00",
@@ -8327,6 +8335,14 @@
       "project": "CFSM",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "cfxr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T18:53:56.645286+00:00",
+      "fragment_status": "Auction",
+      "project": "cfxr",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "cgal": {
       "cache_version": 16,
@@ -20800,6 +20816,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "gish": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T18:53:56.433887+00:00",
+      "fragment_status": "Auction",
+      "project": "gish",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gist": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:30.261187+00:00",
@@ -28311,6 +28335,14 @@
       "project": "kagaz",
       "score": 87,
       "source": "GitHub Topic (llm)"
+    },
+    "kage": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T18:53:55.967795+00:00",
+      "fragment_status": "Auction",
+      "project": "Kage",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "kagi": {
       "cache_version": 16,
@@ -51711,6 +51743,14 @@
       "project": "sizy",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "sjcl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T18:53:56.187900+00:00",
+      "fragment_status": "Auction",
+      "project": "sjcl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "skag": {
       "cache_version": 16,
