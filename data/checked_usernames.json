@@ -15112,6 +15112,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ebot": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T23:53:05.406176+00:00",
+      "fragment_status": "Auction",
+      "project": "ebot",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ebpf": {
       "cache_version": 16,
       "checked_at": "2026-05-22T23:20:04.207118+00:00",
@@ -27087,6 +27095,14 @@
       "project": "jaws",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jaxl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T23:53:05.129892+00:00",
+      "fragment_status": "Auction",
+      "project": "JAXL",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jays": {
       "cache_version": 16,
@@ -43351,6 +43367,14 @@
       "project": "pigs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pigz": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T23:53:04.844135+00:00",
+      "fragment_status": "Auction",
+      "project": "pigz",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "pika": {
       "cache_version": 16,
