@@ -376,6 +376,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "acvd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T02:02:16.914720+00:00",
+      "fragment_status": "Auction",
+      "project": "ACVD",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "acvm": {
       "cache_version": 16,
       "checked_at": "2026-05-24T23:39:11.663432+00:00",
@@ -775,6 +783,14 @@
       "project": "agio",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "agit": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T02:02:16.670307+00:00",
+      "fragment_status": "Auction",
+      "project": "agit",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "agly": {
       "cache_version": 16,
@@ -1919,6 +1935,14 @@
       "project": "amok",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "amon": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T02:02:16.443106+00:00",
+      "fragment_status": "Auction",
+      "project": "amon",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "amos": {
       "cache_version": 16,
@@ -24744,6 +24768,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "htty": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T02:02:16.182580+00:00",
+      "fragment_status": "Auction",
+      "project": "htty",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:19.298585+00:00",
@@ -38031,6 +38063,14 @@
       "project": "nbqa",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "nbtv": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T02:02:15.941302+00:00",
+      "fragment_status": "Auction",
+      "project": "NBTV",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "nccg": {
       "cache_version": 16,
