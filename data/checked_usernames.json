@@ -28672,6 +28672,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "kcov": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T06:48:45.276989+00:00",
+      "fragment_status": "Auction",
+      "project": "kcov",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "kctx": {
       "cache_version": 16,
       "checked_at": "2026-06-11T20:05:38.559741+00:00",
@@ -29839,6 +29847,14 @@
       "project": "koml\u00f3",
       "score": 93,
       "source": "City Names"
+    },
+    "kona": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T06:48:45.028929+00:00",
+      "fragment_status": "Auction",
+      "project": "kona",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "kong": {
       "cache_version": 16,
@@ -60607,6 +60623,14 @@
       "project": "vmap",
       "score": 88,
       "source": "Crates.io"
+    },
+    "vmtk": {
+      "cache_version": 16,
+      "checked_at": "2026-06-14T06:48:45.555460+00:00",
+      "fragment_status": "Auction",
+      "project": "vmtk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vnai": {
       "cache_version": 16,
