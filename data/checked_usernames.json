@@ -624,6 +624,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "aevs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-15T07:34:39.271760+00:00",
+      "fragment_status": "Auction",
+      "project": "AEVS",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "afar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:06.313552+00:00",
@@ -4935,6 +4943,14 @@
       "project": "bern",
       "score": 93,
       "source": "City Names"
+    },
+    "berp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-15T07:34:38.860663+00:00",
+      "fragment_status": "Auction",
+      "project": "berp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "bert": {
       "cache_version": 16,
@@ -28293,6 +28309,14 @@
       "checked_at": "2026-05-16T18:33:22.799236+00:00",
       "fragment_status": "Auction",
       "project": "JYso",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "jzmq": {
+      "cache_version": 16,
+      "checked_at": "2026-06-15T07:34:38.659113+00:00",
+      "fragment_status": "Auction",
+      "project": "jzmq",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -60319,6 +60343,14 @@
       "project": "vexa",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "vexi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-15T07:34:39.075298+00:00",
+      "fragment_status": "Auction",
+      "project": "VEXI",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "vexil": {
       "cache_version": 16,
