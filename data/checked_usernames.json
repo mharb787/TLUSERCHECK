@@ -31872,6 +31872,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "libu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-15T21:19:18.629269+00:00",
+      "fragment_status": "Auction",
+      "project": "libu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lica": {
       "cache_version": 16,
       "checked_at": "2026-05-23T00:17:33.254593+00:00",
@@ -53357,6 +53365,14 @@
       "checked_at": "2026-05-16T15:41:44.690275+00:00",
       "fragment_status": "Auction",
       "project": "spmp",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "spop": {
+      "cache_version": 16,
+      "checked_at": "2026-06-15T21:19:18.755003+00:00",
+      "fragment_status": "Auction",
+      "project": "spop",
       "score": 100,
       "source": "GitHub New Repos"
     },
