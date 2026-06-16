@@ -8088,6 +8088,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "cdec": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T12:20:12.640488+00:00",
+      "fragment_status": "Auction",
+      "project": "cdec",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cdgp": {
       "cache_version": 16,
       "checked_at": "2026-05-19T14:19:42.691418+00:00",
@@ -19615,6 +19623,14 @@
       "project": "fypp",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "fzip": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T12:20:12.817344+00:00",
+      "fragment_status": "Auction",
+      "project": "fzip",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gaai": {
       "cache_version": 16,
@@ -38519,6 +38535,14 @@
       "project": "neep",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "neet": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T12:20:12.455294+00:00",
+      "fragment_status": "Auction",
+      "project": "NEET",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "nefi": {
       "cache_version": 16,
