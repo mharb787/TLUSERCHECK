@@ -27920,6 +27920,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "joni": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T23:52:24.985345+00:00",
+      "fragment_status": "Auction",
+      "project": "joni",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jool": {
       "cache_version": 16,
       "checked_at": "2026-06-05T13:26:11.218004+00:00",
@@ -45311,6 +45319,14 @@
       "project": "ptero",
       "score": 87,
       "source": "GitHub Topic (cli)"
+    },
+    "ptex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T23:52:24.823437+00:00",
+      "fragment_status": "Auction",
+      "project": "ptex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ptuj": {
       "cache_version": 16,
