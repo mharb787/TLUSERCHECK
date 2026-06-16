@@ -15720,6 +15720,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "eldc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:40.958635+00:00",
+      "fragment_status": "Auction",
+      "project": "ELDC",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "elds": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:31.525852+00:00",
@@ -21047,6 +21055,14 @@
       "project": "glfw",
       "score": 76,
       "source": "Crates.io"
+    },
+    "glge": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.473592+00:00",
+      "fragment_status": "Auction",
+      "project": "GLGE",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "glia": {
       "cache_version": 16,
@@ -38920,6 +38936,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "nile": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.346700+00:00",
+      "fragment_status": "Auction",
+      "project": "nile",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "nill": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:22.177141+00:00",
@@ -40495,6 +40519,14 @@
       "project": "ogle",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ognl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.721054+00:00",
+      "fragment_status": "Auction",
+      "project": "ognl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ogre": {
       "cache_version": 16,
@@ -46824,6 +46856,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "raif": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.233099+00:00",
+      "fragment_status": "Auction",
+      "project": "RAIF",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "rail": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:47.981378+00:00",
@@ -47680,6 +47720,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "repl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.595739+00:00",
+      "fragment_status": "Auction",
+      "project": "repl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "repo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:57.277371+00:00",
@@ -47807,6 +47855,14 @@
       "project": "reus",
       "score": 93,
       "source": "City Names"
+    },
+    "revi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:42.078488+00:00",
+      "fragment_status": "Auction",
+      "project": "Revi",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "revm": {
       "cache_version": 16,
@@ -52087,6 +52143,14 @@
       "project": "skll",
       "score": 86,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "sklm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.960442+00:00",
+      "fragment_status": "Auction",
+      "project": "Sklm",
+      "score": 80,
+      "source": "Product Hunt"
     },
     "skops": {
       "cache_version": 16,
@@ -63215,6 +63279,14 @@
       "project": "wsts",
       "score": 76,
       "source": "Crates.io"
+    },
+    "wtdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T07:07:41.105673+00:00",
+      "fragment_status": "Auction",
+      "project": "Wtdb",
+      "score": 91,
+      "source": "Hacker News Show HN"
     },
     "wterm": {
       "cache_version": 16,
