@@ -8936,6 +8936,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "cjeu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T17:25:09.899732+00:00",
+      "fragment_status": "Auction",
+      "project": "CJEU",
+      "score": 89,
+      "source": "Hacker News New"
+    },
     "ckan": {
       "cache_version": 16,
       "checked_at": "2026-06-04T04:57:54.864554+00:00",
@@ -27799,6 +27807,14 @@
       "project": "joey",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jogl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T17:25:10.016492+00:00",
+      "fragment_status": "Auction",
+      "project": "jogl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jogs": {
       "cache_version": 16,
