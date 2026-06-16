@@ -23944,6 +23944,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "hhvm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T01:46:25.638885+00:00",
+      "fragment_status": "Auction",
+      "project": "hhvm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hick": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:11.190609+00:00",
@@ -59039,6 +59047,14 @@
       "project": "ulan",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ulib": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T01:46:25.814735+00:00",
+      "fragment_status": "Auction",
+      "project": "ULib",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ulid": {
       "cache_version": 16,
