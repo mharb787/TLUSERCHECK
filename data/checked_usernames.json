@@ -27056,6 +27056,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jaml": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T22:24:37.471515+00:00",
+      "fragment_status": "Auction",
+      "project": "jaml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jamo": {
       "cache_version": 16,
       "checked_at": "2026-05-13T19:18:59.693881+00:00",
@@ -44517,6 +44525,14 @@
       "checked_at": "2026-05-11T22:30:48.446966+00:00",
       "fragment_status": "Auction",
       "project": "poml",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "pomo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T22:24:37.288698+00:00",
+      "fragment_status": "Auction",
+      "project": "pomo",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -63703,6 +63719,14 @@
       "project": "xili",
       "score": 93,
       "source": "City Names"
+    },
+    "xits": {
+      "cache_version": 16,
+      "checked_at": "2026-06-16T22:24:37.652716+00:00",
+      "fragment_status": "Auction",
+      "project": "xits",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xiva": {
       "cache_version": 16,
