@@ -1056,6 +1056,14 @@
       "score": 97,
       "source": "GitHub Topic (cli)"
     },
+    "aihu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:25.605102+00:00",
+      "fragment_status": "Auction",
+      "project": "Aihu",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aiid": {
       "cache_version": 16,
       "checked_at": "2026-05-24T00:09:16.934409+00:00",
@@ -17048,6 +17056,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "ezbl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:27.700771+00:00",
+      "fragment_status": "Auction",
+      "project": "ezbl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ezkl": {
       "cache_version": 16,
       "checked_at": "2026-05-16T20:26:25.224062+00:00",
@@ -18623,6 +18639,14 @@
       "project": "flwr",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "fmag": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:27.963427+00:00",
+      "fragment_status": "Auction",
+      "project": "FMAG",
+      "score": 90,
+      "source": "Lobsters"
     },
     "fmat": {
       "cache_version": 16,
@@ -58936,6 +58960,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "tyto": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:27.217967+00:00",
+      "fragment_status": "Auction",
+      "project": "Tyto",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "tzar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:04.638850+00:00",
@@ -61424,6 +61456,14 @@
       "score": 75,
       "source": "Hacker News New"
     },
+    "vpod": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:25.375376+00:00",
+      "fragment_status": "Auction",
+      "project": "Vpod",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "vrow": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:21.964446+00:00",
@@ -63856,6 +63896,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "xjst": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:27.462433+00:00",
+      "fragment_status": "Auction",
+      "project": "xjst",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "xleak": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:57.885974+00:00",
@@ -65823,6 +65871,14 @@
       "project": "ziya",
       "score": 87,
       "source": "GitHub Topic (ai)"
+    },
+    "zkit": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T18:02:26.982740+00:00",
+      "fragment_status": "Auction",
+      "project": "Zkit",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "zkui": {
       "cache_version": 16,
