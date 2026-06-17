@@ -15768,6 +15768,14 @@
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
     },
+    "elgg": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T07:25:15.229775+00:00",
+      "fragment_status": "Auction",
+      "project": "Elgg",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "elhi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:31.647689+00:00",
@@ -32712,6 +32720,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lnav": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T07:25:15.040223+00:00",
+      "fragment_status": "Auction",
+      "project": "lnav",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "lnmp": {
       "cache_version": 16,
       "checked_at": "2026-06-07T10:38:00.279369+00:00",
@@ -35151,6 +35167,14 @@
       "project": "melt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "memi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T07:25:15.412209+00:00",
+      "fragment_status": "Auction",
+      "project": "memi",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "memo": {
       "cache_version": 16,
@@ -39223,6 +39247,14 @@
       "project": "NLog",
       "score": 100,
       "source": "NuGet"
+    },
+    "nltk": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T07:25:14.859507+00:00",
+      "fragment_status": "Auction",
+      "project": "nltk",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "nlua": {
       "cache_version": 16,
