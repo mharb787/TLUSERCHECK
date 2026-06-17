@@ -12800,6 +12800,14 @@
       "score": 88,
       "source": "GitHub Topic (computer-vision)"
     },
+    "dibi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T15:29:57.405013+00:00",
+      "fragment_status": "Auction",
+      "project": "dibi",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "dibs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:09.844468+00:00",
@@ -19272,6 +19280,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "fssm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T15:29:57.578630+00:00",
+      "fragment_status": "Auction",
+      "project": "fssm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fsst": {
       "cache_version": 16,
       "checked_at": "2026-05-16T23:38:13.376027+00:00",
@@ -21391,6 +21407,14 @@
       "project": "gnir",
       "score": 88,
       "source": "Crates.io"
+    },
+    "gntp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T15:29:57.950402+00:00",
+      "fragment_status": "Auction",
+      "project": "gntp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "gnus": {
       "cache_version": 16,
@@ -26671,6 +26695,14 @@
       "project": "irun",
       "score": 93,
       "source": "City Names"
+    },
+    "irwi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T15:29:57.749983+00:00",
+      "fragment_status": "Auction",
+      "project": "irwi",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "isal": {
       "cache_version": 16,
@@ -50199,6 +50231,14 @@
       "project": "same",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "samf": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T15:29:57.236236+00:00",
+      "fragment_status": "Auction",
+      "project": "SAMF",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "sami": {
       "cache_version": 16,
