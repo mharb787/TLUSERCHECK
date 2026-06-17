@@ -2504,6 +2504,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "apns": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T22:17:25.511356+00:00",
+      "fragment_status": "Auction",
+      "project": "APNS",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "apod": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:17.633195+00:00",
@@ -28304,6 +28312,14 @@
       "score": 87,
       "source": "GitHub Topic (api)"
     },
+    "jtab": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T22:17:28.360377+00:00",
+      "fragment_status": "Auction",
+      "project": "jtab",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "juba": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:37.802541+00:00",
@@ -49416,6 +49432,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "rtir": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T22:17:28.481820+00:00",
+      "fragment_status": "Auction",
+      "project": "rtir",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rtop": {
       "cache_version": 16,
       "checked_at": "2026-06-01T06:59:43.405807+00:00",
@@ -50455,6 +50479,14 @@
       "project": "SASM",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "satd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-17T22:17:25.394576+00:00",
+      "fragment_status": "Auction",
+      "project": "Satd",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "sate": {
       "cache_version": 16,
