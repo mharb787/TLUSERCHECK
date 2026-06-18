@@ -17456,6 +17456,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "faye": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T02:05:59.196640+00:00",
+      "fragment_status": "Auction",
+      "project": "faye",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "fays": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:01.041169+00:00",
@@ -26111,6 +26119,14 @@
       "project": "imbl",
       "score": 89,
       "source": "Crates.io"
+    },
+    "imdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T02:05:59.344908+00:00",
+      "fragment_status": "Auction",
+      "project": "imdb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "imfp": {
       "cache_version": 16,
@@ -52823,6 +52839,14 @@
       "project": "smrt",
       "score": 77,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "smsn": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T02:05:59.462366+00:00",
+      "fragment_status": "Auction",
+      "project": "smsn",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "smug": {
       "cache_version": 16,
