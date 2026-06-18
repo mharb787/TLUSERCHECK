@@ -6288,6 +6288,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bote": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T23:25:12.139412+00:00",
+      "fragment_status": "Auction",
+      "project": "bote",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "both": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:03.542209+00:00",
@@ -47591,6 +47599,14 @@
       "project": "RBHC",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "rbkb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T23:25:12.487903+00:00",
+      "fragment_status": "Auction",
+      "project": "rbkb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rbpf": {
       "cache_version": 16,
