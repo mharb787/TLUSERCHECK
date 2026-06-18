@@ -13608,6 +13608,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "docu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.473981+00:00",
+      "fragment_status": "Auction",
+      "project": "docu",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "docx": {
       "cache_version": 16,
       "checked_at": "2026-05-11T23:31:27.459901+00:00",
@@ -20592,6 +20600,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "gepd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.848819+00:00",
+      "fragment_status": "Auction",
+      "project": "GEPD",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gera": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:01.928271+00:00",
@@ -24320,6 +24336,14 @@
       "score": 99,
       "source": "GitHub Topic (deep-learning)"
     },
+    "hirb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.074233+00:00",
+      "fragment_status": "Auction",
+      "project": "hirb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hire": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:12.711293+00:00",
@@ -27023,6 +27047,14 @@
       "project": "ITSA",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "itty": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.315632+00:00",
+      "fragment_status": "Auction",
+      "project": "itty",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "itzam": {
       "cache_version": 16,
@@ -49616,6 +49648,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "rudy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.728277+00:00",
+      "fragment_status": "Auction",
+      "project": "rudy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rued": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:10.855325+00:00",
@@ -52839,6 +52879,14 @@
       "project": "smew",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "smex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.194435+00:00",
+      "fragment_status": "Auction",
+      "project": "smex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "smile": {
       "cache_version": 16,
@@ -61616,6 +61664,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "vpim": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.595076+00:00",
+      "fragment_status": "Auction",
+      "project": "vpim",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vpin": {
       "cache_version": 16,
       "checked_at": "2026-05-15T16:23:34.777261+00:00",
@@ -61847,6 +61903,14 @@
       "project": "waco",
       "score": 93,
       "source": "City Names"
+    },
+    "wadc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T21:52:35.971617+00:00",
+      "fragment_status": "Auction",
+      "project": "wadc",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "wade": {
       "cache_version": 16,
