@@ -4640,6 +4640,14 @@
       "score": 87,
       "source": "GitHub Topic (nlp)"
     },
+    "bdoc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T19:50:30.545572+00:00",
+      "fragment_status": "Auction",
+      "project": "bdoc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "bead": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:31.060853+00:00",
@@ -50848,6 +50856,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "sdoc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T19:50:30.312334+00:00",
+      "fragment_status": "Auction",
+      "project": "sdoc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "sdrc": {
       "cache_version": 16,
       "checked_at": "2026-05-30T17:42:09.923534+00:00",
@@ -52797,6 +52813,14 @@
       "checked_at": "2026-05-17T05:08:46.748893+00:00",
       "fragment_status": "Auction",
       "project": "Smap",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "smaz": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T19:50:30.058429+00:00",
+      "fragment_status": "Auction",
+      "project": "smaz",
       "score": 100,
       "source": "GitHub New Repos"
     },
