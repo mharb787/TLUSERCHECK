@@ -13304,6 +13304,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "djng": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T11:13:07.082188+00:00",
+      "fragment_status": "Auction",
+      "project": "djng",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "djot": {
       "cache_version": 16,
       "checked_at": "2026-05-16T18:33:22.688392+00:00",
@@ -13509,6 +13517,14 @@
       "checked_at": "2026-05-19T22:02:34.306140+00:00",
       "fragment_status": "Auction",
       "project": "dnsx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "doap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T11:13:06.898212+00:00",
+      "fragment_status": "Auction",
+      "project": "doap",
       "score": 100,
       "source": "GitHub New Repos"
     },
@@ -47559,6 +47575,14 @@
       "project": "RCNN",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "rcov": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T11:13:06.702735+00:00",
+      "fragment_status": "Auction",
+      "project": "rcov",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rcps": {
       "cache_version": 16,
