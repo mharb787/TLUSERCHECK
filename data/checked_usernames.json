@@ -2352,6 +2352,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "anza": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T14:21:57.281856+00:00",
+      "fragment_status": "Auction",
+      "project": "Anza",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "aoda": {
       "cache_version": 16,
       "checked_at": "2026-05-21T21:13:20.267094+00:00",
@@ -60111,6 +60119,14 @@
       "project": "utca",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "utfs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-18T14:21:57.168434+00:00",
+      "fragment_status": "Auction",
+      "project": "UTFS",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "utfx": {
       "cache_version": 16,
