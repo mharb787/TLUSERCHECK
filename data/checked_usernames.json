@@ -39600,6 +39600,14 @@
       "score": 93,
       "source": "GitHub Topic (deep-learning)"
     },
+    "noaa": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T16:57:39.183512+00:00",
+      "fragment_status": "Auction",
+      "project": "noaa",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "noah": {
       "cache_version": 16,
       "checked_at": "2026-05-18T21:53:28.226468+00:00",
@@ -48808,6 +48816,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "rlvm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T16:57:38.965950+00:00",
+      "fragment_status": "Auction",
+      "project": "rlvm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rmcp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T13:24:19.071083+00:00",
@@ -56912,6 +56928,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "thyx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T16:57:38.608371+00:00",
+      "fragment_status": "Auction",
+      "project": "thyx",
+      "score": 76,
+      "source": "GitHub Trending (daily)"
+    },
     "tick": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:41.899046+00:00",
@@ -63952,6 +63976,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "wwmd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T16:57:39.353461+00:00",
+      "fragment_status": "Auction",
+      "project": "wwmd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "wxpy": {
       "cache_version": 16,
       "checked_at": "2026-05-28T12:40:30.800829+00:00",
@@ -64583,6 +64615,14 @@
       "project": "YAIB",
       "score": 98,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "yajl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T16:57:38.778263+00:00",
+      "fragment_status": "Auction",
+      "project": "yajl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "yake": {
       "cache_version": 16,
