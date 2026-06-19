@@ -47112,6 +47112,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "racc": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T21:38:24.994488+00:00",
+      "fragment_status": "Auction",
+      "project": "racc",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "race": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:46.045247+00:00",
@@ -49405,6 +49413,14 @@
       "checked_at": "2026-05-22T23:20:04.374684+00:00",
       "fragment_status": "Auction",
       "project": "rowy",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "roxy": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T21:38:25.106094+00:00",
+      "fragment_status": "Auction",
+      "project": "roxy",
       "score": 100,
       "source": "GitHub New Repos"
     },
