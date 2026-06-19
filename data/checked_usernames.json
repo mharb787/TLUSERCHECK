@@ -16736,6 +16736,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "etap": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T20:22:01.992114+00:00",
+      "fragment_status": "Auction",
+      "project": "etap",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "etas": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:37.954699+00:00",
@@ -49008,6 +49016,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "rodf": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T20:22:02.110556+00:00",
+      "fragment_status": "Auction",
+      "project": "rodf",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rodi": {
       "cache_version": 16,
       "checked_at": "2026-05-19T17:19:29.208437+00:00",
@@ -64335,6 +64351,14 @@
       "project": "XMem",
       "score": 88,
       "source": "GitHub Topic (vector-database)"
+    },
+    "xmpp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T20:22:01.847632+00:00",
+      "fragment_status": "Auction",
+      "project": "xmpp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xnio": {
       "cache_version": 16,
