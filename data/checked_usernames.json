@@ -15224,6 +15224,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ebay": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T07:24:05.392565+00:00",
+      "fragment_status": "Auction",
+      "project": "ebay",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ebbs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:28.209506+00:00",
@@ -56680,6 +56688,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "thea": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T07:24:05.640937+00:00",
+      "fragment_status": "Auction",
+      "project": "thea",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "thee": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:39.469376+00:00",
@@ -65383,6 +65399,14 @@
       "project": "YOLO",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "yomi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T07:24:05.152518+00:00",
+      "fragment_status": "Auction",
+      "project": "Yomi",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "yomo": {
       "cache_version": 16,
