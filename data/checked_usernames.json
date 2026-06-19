@@ -16408,6 +16408,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "enya": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T22:33:34.094682+00:00",
+      "fragment_status": "Auction",
+      "project": "Enya",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "enyo": {
       "cache_version": 16,
       "checked_at": "2026-06-10T16:51:36.824640+00:00",
@@ -47647,6 +47655,14 @@
       "project": "razz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rbdb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T22:33:33.970746+00:00",
+      "fragment_status": "Auction",
+      "project": "rbdb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rbdc": {
       "cache_version": 16,
