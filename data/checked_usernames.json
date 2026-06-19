@@ -38192,6 +38192,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "naev": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T02:10:49.909653+00:00",
+      "fragment_status": "Auction",
+      "project": "naev",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "naga": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:27.172054+00:00",
@@ -48231,6 +48239,14 @@
       "project": "rewa",
       "score": 93,
       "source": "City Names"
+    },
+    "reyn": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T02:10:49.680370+00:00",
+      "fragment_status": "Auction",
+      "project": "Reyn",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "rezh": {
       "cache_version": 16,
@@ -61439,6 +61455,14 @@
       "project": "VLAC",
       "score": 87,
       "source": "GitHub Topic (nlp)"
+    },
+    "vlad": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T02:10:50.156488+00:00",
+      "fragment_status": "Auction",
+      "project": "vlad",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "vllm": {
       "cache_version": 16,
