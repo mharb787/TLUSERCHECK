@@ -27504,6 +27504,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "jdeb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T23:40:50.508416+00:00",
+      "fragment_status": "Auction",
+      "project": "jdeb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "jdet": {
       "cache_version": 16,
       "checked_at": "2026-05-20T23:53:01.381036+00:00",
@@ -35519,6 +35527,14 @@
       "project": "mera",
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "merb": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T23:40:50.637542+00:00",
+      "fragment_status": "Auction",
+      "project": "merb",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "mere": {
       "cache_version": 16,
