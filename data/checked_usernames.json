@@ -26376,6 +26376,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "inet": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T11:43:45.853475+00:00",
+      "fragment_status": "Auction",
+      "project": "inet",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "infd": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:04.778373+00:00",
@@ -40855,6 +40863,14 @@
       "project": "ogre",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ohai": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T11:43:44.873957+00:00",
+      "fragment_status": "Auction",
+      "project": "ohai",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "ohed": {
       "cache_version": 16,
@@ -61151,6 +61167,14 @@
       "project": "view",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vifm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-19T11:43:44.700063+00:00",
+      "fragment_status": "Auction",
+      "project": "vifm",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "viga": {
       "cache_version": 16,
