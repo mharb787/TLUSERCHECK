@@ -21152,6 +21152,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gitx": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T17:59:22.084612+00:00",
+      "fragment_status": "Auction",
+      "project": "gitx",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "gity": {
       "cache_version": 16,
       "checked_at": "2026-06-14T22:47:41.086947+00:00",
@@ -34607,6 +34615,14 @@
       "project": "malt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "malu": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T17:59:22.225807+00:00",
+      "fragment_status": "Auction",
+      "project": "Malu",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "malus": {
       "cache_version": 16,
