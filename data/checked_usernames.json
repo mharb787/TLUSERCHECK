@@ -16464,6 +16464,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "epex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T09:32:03.250207+00:00",
+      "fragment_status": "Auction",
+      "project": "EPEX",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "epha": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:33.999857+00:00",
@@ -25048,6 +25056,14 @@
       "score": 75,
       "source": "GitHub Topic (ai)"
     },
+    "hrwt": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T09:32:04.224206+00:00",
+      "fragment_status": "Auction",
+      "project": "hrwt",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "hsan": {
       "cache_version": 16,
       "checked_at": "2026-05-17T20:26:20.115071+00:00",
@@ -31823,6 +31839,14 @@
       "project": "leet",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "leex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T09:32:03.644516+00:00",
+      "fragment_status": "Auction",
+      "project": "leex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "left": {
       "cache_version": 16,
@@ -48312,6 +48336,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "reve": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T09:32:04.019319+00:00",
+      "fragment_status": "Auction",
+      "project": "reve",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "revi": {
       "cache_version": 16,
       "checked_at": "2026-06-16T07:07:42.078488+00:00",
@@ -62032,6 +62064,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "vurl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T09:32:03.817623+00:00",
+      "fragment_status": "Auction",
+      "project": "vurl",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "vviz": {
       "cache_version": 16,
       "checked_at": "2026-05-19T23:12:47.799874+00:00",
@@ -66087,6 +66127,14 @@
       "project": "zele",
       "score": 93,
       "source": "City Names"
+    },
+    "zena": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T09:32:03.448491+00:00",
+      "fragment_status": "Auction",
+      "project": "zena",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zeno": {
       "cache_version": 16,
