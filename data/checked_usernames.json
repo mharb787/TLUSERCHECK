@@ -29584,6 +29584,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kete": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T15:07:29.130909+00:00",
+      "fragment_status": "Auction",
+      "project": "kete",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "keto": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:48.221131+00:00",
