@@ -21968,6 +21968,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gora": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T01:50:21.512427+00:00",
+      "fragment_status": "Auction",
+      "project": "Gora",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "gore": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:35.634481+00:00",
@@ -43655,6 +43663,14 @@
       "project": "phiz",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "phly": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T01:50:21.698990+00:00",
+      "fragment_status": "Auction",
+      "project": "phly",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "phon": {
       "cache_version": 16,
