@@ -10288,6 +10288,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cpew": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T13:05:01.689764+00:00",
+      "fragment_status": "Auction",
+      "project": "cpew",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cphb": {
       "cache_version": 16,
       "checked_at": "2026-05-28T22:49:29.839723+00:00",
@@ -23239,6 +23247,14 @@
       "project": "halo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "halp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T13:05:01.323739+00:00",
+      "fragment_status": "Auction",
+      "project": "halp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "halt": {
       "cache_version": 16,
@@ -47741,6 +47757,14 @@
       "checked_at": "2026-06-18T23:25:12.487903+00:00",
       "fragment_status": "Auction",
       "project": "rbkb",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
+    "rbot": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T13:05:01.506851+00:00",
+      "fragment_status": "Auction",
+      "project": "rbot",
       "score": 100,
       "source": "GitHub New Repos"
     },
