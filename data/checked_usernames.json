@@ -8112,6 +8112,14 @@
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
     },
+    "ccsv": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T19:25:43.662868+00:00",
+      "fragment_status": "Auction",
+      "project": "ccsv",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "cctv": {
       "cache_version": 16,
       "checked_at": "2026-05-13T08:09:11.772590+00:00",
@@ -64439,6 +64447,14 @@
       "project": "xihu",
       "score": 93,
       "source": "City Names"
+    },
+    "xiki": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T19:25:43.539940+00:00",
+      "fragment_status": "Auction",
+      "project": "xiki",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "xili": {
       "cache_version": 16,
