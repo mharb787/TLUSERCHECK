@@ -25720,6 +25720,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ibus": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T16:43:34.902572+00:00",
+      "fragment_status": "Auction",
+      "project": "ibus",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "ical": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:01:39.632253+00:00",
@@ -27223,6 +27231,14 @@
       "project": "Jaat (film)",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "jabl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T16:43:35.077589+00:00",
+      "fragment_status": "Auction",
+      "project": "jabl",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "jabs": {
       "cache_version": 16,
@@ -56743,6 +56759,14 @@
       "project": "Texo",
       "score": 100,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "texp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T16:43:35.244924+00:00",
+      "fragment_status": "Auction",
+      "project": "texp",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "text": {
       "cache_version": 16,
