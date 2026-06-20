@@ -9664,6 +9664,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cody": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T22:57:03.451215+00:00",
+      "fragment_status": "Auction",
+      "project": "Cody",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "coed": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:34.774477+00:00",
@@ -49783,6 +49791,14 @@
       "project": "rtest",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "rtex": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T22:57:03.588482+00:00",
+      "fragment_status": "Auction",
+      "project": "rtex",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "rtfde": {
       "cache_version": 16,
