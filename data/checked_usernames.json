@@ -48912,6 +48912,14 @@
       "score": 83,
       "source": "GitHub Topic (machine-learning)"
     },
+    "rmov": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T06:04:57.818688+00:00",
+      "fragment_status": "Auction",
+      "project": "rmov",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "rmpc": {
       "cache_version": 16,
       "checked_at": "2026-05-13T15:25:39.417112+00:00",
@@ -54191,6 +54199,14 @@
       "project": "spyx",
       "score": 77,
       "source": "GitHub Topic (ai)"
+    },
+    "sqim": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T06:04:57.353913+00:00",
+      "fragment_status": "Auction",
+      "project": "Sqim",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "sqip": {
       "cache_version": 16,
@@ -65887,6 +65903,14 @@
       "project": "zama",
       "score": 93,
       "source": "City Names"
+    },
+    "zaml": {
+      "cache_version": 16,
+      "checked_at": "2026-06-20T06:04:57.583563+00:00",
+      "fragment_status": "Auction",
+      "project": "zaml",
+      "score": 100,
+      "source": "GitHub New Repos"
     },
     "zamo": {
       "cache_version": 16,
