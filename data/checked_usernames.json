@@ -46560,6 +46560,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "pyor": {
+      "cache_version": 16,
+      "checked_at": "2026-06-21T22:38:01.925190+00:00",
+      "fragment_status": "Auction",
+      "project": "Pyor",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "pyotp": {
       "cache_version": 14,
       "checked_at": "2026-05-10T08:21:39.967420+00:00",
@@ -59199,6 +59207,14 @@
       "project": "tunix",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tunr": {
+      "cache_version": 16,
+      "checked_at": "2026-06-21T22:38:01.692600+00:00",
+      "fragment_status": "Auction",
+      "project": "Tunr",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "tuns": {
       "cache_version": 16,
