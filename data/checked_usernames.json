@@ -16328,6 +16328,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "enki": {
+      "cache_version": 16,
+      "checked_at": "2026-06-21T00:01:21.448622+00:00",
+      "fragment_status": "Auction",
+      "project": "enki",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "enmf": {
       "cache_version": 16,
       "checked_at": "2026-05-25T16:10:59.808886+00:00",
