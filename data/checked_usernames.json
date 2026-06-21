@@ -24,6 +24,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "aasm": {
+      "cache_version": 16,
+      "checked_at": "2026-06-21T11:35:54.735384+00:00",
+      "fragment_status": "Auction",
+      "project": "aasm",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "abac": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:43.337516+00:00",
