@@ -16672,6 +16672,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "errd": {
+      "cache_version": 16,
+      "checked_at": "2026-06-21T04:49:31.577878+00:00",
+      "fragment_status": "Auction",
+      "project": "errd",
+      "score": 100,
+      "source": "GitHub New Repos"
+    },
     "errs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:36.506468+00:00",
