@@ -41352,6 +41352,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "olly": {
+      "cache_version": 16,
+      "checked_at": "2026-06-22T20:24:04.299850+00:00",
+      "fragment_status": "Auction",
+      "project": "Olly (singer)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "olmo": {
       "cache_version": 16,
       "checked_at": "2026-05-15T20:36:17.440885+00:00",
@@ -47103,6 +47111,14 @@
       "project": "QROA",
       "score": 87,
       "source": "GitHub Topic (reinforcement-learning)"
+    },
+    "qsoe": {
+      "cache_version": 16,
+      "checked_at": "2026-06-22T20:24:04.087863+00:00",
+      "fragment_status": "Auction",
+      "project": "QSOE",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "qssh": {
       "cache_version": 16,
