@@ -12512,6 +12512,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "deln": {
+      "cache_version": 16,
+      "checked_at": "2026-06-23T08:49:51.828946+00:00",
+      "fragment_status": "Auction",
+      "project": "DELN",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "dels": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:07.335810+00:00",
@@ -27671,6 +27679,14 @@
       "project": "jean",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jebi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-23T08:49:52.022155+00:00",
+      "fragment_status": "Auction",
+      "project": "jebi",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "jecq": {
       "cache_version": 16,
