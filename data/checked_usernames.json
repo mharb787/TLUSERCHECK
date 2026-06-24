@@ -43632,6 +43632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "perl": {
+      "cache_version": 16,
+      "checked_at": "2026-06-24T12:35:13.489942+00:00",
+      "fragment_status": "Auction",
+      "project": "perl-lsp",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "perm": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:07.642568+00:00",
@@ -59080,6 +59088,14 @@
       "score": 95,
       "source": "App Store Top"
     },
+    "tubo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-24T12:35:13.672750+00:00",
+      "fragment_status": "Auction",
+      "project": "Tubo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "tubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:58.336398+00:00",
@@ -66863,6 +66879,14 @@
       "project": "zori",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zova": {
+      "cache_version": 16,
+      "checked_at": "2026-06-24T12:35:13.319482+00:00",
+      "fragment_status": "Auction",
+      "project": "Zova",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "zpan": {
       "cache_version": 16,
