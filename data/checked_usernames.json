@@ -23976,6 +23976,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "heku": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T13:28:15.445676+00:00",
+      "fragment_status": "Auction",
+      "project": "Heku",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "held": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:08.206846+00:00",
