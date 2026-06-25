@@ -5744,6 +5744,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "blop": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T08:36:55.829337+00:00",
+      "fragment_status": "Auction",
+      "project": "Blop",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "blot": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:56.851505+00:00",
@@ -66311,6 +66319,14 @@
       "project": "zarf",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "zaro": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T08:36:55.601489+00:00",
+      "fragment_status": "Auction",
+      "project": "Zaro",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "zarp": {
       "cache_version": 16,
