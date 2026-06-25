@@ -12464,6 +12464,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "deja": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T11:18:13.143158+00:00",
+      "fragment_status": "Auction",
+      "project": "Deja",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "deke": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:06.715060+00:00",
@@ -24256,6 +24264,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "hezo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T11:18:12.665205+00:00",
+      "fragment_status": "Auction",
+      "project": "Hezo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "hfgi": {
       "cache_version": 16,
       "checked_at": "2026-05-20T21:07:00.459627+00:00",
@@ -35159,6 +35175,14 @@
       "project": "mavo",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "mavs": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T11:18:12.424733+00:00",
+      "fragment_status": "Auction",
+      "project": "MAVS-GC",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "mawn": {
       "cache_version": 16,
@@ -52680,6 +52704,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "sipp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T11:18:13.389442+00:00",
+      "fragment_status": "Auction",
+      "project": "Sipp",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "sips": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:46.679906+00:00",
@@ -59183,6 +59215,14 @@
       "project": "tuios",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tuip": {
+      "cache_version": 16,
+      "checked_at": "2026-06-25T11:18:12.907991+00:00",
+      "fragment_status": "Auction",
+      "project": "Tuip",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "tuiql": {
       "cache_version": 16,
