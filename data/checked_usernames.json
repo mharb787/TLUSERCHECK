@@ -14560,6 +14560,14 @@
       "score": 76,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dspi": {
+      "cache_version": 16,
+      "checked_at": "2026-06-26T08:19:48.278579+00:00",
+      "fragment_status": "Auction",
+      "project": "DSPi",
+      "score": 90,
+      "source": "Lobsters"
+    },
     "dspn": {
       "cache_version": 16,
       "checked_at": "2026-05-25T10:44:19.624274+00:00",
@@ -54311,6 +54319,14 @@
       "project": "spin",
       "score": 100,
       "source": "Crates.io"
+    },
+    "spir": {
+      "cache_version": 16,
+      "checked_at": "2026-06-26T08:19:48.088716+00:00",
+      "fragment_status": "Auction",
+      "project": "SPIR",
+      "score": 90,
+      "source": "Lobsters"
     },
     "spit": {
       "cache_version": 16,
