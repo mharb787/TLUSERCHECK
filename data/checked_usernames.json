@@ -47408,6 +47408,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "qvac": {
+      "cache_version": 16,
+      "checked_at": "2026-06-26T21:55:53.662903+00:00",
+      "fragment_status": "Auction",
+      "project": "QVAC",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "qwen": {
       "cache_version": 16,
       "checked_at": "2026-05-14T21:50:44.162771+00:00",
