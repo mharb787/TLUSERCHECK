@@ -30264,6 +30264,14 @@
       "score": 94,
       "source": "GitHub Topic (llm)"
     },
+    "kivo": {
+      "cache_version": 16,
+      "checked_at": "2026-06-29T06:19:51.696808+00:00",
+      "fragment_status": "Auction",
+      "project": "Kivo",
+      "score": 90,
+      "source": "Lobsters"
+    },
     "kivy": {
       "cache_version": 16,
       "checked_at": "2026-05-15T16:23:36.322247+00:00",
