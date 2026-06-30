@@ -47064,6 +47064,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "qdbp": {
+      "cache_version": 16,
+      "checked_at": "2026-06-30T13:17:50.899881+00:00",
+      "fragment_status": "Auction",
+      "project": "QDBP",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "qeep": {
       "cache_version": 16,
       "checked_at": "2026-05-15T12:20:58.371531+00:00",
