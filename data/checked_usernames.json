@@ -22056,6 +22056,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gonk": {
+      "cache_version": 16,
+      "checked_at": "2026-07-02T01:35:42.920995+00:00",
+      "fragment_status": "Auction",
+      "project": "GONK",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "gonzo": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:18.370389+00:00",
@@ -33543,6 +33551,14 @@
       "project": "lola",
       "score": 93,
       "source": "City Names"
+    },
+    "loma": {
+      "cache_version": 16,
+      "checked_at": "2026-07-02T01:35:43.148963+00:00",
+      "fragment_status": "Auction",
+      "project": "Loma",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "lona": {
       "cache_version": 16,
@@ -67223,6 +67239,14 @@
       "project": "zuko",
       "score": 96,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "zukr": {
+      "cache_version": 16,
+      "checked_at": "2026-07-02T01:35:43.033839+00:00",
+      "fragment_status": "Auction",
+      "project": "Zukr",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "zuru": {
       "cache_version": 16,
