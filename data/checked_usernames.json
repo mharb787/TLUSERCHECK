@@ -16352,6 +16352,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "emra": {
+      "cache_version": 16,
+      "checked_at": "2026-07-03T21:18:55.771466+00:00",
+      "fragment_status": "Auction",
+      "project": "Emra",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "emus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:33.032521+00:00",
@@ -59663,6 +59671,14 @@
       "project": "tush",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tusi": {
+      "cache_version": 16,
+      "checked_at": "2026-07-03T21:18:55.968597+00:00",
+      "fragment_status": "Auction",
+      "project": "Tusi (drug)",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "tusk": {
       "cache_version": 16,
