@@ -2760,6 +2760,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "ardi": {
+      "cache_version": 16,
+      "checked_at": "2026-07-03T12:22:33.459210+00:00",
+      "fragment_status": "Auction",
+      "project": "Ardi",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "area": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:18.573025+00:00",
@@ -28599,6 +28607,14 @@
       "project": "joys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jpeg": {
+      "cache_version": 16,
+      "checked_at": "2026-07-03T12:22:33.295962+00:00",
+      "fragment_status": "Auction",
+      "project": "JPEG",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "jphp": {
       "cache_version": 16,
