@@ -36704,6 +36704,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "mits": {
+      "cache_version": 16,
+      "checked_at": "2026-07-04T18:14:14.024850+00:00",
+      "fragment_status": "Auction",
+      "project": "MITS",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "mitt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:00.356368+00:00",
@@ -41287,6 +41295,14 @@
       "project": "odyl",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "oeis": {
+      "cache_version": 16,
+      "checked_at": "2026-07-04T18:14:14.219646+00:00",
+      "fragment_status": "Auction",
+      "project": "OEIS",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "ofay": {
       "cache_version": 16,
