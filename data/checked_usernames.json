@@ -18040,6 +18040,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "feom": {
+      "cache_version": 16,
+      "checked_at": "2026-07-04T23:29:20.113050+00:00",
+      "fragment_status": "Auction",
+      "project": "FEOM",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "feos": {
       "cache_version": 16,
       "checked_at": "2026-06-05T21:42:04.648795+00:00",
@@ -39439,6 +39447,14 @@
       "project": "NeRF",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "nerm": {
+      "cache_version": 16,
+      "checked_at": "2026-07-04T23:29:19.995249+00:00",
+      "fragment_status": "Auction",
+      "project": "NERM",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "nerv": {
       "cache_version": 16,
