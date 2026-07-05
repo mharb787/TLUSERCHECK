@@ -10848,6 +10848,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ctrl": {
+      "cache_version": 16,
+      "checked_at": "2026-07-05T08:11:59.823248+00:00",
+      "fragment_status": "Auction",
+      "project": "CTRL (film)",
+      "score": 75,
+      "source": "Wikipedia Trending"
+    },
     "cuba": {
       "cache_version": 16,
       "checked_at": "2026-06-14T21:37:44.681988+00:00",
@@ -16407,6 +16415,14 @@
       "project": "endi",
       "score": 100,
       "source": "Crates.io"
+    },
+    "endl": {
+      "cache_version": 16,
+      "checked_at": "2026-07-05T08:11:59.403086+00:00",
+      "fragment_status": "Auction",
+      "project": "Endl",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "ends": {
       "cache_version": 16,
