@@ -25952,6 +25952,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "iaxt": {
+      "cache_version": 16,
+      "checked_at": "2026-07-08T22:46:59.254775+00:00",
+      "fragment_status": "Auction",
+      "project": "IAXT",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "iban": {
       "cache_version": 16,
       "checked_at": "2026-05-18T04:38:27.402074+00:00",
