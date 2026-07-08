@@ -37976,6 +37976,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "mpox": {
+      "cache_version": 16,
+      "checked_at": "2026-07-08T23:47:51.987258+00:00",
+      "fragment_status": "Auction",
+      "project": "Mpox",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "mpsx": {
       "cache_version": 16,
       "checked_at": "2026-05-20T04:38:57.206412+00:00",
@@ -39791,6 +39799,14 @@
       "project": "nigh",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "nika": {
+      "cache_version": 16,
+      "checked_at": "2026-07-08T23:47:51.792932+00:00",
+      "fragment_status": "Auction",
+      "project": "Nika",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "nikk": {
       "cache_version": 16,
