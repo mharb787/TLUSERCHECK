@@ -47416,6 +47416,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "qorm": {
+      "cache_version": 16,
+      "checked_at": "2026-07-08T04:23:55.650231+00:00",
+      "fragment_status": "Auction",
+      "project": "QORM",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "qpdf": {
       "cache_version": 16,
       "checked_at": "2026-06-09T08:48:33.702275+00:00",
