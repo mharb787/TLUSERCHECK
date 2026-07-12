@@ -28208,6 +28208,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jiki": {
+      "cache_version": 16,
+      "checked_at": "2026-07-12T23:37:14.283850+00:00",
+      "fragment_status": "Auction",
+      "project": "Jiki",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "jill": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:34.868299+00:00",
@@ -65687,6 +65695,14 @@
       "project": "yako",
       "score": 93,
       "source": "City Names"
+    },
+    "yakr": {
+      "cache_version": 16,
+      "checked_at": "2026-07-12T23:37:14.176179+00:00",
+      "fragment_status": "Auction",
+      "project": "Yakr",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "yaks": {
       "cache_version": 16,
