@@ -2768,6 +2768,14 @@
       "score": 87,
       "source": "Wikipedia Trending"
     },
+    "ardy": {
+      "cache_version": 16,
+      "checked_at": "2026-07-13T15:47:21.103551+00:00",
+      "fragment_status": "Auction",
+      "project": "ardy",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "area": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:18.573025+00:00",
@@ -58847,6 +58855,14 @@
       "project": "tori",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tork": {
+      "cache_version": 16,
+      "checked_at": "2026-07-13T15:47:21.428730+00:00",
+      "fragment_status": "Auction",
+      "project": "tork",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
     },
     "torn": {
       "cache_version": 16,
