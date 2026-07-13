@@ -7776,6 +7776,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "capn": {
+      "cache_version": 16,
+      "checked_at": "2026-07-13T10:44:50.079032+00:00",
+      "fragment_status": "Auction",
+      "project": "Capn-hook for coding agents",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "capo": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:23.397357+00:00",
@@ -30919,6 +30927,14 @@
       "project": "kota",
       "score": 93,
       "source": "City Names"
+    },
+    "kote": {
+      "cache_version": 16,
+      "checked_at": "2026-07-13T10:44:50.317512+00:00",
+      "fragment_status": "Auction",
+      "project": "Kote",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "kotef": {
       "cache_version": 16,
