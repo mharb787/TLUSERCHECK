@@ -12504,6 +12504,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "defn": {
+      "cache_version": 16,
+      "checked_at": "2026-07-14T21:02:25.195342+00:00",
+      "fragment_status": "Auction",
+      "project": "DEFN-System",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "deft": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:06.365028+00:00",
@@ -30527,6 +30535,14 @@
       "project": "KMRI",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "kmux": {
+      "cache_version": 16,
+      "checked_at": "2026-07-14T21:02:25.423353+00:00",
+      "fragment_status": "Auction",
+      "project": "Kmux",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "knack": {
       "cache_version": 16,
