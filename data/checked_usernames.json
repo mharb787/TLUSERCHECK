@@ -16792,6 +16792,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "eric": {
+      "cache_version": 16,
+      "checked_at": "2026-07-14T12:09:08.705376+00:00",
+      "fragment_status": "Auction",
+      "project": "Eric (miniseries)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "erie": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:27:03.270872+00:00",
@@ -20895,6 +20903,14 @@
       "project": "geos",
       "score": 88,
       "source": "Crates.io"
+    },
+    "gepa": {
+      "cache_version": 16,
+      "checked_at": "2026-07-14T12:09:08.477921+00:00",
+      "fragment_status": "Auction",
+      "project": "GEPA",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "gepd": {
       "cache_version": 16,
