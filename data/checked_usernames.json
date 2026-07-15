@@ -1040,6 +1040,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "aict": {
+      "cache_version": 16,
+      "checked_at": "2026-07-15T15:50:59.561634+00:00",
+      "fragment_status": "Auction",
+      "project": "Aict",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aide": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:19.604696+00:00",
@@ -14735,6 +14743,14 @@
       "project": "dtan",
       "score": 88,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "dtap": {
+      "cache_version": 16,
+      "checked_at": "2026-07-15T15:50:59.726494+00:00",
+      "fragment_status": "Auction",
+      "project": "DTAP",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "dtcr": {
       "cache_version": 16,
