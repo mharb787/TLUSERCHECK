@@ -2240,6 +2240,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "anky": {
+      "cache_version": 16,
+      "checked_at": "2026-07-15T23:27:55.955134+00:00",
+      "fragment_status": "Auction",
+      "project": "Anky",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "anlp": {
       "cache_version": 16,
       "checked_at": "2026-05-25T22:46:19.675295+00:00",
