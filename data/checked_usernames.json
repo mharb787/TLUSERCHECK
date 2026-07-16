@@ -41048,6 +41048,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "nuvo": {
+      "cache_version": 16,
+      "checked_at": "2026-07-16T00:54:36.398240+00:00",
+      "fragment_status": "Auction",
+      "project": "Nuvo",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "nuwa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T16:14:56.786154+00:00",
