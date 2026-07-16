@@ -9112,6 +9112,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "cito": {
+      "cache_version": 16,
+      "checked_at": "2026-07-16T08:29:29.192574+00:00",
+      "fragment_status": "Auction",
+      "project": "Cito",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "city": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:31.409467+00:00",
@@ -30983,6 +30991,14 @@
       "project": "kors",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "kosh": {
+      "cache_version": 16,
+      "checked_at": "2026-07-16T08:29:28.954177+00:00",
+      "fragment_status": "Auction",
+      "project": "Kosh",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "kosi": {
       "cache_version": 16,
