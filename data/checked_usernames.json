@@ -31112,6 +31112,14 @@
       "score": 97,
       "source": "GitHub Topic (ai)"
     },
+    "kreo": {
+      "cache_version": 16,
+      "checked_at": "2026-07-17T22:10:31.099257+00:00",
+      "fragment_status": "Auction",
+      "project": "Kreo",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "krew": {
       "cache_version": 16,
       "checked_at": "2026-05-24T20:39:36.666576+00:00",
@@ -42591,6 +42599,14 @@
       "project": "Orion (spacecraft)",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "orka": {
+      "cache_version": 16,
+      "checked_at": "2026-07-17T22:10:30.836513+00:00",
+      "fragment_status": "Auction",
+      "project": "Orka",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "orle": {
       "cache_version": 16,
