@@ -14408,6 +14408,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "dpgk": {
+      "cache_version": 16,
+      "checked_at": "2026-07-17T01:01:19.103196+00:00",
+      "fragment_status": "Auction",
+      "project": "dpgk",
+      "score": 76,
+      "source": "GitHub Trending (daily)"
+    },
     "dpkt": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:01.382026+00:00",
@@ -32727,6 +32735,14 @@
       "project": "lgtm",
       "score": 75,
       "source": "GitHub Topic (ai)"
+    },
+    "lhic": {
+      "cache_version": 16,
+      "checked_at": "2026-07-17T01:01:18.861477+00:00",
+      "fragment_status": "Auction",
+      "project": "LHIC",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "liam": {
       "cache_version": 16,
@@ -61039,6 +61055,14 @@
       "project": "unyt",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "uolt": {
+      "cache_version": 16,
+      "checked_at": "2026-07-17T01:01:18.980131+00:00",
+      "fragment_status": "Auction",
+      "project": "UOLT",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "uosc": {
       "cache_version": 16,
