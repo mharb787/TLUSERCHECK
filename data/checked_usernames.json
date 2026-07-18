@@ -23568,6 +23568,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "haku": {
+      "cache_version": 16,
+      "checked_at": "2026-07-18T08:55:51.504087+00:00",
+      "fragment_status": "Auction",
+      "project": "Haku (wrestler)",
+      "score": 88,
+      "source": "Wikipedia Trending"
+    },
     "hala": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:38.502255+00:00",
@@ -35687,6 +35695,14 @@
       "project": "maxi",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "maxx": {
+      "cache_version": 16,
+      "checked_at": "2026-07-18T08:55:51.229842+00:00",
+      "fragment_status": "Auction",
+      "project": "Maxx",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "maya": {
       "cache_version": 16,
