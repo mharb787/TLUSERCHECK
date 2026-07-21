@@ -1056,6 +1056,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "aido": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T18:52:22.557426+00:00",
+      "fragment_status": "Auction",
+      "project": "Aido",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aids": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:08.293037+00:00",
@@ -60576,6 +60584,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "tzro": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T18:52:22.699143+00:00",
+      "fragment_status": "Auction",
+      "project": "TZRO",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "tzst": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:05.510138+00:00",
@@ -64591,6 +64607,14 @@
       "project": "wife",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wifi": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T18:52:22.838586+00:00",
+      "fragment_status": "Auction",
+      "project": "WiFi-LLM",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "wifui": {
       "cache_version": 16,
