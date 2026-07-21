@@ -16080,6 +16080,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ekko": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T20:08:14.633135+00:00",
+      "fragment_status": "Auction",
+      "project": "Ekko",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ekyc": {
       "cache_version": 16,
       "checked_at": "2026-05-16T19:41:43.468963+00:00",
@@ -26839,6 +26847,14 @@
       "project": "imsz",
       "score": 88,
       "source": "Crates.io"
+    },
+    "imud": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T20:08:14.364884+00:00",
+      "fragment_status": "Auction",
+      "project": "Imud",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "imus": {
       "cache_version": 16,
@@ -42968,6 +42984,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "otua": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T20:08:14.198789+00:00",
+      "fragment_status": "Auction",
+      "project": "Otua",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ouak": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:21.191902+00:00",
@@ -44551,6 +44575,14 @@
       "project": "pgrx",
       "score": 76,
       "source": "Crates.io"
+    },
+    "pgwd": {
+      "cache_version": 16,
+      "checked_at": "2026-07-21T20:08:14.486852+00:00",
+      "fragment_status": "Auction",
+      "project": "pgwd",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "phan": {
       "cache_version": 16,
