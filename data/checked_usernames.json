@@ -14704,6 +14704,14 @@
       "score": 83,
       "source": "English Dictionary"
     },
+    "dsci": {
+      "cache_version": 16,
+      "checked_at": "2026-07-22T14:23:07.099549+00:00",
+      "fragment_status": "Auction",
+      "project": "DSCI",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "dsec": {
       "cache_version": 16,
       "checked_at": "2026-05-19T01:49:13.385845+00:00",
@@ -27159,6 +27167,14 @@
       "project": "IPDB",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ipek": {
+      "cache_version": 16,
+      "checked_at": "2026-07-22T14:23:06.765933+00:00",
+      "fragment_status": "Auction",
+      "project": "Ipek",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "iper": {
       "cache_version": 16,
