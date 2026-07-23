@@ -63864,6 +63864,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "wasm": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T11:19:45.125462+00:00",
+      "fragment_status": "Auction",
+      "project": "WASM",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "wasp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:35.493788+00:00",
