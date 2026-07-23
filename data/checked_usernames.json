@@ -48392,6 +48392,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "raku": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T06:46:03.690549+00:00",
+      "fragment_status": "Auction",
+      "project": "Raku",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "rale": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:48.783376+00:00",
@@ -62599,6 +62607,14 @@
       "project": "vifm",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "vifu": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T06:46:03.574110+00:00",
+      "fragment_status": "Auction",
+      "project": "Vifu",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "viga": {
       "cache_version": 16,
