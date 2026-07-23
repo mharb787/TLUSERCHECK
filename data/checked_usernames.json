@@ -4768,6 +4768,14 @@
       "score": 87,
       "source": "GitHub Topic (nlp)"
     },
+    "bdfl": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T23:11:07.838947+00:00",
+      "fragment_status": "Auction",
+      "project": "BDFL",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "bdoc": {
       "cache_version": 16,
       "checked_at": "2026-06-18T19:50:30.545572+00:00",
@@ -36384,6 +36392,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "merv": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T23:11:08.504234+00:00",
+      "fragment_status": "Auction",
+      "project": "Merv",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "mesa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:53.110539+00:00",
@@ -45519,6 +45535,14 @@
       "project": "plow",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "plox": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T23:11:08.180351+00:00",
+      "fragment_status": "Auction",
+      "project": "Plox",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ploy": {
       "cache_version": 16,
