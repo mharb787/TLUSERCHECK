@@ -54960,6 +54960,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "spam": {
+      "cache_version": 16,
+      "checked_at": "2026-07-23T01:07:11.509506+00:00",
+      "fragment_status": "Taken",
+      "project": "SPAM",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "span": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:04.986966+00:00",
