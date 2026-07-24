@@ -21136,6 +21136,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "gfql": {
+      "cache_version": 16,
+      "checked_at": "2026-07-24T23:16:34.165775+00:00",
+      "fragment_status": "Auction",
+      "project": "GFQL",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "ggez": {
       "cache_version": 16,
       "checked_at": "2026-05-18T00:07:58.166040+00:00",
