@@ -54328,6 +54328,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "smtp": {
+      "cache_version": 16,
+      "checked_at": "2026-07-24T21:07:55.505346+00:00",
+      "fragment_status": "Auction",
+      "project": "SMTP-probe",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "smug": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:54.843254+00:00",
@@ -60327,6 +60335,14 @@
       "project": "turn",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "turo": {
+      "cache_version": 16,
+      "checked_at": "2026-07-24T21:07:55.748343+00:00",
+      "fragment_status": "Auction",
+      "project": "Turo",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "tusd": {
       "cache_version": 16,
