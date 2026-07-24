@@ -1912,6 +1912,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "amdb": {
+      "cache_version": 16,
+      "checked_at": "2026-07-24T20:01:14.756179+00:00",
+      "fragment_status": "Auction",
+      "project": "Amdb",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "amen": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:13.339280+00:00",
@@ -62823,6 +62831,14 @@
       "project": "VINS",
       "score": 87,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "vinv": {
+      "cache_version": 16,
+      "checked_at": "2026-07-24T20:01:14.439762+00:00",
+      "fragment_status": "Auction",
+      "project": "Vinv-Ties every runtime trace",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "viny": {
       "cache_version": 16,
