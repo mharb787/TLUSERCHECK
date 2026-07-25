@@ -8536,6 +8536,14 @@
       "score": 87,
       "source": "GitHub Topic (ml)"
     },
+    "cern": {
+      "cache_version": 16,
+      "checked_at": "2026-07-25T16:03:44.522991+00:00",
+      "fragment_status": "Auction",
+      "project": "CERN",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "cero": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:27.646860+00:00",
