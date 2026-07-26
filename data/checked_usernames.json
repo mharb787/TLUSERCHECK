@@ -808,6 +808,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "agfx": {
+      "cache_version": 16,
+      "checked_at": "2026-07-26T00:07:56.481311+00:00",
+      "fragment_status": "Auction",
+      "project": "agfx",
+      "score": 87,
+      "source": "GitHub Trending (daily)"
+    },
     "agha": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:07.144927+00:00",
