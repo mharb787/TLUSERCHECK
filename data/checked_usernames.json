@@ -8384,6 +8384,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cdxe": {
+      "cache_version": 16,
+      "checked_at": "2026-07-26T19:33:31.980756+00:00",
+      "fragment_status": "Auction",
+      "project": "CDXE",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ceca": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:26.242604+00:00",
@@ -9631,6 +9639,14 @@
       "project": "cmdk",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "cmem": {
+      "cache_version": 16,
+      "checked_at": "2026-07-26T19:33:31.790799+00:00",
+      "fragment_status": "Auction",
+      "project": "CMEM",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "cmov": {
       "cache_version": 16,
