@@ -25752,6 +25752,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "hubo": {
+      "cache_version": 16,
+      "checked_at": "2026-07-26T03:49:33.409655+00:00",
+      "fragment_status": "Auction",
+      "project": "Hubo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "hubs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:19.298585+00:00",
@@ -40863,6 +40871,14 @@
       "project": "nord",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "nore": {
+      "cache_version": 16,
+      "checked_at": "2026-07-26T03:49:33.572565+00:00",
+      "fragment_status": "Auction",
+      "project": "Nore",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "nori": {
       "cache_version": 16,
