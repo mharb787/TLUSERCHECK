@@ -37296,6 +37296,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "mkpm": {
+      "cache_version": 16,
+      "checked_at": "2026-07-29T07:08:57.821088+00:00",
+      "fragment_status": "Auction",
+      "project": "MKPM",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "mlab": {
       "cache_version": 16,
       "checked_at": "2026-05-19T20:53:46.824736+00:00",
@@ -63064,6 +63072,14 @@
       "score": 87,
       "source": "Wikipedia Trending"
     },
+    "viso": {
+      "cache_version": 16,
+      "checked_at": "2026-07-29T07:08:58.353044+00:00",
+      "fragment_status": "Auction",
+      "project": "Viso",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "visor": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:43.161589+00:00",
@@ -63607,6 +63623,14 @@
       "project": "Vybn",
       "score": 75,
       "source": "GitHub Topic (ai)"
+    },
+    "vyne": {
+      "cache_version": 16,
+      "checked_at": "2026-07-29T07:08:58.088911+00:00",
+      "fragment_status": "Auction",
+      "project": "Vyne",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "vyto": {
       "cache_version": 16,
