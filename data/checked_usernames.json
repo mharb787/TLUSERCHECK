@@ -41376,6 +41376,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nurb": {
+      "cache_version": 16,
+      "checked_at": "2026-07-29T23:09:21.607097+00:00",
+      "fragment_status": "Auction",
+      "project": "Nurb",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "nurd": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:36.922890+00:00",
@@ -61503,6 +61511,14 @@
       "project": "unty",
       "score": 100,
       "source": "Crates.io"
+    },
+    "unui": {
+      "cache_version": 16,
+      "checked_at": "2026-07-29T23:09:21.787167+00:00",
+      "fragment_status": "Auction",
+      "project": "UnUI",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "unyt": {
       "cache_version": 16,
