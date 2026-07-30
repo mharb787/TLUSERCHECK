@@ -192,6 +192,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "absl": {
+      "cache_version": 16,
+      "checked_at": "2026-07-30T20:14:56.061345+00:00",
+      "fragment_status": "Auction",
+      "project": "ABSL",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "abso": {
       "cache_version": 16,
       "checked_at": "2026-05-11T18:05:12.262725+00:00",
@@ -1181,6 +1189,14 @@
       "checked_at": "2026-05-15T08:16:18.893102+00:00",
       "fragment_status": "Auction",
       "project": "AIMX",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "aina": {
+      "cache_version": 16,
+      "checked_at": "2026-07-30T20:14:55.537741+00:00",
+      "fragment_status": "Auction",
+      "project": "Aina",
       "score": 100,
       "source": "Hacker News Show HN"
     },
@@ -32695,6 +32711,14 @@
       "project": "lehr",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "leia": {
+      "cache_version": 16,
+      "checked_at": "2026-07-30T20:14:55.811990+00:00",
+      "fragment_status": "Auction",
+      "project": "Leia",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "leis": {
       "cache_version": 16,
