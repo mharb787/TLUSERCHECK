@@ -46360,6 +46360,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "poth": {
+      "cache_version": 16,
+      "checked_at": "2026-07-31T07:25:17.294140+00:00",
+      "fragment_status": "Auction",
+      "project": "Poth Labs",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "poti": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:18.931268+00:00",
@@ -65255,6 +65263,14 @@
       "project": "with",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "witr": {
+      "cache_version": 16,
+      "checked_at": "2026-07-31T07:25:17.539340+00:00",
+      "fragment_status": "Auction",
+      "project": "witr",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "wits": {
       "cache_version": 16,
