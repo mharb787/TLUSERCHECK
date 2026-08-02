@@ -6944,6 +6944,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "btfy": {
+      "cache_version": 16,
+      "checked_at": "2026-08-02T17:15:05.832197+00:00",
+      "fragment_status": "Auction",
+      "project": "Btfy",
+      "score": 92,
+      "source": "Hacker News Show HN"
+    },
     "btoi": {
       "cache_version": 16,
       "checked_at": "2026-05-12T23:43:06.245184+00:00",
@@ -13063,6 +13071,14 @@
       "project": "deys",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dfah": {
+      "cache_version": 16,
+      "checked_at": "2026-08-02T17:15:05.526472+00:00",
+      "fragment_status": "Auction",
+      "project": "DFAH-Bench",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "dfdx": {
       "cache_version": 16,
