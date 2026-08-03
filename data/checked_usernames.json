@@ -27728,6 +27728,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "isro": {
+      "cache_version": 16,
+      "checked_at": "2026-08-03T19:10:30.414718+00:00",
+      "fragment_status": "Auction",
+      "project": "ISRO",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "isso": {
       "cache_version": 16,
       "checked_at": "2026-06-08T02:05:20.641129+00:00",
