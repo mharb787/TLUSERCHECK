@@ -14184,6 +14184,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "domo": {
+      "cache_version": 16,
+      "checked_at": "2026-08-04T07:05:21.988502+00:00",
+      "fragment_status": "Auction",
+      "project": "Domo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "doms": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:16.259351+00:00",
@@ -68255,6 +68263,14 @@
       "project": "Zkit",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "zkky": {
+      "cache_version": 16,
+      "checked_at": "2026-08-04T07:05:21.762745+00:00",
+      "fragment_status": "Auction",
+      "project": "zkky",
+      "score": 76,
+      "source": "GitHub Trending (daily)"
     },
     "zkui": {
       "cache_version": 16,
