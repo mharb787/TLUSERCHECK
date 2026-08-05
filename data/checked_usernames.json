@@ -13544,6 +13544,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "diri": {
+      "cache_version": 16,
+      "checked_at": "2026-08-05T06:40:16.757268+00:00",
+      "fragment_status": "Auction",
+      "project": "diri",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "dirk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:12.533817+00:00",
@@ -16551,6 +16559,14 @@
       "project": "emic",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "emil": {
+      "cache_version": 16,
+      "checked_at": "2026-08-05T06:40:15.972316+00:00",
+      "fragment_status": "Auction",
+      "project": "Emil",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "emin": {
       "cache_version": 16,
@@ -20247,6 +20263,14 @@
       "project": "FUXA",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "fuxi": {
+      "cache_version": 16,
+      "checked_at": "2026-08-05T06:40:16.340623+00:00",
+      "fragment_status": "Auction",
+      "project": "Fuxi",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
     },
     "fuyu": {
       "cache_version": 16,
