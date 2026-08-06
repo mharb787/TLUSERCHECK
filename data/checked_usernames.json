@@ -66080,6 +66080,14 @@
       "score": 76,
       "source": "PyPI Top"
     },
+    "xbin": {
+      "cache_version": 16,
+      "checked_at": "2026-08-06T00:09:24.023983+00:00",
+      "fragment_status": "Auction",
+      "project": "XBin",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "xbmc": {
       "cache_version": 16,
       "checked_at": "2026-06-13T13:02:51.335028+00:00",
