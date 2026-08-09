@@ -23272,6 +23272,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "guam": {
+      "cache_version": 16,
+      "checked_at": "2026-08-09T02:11:29.721725+00:00",
+      "fragment_status": "Auction",
+      "project": "Guam",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "guan": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:50.675007+00:00",
