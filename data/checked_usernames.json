@@ -66384,6 +66384,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "xirp": {
+      "cache_version": 16,
+      "checked_at": "2026-08-10T21:23:27.657700+00:00",
+      "fragment_status": "Auction",
+      "project": "Xirp",
+      "score": 89,
+      "source": "Hacker News New"
+    },
     "xits": {
       "cache_version": 16,
       "checked_at": "2026-06-16T22:24:37.652716+00:00",
