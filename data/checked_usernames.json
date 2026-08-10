@@ -1344,6 +1344,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "aiuc": {
+      "cache_version": 16,
+      "checked_at": "2026-08-10T19:10:46.481836+00:00",
+      "fragment_status": "Auction",
+      "project": "AIUC",
+      "score": 97,
+      "source": "Hacker News New"
+    },
     "aiud": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:43.171061+00:00",
