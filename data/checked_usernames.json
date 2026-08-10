@@ -42680,6 +42680,14 @@
       "score": 88,
       "source": "GitHub Topic (ai)"
     },
+    "omos": {
+      "cache_version": 16,
+      "checked_at": "2026-08-10T19:58:48.671892+00:00",
+      "fragment_status": "Auction",
+      "project": "Omos",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "ompi": {
       "cache_version": 16,
       "checked_at": "2026-06-03T22:17:18.418590+00:00",
@@ -43959,6 +43967,14 @@
       "project": "Pake",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "paki": {
+      "cache_version": 16,
+      "checked_at": "2026-08-10T19:58:49.081014+00:00",
+      "fragment_status": "Auction",
+      "project": "Paki (slur)",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "pako": {
       "cache_version": 16,
