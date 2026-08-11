@@ -42448,6 +42448,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ojcp": {
+      "cache_version": 16,
+      "checked_at": "2026-08-11T23:09:14.426388+00:00",
+      "fragment_status": "Auction",
+      "project": "OJCP",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ojus": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:27:00.949591+00:00",
@@ -63863,6 +63871,14 @@
       "project": "vows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "voxa": {
+      "cache_version": 16,
+      "checked_at": "2026-08-11T23:09:14.550838+00:00",
+      "fragment_status": "Auction",
+      "project": "Voxa",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "vpet": {
       "cache_version": 16,
