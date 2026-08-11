@@ -1808,6 +1808,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "alpc": {
+      "cache_version": 16,
+      "checked_at": "2026-08-11T13:54:33.213374+00:00",
+      "fragment_status": "Auction",
+      "project": "ALPC-Enumerator; A dynamic, PPL-aware",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "alpm": {
       "cache_version": 16,
       "checked_at": "2026-05-16T13:53:12.700200+00:00",
