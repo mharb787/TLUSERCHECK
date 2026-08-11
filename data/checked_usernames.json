@@ -33160,6 +33160,14 @@
       "score": 87,
       "source": "GitHub Trending (daily)"
     },
+    "lexi": {
+      "cache_version": 16,
+      "checked_at": "2026-08-11T07:22:11.606768+00:00",
+      "fragment_status": "Auction",
+      "project": "Lexi",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "leys": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:14.172966+00:00",
