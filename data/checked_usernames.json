@@ -61208,6 +61208,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "tynx": {
+      "cache_version": 16,
+      "checked_at": "2026-08-12T12:10:21.596206+00:00",
+      "fragment_status": "Auction",
+      "project": "Tynx",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "type": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:03.677389+00:00",
@@ -65983,6 +65991,14 @@
       "project": "wows",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "woxi": {
+      "cache_version": 16,
+      "checked_at": "2026-08-12T12:10:17.965283+00:00",
+      "fragment_status": "Auction",
+      "project": "Woxi",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "wpfs": {
       "cache_version": 16,
