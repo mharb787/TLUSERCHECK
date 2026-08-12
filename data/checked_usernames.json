@@ -30488,6 +30488,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kery": {
+      "cache_version": 16,
+      "checked_at": "2026-08-12T22:23:34.027143+00:00",
+      "fragment_status": "Auction",
+      "project": "Kery",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "keryx": {
       "cache_version": 16,
       "checked_at": "2026-05-10T17:56:17.376983+00:00",
@@ -53687,6 +53695,14 @@
       "project": "shtab",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "shtm": {
+      "cache_version": 16,
+      "checked_at": "2026-08-12T22:23:34.245182+00:00",
+      "fragment_status": "Auction",
+      "project": "SHTM",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "shub": {
       "cache_version": 16,
