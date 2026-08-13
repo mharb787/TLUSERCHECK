@@ -49384,6 +49384,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "rbek": {
+      "cache_version": 16,
+      "checked_at": "2026-08-13T22:09:09.803299+00:00",
+      "fragment_status": "Auction",
+      "project": "RBEK",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "rbhc": {
       "cache_version": 16,
       "checked_at": "2026-05-23T21:26:10.968622+00:00",
@@ -54519,6 +54527,14 @@
       "project": "slab",
       "score": 100,
       "source": "Crates.io"
+    },
+    "slac": {
+      "cache_version": 16,
+      "checked_at": "2026-08-13T22:09:10.144327+00:00",
+      "fragment_status": "Auction",
+      "project": "SLAC",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "slag": {
       "cache_version": 16,
@@ -68855,6 +68871,14 @@
       "project": "zugl\u00f3",
       "score": 93,
       "source": "City Names"
+    },
+    "zuke": {
+      "cache_version": 16,
+      "checked_at": "2026-08-13T22:09:09.481265+00:00",
+      "fragment_status": "Auction",
+      "project": "Zuke",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "zuko": {
       "cache_version": 16,
