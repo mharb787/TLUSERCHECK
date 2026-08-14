@@ -53176,6 +53176,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "senv": {
+      "cache_version": 16,
+      "checked_at": "2026-08-14T21:25:08.370057+00:00",
+      "fragment_status": "Auction",
+      "project": "Senv",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "sept": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:34.703163+00:00",
@@ -66887,6 +66895,14 @@
       "project": "XUAN",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xuxa": {
+      "cache_version": 16,
+      "checked_at": "2026-08-14T21:25:09.299839+00:00",
+      "fragment_status": "Auction",
+      "project": "Xuxa",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "xvfi": {
       "cache_version": 16,
