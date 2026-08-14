@@ -49472,6 +49472,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "rdio": {
+      "cache_version": 16,
+      "checked_at": "2026-08-14T20:38:36.954160+00:00",
+      "fragment_status": "Auction",
+      "project": "Rdio",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "rdkit": {
       "cache_version": 16,
       "checked_at": "2026-05-10T16:01:42.220922+00:00",
