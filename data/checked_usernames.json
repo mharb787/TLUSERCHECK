@@ -25016,6 +25016,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "hibi": {
+      "cache_version": 16,
+      "checked_at": "2026-08-15T15:05:40.410194+00:00",
+      "fragment_status": "Auction",
+      "project": "Hibi",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "hick": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:11.190609+00:00",
