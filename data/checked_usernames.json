@@ -43096,6 +43096,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "opec": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T09:39:35.587431+00:00",
+      "fragment_status": "Auction",
+      "project": "OPEC",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "oped": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:47.316199+00:00",
@@ -49223,6 +49231,14 @@
       "project": "rapt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rapx": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T09:39:35.354027+00:00",
+      "fragment_status": "Auction",
+      "project": "RAPx",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "raqo": {
       "cache_version": 16,
@@ -56367,6 +56383,14 @@
       "project": "sslh",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "ssog": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T09:39:35.238995+00:00",
+      "fragment_status": "Auction",
+      "project": "SSOG",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "sspi": {
       "cache_version": 16,
