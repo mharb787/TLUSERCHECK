@@ -752,6 +752,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "agcx": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T13:40:22.419200+00:00",
+      "fragment_status": "Auction",
+      "project": "AGCX",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "agda": {
       "cache_version": 16,
       "checked_at": "2026-05-31T19:57:03.527099+00:00",
@@ -63255,6 +63263,14 @@
       "project": "verl",
       "score": 93,
       "source": "City Names"
+    },
+    "vero": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T13:40:22.691471+00:00",
+      "fragment_status": "Auction",
+      "project": "Vero",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "vert": {
       "cache_version": 16,
