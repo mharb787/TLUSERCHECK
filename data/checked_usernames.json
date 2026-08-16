@@ -9224,6 +9224,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "cinc": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T17:26:50.318943+00:00",
+      "fragment_status": "Auction",
+      "project": "CINC",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "cine": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:30.818872+00:00",
