@@ -49528,6 +49528,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "rdfa": {
+      "cache_version": 16,
+      "checked_at": "2026-08-16T04:06:47.049123+00:00",
+      "fragment_status": "Auction",
+      "project": "RDFa",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "rdio": {
       "cache_version": 16,
       "checked_at": "2026-08-14T20:38:36.954160+00:00",
