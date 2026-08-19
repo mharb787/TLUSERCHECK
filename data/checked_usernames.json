@@ -5224,6 +5224,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "berd": {
+      "cache_version": 16,
+      "checked_at": "2026-08-19T08:49:31.552943+00:00",
+      "fragment_status": "Auction",
+      "project": "Berd",
+      "score": 89,
+      "source": "Hacker News New"
+    },
     "berg": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:33.915222+00:00",
