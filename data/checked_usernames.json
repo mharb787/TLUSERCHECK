@@ -9384,6 +9384,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ciya": {
+      "cache_version": 16,
+      "checked_at": "2026-08-19T18:12:32.749289+00:00",
+      "fragment_status": "Auction",
+      "project": "CIYA",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "cjam": {
       "cache_version": 16,
       "checked_at": "2026-06-28T21:12:19.576910+00:00",
@@ -25967,6 +25975,14 @@
       "project": "hppc",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "hrag": {
+      "cache_version": 16,
+      "checked_at": "2026-08-19T18:12:33.000501+00:00",
+      "fragment_status": "Auction",
+      "project": "HRAG",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "hred": {
       "cache_version": 16,
@@ -67247,6 +67263,14 @@
       "project": "yadm",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "yado": {
+      "cache_version": 16,
+      "checked_at": "2026-08-19T18:12:33.335628+00:00",
+      "fragment_status": "Auction",
+      "project": "Yado",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "yaff": {
       "cache_version": 16,
