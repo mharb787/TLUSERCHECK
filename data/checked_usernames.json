@@ -47904,6 +47904,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "pwas": {
+      "cache_version": 16,
+      "checked_at": "2026-08-20T21:00:00.527718+00:00",
+      "fragment_status": "Auction",
+      "project": "PWAs",
+      "score": 88,
+      "source": "Hacker News New"
+    },
     "pwlf": {
       "cache_version": 16,
       "checked_at": "2026-05-15T08:16:20.238916+00:00",
@@ -67039,6 +67047,14 @@
       "project": "xorf",
       "score": 90,
       "source": "Crates.io"
+    },
+    "xorg": {
+      "cache_version": 16,
+      "checked_at": "2026-08-20T21:00:00.260115+00:00",
+      "fragment_status": "Auction",
+      "project": "Xorg",
+      "score": 100,
+      "source": "Hacker News New"
     },
     "xorm": {
       "cache_version": 16,
