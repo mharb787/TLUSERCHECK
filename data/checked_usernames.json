@@ -4512,6 +4512,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bapu": {
+      "cache_version": 16,
+      "checked_at": "2026-08-20T07:07:08.491695+00:00",
+      "fragment_status": "Auction",
+      "project": "Bapu Studio",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "bapy": {
       "cache_version": 16,
       "checked_at": "2026-05-17T01:29:05.950823+00:00",
@@ -50271,6 +50279,14 @@
       "project": "revs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "revy": {
+      "cache_version": 16,
+      "checked_at": "2026-08-20T07:07:08.742069+00:00",
+      "fragment_status": "Auction",
+      "project": "Revy",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "rewa": {
       "cache_version": 16,
