@@ -36344,6 +36344,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "maus": {
+      "cache_version": 16,
+      "checked_at": "2026-08-21T11:29:42.751057+00:00",
+      "fragment_status": "Auction",
+      "project": "Maus",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "maut": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:48.100777+00:00",
