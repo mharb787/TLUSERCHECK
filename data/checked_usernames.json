@@ -10944,6 +10944,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "crlf": {
+      "cache_version": 16,
+      "checked_at": "2026-08-21T13:12:02.154500+00:00",
+      "fragment_status": "Auction",
+      "project": "CRLF",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "crmf": {
       "cache_version": 16,
       "checked_at": "2026-05-22T23:20:04.721546+00:00",
