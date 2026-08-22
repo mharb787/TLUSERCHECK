@@ -29136,6 +29136,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "jixu": {
+      "cache_version": 16,
+      "checked_at": "2026-08-22T03:51:46.935225+00:00",
+      "fragment_status": "Auction",
+      "project": "Jixu",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "jjui": {
       "cache_version": 16,
       "checked_at": "2026-05-12T12:08:01.999268+00:00",
