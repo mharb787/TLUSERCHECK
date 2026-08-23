@@ -42976,6 +42976,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "oman": {
+      "cache_version": 16,
+      "checked_at": "2026-08-23T11:08:42.945849+00:00",
+      "fragment_status": "Auction",
+      "project": "Oman",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "omar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:19.781937+00:00",
