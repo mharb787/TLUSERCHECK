@@ -30752,6 +30752,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kerv": {
+      "cache_version": 16,
+      "checked_at": "2026-08-24T10:33:48.990085+00:00",
+      "fragment_status": "Auction",
+      "project": "KERV",
+      "score": 87,
+      "source": "GitHub Trending (daily)"
+    },
     "kery": {
       "cache_version": 16,
       "checked_at": "2026-08-12T22:23:34.027143+00:00",
