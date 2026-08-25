@@ -48,6 +48,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "abah": {
+      "cache_version": 16,
+      "checked_at": "2026-08-25T11:11:25.036113+00:00",
+      "fragment_status": "Auction",
+      "project": "ABAH",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "abar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:23.653219+00:00",
@@ -10911,6 +10919,14 @@
       "project": "crds",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "crdt": {
+      "cache_version": 16,
+      "checked_at": "2026-08-25T11:11:24.919808+00:00",
+      "fragment_status": "Auction",
+      "project": "CRDT",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "cred": {
       "cache_version": 16,
