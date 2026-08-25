@@ -33824,6 +33824,14 @@
       "score": 87,
       "source": "Wikipedia Trending"
     },
+    "ligh": {
+      "cache_version": 16,
+      "checked_at": "2026-08-25T22:57:46.137128+00:00",
+      "fragment_status": "Auction",
+      "project": "LIGH",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "lihe": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:55.255656+00:00",
@@ -39175,6 +39183,14 @@
       "project": "MRAG",
       "score": 91,
       "source": "GitHub Topic (llm)"
+    },
+    "mrea": {
+      "cache_version": 16,
+      "checked_at": "2026-08-25T22:57:46.255685+00:00",
+      "fragment_status": "Auction",
+      "project": "MREA",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "mrml": {
       "cache_version": 16,
