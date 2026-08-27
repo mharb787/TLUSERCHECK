@@ -67208,6 +67208,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "xkcd": {
+      "cache_version": 16,
+      "checked_at": "2026-08-27T19:15:08.396157+00:00",
+      "fragment_status": "Auction",
+      "project": "Xkcd",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "xleak": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:36:57.885974+00:00",
