@@ -33392,6 +33392,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lenz": {
+      "cache_version": 16,
+      "checked_at": "2026-08-27T08:40:32.412635+00:00",
+      "fragment_status": "Auction",
+      "project": "Lenz",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "leon": {
       "cache_version": 16,
       "checked_at": "2026-05-18T04:38:26.673842+00:00",
@@ -41840,6 +41848,14 @@
       "score": 75,
       "source": "GitHub Topic (neural-network)"
     },
+    "nprm": {
+      "cache_version": 16,
+      "checked_at": "2026-08-27T08:40:32.155217+00:00",
+      "fragment_status": "Auction",
+      "project": "NPRM",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "npsn": {
       "cache_version": 16,
       "checked_at": "2026-05-19T11:48:55.885890+00:00",
@@ -42871,6 +42887,14 @@
       "project": "OJCP",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "ojin": {
+      "cache_version": 16,
+      "checked_at": "2026-08-27T08:40:32.723791+00:00",
+      "fragment_status": "Auction",
+      "project": "Ojin",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "ojus": {
       "cache_version": 16,
