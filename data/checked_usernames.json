@@ -8480,6 +8480,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cdaf": {
+      "cache_version": 16,
+      "checked_at": "2026-08-28T03:35:25.388216+00:00",
+      "fragment_status": "Auction",
+      "project": "cdaf",
+      "score": 87,
+      "source": "GitHub Trending (daily)"
+    },
     "cdan": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.823652+00:00",
@@ -61175,6 +61183,14 @@
       "project": "tsoa",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tsrx": {
+      "cache_version": 16,
+      "checked_at": "2026-08-28T03:35:25.180159+00:00",
+      "fragment_status": "Auction",
+      "project": "tsrx",
+      "score": 75,
+      "source": "GitHub Trending (daily)"
     },
     "tstr": {
       "cache_version": 16,
