@@ -88,6 +88,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "abbs": {
+      "cache_version": 16,
+      "checked_at": "2026-08-29T06:57:39.855367+00:00",
+      "fragment_status": "Auction",
+      "project": "ABBS",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "abby": {
       "cache_version": 16,
       "checked_at": "2026-06-14T18:53:56.843144+00:00",
@@ -6447,6 +6455,14 @@
       "project": "boon",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "boop": {
+      "cache_version": 16,
+      "checked_at": "2026-08-29T06:57:40.088847+00:00",
+      "fragment_status": "Auction",
+      "project": "boop",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
     },
     "boor": {
       "cache_version": 16,
@@ -13287,6 +13303,14 @@
       "project": "devv",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "devx": {
+      "cache_version": 16,
+      "checked_at": "2026-08-29T06:57:39.967373+00:00",
+      "fragment_status": "Auction",
+      "project": "Devx",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "dews": {
       "cache_version": 16,
@@ -40903,6 +40927,14 @@
       "project": "NFGP",
       "score": 79,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "nfhs": {
+      "cache_version": 16,
+      "checked_at": "2026-08-29T06:57:40.315182+00:00",
+      "fragment_status": "Auction",
+      "project": "NFHS Network",
+      "score": 76,
+      "source": "App Store Top"
     },
     "nfpm": {
       "cache_version": 16,
