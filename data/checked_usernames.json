@@ -8512,6 +8512,14 @@
       "score": 87,
       "source": "GitHub Trending (daily)"
     },
+    "cdai": {
+      "cache_version": 16,
+      "checked_at": "2026-09-01T11:45:40.997588+00:00",
+      "fragment_status": "Auction",
+      "project": "cdai",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "cdan": {
       "cache_version": 16,
       "checked_at": "2026-05-16T22:54:20.823652+00:00",
@@ -31287,6 +31295,14 @@
       "project": "kisi",
       "score": 93,
       "source": "City Names"
+    },
+    "kiso": {
+      "cache_version": 16,
+      "checked_at": "2026-09-01T11:45:41.228925+00:00",
+      "fragment_status": "Auction",
+      "project": "Kiso",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "kiss": {
       "cache_version": 16,
@@ -65383,6 +65399,14 @@
       "project": "wast",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "watn": {
+      "cache_version": 16,
+      "checked_at": "2026-09-01T11:45:40.769252+00:00",
+      "fragment_status": "Auction",
+      "project": "Watn",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "wats": {
       "cache_version": 16,
