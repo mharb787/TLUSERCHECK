@@ -21352,6 +21352,14 @@
       "score": 93,
       "source": "GitHub Topic (machine-learning)"
     },
+    "gdsl": {
+      "cache_version": 16,
+      "checked_at": "2026-09-05T17:32:43.544673+00:00",
+      "fragment_status": "Auction",
+      "project": "GDSL",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "gdsr": {
       "cache_version": 16,
       "checked_at": "2026-05-17T16:11:47.023466+00:00",
@@ -44992,6 +45000,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "patm": {
+      "cache_version": 16,
+      "checked_at": "2026-09-05T17:32:43.779368+00:00",
+      "fragment_status": "Auction",
+      "project": "PATM",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "pats": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:01.177499+00:00",
@@ -67191,6 +67207,14 @@
       "project": "xbot",
       "score": 89,
       "source": "GitHub Topic (ai)"
+    },
+    "xbrl": {
+      "cache_version": 16,
+      "checked_at": "2026-09-05T17:32:43.324010+00:00",
+      "fragment_status": "Auction",
+      "project": "xbrl-tag mapping for 10ks",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "xcap": {
       "cache_version": 16,
