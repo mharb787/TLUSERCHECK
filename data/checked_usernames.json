@@ -60128,6 +60128,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "tmax": {
+      "cache_version": 16,
+      "checked_at": "2026-09-08T04:51:25.542215+00:00",
+      "fragment_status": "Auction",
+      "project": "tmax",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "tmlp": {
       "cache_version": 16,
       "checked_at": "2026-05-15T12:20:58.190060+00:00",
