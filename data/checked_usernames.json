@@ -23096,6 +23096,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gote": {
+      "cache_version": 16,
+      "checked_at": "2026-09-08T17:23:39.311683+00:00",
+      "fragment_status": "Auction",
+      "project": "Gote",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "goth": {
       "cache_version": 16,
       "checked_at": "2026-06-03T16:01:06.406747+00:00",
@@ -52175,6 +52183,14 @@
       "project": "ruby",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rucc": {
+      "cache_version": 16,
+      "checked_at": "2026-09-08T17:23:39.483792+00:00",
+      "fragment_status": "Auction",
+      "project": "Rucc",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ruck": {
       "cache_version": 16,
