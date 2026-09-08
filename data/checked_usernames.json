@@ -34144,6 +34144,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "lini": {
+      "cache_version": 16,
+      "checked_at": "2026-09-08T13:33:18.919125+00:00",
+      "fragment_status": "Auction",
+      "project": "Lini",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "link": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:18.975605+00:00",
@@ -35167,6 +35175,14 @@
       "project": "lset",
       "score": 88,
       "source": "Crates.io"
+    },
+    "lsfg": {
+      "cache_version": 16,
+      "checked_at": "2026-09-08T13:33:19.211265+00:00",
+      "fragment_status": "Auction",
+      "project": "lsfg",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "lsix": {
       "cache_version": 16,
