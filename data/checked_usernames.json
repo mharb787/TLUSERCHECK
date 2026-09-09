@@ -21272,6 +21272,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "gbdl": {
+      "cache_version": 16,
+      "checked_at": "2026-09-09T23:47:52.761885+00:00",
+      "fragment_status": "Auction",
+      "project": "GBDL",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "gbdt": {
       "cache_version": 16,
       "checked_at": "2026-06-07T22:50:32.220028+00:00",
