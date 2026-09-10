@@ -22792,6 +22792,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "gojo": {
+      "cache_version": 16,
+      "checked_at": "2026-09-10T11:33:32.906707+00:00",
+      "fragment_status": "Auction",
+      "project": "Gojo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "gojq": {
       "cache_version": 16,
       "checked_at": "2026-05-23T16:15:38.117146+00:00",
