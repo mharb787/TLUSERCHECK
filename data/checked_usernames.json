@@ -5728,6 +5728,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "biom": {
+      "cache_version": 16,
+      "checked_at": "2026-09-16T01:35:04.852730+00:00",
+      "fragment_status": "Auction",
+      "project": "Biom",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "bios": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:44.905642+00:00",
@@ -49119,6 +49127,14 @@
       "project": "qlib",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "qlic": {
+      "cache_version": 16,
+      "checked_at": "2026-09-16T01:35:04.966518+00:00",
+      "fragment_status": "Auction",
+      "project": "QLIC",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "qllm": {
       "cache_version": 16,
