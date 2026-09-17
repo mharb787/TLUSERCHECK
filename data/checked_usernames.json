@@ -19040,6 +19040,14 @@
       "score": 89,
       "source": "GitHub Topic (computer-vision)"
     },
+    "figo": {
+      "cache_version": 16,
+      "checked_at": "2026-09-17T09:59:56.390082+00:00",
+      "fragment_status": "Auction",
+      "project": "Figo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "figs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:05.292272+00:00",
@@ -43783,6 +43791,14 @@
       "project": "opus",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "opyt": {
+      "cache_version": 16,
+      "checked_at": "2026-09-17T09:59:56.181794+00:00",
+      "fragment_status": "Auction",
+      "project": "Opyt",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "oqpy": {
       "cache_version": 16,
