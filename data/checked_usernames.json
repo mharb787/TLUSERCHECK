@@ -15800,6 +15800,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "duvi": {
+      "cache_version": 16,
+      "checked_at": "2026-09-18T14:57:00.030292+00:00",
+      "fragment_status": "Auction",
+      "project": "Duvi",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "dvae": {
       "cache_version": 16,
       "checked_at": "2026-05-22T21:06:05.722292+00:00",
@@ -15847,6 +15855,14 @@
       "project": "dxpy",
       "score": 76,
       "source": "PyPI Top"
+    },
+    "dxui": {
+      "cache_version": 16,
+      "checked_at": "2026-09-18T14:56:59.787881+00:00",
+      "fragment_status": "Auction",
+      "project": "Dxui",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "dxvk": {
       "cache_version": 16,
