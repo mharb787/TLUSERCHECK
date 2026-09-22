@@ -6120,6 +6120,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bluf": {
+      "cache_version": 16,
+      "checked_at": "2026-09-22T21:23:50.238130+00:00",
+      "fragment_status": "Auction",
+      "project": "BLUF (Communication)",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "blur": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:58.718659+00:00",
