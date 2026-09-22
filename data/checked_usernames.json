@@ -16360,6 +16360,14 @@
       "score": 88,
       "source": "GitHub Topic (ml)"
     },
+    "edyt": {
+      "cache_version": 16,
+      "checked_at": "2026-09-22T10:08:23.355548+00:00",
+      "fragment_status": "Auction",
+      "project": "Edyt",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "eels": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:29.670417+00:00",
@@ -22527,6 +22535,14 @@
       "project": "glut",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "glux": {
+      "cache_version": 16,
+      "checked_at": "2026-09-22T10:08:22.770400+00:00",
+      "fragment_status": "Auction",
+      "project": "Glux",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "glyph": {
       "cache_version": 16,
@@ -64336,6 +64352,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "vgpu": {
+      "cache_version": 16,
+      "checked_at": "2026-09-22T10:08:23.548970+00:00",
+      "fragment_status": "Auction",
+      "project": "vgpu",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "vial": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:17.247254+00:00",
@@ -67503,6 +67527,14 @@
       "project": "WZCQ",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "wzrd": {
+      "cache_version": 16,
+      "checked_at": "2026-09-22T10:08:23.162550+00:00",
+      "fragment_status": "Auction",
+      "project": "WZRD",
+      "score": 80,
+      "source": "Product Hunt"
     },
     "xaon": {
       "cache_version": 16,
