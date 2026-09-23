@@ -536,6 +536,14 @@
       "score": 88,
       "source": "GitHub Trending (daily)"
     },
+    "adie": {
+      "cache_version": 16,
+      "checked_at": "2026-09-23T01:44:59.844368+00:00",
+      "fragment_status": "Auction",
+      "project": "ADIE",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "adit": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:05.601272+00:00",
@@ -53295,6 +53303,14 @@
       "project": "Sami",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "saml": {
+      "cache_version": 16,
+      "checked_at": "2026-09-23T01:44:59.174496+00:00",
+      "fragment_status": "Auction",
+      "project": "SAML",
+      "score": 100,
+      "source": "Hacker News New"
     },
     "samn": {
       "cache_version": 16,
