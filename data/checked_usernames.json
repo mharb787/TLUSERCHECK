@@ -24120,6 +24120,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "gwae": {
+      "cache_version": 16,
+      "checked_at": "2026-09-24T10:16:41.110208+00:00",
+      "fragment_status": "Auction",
+      "project": "Gwae",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "gwcs": {
       "cache_version": 16,
       "checked_at": "2026-05-16T15:41:46.250526+00:00",
@@ -41807,6 +41815,14 @@
       "project": "NOAH",
       "score": 91,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "noan": {
+      "cache_version": 16,
+      "checked_at": "2026-09-24T10:16:41.223181+00:00",
+      "fragment_status": "Auction",
+      "project": "NOAN",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "nobs": {
       "cache_version": 16,
