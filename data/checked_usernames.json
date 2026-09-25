@@ -31688,6 +31688,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "klpo": {
+      "cache_version": 16,
+      "checked_at": "2026-09-25T00:33:10.165774+00:00",
+      "fragment_status": "Auction",
+      "project": "KLPO",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
+    },
     "klypn": {
       "cache_version": 16,
       "checked_at": "2026-05-10T15:03:19.794581+00:00",
