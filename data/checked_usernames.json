@@ -13360,6 +13360,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "devc": {
+      "cache_version": 16,
+      "checked_at": "2026-09-26T05:26:59.808845+00:00",
+      "fragment_status": "Auction",
+      "project": "Devc",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "devd": {
       "cache_version": 16,
       "checked_at": "2026-05-31T15:25:24.762378+00:00",
@@ -38168,6 +38176,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "miru": {
+      "cache_version": 16,
+      "checked_at": "2026-09-26T05:26:59.412965+00:00",
+      "fragment_status": "Auction",
+      "project": "Miru",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "miry": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:18:59.295074+00:00",
@@ -51271,6 +51287,14 @@
       "project": "rigl",
       "score": 93,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "rigo": {
+      "cache_version": 16,
+      "checked_at": "2026-09-26T05:26:59.216719+00:00",
+      "fragment_status": "Auction",
+      "project": "Rigo Studio",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "rigs": {
       "cache_version": 16,
@@ -65135,6 +65159,14 @@
       "project": "volt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "vons": {
+      "cache_version": 16,
+      "checked_at": "2026-09-26T05:26:59.604569+00:00",
+      "fragment_status": "Auction",
+      "project": "Vons",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "vora": {
       "cache_version": 16,
