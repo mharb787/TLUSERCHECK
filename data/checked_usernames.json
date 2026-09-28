@@ -40496,6 +40496,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "nand": {
+      "cache_version": 16,
+      "checked_at": "2026-09-28T00:18:22.509774+00:00",
+      "fragment_status": "Auction",
+      "project": "NAND",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "nango": {
       "cache_version": 16,
       "checked_at": "2026-05-10T20:31:09.202610+00:00",
@@ -50855,6 +50863,14 @@
       "project": "rend",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rene": {
+      "cache_version": 16,
+      "checked_at": "2026-09-28T00:18:22.271214+00:00",
+      "fragment_status": "Auction",
+      "project": "Rene",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "reni": {
       "cache_version": 16,
