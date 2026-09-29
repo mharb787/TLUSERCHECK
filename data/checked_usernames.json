@@ -42592,6 +42592,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nura": {
+      "cache_version": 16,
+      "checked_at": "2026-09-29T20:10:56.657942+00:00",
+      "fragment_status": "Auction",
+      "project": "Nura (postmarketOS)",
+      "score": 90,
+      "source": "Lobsters"
+    },
     "nurb": {
       "cache_version": 16,
       "checked_at": "2026-07-29T23:09:21.607097+00:00",
