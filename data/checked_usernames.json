@@ -24,6 +24,14 @@
       "score": 87,
       "source": "Hacker News New"
     },
+    "aapr": {
+      "cache_version": 16,
+      "checked_at": "2026-09-30T08:43:26.499670+00:00",
+      "fragment_status": "Auction",
+      "project": "AAPR",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "aarc": {
       "cache_version": 16,
       "checked_at": "2026-05-20T08:04:05.087320+00:00",
@@ -46072,6 +46080,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "pexo": {
+      "cache_version": 16,
+      "checked_at": "2026-09-30T08:43:26.736217+00:00",
+      "fragment_status": "Auction",
+      "project": "Pexo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "pfft": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:08.649547+00:00",
@@ -51311,6 +51327,14 @@
       "project": "riel",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rifc": {
+      "cache_version": 16,
+      "checked_at": "2026-09-30T08:43:26.376867+00:00",
+      "fragment_status": "Auction",
+      "project": "RIFC-light, offline, pseudocode based",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "rife": {
       "cache_version": 16,
@@ -57856,6 +57880,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "styx": {
+      "cache_version": 16,
+      "checked_at": "2026-09-30T08:43:26.855588+00:00",
+      "fragment_status": "Auction",
+      "project": "Styx",
+      "score": 80,
+      "source": "Product Hunt"
+    },
     "suai": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:53.148029+00:00",
@@ -63055,6 +63087,14 @@
       "project": "ulna",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ulua": {
+      "cache_version": 16,
+      "checked_at": "2026-09-30T08:43:26.615320+00:00",
+      "fragment_status": "Auction",
+      "project": "Ulua",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "ulus": {
       "cache_version": 16,
