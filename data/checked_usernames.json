@@ -5888,6 +5888,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bivy": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T12:26:34.372046+00:00",
+      "fragment_status": "Auction",
+      "project": "Bivy",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "bize": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:49.687809+00:00",
@@ -35624,6 +35632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ludo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T12:26:34.586411+00:00",
+      "fragment_status": "Auction",
+      "project": "Ludo (film)",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "ludu": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:42.843793+00:00",
@@ -41719,6 +41735,14 @@
       "project": "nixl",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "nixm": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T12:26:34.146071+00:00",
+      "fragment_status": "Auction",
+      "project": "Nixm",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "nixy": {
       "cache_version": 16,
