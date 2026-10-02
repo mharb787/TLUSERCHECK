@@ -22616,6 +22616,14 @@
       "score": 76,
       "source": "GitHub Trending (daily)"
     },
+    "glyp": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T21:37:39.010643+00:00",
+      "fragment_status": "Auction",
+      "project": "GLYP",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "glyph": {
       "cache_version": 16,
       "checked_at": "2026-05-10T18:45:38.896750+00:00",
@@ -32687,6 +32695,14 @@
       "project": "kyle",
       "score": 93,
       "source": "City Names"
+    },
+    "kyno": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T21:37:38.684122+00:00",
+      "fragment_status": "Auction",
+      "project": "Kyno",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "kyoo": {
       "cache_version": 16,
