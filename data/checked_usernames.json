@@ -64408,6 +64408,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "velu": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T06:11:08.244834+00:00",
+      "fragment_status": "Auction",
+      "project": "Velu",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "vena": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:15.531526+00:00",
@@ -64999,6 +65007,14 @@
       "project": "Vishu",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "visi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-02T06:11:07.798287+00:00",
+      "fragment_status": "Auction",
+      "project": "Visi",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "viso": {
       "cache_version": 16,
