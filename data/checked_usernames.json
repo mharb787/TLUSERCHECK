@@ -728,6 +728,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "afaw": {
+      "cache_version": 16,
+      "checked_at": "2026-10-03T00:43:00.264340+00:00",
+      "fragment_status": "Auction",
+      "project": "AFAW",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "afec": {
       "cache_version": 16,
       "checked_at": "2026-05-21T17:47:41.821983+00:00",
@@ -58767,6 +58775,14 @@
       "project": "tabu",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "tabx": {
+      "cache_version": 16,
+      "checked_at": "2026-10-03T00:43:00.078139+00:00",
+      "fragment_status": "Auction",
+      "project": "TabX",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "tace": {
       "cache_version": 16,
