@@ -6200,6 +6200,14 @@
       "score": 75,
       "source": "GitHub Topic (cli)"
     },
+    "bmux": {
+      "cache_version": 16,
+      "checked_at": "2026-10-03T10:38:01.543445+00:00",
+      "fragment_status": "Auction",
+      "project": "bmux",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "bnlp": {
       "cache_version": 16,
       "checked_at": "2026-05-24T14:43:55.138951+00:00",
@@ -53952,6 +53960,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "scmd": {
+      "cache_version": 16,
+      "checked_at": "2026-10-03T10:38:01.314154+00:00",
+      "fragment_status": "Auction",
+      "project": "SCMD",
+      "score": 80,
+      "source": "Product Hunt"
+    },
     "scop": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:23.583444+00:00",
@@ -69559,6 +69575,14 @@
       "project": "yubal",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "yubi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-03T10:38:01.771245+00:00",
+      "fragment_status": "Auction",
+      "project": "Yubi",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "yuca": {
       "cache_version": 16,
