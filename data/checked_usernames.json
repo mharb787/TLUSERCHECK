@@ -11400,6 +11400,14 @@
       "score": 75,
       "source": "Wikipedia Trending"
     },
+    "ctwm": {
+      "cache_version": 16,
+      "checked_at": "2026-10-04T21:54:21.470817+00:00",
+      "fragment_status": "Auction",
+      "project": "CTWM",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "cuba": {
       "cache_version": 16,
       "checked_at": "2026-06-14T21:37:44.681988+00:00",
@@ -40927,6 +40935,14 @@
       "project": "NCCV",
       "score": 75,
       "source": "GitHub Topic (computer-vision)"
+    },
+    "ncdu": {
+      "cache_version": 16,
+      "checked_at": "2026-10-04T21:54:21.585586+00:00",
+      "fragment_status": "Auction",
+      "project": "ncdu",
+      "score": 90,
+      "source": "Lobsters"
     },
     "ncfm": {
       "cache_version": 16,
