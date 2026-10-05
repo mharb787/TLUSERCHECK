@@ -28952,6 +28952,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "jarq": {
+      "cache_version": 16,
+      "checked_at": "2026-10-05T12:36:53.274504+00:00",
+      "fragment_status": "Auction",
+      "project": "Jarq",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "jars": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:31.265925+00:00",
@@ -36799,6 +36807,14 @@
       "project": "maru",
       "score": 87,
       "source": "GitHub Topic (neural-network)"
+    },
+    "marv": {
+      "cache_version": 16,
+      "checked_at": "2026-10-05T12:36:53.161777+00:00",
+      "fragment_status": "Auction",
+      "project": "Marv",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "mary": {
       "cache_version": 16,
