@@ -29632,6 +29632,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "jiwo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T23:15:47.418637+00:00",
+      "fragment_status": "Auction",
+      "project": "Jiwo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "jixi": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:53.416257+00:00",
@@ -30271,6 +30279,14 @@
       "project": "jura",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "jurl": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T23:15:47.535269+00:00",
+      "fragment_status": "Auction",
+      "project": "Jurl",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "jurm": {
       "cache_version": 16,
@@ -61112,6 +61128,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "toks": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T23:15:47.652891+00:00",
+      "fragment_status": "Auction",
+      "project": "toks",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "tola": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:48.150882+00:00",
@@ -65696,6 +65720,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "vulf": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T23:15:47.849352+00:00",
+      "fragment_status": "Auction",
+      "project": "Vulf",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "vuls": {
       "cache_version": 16,
       "checked_at": "2026-05-30T17:42:09.350410+00:00",
@@ -66767,6 +66799,14 @@
       "project": "werl",
       "score": 93,
       "source": "City Names"
+    },
+    "werm": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T23:15:47.964503+00:00",
+      "fragment_status": "Auction",
+      "project": "werm",
+      "score": 88,
+      "source": "GitHub Trending (daily)"
     },
     "wert": {
       "cache_version": 16,
