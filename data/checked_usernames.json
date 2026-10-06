@@ -14416,6 +14416,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "doco": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T07:48:41.213084+00:00",
+      "fragment_status": "Auction",
+      "project": "Doco",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "docq": {
       "cache_version": 16,
       "checked_at": "2026-05-15T12:20:57.460505+00:00",
@@ -53023,6 +53031,14 @@
       "project": "runt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ruos": {
+      "cache_version": 16,
+      "checked_at": "2026-10-06T07:48:41.331966+00:00",
+      "fragment_status": "Auction",
+      "project": "ruOS",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "ruqi": {
       "cache_version": 16,
