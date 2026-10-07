@@ -25048,6 +25048,14 @@
       "score": 76,
       "source": "Crates.io"
     },
+    "hdtp": {
+      "cache_version": 16,
+      "checked_at": "2026-10-07T20:49:13.118172+00:00",
+      "fragment_status": "Auction",
+      "project": "HDTP",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "head": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:01:06.766213+00:00",
