@@ -51368,6 +51368,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "rhem": {
+      "cache_version": 16,
+      "checked_at": "2026-10-07T08:55:18.012623+00:00",
+      "fragment_status": "Auction",
+      "project": "Rhem Labs",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "rhos": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:58.770182+00:00",
@@ -52271,6 +52279,14 @@
       "project": "rook",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rool": {
+      "cache_version": 16,
+      "checked_at": "2026-10-07T08:55:18.769764+00:00",
+      "fragment_status": "Auction",
+      "project": "Rool",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "room": {
       "cache_version": 16,
@@ -65824,6 +65840,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "wabi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-07T08:55:18.524048+00:00",
+      "fragment_status": "Auction",
+      "project": "Wabi",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "wabs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:22.597105+00:00",
@@ -66423,6 +66447,14 @@
       "project": "Waza",
       "score": 100,
       "source": "GitHub Trending (monthly)"
+    },
+    "wazn": {
+      "cache_version": 16,
+      "checked_at": "2026-10-07T08:55:17.738009+00:00",
+      "fragment_status": "Auction",
+      "project": "Wazn-2B",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "wcag": {
       "cache_version": 16,
@@ -69983,6 +70015,14 @@
       "project": "zato",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "zavi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-07T08:55:18.262331+00:00",
+      "fragment_status": "Auction",
+      "project": "Zavi",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "zaxo": {
       "cache_version": 16,
