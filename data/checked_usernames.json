@@ -29912,6 +29912,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "jops": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T23:50:25.436913+00:00",
+      "fragment_status": "Auction",
+      "project": "JOPS",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "jora": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:40.250363+00:00",
@@ -64575,6 +64583,14 @@
       "project": "vectr",
       "score": 88,
       "source": "GitHub Topic (ai)"
+    },
+    "veda": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T23:50:25.655306+00:00",
+      "fragment_status": "Auction",
+      "project": "Veda",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "vedit": {
       "cache_version": 14,
