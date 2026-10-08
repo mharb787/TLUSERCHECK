@@ -9400,6 +9400,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "cids": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T00:27:16.891778+00:00",
+      "fragment_status": "Auction",
+      "project": "CIDs",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ciff": {
       "cache_version": 16,
       "checked_at": "2026-05-27T10:16:04.016183+00:00",
