@@ -46440,6 +46440,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "phos": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T13:45:38.809538+00:00",
+      "fragment_status": "Auction",
+      "project": "Phos-Chek",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "phot": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:09.809454+00:00",
@@ -55504,6 +55512,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "simo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T13:45:37.853895+00:00",
+      "fragment_status": "Auction",
+      "project": "Simo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "simp": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:45.356866+00:00",
@@ -63120,6 +63136,14 @@
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
     },
+    "udon": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T13:45:37.685411+00:00",
+      "fragment_status": "Auction",
+      "project": "Udon",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "udos": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:04.797859+00:00",
@@ -68399,6 +68423,14 @@
       "project": "XMem",
       "score": 88,
       "source": "GitHub Topic (vector-database)"
+    },
+    "xmfs": {
+      "cache_version": 16,
+      "checked_at": "2026-10-08T13:45:37.519120+00:00",
+      "fragment_status": "Auction",
+      "project": "XMFS",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "xmpp": {
       "cache_version": 16,
