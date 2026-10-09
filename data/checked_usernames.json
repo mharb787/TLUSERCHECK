@@ -51400,6 +51400,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "rgpu": {
+      "cache_version": 16,
+      "checked_at": "2026-10-09T17:05:24.640137+00:00",
+      "fragment_status": "Auction",
+      "project": "Rgpu",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "rhai": {
       "cache_version": 16,
       "checked_at": "2026-05-14T04:14:31.236790+00:00",
