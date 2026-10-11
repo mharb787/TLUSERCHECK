@@ -7176,6 +7176,14 @@
       "score": 100,
       "source": "Crates.io"
     },
+    "bsos": {
+      "cache_version": 16,
+      "checked_at": "2026-10-11T02:17:53.629400+00:00",
+      "fragment_status": "Auction",
+      "project": "BSOS",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "bstr": {
       "cache_version": 16,
       "checked_at": "2026-05-11T13:24:19.859070+00:00",
