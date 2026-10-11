@@ -2816,6 +2816,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "apsw": {
+      "cache_version": 16,
+      "checked_at": "2026-10-11T19:35:19.554319+00:00",
+      "fragment_status": "Auction",
+      "project": "apsw",
+      "score": 90,
+      "source": "Hacker News New"
+    },
     "aptv": {
       "cache_version": 16,
       "checked_at": "2026-05-16T23:38:12.249060+00:00",
@@ -26279,6 +26287,14 @@
       "project": "hook",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "hoon": {
+      "cache_version": 16,
+      "checked_at": "2026-10-11T19:35:19.889038+00:00",
+      "fragment_status": "Auction",
+      "project": "Hoon",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "hoop": {
       "cache_version": 16,
