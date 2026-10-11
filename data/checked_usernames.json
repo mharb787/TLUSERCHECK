@@ -25056,6 +25056,14 @@
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
     },
+    "hcsm": {
+      "cache_version": 16,
+      "checked_at": "2026-10-11T15:18:27.082252+00:00",
+      "fragment_status": "Auction",
+      "project": "HCSM",
+      "score": 90,
+      "source": "Hacker News Show HN"
+    },
     "hdmf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:05.265882+00:00",
@@ -40415,6 +40423,14 @@
       "project": "Myco",
       "score": 100,
       "source": "Hacker News Show HN"
+    },
+    "mygo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-11T15:18:27.196750+00:00",
+      "fragment_status": "Auction",
+      "project": "mygo",
+      "score": 100,
+      "source": "GitHub Trending (weekly)"
     },
     "myip": {
       "cache_version": 16,
