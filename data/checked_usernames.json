@@ -2400,6 +2400,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "anku": {
+      "cache_version": 16,
+      "checked_at": "2026-10-13T20:41:56.212406+00:00",
+      "fragment_status": "Auction",
+      "project": "Anku",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "anky": {
       "cache_version": 16,
       "checked_at": "2026-07-15T23:27:55.955134+00:00",
@@ -14727,6 +14735,14 @@
       "project": "dons",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "dont": {
+      "cache_version": 16,
+      "checked_at": "2026-10-13T20:41:56.402382+00:00",
+      "fragment_status": "Auction",
+      "project": "dont Show HN",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "doom": {
       "cache_version": 16,
