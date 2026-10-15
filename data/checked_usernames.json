@@ -16968,6 +16968,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "ellf": {
+      "cache_version": 16,
+      "checked_at": "2026-10-15T11:59:06.999349+00:00",
+      "fragment_status": "Auction",
+      "project": "Ellf",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ells": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:31.882370+00:00",
@@ -20959,6 +20967,14 @@
       "project": "fvGP",
       "score": 75,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "fwrd": {
+      "cache_version": 16,
+      "checked_at": "2026-10-15T11:59:07.347902+00:00",
+      "fragment_status": "Auction",
+      "project": "Fwrd",
+      "score": 80,
+      "source": "Product Hunt"
     },
     "fxgl": {
       "cache_version": 16,
