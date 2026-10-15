@@ -16576,6 +16576,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "eevo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-15T19:55:39.472372+00:00",
+      "fragment_status": "Auction",
+      "project": "Eevo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "efak": {
       "cache_version": 16,
       "checked_at": "2026-05-28T16:42:35.261940+00:00",
@@ -57397,6 +57405,14 @@
       "checked_at": "2026-05-12T07:33:06.948877+00:00",
       "fragment_status": "Auction",
       "project": "Speq",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "spev": {
+      "cache_version": 16,
+      "checked_at": "2026-10-15T19:55:39.646293+00:00",
+      "fragment_status": "Auction",
+      "project": "SPEV",
       "score": 100,
       "source": "Hacker News Show HN"
     },
