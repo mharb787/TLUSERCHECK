@@ -7136,6 +7136,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "brod": {
+      "cache_version": 16,
+      "checked_at": "2026-10-17T09:37:46.479430+00:00",
+      "fragment_status": "Auction",
+      "project": "Brod",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "bron": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:16.267688+00:00",
@@ -17343,6 +17351,14 @@
       "project": "Endl",
       "score": 92,
       "source": "Product Hunt"
+    },
+    "endo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-17T09:37:46.264810+00:00",
+      "fragment_status": "Auction",
+      "project": "Endo",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ends": {
       "cache_version": 16,
@@ -58047,6 +58063,14 @@
       "project": "stab",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "stac": {
+      "cache_version": 16,
+      "checked_at": "2026-10-17T09:37:46.691101+00:00",
+      "fragment_status": "Auction",
+      "project": "STAC",
+      "score": 90,
+      "source": "Lobsters"
     },
     "stag": {
       "cache_version": 16,
