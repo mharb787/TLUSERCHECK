@@ -44568,6 +44568,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "orib": {
+      "cache_version": 16,
+      "checked_at": "2026-10-17T05:35:54.314434+00:00",
+      "fragment_status": "Auction",
+      "project": "orib",
+      "score": 90,
+      "source": "Lobsters"
+    },
     "orion": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:35:04.569765+00:00",
@@ -47719,6 +47727,14 @@
       "project": "poet",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "pogi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-17T05:35:54.075393+00:00",
+      "fragment_status": "Auction",
+      "project": "Pogi",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "pogy": {
       "cache_version": 16,
