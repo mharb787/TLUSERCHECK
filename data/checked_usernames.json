@@ -41696,6 +41696,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "nexo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-18T16:29:59.346094+00:00",
+      "fragment_status": "Auction",
+      "project": "Nexo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "next": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:21.030885+00:00",
