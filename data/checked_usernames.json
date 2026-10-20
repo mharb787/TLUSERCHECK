@@ -63632,6 +63632,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ulda": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T09:59:54.521380+00:00",
+      "fragment_status": "Auction",
+      "project": "ULDA",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ulib": {
       "cache_version": 16,
       "checked_at": "2026-06-16T01:46:25.814735+00:00",
@@ -68959,6 +68967,14 @@
       "project": "XTRA",
       "score": 87,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "xtty": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T09:59:54.760087+00:00",
+      "fragment_status": "Auction",
+      "project": "xtty",
+      "score": 80,
+      "source": "Product Hunt"
     },
     "xuan": {
       "cache_version": 16,
