@@ -224,6 +224,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "absd": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T18:43:48.253475+00:00",
+      "fragment_status": "Auction",
+      "project": "ABSD",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "absl": {
       "cache_version": 16,
       "checked_at": "2026-07-30T20:14:56.061345+00:00",
@@ -69751,6 +69759,14 @@
       "project": "yihe",
       "score": 93,
       "source": "City Names"
+    },
+    "yila": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T18:43:48.055698+00:00",
+      "fragment_status": "Auction",
+      "project": "Yila",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "yill": {
       "cache_version": 16,
