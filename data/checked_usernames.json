@@ -568,6 +568,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "adlc": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T21:53:00.929891+00:00",
+      "fragment_status": "Auction",
+      "project": "ADLC",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "adlfs": {
       "cache_version": 16,
       "checked_at": "2026-05-10T12:37:02.879033+00:00",
@@ -24831,6 +24839,14 @@
       "project": "hann\u014d",
       "score": 93,
       "source": "City Names"
+    },
+    "hans": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T21:53:01.270234+00:00",
+      "fragment_status": "Auction",
+      "project": "Hans-Dieter Flick",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "hant": {
       "cache_version": 16,
@@ -53111,6 +53127,14 @@
       "project": "rube",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "rubi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-20T21:53:00.583758+00:00",
+      "fragment_status": "Auction",
+      "project": "Rubi",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "rubs": {
       "cache_version": 16,
