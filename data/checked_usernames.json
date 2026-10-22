@@ -41912,6 +41912,14 @@
       "score": 87,
       "source": "GitHub Topic (ml)"
     },
+    "nift": {
+      "cache_version": 16,
+      "checked_at": "2026-10-22T05:10:25.217343+00:00",
+      "fragment_status": "Auction",
+      "project": "NiFT",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "nigg": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:18.763896+00:00",
@@ -52215,6 +52223,14 @@
       "project": "rlvm",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "rmbg": {
+      "cache_version": 16,
+      "checked_at": "2026-10-22T05:10:25.060318+00:00",
+      "fragment_status": "Auction",
+      "project": "RMBG",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "rmcp": {
       "cache_version": 16,
