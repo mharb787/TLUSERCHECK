@@ -45136,6 +45136,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "owly": {
+      "cache_version": 16,
+      "checked_at": "2026-10-22T00:29:03.217681+00:00",
+      "fragment_status": "Auction",
+      "project": "owly",
+      "score": 100,
+      "source": "GitHub Trending (weekly)"
+    },
     "owns": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:53.391934+00:00",
@@ -62527,6 +62535,14 @@
       "project": "tsoa",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "tsrs": {
+      "cache_version": 16,
+      "checked_at": "2026-10-22T00:29:03.406338+00:00",
+      "fragment_status": "Auction",
+      "project": "tsrs",
+      "score": 92,
+      "source": "GitHub Trending (weekly)"
     },
     "tsrx": {
       "cache_version": 16,
