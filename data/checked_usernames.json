@@ -2088,6 +2088,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "amgi": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T00:14:53.384054+00:00",
+      "fragment_status": "Auction",
+      "project": "Amgi",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "amia": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:13.451263+00:00",
