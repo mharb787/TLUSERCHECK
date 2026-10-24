@@ -10152,6 +10152,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "cnet": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T04:37:20.028815+00:00",
+      "fragment_status": "Auction",
+      "project": "CNET",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "cnll": {
       "cache_version": 16,
       "checked_at": "2026-05-19T08:51:44.081523+00:00",
@@ -26063,6 +26071,14 @@
       "project": "hkdf",
       "score": 93,
       "source": "Crates.io"
+    },
+    "hlas": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T04:37:19.825265+00:00",
+      "fragment_status": "Auction",
+      "project": "Hlas-1",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "hlua": {
       "cache_version": 16,
