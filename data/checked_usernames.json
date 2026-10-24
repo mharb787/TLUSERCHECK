@@ -3904,6 +3904,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "aven": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T09:04:50.353487+00:00",
+      "fragment_status": "Auction",
+      "project": "Aven-stops AI coding tools",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aver": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:21.973653+00:00",
@@ -24767,6 +24775,14 @@
       "project": "halt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "halv": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T09:04:50.132560+00:00",
+      "fragment_status": "Auction",
+      "project": "Halv",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "hame": {
       "cache_version": 16,
@@ -61640,6 +61656,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "toli": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T09:04:50.586170+00:00",
+      "fragment_status": "Auction",
+      "project": "Toli",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "toll": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:48.620899+00:00",
@@ -65815,6 +65839,14 @@
       "project": "vlad",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "vlda": {
+      "cache_version": 16,
+      "checked_at": "2026-10-24T09:04:50.807138+00:00",
+      "fragment_status": "Auction",
+      "project": "VLDA-learn compact Deltas as",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "vllm": {
       "cache_version": 16,
