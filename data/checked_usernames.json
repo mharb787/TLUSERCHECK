@@ -40,6 +40,14 @@
       "score": 88,
       "source": "Crates.io"
     },
+    "aare": {
+      "cache_version": 16,
+      "checked_at": "2026-10-26T11:16:09.120056+00:00",
+      "fragment_status": "Auction",
+      "project": "AARE",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
+    },
     "aasm": {
       "cache_version": 16,
       "checked_at": "2026-06-21T11:35:54.735384+00:00",
@@ -39975,6 +39983,14 @@
       "project": "mozo",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "mozy": {
+      "cache_version": 16,
+      "checked_at": "2026-10-26T11:16:09.344321+00:00",
+      "fragment_status": "Auction",
+      "project": "Mozy",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "mpai": {
       "cache_version": 16,
