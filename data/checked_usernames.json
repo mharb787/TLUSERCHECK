@@ -42144,6 +42144,14 @@
       "score": 87,
       "source": "GitHub Topic (ai)"
     },
+    "ninx": {
+      "cache_version": 16,
+      "checked_at": "2026-10-27T10:57:20.513313+00:00",
+      "fragment_status": "Auction",
+      "project": "NINX",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "nipa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:22.826631+00:00",
@@ -63847,6 +63855,14 @@
       "project": "ukes",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "ulak": {
+      "cache_version": 16,
+      "checked_at": "2026-10-27T10:57:20.305800+00:00",
+      "fragment_status": "Auction",
+      "project": "Ulak",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "ulan": {
       "cache_version": 16,
