@@ -2168,6 +2168,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "amni": {
+      "cache_version": 16,
+      "checked_at": "2026-10-27T20:38:17.358137+00:00",
+      "fragment_status": "Auction",
+      "project": "Amni-CAD",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "amod": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:44.224654+00:00",
@@ -59837,6 +59845,14 @@
       "checked_at": "2026-05-10T19:46:54.437614+00:00",
       "fragment_status": "Auction",
       "project": "TapFi",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "tapo": {
+      "cache_version": 16,
+      "checked_at": "2026-10-27T20:38:17.476063+00:00",
+      "fragment_status": "Auction",
+      "project": "Tapo-uploader",
       "score": 100,
       "source": "Hacker News Show HN"
     },
