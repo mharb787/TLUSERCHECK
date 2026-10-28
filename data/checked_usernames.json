@@ -59560,6 +59560,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "tagd": {
+      "cache_version": 16,
+      "checked_at": "2026-10-28T16:33:05.167047+00:00",
+      "fragment_status": "Auction",
+      "project": "Tagd",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "tago": {
       "cache_version": 16,
       "checked_at": "2026-05-13T08:09:13.423464+00:00",
