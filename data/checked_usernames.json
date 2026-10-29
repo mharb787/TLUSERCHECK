@@ -3024,6 +3024,14 @@
       "score": 88,
       "source": "PyPI Top"
     },
+    "arcr": {
+      "cache_version": 16,
+      "checked_at": "2026-10-29T19:13:23.028606+00:00",
+      "fragment_status": "Auction",
+      "project": "ARCR",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "arcs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:18.457963+00:00",
@@ -36888,6 +36896,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "makr": {
+      "cache_version": 16,
+      "checked_at": "2026-10-29T19:13:22.407434+00:00",
+      "fragment_status": "Auction",
+      "project": "Makr",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "maks": {
       "cache_version": 16,
       "checked_at": "2026-05-22T22:15:05.586272+00:00",
@@ -52464,6 +52480,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "roal": {
+      "cache_version": 16,
+      "checked_at": "2026-10-29T19:13:22.810282+00:00",
+      "fragment_status": "Auction",
+      "project": "ROAL",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "roam": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:21:04.084906+00:00",
@@ -56559,6 +56583,14 @@
       "project": "slay",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "slcr": {
+      "cache_version": 16,
+      "checked_at": "2026-10-29T19:13:22.603039+00:00",
+      "fragment_status": "Auction",
+      "project": "SLCR",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "sldl": {
       "cache_version": 16,
