@@ -33544,6 +33544,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "laos": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T06:38:45.633579+00:00",
+      "fragment_status": "Auction",
+      "project": "Laos",
+      "score": 87,
+      "source": "Wikipedia Trending"
+    },
     "lapa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:25.294718+00:00",
@@ -33655,6 +33663,14 @@
       "project": "LASK",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "lasm": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T06:38:44.376816+00:00",
+      "fragment_status": "Auction",
+      "project": "Lasm",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "lass": {
       "cache_version": 16,
@@ -37831,6 +37847,14 @@
       "project": "meda",
       "score": 93,
       "source": "City Names"
+    },
+    "medo": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T06:38:44.714509+00:00",
+      "fragment_status": "Auction",
+      "project": "Medo",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "meed": {
       "cache_version": 16,
@@ -67895,6 +67919,14 @@
       "project": "wich",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wici": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T06:38:45.288453+00:00",
+      "fragment_status": "Auction",
+      "project": "WiCi",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "wick": {
       "cache_version": 16,
