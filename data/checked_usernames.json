@@ -43648,6 +43648,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "ocel": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T00:31:12.562103+00:00",
+      "fragment_status": "Auction",
+      "project": "Ocel",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ocpp": {
       "cache_version": 16,
       "checked_at": "2026-05-17T14:09:22.952909+00:00",
@@ -68831,6 +68839,14 @@
       "project": "Xavi (footballer, born 1980)",
       "score": 87,
       "source": "Wikipedia Trending"
+    },
+    "xazz": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T00:31:12.344712+00:00",
+      "fragment_status": "Auction",
+      "project": "Xazz",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "xbar": {
       "cache_version": 16,
