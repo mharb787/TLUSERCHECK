@@ -17848,6 +17848,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "ernd": {
+      "cache_version": 16,
+      "checked_at": "2026-11-01T13:45:25.766512+00:00",
+      "fragment_status": "Auction",
+      "project": "ernd",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "erne": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:35.129257+00:00",
