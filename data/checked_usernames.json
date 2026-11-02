@@ -8976,6 +8976,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "cepo": {
+      "cache_version": 16,
+      "checked_at": "2026-11-02T18:14:58.271222+00:00",
+      "fragment_status": "Auction",
+      "project": "CEPO",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ceps": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:58:27.410561+00:00",
@@ -21807,6 +21815,14 @@
       "project": "gdown",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "gdpx": {
+      "cache_version": 16,
+      "checked_at": "2026-11-02T18:14:57.997371+00:00",
+      "fragment_status": "Auction",
+      "project": "GDPx",
+      "score": 75,
+      "source": "Hacker News New"
     },
     "gdrl": {
       "cache_version": 16,
