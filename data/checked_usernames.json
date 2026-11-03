@@ -42352,6 +42352,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "nive": {
+      "cache_version": 16,
+      "checked_at": "2026-11-03T15:24:58.346903+00:00",
+      "fragment_status": "Auction",
+      "project": "Nive",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "nivo": {
       "cache_version": 16,
       "checked_at": "2026-05-30T15:40:04.459118+00:00",
@@ -46567,6 +46575,14 @@
       "project": "pein",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "peji": {
+      "cache_version": 16,
+      "checked_at": "2026-11-03T15:24:59.712758+00:00",
+      "fragment_status": "Auction",
+      "project": "Peji",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "peke": {
       "cache_version": 16,
@@ -66344,6 +66360,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "vool": {
+      "cache_version": 16,
+      "checked_at": "2026-11-03T15:24:59.368207+00:00",
+      "fragment_status": "Auction",
+      "project": "Vool",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "vora": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:00.782617+00:00",
@@ -67575,6 +67599,14 @@
       "project": "welt",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wemd": {
+      "cache_version": 16,
+      "checked_at": "2026-11-03T15:24:58.006442+00:00",
+      "fragment_status": "Auction",
+      "project": "WeMD",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "wend": {
       "cache_version": 16,
@@ -70560,6 +70592,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "yozo": {
+      "cache_version": 16,
+      "checked_at": "2026-11-03T15:24:59.020710+00:00",
+      "fragment_status": "Auction",
+      "project": "Yozo",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "ytop": {
       "cache_version": 16,
       "checked_at": "2026-05-23T06:43:39.653220+00:00",
@@ -71549,6 +71589,14 @@
       "checked_at": "2026-07-02T01:35:43.033839+00:00",
       "fragment_status": "Auction",
       "project": "Zukr",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "zuno": {
+      "cache_version": 16,
+      "checked_at": "2026-11-03T15:24:58.687246+00:00",
+      "fragment_status": "Auction",
+      "project": "Zuno",
       "score": 100,
       "source": "Hacker News Show HN"
     },
