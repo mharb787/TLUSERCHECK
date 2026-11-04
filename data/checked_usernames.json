@@ -30848,6 +30848,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kadb": {
+      "cache_version": 16,
+      "checked_at": "2026-11-04T21:28:47.021843+00:00",
+      "fragment_status": "Auction",
+      "project": "Kadb",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "kade": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:19.757277+00:00",
@@ -45397,6 +45405,14 @@
       "checked_at": "2026-05-11T18:05:11.682646+00:00",
       "fragment_status": "Auction",
       "project": "Ovlt",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "ovok": {
+      "cache_version": 16,
+      "checked_at": "2026-11-04T21:28:46.829787+00:00",
+      "fragment_status": "Auction",
+      "project": "Ovok",
       "score": 100,
       "source": "Hacker News Show HN"
     },
