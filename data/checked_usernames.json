@@ -32112,6 +32112,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "kiri": {
+      "cache_version": 16,
+      "checked_at": "2026-11-06T02:24:34.695849+00:00",
+      "fragment_status": "Auction",
+      "project": "kiri",
+      "score": 90,
+      "source": "GitHub Trending (daily)"
+    },
     "kirk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:52.839906+00:00",
