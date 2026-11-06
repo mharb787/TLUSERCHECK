@@ -35416,6 +35416,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "lmux": {
+      "cache_version": 16,
+      "checked_at": "2026-11-06T21:47:41.005513+00:00",
+      "fragment_status": "Auction",
+      "project": "Lmux",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "lnav": {
       "cache_version": 16,
       "checked_at": "2026-06-17T07:25:15.040223+00:00",
@@ -48216,6 +48224,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "poki": {
+      "cache_version": 16,
+      "checked_at": "2026-11-06T21:47:41.646811+00:00",
+      "fragment_status": "Auction",
+      "project": "poki",
+      "score": 91,
+      "source": "GitHub Trending (daily)"
+    },
     "poky": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:20.787229+00:00",
@@ -50552,6 +50568,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "qufz": {
+      "cache_version": 16,
+      "checked_at": "2026-11-06T21:47:41.961439+00:00",
+      "fragment_status": "Auction",
+      "project": "qufz",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
+    },
     "quid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:45.072928+00:00",
@@ -51711,6 +51735,14 @@
       "project": "remi",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "remo": {
+      "cache_version": 16,
+      "checked_at": "2026-11-06T21:47:41.328794+00:00",
+      "fragment_status": "Auction",
+      "project": "REMO",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "rems": {
       "cache_version": 16,
