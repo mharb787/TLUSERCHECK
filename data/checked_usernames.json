@@ -1160,6 +1160,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "aida": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T18:55:58.766885+00:00",
+      "fragment_status": "Auction",
+      "project": "AIDA",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aide": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:48:19.604696+00:00",
@@ -19079,6 +19087,14 @@
       "project": "fela",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "felf": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T18:55:58.579828+00:00",
+      "fragment_status": "Auction",
+      "project": "FELF",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "fell": {
       "cache_version": 16,
