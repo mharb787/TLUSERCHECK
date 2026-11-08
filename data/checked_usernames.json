@@ -68248,6 +68248,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "winc": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T01:23:54.181387+00:00",
+      "fragment_status": "Auction",
+      "project": "Winc",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
+    },
     "wind": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:23:48.412623+00:00",
