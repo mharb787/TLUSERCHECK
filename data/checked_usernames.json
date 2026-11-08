@@ -6384,6 +6384,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "bobr": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T22:34:18.829190+00:00",
+      "fragment_status": "Auction",
+      "project": "Bobr",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "bobs": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:59.174190+00:00",
@@ -12247,6 +12255,14 @@
       "project": "dahs",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "daid": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T22:34:18.349121+00:00",
+      "fragment_status": "Auction",
+      "project": "DAID",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "dain": {
       "cache_version": 16,
@@ -19103,6 +19119,14 @@
       "project": "fell",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "fels": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T22:34:18.572216+00:00",
+      "fragment_status": "Auction",
+      "project": "Fels",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "felt": {
       "cache_version": 16,
@@ -54112,6 +54136,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "ryph": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T22:34:19.049691+00:00",
+      "fragment_status": "Auction",
+      "project": "Ryph",
+      "score": 91,
+      "source": "Hacker News Show HN"
+    },
     "rysh": {
       "cache_version": 16,
       "checked_at": "2026-08-18T05:39:05.285650+00:00",
@@ -60799,6 +60831,14 @@
       "project": "Terax",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "terf": {
+      "cache_version": 16,
+      "checked_at": "2026-11-08T22:34:19.311649+00:00",
+      "fragment_status": "Auction",
+      "project": "TERF",
+      "score": 87,
+      "source": "Wikipedia Trending"
     },
     "term": {
       "cache_version": 16,
