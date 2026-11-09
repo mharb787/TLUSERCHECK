@@ -67472,6 +67472,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "wbns": {
+      "cache_version": 16,
+      "checked_at": "2026-11-09T19:09:38.287510+00:00",
+      "fragment_status": "Auction",
+      "project": "WBNS-TV",
+      "score": 75,
+      "source": "Wikipedia Trending"
+    },
     "wcag": {
       "cache_version": 16,
       "checked_at": "2026-06-07T00:19:32.276263+00:00",
