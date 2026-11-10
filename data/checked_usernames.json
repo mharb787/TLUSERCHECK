@@ -50624,6 +50624,14 @@
       "score": 89,
       "source": "GitHub Trending (daily)"
     },
+    "quic": {
+      "cache_version": 16,
+      "checked_at": "2026-11-10T02:01:39.163020+00:00",
+      "fragment_status": "Auction",
+      "project": "QUIC",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "quid": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:20:45.072928+00:00",
