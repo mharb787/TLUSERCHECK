@@ -50824,6 +50824,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "raea": {
+      "cache_version": 16,
+      "checked_at": "2026-11-11T08:49:52.120950+00:00",
+      "fragment_status": "Auction",
+      "project": "raea",
+      "score": 100,
+      "source": "GitHub Trending (weekly)"
+    },
     "rafa": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:04.555419+00:00",
