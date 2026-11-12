@@ -2832,6 +2832,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "apob": {
+      "cache_version": 16,
+      "checked_at": "2026-11-12T03:40:26.167346+00:00",
+      "fragment_status": "Auction",
+      "project": "ApoB",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "apod": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:17.633195+00:00",
@@ -50311,6 +50319,14 @@
       "project": "qira",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "qitt": {
+      "cache_version": 16,
+      "checked_at": "2026-11-12T03:40:25.917511+00:00",
+      "fragment_status": "Auction",
+      "project": "Qitt",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "qkan": {
       "cache_version": 16,
