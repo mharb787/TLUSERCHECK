@@ -23896,6 +23896,14 @@
       "score": 87,
       "source": "GitHub Topic (machine-learning)"
     },
+    "grai": {
+      "cache_version": 16,
+      "checked_at": "2026-11-13T00:15:56.271447+00:00",
+      "fragment_status": "Auction",
+      "project": "Grai",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "gram": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:00:41.327404+00:00",
@@ -71839,6 +71847,14 @@
       "project": "zstd",
       "score": 93,
       "source": "Crates.io"
+    },
+    "zthr": {
+      "cache_version": 16,
+      "checked_at": "2026-11-13T00:15:56.488220+00:00",
+      "fragment_status": "Auction",
+      "project": "ZTHR",
+      "score": 91,
+      "source": "Hacker News Show HN"
     },
     "zugl": {
       "cache_version": 16,
