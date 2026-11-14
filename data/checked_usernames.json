@@ -3256,6 +3256,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "aris": {
+      "cache_version": 16,
+      "checked_at": "2026-11-14T14:30:03.676618+00:00",
+      "fragment_status": "Auction",
+      "project": "Aris",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "arix": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:24:43.219974+00:00",
@@ -16687,6 +16695,14 @@
       "project": "Edits: Video Editor",
       "score": 88,
       "source": "App Store Top"
+    },
+    "edna": {
+      "cache_version": 16,
+      "checked_at": "2026-11-14T14:30:03.922087+00:00",
+      "fragment_status": "Auction",
+      "project": "EDNA",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "edrs": {
       "cache_version": 16,
@@ -45168,6 +45184,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "orty": {
+      "cache_version": 16,
+      "checked_at": "2026-11-14T14:30:03.797894+00:00",
+      "fragment_status": "Auction",
+      "project": "Orty",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "orum": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:57.001518+00:00",
@@ -69327,6 +69351,14 @@
       "project": "xDiT",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "xdoc": {
+      "cache_version": 16,
+      "checked_at": "2026-11-14T14:30:04.049061+00:00",
+      "fragment_status": "Auction",
+      "project": "Xdoc",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "xdsl": {
       "cache_version": 16,
