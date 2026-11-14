@@ -6328,6 +6328,14 @@
       "score": 87,
       "source": "GitHub Topic (cli)"
     },
+    "bmds": {
+      "cache_version": 16,
+      "checked_at": "2026-11-14T07:40:19.699943+00:00",
+      "fragment_status": "Auction",
+      "project": "BMDS",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "bmil": {
       "cache_version": 16,
       "checked_at": "2026-05-25T06:06:56.770993+00:00",
