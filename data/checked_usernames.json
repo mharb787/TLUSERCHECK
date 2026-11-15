@@ -30216,6 +30216,14 @@
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
     },
+    "jnum": {
+      "cache_version": 16,
+      "checked_at": "2026-11-15T09:50:01.483450+00:00",
+      "fragment_status": "Auction",
+      "project": "JNum",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "joal": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:26:49.700455+00:00",
@@ -63167,6 +63175,14 @@
       "project": "TSFD",
       "score": 75,
       "source": "GitHub Topic (deep-learning)"
+    },
+    "tsfm": {
+      "cache_version": 16,
+      "checked_at": "2026-11-15T09:50:01.651318+00:00",
+      "fragment_status": "Auction",
+      "project": "Tsfm-pg",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "tsgm": {
       "cache_version": 16,
