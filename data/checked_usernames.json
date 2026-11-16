@@ -63024,6 +63024,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "trmi": {
+      "cache_version": 16,
+      "checked_at": "2026-11-16T17:27:01.345261+00:00",
+      "fragment_status": "Auction",
+      "project": "TRMI",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "trod": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:56.619205+00:00",
@@ -71791,6 +71799,14 @@
       "project": "zodb",
       "score": 88,
       "source": "PyPI Top"
+    },
+    "zode": {
+      "cache_version": 16,
+      "checked_at": "2026-11-16T17:27:01.569681+00:00",
+      "fragment_status": "Auction",
+      "project": "Zode",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "zoea": {
       "cache_version": 16,
