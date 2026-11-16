@@ -25440,6 +25440,14 @@
       "score": 90,
       "source": "Hacker News Show HN"
     },
+    "hcsv": {
+      "cache_version": 16,
+      "checked_at": "2026-11-16T07:44:15.067248+00:00",
+      "fragment_status": "Auction",
+      "project": "HCSV (Hybrid CSV)",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "hdmf": {
       "cache_version": 16,
       "checked_at": "2026-05-14T23:38:05.265882+00:00",
