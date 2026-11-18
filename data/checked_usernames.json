@@ -22048,6 +22048,14 @@
       "score": 90,
       "source": "Lobsters"
     },
+    "geko": {
+      "cache_version": 16,
+      "checked_at": "2026-11-18T06:40:21.127651+00:00",
+      "fragment_status": "Auction",
+      "project": "Geko",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "gela": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:49.023948+00:00",
@@ -45429,6 +45437,14 @@
       "checked_at": "2026-07-21T20:08:14.198789+00:00",
       "fragment_status": "Auction",
       "project": "Otua",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
+    "otus": {
+      "cache_version": 16,
+      "checked_at": "2026-11-18T06:40:21.241710+00:00",
+      "fragment_status": "Auction",
+      "project": "Otus",
       "score": 100,
       "source": "Hacker News Show HN"
     },
