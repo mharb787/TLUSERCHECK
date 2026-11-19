@@ -17736,6 +17736,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "enzo": {
+      "cache_version": 16,
+      "checked_at": "2026-11-19T12:14:17.425633+00:00",
+      "fragment_status": "Auction",
+      "project": "Enzo",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "eole": {
       "cache_version": 16,
       "checked_at": "2026-05-13T05:07:27.919562+00:00",
@@ -43415,6 +43423,14 @@
       "project": "nuki",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "nuko": {
+      "cache_version": 16,
+      "checked_at": "2026-11-19T12:14:17.546212+00:00",
+      "fragment_status": "Auction",
+      "project": "Nuko",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "null": {
       "cache_version": 16,
