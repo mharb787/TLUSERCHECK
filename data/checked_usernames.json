@@ -69888,6 +69888,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "xsrv": {
+      "cache_version": 16,
+      "checked_at": "2026-11-19T20:35:54.302100+00:00",
+      "fragment_status": "Auction",
+      "project": "Xsrv",
+      "score": 75,
+      "source": "Hacker News New"
+    },
     "xsum": {
       "cache_version": 16,
       "checked_at": "2026-05-16T18:33:23.590593+00:00",
