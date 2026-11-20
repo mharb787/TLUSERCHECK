@@ -1456,6 +1456,14 @@
       "score": 100,
       "source": "English Dictionary"
     },
+    "aitz": {
+      "cache_version": 16,
+      "checked_at": "2026-11-20T17:48:41.146129+00:00",
+      "fragment_status": "Auction",
+      "project": "AiTz",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "aiuc": {
       "cache_version": 16,
       "checked_at": "2026-08-10T19:10:46.481836+00:00",
@@ -66647,6 +66655,14 @@
       "project": "vmap",
       "score": 88,
       "source": "Crates.io"
+    },
+    "vmsa": {
+      "cache_version": 16,
+      "checked_at": "2026-11-20T17:48:41.259656+00:00",
+      "fragment_status": "Auction",
+      "project": "VMSA",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "vmtk": {
       "cache_version": 16,
