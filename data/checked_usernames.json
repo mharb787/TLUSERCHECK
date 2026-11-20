@@ -35856,6 +35856,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "lomi": {
+      "cache_version": 16,
+      "checked_at": "2026-11-20T09:14:51.863491+00:00",
+      "fragment_status": "Auction",
+      "project": "LOMI",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "lona": {
       "cache_version": 16,
       "checked_at": "2026-05-26T17:45:35.851541+00:00",
@@ -60896,6 +60904,14 @@
       "score": 88,
       "source": "Hacker News Ask HN"
     },
+    "telo": {
+      "cache_version": 16,
+      "checked_at": "2026-11-20T09:14:52.071377+00:00",
+      "fragment_status": "Auction",
+      "project": "Telo",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "tels": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:35.110808+00:00",
@@ -69431,6 +69447,14 @@
       "project": "xbot",
       "score": 89,
       "source": "GitHub Topic (ai)"
+    },
+    "xbox": {
+      "cache_version": 16,
+      "checked_at": "2026-11-20T09:14:52.274338+00:00",
+      "fragment_status": "Auction",
+      "project": "XBOX",
+      "score": 88,
+      "source": "App Store Top"
     },
     "xbrl": {
       "cache_version": 16,
