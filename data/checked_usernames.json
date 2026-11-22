@@ -32424,6 +32424,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "kizz": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T03:33:05.974127+00:00",
+      "fragment_status": "Auction",
+      "project": "KIZZ",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "klee": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:00.222599+00:00",
@@ -55783,6 +55791,14 @@
       "project": "SGCN",
       "score": 80,
       "source": "GitHub Topic (machine-learning)"
+    },
+    "sgne": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T03:33:06.272933+00:00",
+      "fragment_status": "Auction",
+      "project": "SGNE-CC",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "sgpp": {
       "cache_version": 16,
