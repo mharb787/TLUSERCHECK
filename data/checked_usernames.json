@@ -816,6 +816,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "agav": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T11:53:55.831954+00:00",
+      "fragment_status": "Auction",
+      "project": "Agav",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "agca": {
       "cache_version": 16,
       "checked_at": "2026-05-17T15:14:59.506473+00:00",
@@ -3751,6 +3759,14 @@
       "project": "atlas",
       "score": 89,
       "source": "GitHub Trending (daily)"
+    },
+    "atli": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T11:53:55.716428+00:00",
+      "fragment_status": "Auction",
+      "project": "Atli",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "atma": {
       "cache_version": 16,
@@ -44839,6 +44855,14 @@
       "project": "ooty",
       "score": 93,
       "source": "City Names"
+    },
+    "oovi": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T11:53:55.948216+00:00",
+      "fragment_status": "Auction",
+      "project": "oovi",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "ooze": {
       "cache_version": 16,
