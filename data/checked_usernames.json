@@ -15928,6 +15928,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "duha": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T18:42:26.414656+00:00",
+      "fragment_status": "Auction",
+      "project": "Duha",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "duit": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:59:23.698273+00:00",
@@ -38599,6 +38607,14 @@
       "project": "mhow",
       "score": 93,
       "source": "City Names"
+    },
+    "mhub": {
+      "cache_version": 16,
+      "checked_at": "2026-11-22T18:42:26.647786+00:00",
+      "fragment_status": "Auction",
+      "project": "MHUB",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "mibs": {
       "cache_version": 16,
