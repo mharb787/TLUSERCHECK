@@ -17120,6 +17120,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "elbi": {
+      "cache_version": 16,
+      "checked_at": "2026-11-23T14:22:11.078415+00:00",
+      "fragment_status": "Auction",
+      "project": "ELBI",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "elda": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:06.837291+00:00",
@@ -50239,6 +50247,14 @@
       "project": "pyscn",
       "score": 100,
       "source": "GitHub New Repos"
+    },
+    "pysh": {
+      "cache_version": 16,
+      "checked_at": "2026-11-23T14:22:11.263567+00:00",
+      "fragment_status": "Auction",
+      "project": "Pysh",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "pyshp": {
       "cache_version": 16,
