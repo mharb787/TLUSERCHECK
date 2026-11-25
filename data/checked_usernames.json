@@ -45888,6 +45888,14 @@
       "score": 93,
       "source": "City Names"
     },
+    "oyma": {
+      "cache_version": 16,
+      "checked_at": "2026-11-25T04:28:00.631860+00:00",
+      "fragment_status": "Auction",
+      "project": "Oyma",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "ozar": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:25:37.920763+00:00",
