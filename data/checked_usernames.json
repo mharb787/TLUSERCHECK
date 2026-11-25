@@ -32736,6 +32736,14 @@
       "score": 89,
       "source": "GitHub Topic (ai)"
     },
+    "koed": {
+      "cache_version": 16,
+      "checked_at": "2026-11-25T14:45:51.861042+00:00",
+      "fragment_status": "Auction",
+      "project": "Koed",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "koel": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:56.988878+00:00",
@@ -50847,6 +50855,14 @@
       "project": "quba",
       "score": 93,
       "source": "City Names"
+    },
+    "qube": {
+      "cache_version": 16,
+      "checked_at": "2026-11-25T14:45:51.617750+00:00",
+      "fragment_status": "Auction",
+      "project": "Qube",
+      "score": 92,
+      "source": "Product Hunt"
     },
     "qubx": {
       "cache_version": 16,
@@ -72207,6 +72223,14 @@
       "project": "ZTHR",
       "score": 91,
       "source": "Hacker News Show HN"
+    },
+    "ztrx": {
+      "cache_version": 16,
+      "checked_at": "2026-11-25T14:45:51.367605+00:00",
+      "fragment_status": "Auction",
+      "project": "ztrx",
+      "score": 89,
+      "source": "GitHub Trending (daily)"
     },
     "zugl": {
       "cache_version": 16,
