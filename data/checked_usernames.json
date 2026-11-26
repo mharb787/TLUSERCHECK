@@ -45616,6 +45616,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "oura": {
+      "cache_version": 16,
+      "checked_at": "2026-11-26T05:09:48.199517+00:00",
+      "fragment_status": "Auction",
+      "project": "Oura",
+      "score": 90,
+      "source": "App Store Top"
+    },
     "ours": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:51.499767+00:00",
@@ -50543,6 +50551,14 @@
       "project": "Qfex (YC X25)",
       "score": 87,
       "source": "Hacker News Jobs"
+    },
+    "qftm": {
+      "cache_version": 16,
+      "checked_at": "2026-11-26T05:09:48.081177+00:00",
+      "fragment_status": "Auction",
+      "project": "QFTM-1024",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "qgis": {
       "cache_version": 16,
