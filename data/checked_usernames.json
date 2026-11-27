@@ -42232,6 +42232,14 @@
       "score": 95,
       "source": "English Dictionary"
     },
+    "neui": {
+      "cache_version": 16,
+      "checked_at": "2026-11-27T23:29:46.385685+00:00",
+      "fragment_status": "Auction",
+      "project": "Neui",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "neuk": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:19:20.020219+00:00",
@@ -66991,6 +66999,14 @@
       "project": "Vool",
       "score": 87,
       "source": "Hacker News New"
+    },
+    "voom": {
+      "cache_version": 16,
+      "checked_at": "2026-11-27T23:29:46.608066+00:00",
+      "fragment_status": "Auction",
+      "project": "Voom",
+      "score": 100,
+      "source": "Hacker News Show HN"
     },
     "vora": {
       "cache_version": 16,
