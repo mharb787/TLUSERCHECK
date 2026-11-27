@@ -18392,6 +18392,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "evst": {
+      "cache_version": 16,
+      "checked_at": "2026-11-27T05:21:57.502561+00:00",
+      "fragment_status": "Auction",
+      "project": "EVST",
+      "score": 87,
+      "source": "Hacker News New"
+    },
     "evtx": {
       "cache_version": 16,
       "checked_at": "2026-05-22T22:15:05.818809+00:00",
