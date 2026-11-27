@@ -31208,6 +31208,14 @@
       "score": 100,
       "source": "GitHub New Repos"
     },
+    "kaju": {
+      "cache_version": 16,
+      "checked_at": "2026-11-27T15:17:56.024913+00:00",
+      "fragment_status": "Auction",
+      "project": "Kaju",
+      "score": 100,
+      "source": "Hacker News Show HN"
+    },
     "kaki": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:17:41.819268+00:00",
@@ -34727,6 +34735,14 @@
       "project": "lexa",
       "score": 87,
       "source": "GitHub Trending (daily)"
+    },
+    "lexe": {
+      "cache_version": 16,
+      "checked_at": "2026-11-27T15:17:56.250525+00:00",
+      "fragment_status": "Auction",
+      "project": "Lexe",
+      "score": 87,
+      "source": "Hacker News New"
     },
     "lexi": {
       "cache_version": 16,
@@ -54487,6 +54503,14 @@
       "project": "Rysh",
       "score": 75,
       "source": "Hacker News New"
+    },
+    "rytr": {
+      "cache_version": 16,
+      "checked_at": "2026-11-27T15:17:56.548619+00:00",
+      "fragment_status": "Auction",
+      "project": "rytr",
+      "score": 78,
+      "source": "GitHub Trending (daily)"
     },
     "rzup": {
       "cache_version": 16,
