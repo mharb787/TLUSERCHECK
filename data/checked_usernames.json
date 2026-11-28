@@ -32496,6 +32496,14 @@
       "score": 100,
       "source": "Hacker News Show HN"
     },
+    "klbf": {
+      "cache_version": 16,
+      "checked_at": "2026-11-28T13:42:36.033382+00:00",
+      "fragment_status": "Auction",
+      "project": "klbf lab",
+      "score": 77,
+      "source": "GitHub Trending (daily)"
+    },
     "klee": {
       "cache_version": 16,
       "checked_at": "2026-05-11T10:57:00.222599+00:00",
@@ -60552,6 +60560,14 @@
       "score": 89,
       "source": "GitHub Topic (deep-learning)"
     },
+    "tano": {
+      "cache_version": 16,
+      "checked_at": "2026-11-28T13:42:36.250188+00:00",
+      "fragment_status": "Auction",
+      "project": "Tano",
+      "score": 92,
+      "source": "Product Hunt"
+    },
     "tans": {
       "cache_version": 16,
       "checked_at": "2026-05-11T11:22:23.431569+00:00",
@@ -69335,6 +69351,14 @@
       "project": "writ",
       "score": 95,
       "source": "English Dictionary"
+    },
+    "wrkr": {
+      "cache_version": 16,
+      "checked_at": "2026-11-28T13:42:35.829752+00:00",
+      "fragment_status": "Auction",
+      "project": "Wrkr",
+      "score": 90,
+      "source": "Hacker News Show HN"
     },
     "wslg": {
       "cache_version": 16,
